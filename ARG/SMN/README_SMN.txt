@@ -2,7 +2,7 @@
 # SERVICIO METEOROLÓGICO NACIONAL - SMN #
 #########################################
 
-Última actualización: 12/12/2022
+Última actualización: 12/12/2023
 
 # Sobre archivo log_smn
 

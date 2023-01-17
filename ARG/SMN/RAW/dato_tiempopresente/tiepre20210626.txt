@@ -1,0 +1,1250 @@
+Azul;25-Junio-2021;21:00;Cubierto;15 km;8.6;No se calcula; 81;Sudeste  1;996.6 / 
+Bahía Blanca;25-Junio-2021;21:00;Parcialmente nublado;15 km;6.6;4.4; 72;Noroeste  11;1004.4 / 
+Benito Juárez;25-Junio-2021;21:00;Cubierto;10 km;8.2;No se calcula; 94;Calma;988.2 / 
+Bolívar;25-Junio-2021;21:00;Cubierto;15 km;9.8;No se calcula; 88;Este  3;1003 / 
+Campo de Mayo;25-Junio-2021;21:00;Algo nublado;10 km;10.2;No se calcula; 88;Este  7;1012 / 
+Coronel Pringles;25-Junio-2021;21:00;Cubierto;10 km;7.6;No se calcula; 84;Noroeste  3;986 / 
+Coronel Suarez;25-Junio-2021;21:00;Nublado con lluvia;12 km;8.7;6.1; 90;Noroeste  16;987.7 / 
+Dolores;25-Junio-2021;21:00;Parcialmente nublado;10 km;10.3;No se calcula; 80;Norte  3;1013 / 
+El Palomar;25-Junio-2021;21:00;Algo nublado;10 km;11.3;No se calcula; 84;Este  5;1013.2 / 
+Ezeiza;25-Junio-2021;21:00;Algo nublado con neblina;8 km;11.8;No se calcula; 78;Este  13;1012.1 / 
+Junín;25-Junio-2021;21:00;Nublado;10 km;9.7;8.1; 68;Noreste  11;1002.8 / 
+La Plata;25-Junio-2021;21:00;Algo nublado;10 km;7.6;No se calcula; 90;Calma;1013 / 
+Las Flores;25-Junio-2021;21:00;Nublado;15 km;9.9;No se calcula; 93;Calma;1009.7 / 
+Mar del Plata;25-Junio-2021;21:00;Parcialmente nublado;10 km;8.7;8.1; 77;Norte  5;1012.2 / 
+Mariano Moreno;25-Junio-2021;21:00;Algo nublado;10 km;11.4;No se calcula; 87;Noreste  9;1010.6 / 
+Merlo;25-Junio-2021;21:00;Algo nublado;10 km;10.9;No se calcula; 83;Noreste  5;1012.4 / 
+Morón;25-Junio-2021;21:00;Despejado;10 km;13;No se calcula; 79;Calma;1011.7 / 
+Nueve de Julio;25-Junio-2021;21:00;Cubierto;15 km;11.9;No se calcula; 77;Sudeste  3;1004.2 / 
+Olavarría;25-Junio-2021;21:00;Parcialmente nublado;15 km;7.8;No se calcula; 89;Calma;994.6 / 
+Pehuajó;25-Junio-2021;21:00;Cubierto;15 km;9.9;7.6; 80;Sur  16;1003.8 / 
+Pigué;25-Junio-2021;21:00;Nublado;20 km;8.3;6.8; 81;Oeste  9;978.8 / 
+Punta Indio B.A.;25-Junio-2021;21:00;Algo nublado con banco delgado de niebla;900 mts;9.2;8.7; 64;Este  5;1012.8 / 
+San Fernando;25-Junio-2021;21:00;Algo nublado;10 km;13.4;No se calcula; 88;Direcciones Variables  1;1014.5 / 
+Tandil;25-Junio-2021;21:00;Nublado;15 km;7.5;6.7; 86;Sur  5;993.6 / 
+Trenque Lauquen;25-Junio-2021;21:00;Cubierto con lluvia;5 km;10;9.1; 86;Sudoeste  7;1003.8 / 
+Tres Arroyos;25-Junio-2021;21:00;Cubierto con neblina;8 km;9.1;No se calcula; 77;Noroeste  1;1000 / 
+Villa Gesell;25-Junio-2021;21:00;Nublado;10 km;9.4;No se calcula; 92;Calma;1014.1 / 
+Aeroparque Buenos Aires;25-Junio-2021;21:00;Algo nublado;10 km;13;No se calcula; 77;Este  7;1014.2 / 
+Buenos Aires;25-Junio-2021;21:00;Algo nublado;10 km;11.1;No se calcula; 88;Calma;1011.7 / 
+Catamarca;25-Junio-2021;21:00;Parcialmente nublado;20 km;15.2;No se calcula; 65;Norte  14;954.2 / 
+Tinogasta;25-Junio-2021;21:00;Algo nublado;20 km;17.6;No se calcula; 13;Noroeste  9;870.5 / 
+Pcia. Roque Saenz Peña;25-Junio-2021;21:00;Parcialmente nublado;20 km;14.8;No se calcula; 86;Este  3;1000.6 / 
+Resistencia;25-Junio-2021;21:00;Parcialmente nublado;15 km;15.5;No se calcula; 85;Sudeste  7;1004.8 / 
+Comodoro Rivadavia;25-Junio-2021;21:00;Nublado;30 km;8.7;6.1; 50;Oeste  16;1005.7 / 
+Esquel;25-Junio-2021;21:00;Parcialmente nublado;30 km;1.6;-3.3; 69;Oeste  20;924.2 / 
+Paso De Indios;25-Junio-2021;21:00;Algo nublado;45 km;2.6;-1.7; 70;Oeste  18;958 / 
+Puerto Madryn;25-Junio-2021;21:00;Despejado;30 km;4.4;1.1; 71;Oeste  14;995.7 / 
+Trelew;25-Junio-2021;21:00;Algo nublado;30 km;4.4;1.1; 68;Oeste  14;1007.6 / 
+Córdoba;25-Junio-2021;21:00;Algo nublado;12 km;8;7.3; 86;Sur  5;953.7 / 
+Córdoba Observatorio;25-Junio-2021;21:00;Parcialmente nublado;10 km;14.4;No se calcula; 70;Sudeste  7;961.7 / 
+Esc. Aviación Militar;25-Junio-2021;21:00;Algo nublado;10 km;7.2;5.1; 90;Sur  11;954 / 
+Laboulaye;25-Junio-2021;21:00;Parcialmente nublado;10 km;9.7;No se calcula; 83;Calma;995.4 / 
+Marcos Juárez;25-Junio-2021;21:00;Algo nublado;20 km;9.8;7.5; 92;Noreste  16;997.7 / 
+Pilar Obs.;25-Junio-2021;21:00;Parcialmente nublado;10 km;11;No se calcula; 83;Este  5;972.4 / 
+Río Cuarto;25-Junio-2021;21:00;Algo nublado;15 km;9.4;No se calcula; 76;Norte  3;962.1 / 
+Villa Dolores;25-Junio-2021;21:00;Parcialmente nublado con humo;10 km;8.5;No se calcula; 81;Este  3;945.7 / 
+Villa María Del Río Seco;25-Junio-2021;21:00;Nublado;15 km;7.6;No se calcula; 78;Calma;970.6 / 
+Corrientes;25-Junio-2021;21:00;Parcialmente nublado;10 km;15.4;No se calcula; 85;Este  9;1003.8 / 
+Ituzaingó;25-Junio-2021;21:00;Cubierto;15 km;15.6;No se calcula; 91;Noreste  9;1001.8 / 
+Mercedes;25-Junio-2021;21:00;Parcialmente nublado;15 km;13;No se calcula; 88;Este  13;- / 
+Monte Caseros;25-Junio-2021;21:00;Parcialmente nublado;20 km;12.3;No se calcula; 88;Sudeste  5;1006.2 / 
+Paso De Los Libres;25-Junio-2021;21:00;Cubierto;10 km;12.8;No se calcula; 89;Este  16;1005 / 
+Concordia;25-Junio-2021;21:00;Parcialmente nublado con banco delgado de niebla;5 km;11;No se calcula; 92;Este  5;1009.6 / 
+Gualeguaychú;25-Junio-2021;21:00;Parcialmente nublado;15 km;12;No se calcula; 78;Este  7;1010.5 / 
+Paraná;25-Junio-2021;21:00;Parcialmente nublado;15 km;10.8;No se calcula; 87;Calma;1004 / 
+Formosa;25-Junio-2021;21:00;Cubierto;20 km;18;No se calcula; 80;Sudeste  5;1003.6 / 
+Las Lomitas;25-Junio-2021;21:00;Cubierto;20 km;20.6;No se calcula; 75;Calma;994.2 / 
+Mount Pleasant Airport (Islas Malvinas);25-Junio-2021;21:00;Despejado;25 km;0.9;-0.8; 78;Sur  5;991.4 / 
+La Quiaca;25-Junio-2021;21:00;Despejado;30 km;7.3;No se calcula; 16;Noroeste  3;666.9 / 
+Jujuy;25-Junio-2021;21:00;Parcialmente nublado;10 km;7.9;No se calcula; 90;Norte  3;907.2 / 
+Jujuy Universidad Nacional;25-Junio-2021;21:00;Parcialmente nublado;12 km;9.2;No se calcula; 82;Calma;864.2 / 
+General Pico;25-Junio-2021;21:00;Parcialmente nublado;20 km;9.5;6.9; 88;Sur  18;997.7 / 
+Victorica;25-Junio-2021;21:00;Cubierto con lluvia en la hora anterior;40 km;6.9;No se calcula; 97;Sur  3;979.6 / 
+Santa Rosa;25-Junio-2021;21:00;Cubierto;30 km;8.8;8.2; 86;Oeste  5;993 / 
+Chamical;25-Junio-2021;21:00;Parcialmente nublado;20 km;12.6;No se calcula; 72;Calma;956.2 / 
+Chepes;25-Junio-2021;21:00;Algo nublado;20 km;10.4;No se calcula; 63;Noreste  9;934.7 / 
+Chilecito;25-Junio-2021;21:00;Algo nublado;20 km;12.4;No se calcula; 63;Sur  9;905.2 / 
+La Rioja;25-Junio-2021;21:00;Nublado;20 km;12.6;No se calcula; 59;Oeste  3;958.2 / 
+Malargue;25-Junio-2021;21:00;Algo nublado;20 km;4;-0.7; 34;Sudoeste  24;856.2 / 
+Mendoza;25-Junio-2021;21:00;Nublado;15 km;12.8;No se calcula; 49;Sur  13;932.1 / 
+Mendoza Observatorio;25-Junio-2021;21:00;Nublado con lluvia;10 km;11.6;No se calcula; 62;Sur  9;918.2 / 
+San Carlos (Mza);25-Junio-2021;21:00;Cubierto con lluvia;10 km;7.2;No se calcula; 89;Sur  3;903 / 
+San Martín (Mza);25-Junio-2021;21:00;Cubierto;15 km;10.2;No se calcula; 78;Sudeste  24;938 / 
+San Rafael;25-Junio-2021;21:00;Cubierto con llovizna en la hora anterior;20 km;7.2;No se calcula; 91;Calma;929.2 / 
+Uspallata;25-Junio-2021;21:00;Parcialmente nublado;15 km;5.6;No se calcula; 62;Calma;808.9 / 
+Bernardo De Irigoyen;25-Junio-2021;21:00;Algo nublado;20 km;18.6;No se calcula; 87;Noreste  3;920.2 / 
+Iguazú;25-Junio-2021;21:00;Parcialmente nublado;20 km;20.4;No se calcula; 94;Noreste  3;981.2 / 
+Oberá;25-Junio-2021;21:00;Cubierto;10 km;16.8;No se calcula; 82;Noreste  3;977.4 / 
+Posadas;25-Junio-2021;21:00;Parcialmente nublado;20 km;18.2;No se calcula; 80;Este  11;997.4 / 
+Chapelco;25-Junio-2021;21:00;Algo nublado;15 km;1.8;-3.5; 66;Oeste  24;927.6 / 
+Neuquén;25-Junio-2021;21:00;Algo nublado;15 km;8.8;6.7; 36;Oeste  13;984.9 / 
+Bariloche;25-Junio-2021;21:00;Parcialmente nublado;10 km;2.3;-2.4; 65;Oeste  20;921.3 / 
+Cipolletti;25-Junio-2021;21:00;Despejado;25 km;8;6.4; 45;Oeste  9;985.9 / 
+El Bolsón;25-Junio-2021;21:00;Parcialmente nublado;30 km;1.5;No se calcula; 87;Calma;981.2 / 
+Maquinchao;25-Junio-2021;21:00;Parcialmente nublado;40 km;2;-3.2; 42;Sudoeste  24;913.8 / 
+Río Colorado;25-Junio-2021;21:00;Despejado;15 km;5.4;No se calcula; 66;Calma;1004.5 / 
+San Antonio Oeste;25-Junio-2021;21:00;Algo nublado;30 km;3.8;0.3; 62;Oeste  14;1012.4 / 
+Viedma;25-Junio-2021;21:00;Despejado;30 km;5.9;2.4; 56;Oeste  18;1011.4 / 
+Metán;25-Junio-2021;21:00;Parcialmente nublado con neblina;13 km;11.2;No se calcula; 88;Oeste  3;912.7 / 
+Orán;25-Junio-2021;21:00;Algo nublado;10 km;12.9;No se calcula; 89;Noroeste  3;966.1 / 
+Rivadavia;25-Junio-2021;15:00;Despejado;Superior a 70 km;20;No se calcula; 34;Este  3;993.6 / 
+Salta;25-Junio-2021;21:00;Parcialmente nublado;18 km;9.8;8.5; 76;Norte  9;874.1 / 
+Tartagal;25-Junio-2021;21:00;Algo nublado;10 km;12.2;No se calcula; 85;Calma;957 / 
+Jachal;25-Junio-2021;21:00;Despejado;20 km;9;No se calcula; 51;Calma;879.6 / 
+San Juan;25-Junio-2021;21:00;Algo nublado;15 km;11.6;No se calcula; 48;Sur  18;942.6 / 
+San Luis;25-Junio-2021;21:00;Cubierto;20 km;11.9;No se calcula; 64;Este  24;930.4 / 
+Santa Rosa del Conlara;25-Junio-2021;21:00;Parcialmente nublado;20 km;7.8;No se calcula; 74;Calma;939.6 / 
+Villa Reynolds;25-Junio-2021;21:00;Parcialmente nublado;10 km;8.9;7.1; 75;Sudeste  11;956.9 / 
+El Calafate;25-Junio-2021;21:00;Algo nublado;30 km;6.2;1.1; 39;Oeste  37;989.7 / 
+Gobernador Gregores;25-Junio-2021;21:00;Algo nublado;45 km;2.2;No se calcula; 68;Calma;969.8 / 
+Perito Moreno;25-Junio-2021;21:00;Parcialmente nublado;50 km;4.8;0.6; 71;Oeste  22;963 / 
+Puerto Deseado;25-Junio-2021;21:00;Nublado con lluvia y nevada;10 km;4.1;-2.2; 92;Sudoeste  44;996.2 / 
+Río Gallegos;25-Junio-2021;21:00;Despejado;30 km;2.8;-3.1; 62;Sudoeste  33;1009.6 / 
+Río Turbio;25-Junio-2021;14:00;Algo nublado;20 km;---;---;---;---  0;969.8 / 
+San Julián;25-Junio-2021;21:00;Nublado con lluvia;15 km;4.2;-2.4; 77;Sudoeste  50;1003 / 
+Santa Cruz;25-Junio-2021;21:00;Parcialmente nublado;30 km;3.8;-2.1; 64;Sur  37;997 / 
+Ceres;25-Junio-2021;21:00;Algo nublado con neblina;5 km;10.2;No se calcula; 87;Noreste  3;1000.4 / 
+El Trébol;25-Junio-2021;21:00;Parcialmente nublado;15 km;10.4;No se calcula; 94;Noreste  3;1000 / 
+Rafaela;25-Junio-2021;21:00;Parcialmente nublado;10 km;8.8;No se calcula; 90;Calma;999.5 / 
+Reconquista;25-Junio-2021;21:00;Nublado con neblina;6 km;12.2;No se calcula; 91;Este  5;1005.8 / 
+Rosario;25-Junio-2021;21:00;Algo nublado;12 km;10.9;No se calcula; 85;Calma;1009.3 / 
+Santa Fe;25-Junio-2021;21:00;Algo nublado;12 km;11.4;No se calcula; 90;Este  11;1010.2 / 
+Sunchales;25-Junio-2021;21:00;Parcialmente nublado;15 km;9.4;No se calcula; 97;Calma;1001.5 / 
+Venado Tuerto;25-Junio-2021;21:00;Parcialmente nublado;10 km;10.5;No se calcula; 88;Norte  9;998.1 / 
+Termas de Rio Hondo;25-Junio-2021;21:00;Parcialmente nublado;10 km;13.5;No se calcula; 72;Noreste  9;975.9 / 
+Santiago del Estero;25-Junio-2021;21:00;Parcialmente nublado;10 km;10.6;No se calcula; 91;Calma;985.6 / 
+Río Grande B.A.;25-Junio-2021;21:00;Despejado;30 km;1.6;-2.7; 92;Sudoeste  16;1005.6 / 
+Ushuaia;25-Junio-2021;21:00;Parcialmente nublado;30 km;3.4;-2.3; 67;Sudoeste  33;1002.6 / 
+Tucumán;25-Junio-2021;21:00;Parcialmente nublado con humo;5 km;11.8;No se calcula; 79;Oeste  3;956.6 / 
+Base Belgrano II;25-Junio-2021;21:00;Nublado con neblina;2.0 km;-22.3;-32.9; 80;Oeste  18;968.5 / 
+Base Esperanza;25-Junio-2021;21:00;Parcialmente nublado con niebla en la hora anterior;10 km;-1.5;-4.9; 94;Oeste  9;986.9 / 
+Base Carlini;25-Junio-2021;21:00;Cubierto con nevada;3.0 km;-1.3;-5.6; 96;Oeste  13;991.4 / 
+Base Marambio;25-Junio-2021;21:00;Nublado;15 km;-4.5;-13.3; 95;Norte  38;962.9 / 
+Base Orcadas;25-Junio-2021;21:00;Cubierto con nevada;3.0 km;-1.5;-8.4; 90;Oeste  29;1004.9 / 
+Base San Martín;25-Junio-2021;21:00;Cubierto;10 km;0.1;-6.1; 78;Norte  27;982.4 / 
+Azul;25-Junio-2021;22:00;Cubierto;15 km;8.4;No se calcula; 83;Sudeste  1;996.9 / 
+Bahía Blanca;25-Junio-2021;22:00;Parcialmente nublado;15 km;4.9;1.7; 73;Norte  14;1005.4 / 
+Benito Juárez;25-Junio-2021;21:00;Cubierto;10 km;8.2;No se calcula; 94;Calma;988.2 / 
+Bolívar;25-Junio-2021;21:00;Cubierto;15 km;9.8;No se calcula; 88;Este  3;1003 / 
+Campo de Mayo;25-Junio-2021;21:00;Algo nublado;10 km;10.2;No se calcula; 88;Este  7;1012 / 
+Coronel Pringles;25-Junio-2021;21:00;Cubierto;10 km;7.6;No se calcula; 84;Noroeste  3;986 / 
+Coronel Suarez;25-Junio-2021;21:00;Nublado con lluvia;12 km;8.7;6.1; 90;Noroeste  16;987.7 / 
+Dolores;25-Junio-2021;22:00;Parcialmente nublado;10 km;8.9;No se calcula; 86;Norte  3;1012.9 / 
+El Palomar;25-Junio-2021;22:00;Algo nublado;10 km;10.7;No se calcula; 84;Noreste  7;1013.6 / 
+Ezeiza;25-Junio-2021;22:00;Algo nublado con neblina;8 km;11.6;No se calcula; 76;Este  11;1012.2 / 
+Junín;25-Junio-2021;22:00;Parcialmente nublado;10 km;9;7.0; 70;Norte  13;1003 / 
+La Plata;25-Junio-2021;22:00;Algo nublado;10 km;8.2;7.5; 90;Este  5;1013 / 
+Las Flores;25-Junio-2021;21:00;Nublado;15 km;9.9;No se calcula; 93;Calma;1009.7 / 
+Mar del Plata;25-Junio-2021;22:00;Nublado;10 km;9.6;8.7; 76;Norte  7;1012.2 / 
+Mariano Moreno;25-Junio-2021;21:00;Algo nublado;10 km;11.4;No se calcula; 87;Noreste  9;1010.6 / 
+Merlo;25-Junio-2021;22:00;Algo nublado;10 km;11.1;No se calcula; 83;Noreste  5;1012.9 / 
+Morón;25-Junio-2021;22:00;Parcialmente nublado;10 km;12.4;No se calcula; 81;Calma;1012.5 / 
+Nueve de Julio;25-Junio-2021;21:00;Cubierto;15 km;11.9;No se calcula; 77;Sudeste  3;1004.2 / 
+Olavarría;25-Junio-2021;21:00;Parcialmente nublado;15 km;7.8;No se calcula; 89;Calma;994.6 / 
+Pehuajó;25-Junio-2021;21:00;Cubierto;15 km;9.9;7.6; 80;Sur  16;1003.8 / 
+Pigué;25-Junio-2021;21:00;Nublado;20 km;8.3;6.8; 81;Oeste  9;978.8 / 
+Punta Indio B.A.;25-Junio-2021;21:00;Algo nublado con banco delgado de niebla;900 mts;9.2;8.7; 64;Este  5;1012.8 / 
+San Fernando;25-Junio-2021;22:00;Despejado;10 km;11;No se calcula; 83;Noreste  14;1014.6 / 
+Tandil;25-Junio-2021;22:00;Nublado;15 km;7.4;6.1; 88;Sur  7;993.8 / 
+Trenque Lauquen;25-Junio-2021;21:00;Cubierto con lluvia;5 km;10;9.1; 86;Sudoeste  7;1003.8 / 
+Tres Arroyos;25-Junio-2021;21:00;Cubierto con neblina;8 km;9.1;No se calcula; 77;Noroeste  1;1000 / 
+Villa Gesell;25-Junio-2021;21:00;Nublado;10 km;9.4;No se calcula; 92;Calma;1014.1 / 
+Aeroparque Buenos Aires;25-Junio-2021;22:00;Parcialmente nublado;10 km;11.8;No se calcula; 90;Este  9;1014.4 / 
+Buenos Aires;25-Junio-2021;22:00;Algo nublado;10 km;10.5;No se calcula; 87;Norte  9;1012 / 
+Catamarca;25-Junio-2021;22:00;Parcialmente nublado;20 km;13.8;No se calcula; 70;Noreste  24;954.8 / 
+Tinogasta;25-Junio-2021;21:00;Algo nublado;20 km;17.6;No se calcula; 13;Noroeste  9;870.5 / 
+Pcia. Roque Saenz Peña;25-Junio-2021;22:00;Parcialmente nublado;20 km;14.8;No se calcula; 86;Calma;1000.6 / 
+Resistencia;25-Junio-2021;22:00;Parcialmente nublado;15 km;15.4;No se calcula; 85;Este  9;1004.6 / 
+Comodoro Rivadavia;25-Junio-2021;22:00;Nublado con lluvia;10 km;8.2;4.9; 58;Sudoeste  22;1007 / 
+Esquel;25-Junio-2021;22:00;Parcialmente nublado;30 km;1;-0.7; 77;Oeste  5;924.9 / 
+Paso De Indios;25-Junio-2021;21:00;Algo nublado;45 km;2.6;-1.7; 70;Oeste  18;958 / 
+Puerto Madryn;25-Junio-2021;22:00;Despejado;30 km;3.2;-1.5; 73;Sudoeste  22;996.9 / 
+Trelew;25-Junio-2021;22:00;Parcialmente nublado;30 km;3.4;0.1; 70;Oeste  13;1008.4 / 
+Córdoba;25-Junio-2021;22:00;Algo nublado;12 km;7.4;6.6; 87;Sur  5;954.1 / 
+Córdoba Observatorio;25-Junio-2021;22:00;Parcialmente nublado;10 km;12.2;No se calcula; 89;Sur  7;961.7 / 
+Esc. Aviación Militar;25-Junio-2021;21:00;Algo nublado;10 km;7.2;5.1; 90;Sur  11;954 / 
+Laboulaye;25-Junio-2021;22:00;Parcialmente nublado;10 km;8.7;7.6; 79;Sur  7;996 / 
+Marcos Juárez;25-Junio-2021;22:00;Algo nublado;20 km;8.8;6.5; 94;Noreste  14;998.2 / 
+Pilar Obs.;25-Junio-2021;21:00;Parcialmente nublado;10 km;11;No se calcula; 83;Este  5;972.4 / 
+Río Cuarto;25-Junio-2021;21:00;Algo nublado;15 km;9.4;No se calcula; 76;Norte  3;962.1 / 
+Villa Dolores;25-Junio-2021;22:00;Parcialmente nublado con humo;10 km;7.7;6.0; 83;Este  9;945.3 / 
+Villa María Del Río Seco;25-Junio-2021;21:00;Nublado;15 km;7.6;No se calcula; 78;Calma;970.6 / 
+Corrientes;25-Junio-2021;22:00;Parcialmente nublado;10 km;15;No se calcula; 85;Este  7;1003.7 / 
+Ituzaingó;25-Junio-2021;21:00;Cubierto;15 km;15.6;No se calcula; 91;Noreste  9;1001.8 / 
+Mercedes;25-Junio-2021;21:00;Parcialmente nublado;15 km;13;No se calcula; 88;Este  13;- / 
+Monte Caseros;25-Junio-2021;21:00;Parcialmente nublado;20 km;12.3;No se calcula; 88;Sudeste  5;1006.2 / 
+Paso De Los Libres;25-Junio-2021;22:00;Cubierto;10 km;12.8;No se calcula; 88;Este  16;1004.5 / 
+Concordia;25-Junio-2021;22:00;Algo nublado;15 km;11;No se calcula; 89;Noreste  7;1009.4 / 
+Gualeguaychú;25-Junio-2021;21:00;Parcialmente nublado;15 km;12;No se calcula; 78;Este  7;1010.5 / 
+Paraná;25-Junio-2021;22:00;Parcialmente nublado con neblina;7 km;10.1;No se calcula; 89;Calma;1003.8 / 
+Formosa;25-Junio-2021;22:00;Cubierto;20 km;17.6;No se calcula; 85;Sur  9;1003.2 / 
+Las Lomitas;25-Junio-2021;21:00;Cubierto;20 km;20.6;No se calcula; 75;Calma;994.2 / 
+Mount Pleasant Airport (Islas Malvinas);25-Junio-2021;22:00;Despejado;25 km;1.3;No se calcula; 86;Oeste  1;991.9 / 
+La Quiaca;25-Junio-2021;22:00;Algo nublado;30 km;5.1;No se calcula; 14;Noroeste  3;667.4 / 
+Jujuy;25-Junio-2021;22:00;Cubierto;10 km;7.8;6.2; 90;Noroeste  9;907.4 / 
+Jujuy Universidad Nacional;25-Junio-2021;21:00;Parcialmente nublado;12 km;9.2;No se calcula; 82;Calma;864.2 / 
+General Pico;25-Junio-2021;21:00;Parcialmente nublado;20 km;9.5;6.9; 88;Sur  18;997.7 / 
+Victorica;25-Junio-2021;21:00;Cubierto con lluvia en la hora anterior;40 km;6.9;No se calcula; 97;Sur  3;979.6 / 
+Santa Rosa;25-Junio-2021;22:00;Cubierto;30 km;8.2;7.5; 89;Oeste  5;993.7 / 
+Chamical;25-Junio-2021;21:00;Parcialmente nublado;20 km;12.6;No se calcula; 72;Calma;956.2 / 
+Chepes;25-Junio-2021;21:00;Algo nublado;20 km;10.4;No se calcula; 63;Noreste  9;934.7 / 
+Chilecito;25-Junio-2021;21:00;Algo nublado;20 km;12.4;No se calcula; 63;Sur  9;905.2 / 
+La Rioja;25-Junio-2021;22:00;Nublado;20 km;12.3;No se calcula; 59;Oeste  5;959 / 
+Malargue;25-Junio-2021;22:00;Despejado;20 km;2.8;-0.9; 36;Sudoeste  14;856.6 / 
+Mendoza;25-Junio-2021;22:00;Nublado con lluvia;8 km;10;8.2; 75;Sur  13;933.4 / 
+Mendoza Observatorio;25-Junio-2021;22:00;Nublado con lluvia;10 km;11;No se calcula; 70;Sudoeste  3;919.6 / 
+San Carlos (Mza);25-Junio-2021;21:00;Cubierto con lluvia;10 km;7.2;No se calcula; 89;Sur  3;903 / 
+San Martín (Mza);25-Junio-2021;22:00;Nublado con lluvia;4.0 km;9.5;7.3; 83;Sudeste  14;939 / 
+San Rafael;25-Junio-2021;22:00;Cubierto;20 km;6.8;No se calcula; 92;Sudoeste  3;930.2 / 
+Uspallata;25-Junio-2021;21:00;Parcialmente nublado;15 km;5.6;No se calcula; 62;Calma;808.9 / 
+Bernardo De Irigoyen;25-Junio-2021;21:00;Algo nublado;20 km;18.6;No se calcula; 87;Noreste  3;920.2 / 
+Iguazú;25-Junio-2021;22:00;Parcialmente nublado;20 km;20.4;No se calcula; 96;Noreste  5;981.4 / 
+Oberá;25-Junio-2021;21:00;Cubierto;10 km;16.8;No se calcula; 82;Noreste  3;977.4 / 
+Posadas;25-Junio-2021;22:00;Parcialmente nublado;20 km;17.9;No se calcula; 81;Este  13;996.7 / 
+Chapelco;25-Junio-2021;21:00;Algo nublado;15 km;1.8;-3.5; 66;Oeste  24;927.6 / 
+Neuquén;25-Junio-2021;22:00;Despejado;15 km;7.3;5.6; 46;Oeste  9;986.2 / 
+Bariloche;25-Junio-2021;22:00;Parcialmente nublado;10 km;1.8;-3.5; 63;Oeste  24;921.7 / 
+Cipolletti;25-Junio-2021;21:00;Despejado;25 km;8;6.4; 45;Oeste  9;985.9 / 
+El Bolsón;25-Junio-2021;21:00;Parcialmente nublado;30 km;1.5;No se calcula; 87;Calma;981.2 / 
+Maquinchao;25-Junio-2021;21:00;Parcialmente nublado;40 km;2;-3.2; 42;Sudoeste  24;913.8 / 
+Río Colorado;25-Junio-2021;21:00;Despejado;15 km;5.4;No se calcula; 66;Calma;1004.5 / 
+San Antonio Oeste;25-Junio-2021;21:00;Algo nublado;30 km;3.8;0.3; 62;Oeste  14;1012.4 / 
+Viedma;25-Junio-2021;22:00;Algo nublado;30 km;4;1.2; 67;Oeste  11;1012.4 / 
+Metán;25-Junio-2021;21:00;Parcialmente nublado con neblina;13 km;11.2;No se calcula; 88;Oeste  3;912.7 / 
+Orán;25-Junio-2021;21:00;Algo nublado;10 km;12.9;No se calcula; 89;Noroeste  3;966.1 / 
+Rivadavia;25-Junio-2021;21:00;Despejado;Superior a 70 km;16;No se calcula; 71;Calma;989.6 / 
+Salta;25-Junio-2021;22:00;Parcialmente nublado;18 km;9;8.5; 82;Noroeste  5;874.2 / 
+Tartagal;25-Junio-2021;22:00;Algo nublado;10 km;12;No se calcula; 85;Calma;957 / 
+Jachal;25-Junio-2021;21:00;Despejado;20 km;9;No se calcula; 51;Calma;879.6 / 
+San Juan;25-Junio-2021;22:00;Algo nublado;15 km;12.2;No se calcula; 51;Sur  33;943.8 / 
+San Luis;25-Junio-2021;22:00;Cubierto;20 km;11.1;No se calcula; 68;Este  24;931 / 
+Santa Rosa del Conlara;25-Junio-2021;21:00;Parcialmente nublado;20 km;7.8;No se calcula; 74;Calma;939.6 / 
+Villa Reynolds;25-Junio-2021;22:00;Cubierto;10 km;8.1;5.1; 72;Sur  18;958.1 / 
+El Calafate;25-Junio-2021;22:00;Algo nublado;30 km;6.4;1.4; 46;Oeste  37;991.6 / 
+Gobernador Gregores;25-Junio-2021;21:00;Algo nublado;45 km;2.2;No se calcula; 68;Calma;969.8 / 
+Perito Moreno;25-Junio-2021;21:00;Parcialmente nublado;50 km;4.8;0.6; 71;Oeste  22;963 / 
+Puerto Deseado;25-Junio-2021;21:00;Nublado con lluvia y nevada;10 km;4.1;-2.2; 92;Sudoeste  44;996.2 / 
+Río Gallegos;25-Junio-2021;22:00;Despejado;30 km;1.8;-3.5; 71;Sudoeste  24;1010.6 / 
+Río Turbio;25-Junio-2021;14:00;Algo nublado;20 km;---;---;---;---  0;969.8 / 
+San Julián;25-Junio-2021;22:00;Parcialmente nublado con lluvia en la hora anterior;30 km;3.6;-3.6; 77;Sudoeste  57;1003.7 / 
+Santa Cruz;25-Junio-2021;21:00;Parcialmente nublado;30 km;3.8;-2.1; 64;Sur  37;997 / 
+Ceres;25-Junio-2021;22:00;Parcialmente nublado con neblina;5 km;11.4;No se calcula; 88;Noreste  3;1001 / 
+El Trébol;25-Junio-2021;21:00;Parcialmente nublado;15 km;10.4;No se calcula; 94;Noreste  3;1000 / 
+Rafaela;25-Junio-2021;21:00;Parcialmente nublado;10 km;8.8;No se calcula; 90;Calma;999.5 / 
+Reconquista;25-Junio-2021;22:00;Nublado con neblina;4.0 km;11.6;No se calcula; 94;Este  3;1005.8 / 
+Rosario;25-Junio-2021;22:00;Algo nublado con neblina;7 km;8.6;No se calcula; 94;Noreste  3;1009.8 / 
+Santa Fe;25-Junio-2021;22:00;Algo nublado;12 km;10.2;No se calcula; 89;Este  5;1010.4 / 
+Sunchales;25-Junio-2021;22:00;Parcialmente nublado;15 km;9.4;No se calcula; 97;Este  3;1001.9 / 
+Venado Tuerto;25-Junio-2021;21:00;Parcialmente nublado;10 km;10.5;No se calcula; 88;Norte  9;998.1 / 
+Termas de Rio Hondo;25-Junio-2021;21:00;Parcialmente nublado;10 km;13.5;No se calcula; 72;Noreste  9;975.9 / 
+Santiago del Estero;25-Junio-2021;22:00;Parcialmente nublado;10 km;8.2;No se calcula; 90;Calma;985.6 / 
+Río Grande B.A.;25-Junio-2021;22:00;Despejado;30 km;1.8;-3.5; 89;Sudoeste  24;1006.8 / 
+Ushuaia;25-Junio-2021;22:00;Nublado;30 km;3.8;-2.1; 67;Sudoeste  37;1003.3 / 
+Tucumán;25-Junio-2021;22:00;Parcialmente nublado con humo;5 km;10.2;No se calcula; 85;Norte  7;956.6 / 
+Base Belgrano II;25-Junio-2021;21:00;Nublado con neblina;2.0 km;-22.3;-32.9; 80;Oeste  18;968.5 / 
+Base Esperanza;25-Junio-2021;21:00;Parcialmente nublado con niebla en la hora anterior;10 km;-1.5;-4.9; 94;Oeste  9;986.9 / 
+Base Carlini;25-Junio-2021;21:00;Cubierto con nevada;3.0 km;-1.3;-5.6; 96;Oeste  13;991.4 / 
+Base Marambio;25-Junio-2021;22:00;Nublado;15 km;-3.2;-10.8; 97;Norte  31;961.8 / 
+Base Orcadas;25-Junio-2021;21:00;Cubierto con nevada;3.0 km;-1.5;-8.4; 90;Oeste  29;1004.9 / 
+Base San Martín;25-Junio-2021;21:00;Cubierto;10 km;0.1;-6.1; 78;Norte  27;982.4 / 
+Azul;25-Junio-2021;23:00;Cubierto;15 km;8.4;No se calcula; 83;Sudeste  3;997.4 / 
+Bahía Blanca;25-Junio-2021;23:00;Parcialmente nublado;15 km;3.4;0.9; 74;Norte  9;1005.7 / 
+Benito Juárez;25-Junio-2021;21:00;Cubierto;10 km;8.2;No se calcula; 94;Calma;988.2 / 
+Bolívar;25-Junio-2021;21:00;Cubierto;15 km;9.8;No se calcula; 88;Este  3;1003 / 
+Campo de Mayo;25-Junio-2021;21:00;Algo nublado;10 km;10.2;No se calcula; 88;Este  7;1012 / 
+Coronel Pringles;25-Junio-2021;21:00;Cubierto;10 km;7.6;No se calcula; 84;Noroeste  3;986 / 
+Coronel Suarez;25-Junio-2021;21:00;Nublado con lluvia;12 km;8.7;6.1; 90;Noroeste  16;987.7 / 
+Dolores;25-Junio-2021;23:00;Nublado;10 km;9;No se calcula; 85;Calma;1013.3 / 
+El Palomar;25-Junio-2021;23:00;Algo nublado;10 km;12.5;No se calcula; 74;Norte  9;1013.6 / 
+Ezeiza;25-Junio-2021;23:00;Parcialmente nublado con neblina;8 km;11.6;No se calcula; 78;Este  13;1012.2 / 
+Junín;25-Junio-2021;23:00;Cubierto;10 km;9.6;7.5; 66;Norte  14;1003 / 
+La Plata;25-Junio-2021;23:00;Parcialmente nublado;10 km;10.2;No se calcula; 83;Noreste  5;1013 / 
+Las Flores;25-Junio-2021;21:00;Nublado;15 km;9.9;No se calcula; 93;Calma;1009.7 / 
+Mar del Plata;25-Junio-2021;23:00;Nublado;10 km;8.7;No se calcula; 81;Calma;1012.5 / 
+Mariano Moreno;25-Junio-2021;21:00;Algo nublado;10 km;11.4;No se calcula; 87;Noreste  9;1010.6 / 
+Merlo;25-Junio-2021;23:00;Algo nublado;10 km;11.1;No se calcula; 83;Noreste  5;1013.2 / 
+Morón;25-Junio-2021;23:00;Algo nublado;10 km;13;No se calcula; 77;Norte  9;1012.2 / 
+Nueve de Julio;25-Junio-2021;21:00;Cubierto;15 km;11.9;No se calcula; 77;Sudeste  3;1004.2 / 
+Olavarría;25-Junio-2021;21:00;Parcialmente nublado;15 km;7.8;No se calcula; 89;Calma;994.6 / 
+Pehuajó;25-Junio-2021;21:00;Cubierto;15 km;9.9;7.6; 80;Sur  16;1003.8 / 
+Pigué;25-Junio-2021;21:00;Nublado;20 km;8.3;6.8; 81;Oeste  9;978.8 / 
+Punta Indio B.A.;25-Junio-2021;21:00;Algo nublado con banco delgado de niebla;900 mts;9.2;8.7; 64;Este  5;1012.8 / 
+San Fernando;25-Junio-2021;23:00;Despejado;10 km;10;8.2; 82;Norte  13;1014.9 / 
+Tandil;25-Junio-2021;23:00;Cubierto;15 km;7.6;6.3; 87;Sur  7;994 / 
+Trenque Lauquen;25-Junio-2021;21:00;Cubierto con lluvia;5 km;10;9.1; 86;Sudoeste  7;1003.8 / 
+Tres Arroyos;25-Junio-2021;21:00;Cubierto con neblina;8 km;9.1;No se calcula; 77;Noroeste  1;1000 / 
+Villa Gesell;25-Junio-2021;21:00;Nublado;10 km;9.4;No se calcula; 92;Calma;1014.1 / 
+Aeroparque Buenos Aires;25-Junio-2021;23:00;Algo nublado;10 km;13.2;No se calcula; 80;Noreste  9;1014.4 / 
+Buenos Aires;25-Junio-2021;23:00;Algo nublado;10 km;10.1;No se calcula; 88;Norte  11;1012.1 / 
+Catamarca;25-Junio-2021;22:00;Parcialmente nublado;20 km;13.8;No se calcula; 70;Noreste  24;954.8 / 
+Tinogasta;25-Junio-2021;21:00;Algo nublado;20 km;17.6;No se calcula; 13;Noroeste  9;870.5 / 
+Pcia. Roque Saenz Peña;25-Junio-2021;23:00;Cubierto;20 km;14.9;No se calcula; 86;Este  3;1000.6 / 
+Resistencia;25-Junio-2021;23:00;Cubierto;15 km;15.5;No se calcula; 85;Este  7;1004.6 / 
+Comodoro Rivadavia;25-Junio-2021;23:00;Nublado con lluvia en la hora anterior;30 km;8;4.3; 58;Sudoeste  25;1007 / 
+Esquel;25-Junio-2021;23:00;Parcialmente nublado;30 km;0.4;-4.8; 83;Oeste  20;925.4 / 
+Paso De Indios;25-Junio-2021;21:00;Algo nublado;45 km;2.6;-1.7; 70;Oeste  18;958 / 
+Puerto Madryn;25-Junio-2021;23:00;Algo nublado;30 km;2.8;-2.0; 69;Oeste  22;997.6 / 
+Trelew;25-Junio-2021;23:00;Parcialmente nublado;30 km;3.5;-0.1; 68;Oeste  14;1009.4 / 
+Córdoba;25-Junio-2021;23:00;Despejado;12 km;6.5;4.2; 92;Sudoeste  11;954.5 / 
+Córdoba Observatorio;25-Junio-2021;23:00;Parcialmente nublado;10 km;11.2;No se calcula; 84;Sudoeste  7;962.2 / 
+Esc. Aviación Militar;25-Junio-2021;21:00;Algo nublado;10 km;7.2;5.1; 90;Sur  11;954 / 
+Laboulaye;25-Junio-2021;23:00;Cubierto;10 km;9.1;7.4; 80;Sur  11;997.3 / 
+Marcos Juárez;25-Junio-2021;23:00;Algo nublado;20 km;7.4;6.1; 97;Noreste  7;998.5 / 
+Pilar Obs.;25-Junio-2021;21:00;Parcialmente nublado;10 km;11;No se calcula; 83;Este  5;972.4 / 
+Río Cuarto;25-Junio-2021;21:00;Algo nublado;15 km;9.4;No se calcula; 76;Norte  3;962.1 / 
+Villa Dolores;25-Junio-2021;23:00;Parcialmente nublado;10 km;8.9;7.5; 76;Noreste  9;946.6 / 
+Villa María Del Río Seco;25-Junio-2021;21:00;Nublado;15 km;7.6;No se calcula; 78;Calma;970.6 / 
+Corrientes;25-Junio-2021;23:00;Cubierto;10 km;15.6;No se calcula; 83;Este  7;1003.7 / 
+Ituzaingó;25-Junio-2021;21:00;Cubierto;15 km;15.6;No se calcula; 91;Noreste  9;1001.8 / 
+Mercedes;25-Junio-2021;21:00;Parcialmente nublado;15 km;13;No se calcula; 88;Este  13;- / 
+Monte Caseros;25-Junio-2021;21:00;Parcialmente nublado;20 km;12.3;No se calcula; 88;Sudeste  5;1006.2 / 
+Paso De Los Libres;25-Junio-2021;23:00;Nublado;10 km;12.2;No se calcula; 90;Este  16;1004.5 / 
+Concordia;25-Junio-2021;23:00;Parcialmente nublado;15 km;10.4;No se calcula; 87;Sudeste  5;1009 / 
+Gualeguaychú;25-Junio-2021;21:00;Parcialmente nublado;15 km;12;No se calcula; 78;Este  7;1010.5 / 
+Paraná;25-Junio-2021;23:00;Algo nublado con neblina;5 km;9.5;No se calcula; 93;Calma;1004.2 / 
+Formosa;25-Junio-2021;23:00;Cubierto con lluvia;9 km;17.4;No se calcula; 87;Sur  3;1003.4 / 
+Las Lomitas;25-Junio-2021;21:00;Cubierto;20 km;20.6;No se calcula; 75;Calma;994.2 / 
+Mount Pleasant Airport (Islas Malvinas);25-Junio-2021;23:00;Despejado;25 km;-0.1;No se calcula; 85;Noreste  3;992.7 / 
+La Quiaca;25-Junio-2021;23:00;Algo nublado;30 km;3.8;No se calcula; 19;Noroeste  3;667.6 / 
+Jujuy;25-Junio-2021;23:00;Cubierto;10 km;7.5;5.8; 90;Noroeste  9;907.4 / 
+Jujuy Universidad Nacional;25-Junio-2021;21:00;Parcialmente nublado;12 km;9.2;No se calcula; 82;Calma;864.2 / 
+General Pico;25-Junio-2021;21:00;Parcialmente nublado;20 km;9.5;6.9; 88;Sur  18;997.7 / 
+Victorica;25-Junio-2021;21:00;Cubierto con lluvia en la hora anterior;40 km;6.9;No se calcula; 97;Sur  3;979.6 / 
+Santa Rosa;25-Junio-2021;23:00;Cubierto;30 km;8.8;8.2; 77;Oeste  5;993.8 / 
+Chamical;25-Junio-2021;21:00;Parcialmente nublado;20 km;12.6;No se calcula; 72;Calma;956.2 / 
+Chepes;25-Junio-2021;21:00;Algo nublado;20 km;10.4;No se calcula; 63;Noreste  9;934.7 / 
+Chilecito;25-Junio-2021;21:00;Algo nublado;20 km;12.4;No se calcula; 63;Sur  9;905.2 / 
+La Rioja;25-Junio-2021;23:00;Nublado;20 km;11.4;No se calcula; 61;Oeste  7;959.8 / 
+Malargue;25-Junio-2021;23:00;Despejado;20 km;2.8;-2.2; 33;Sudoeste  24;857.3 / 
+Mendoza;25-Junio-2021;23:00;Nublado con lluvia;8 km;9;5.4; 86;Sudeste  27;934.2 / 
+Mendoza Observatorio;25-Junio-2021;23:00;Nublado con lluvia;10 km;9.2;7.8; 80;Sur  9;920.4 / 
+San Carlos (Mza);25-Junio-2021;21:00;Cubierto con lluvia;10 km;7.2;No se calcula; 89;Sur  3;903 / 
+San Martín (Mza);25-Junio-2021;23:00;Nublado con llovizna;2.0 km;8.6;7.1; 93;Sudeste  9;939.7 / 
+San Rafael;25-Junio-2021;23:00;Cubierto;20 km;6.8;5.4; 91;Sudeste  7;931.3 / 
+Uspallata;25-Junio-2021;21:00;Parcialmente nublado;15 km;5.6;No se calcula; 62;Calma;808.9 / 
+Bernardo De Irigoyen;25-Junio-2021;21:00;Algo nublado;20 km;18.6;No se calcula; 87;Noreste  3;920.2 / 
+Iguazú;25-Junio-2021;23:00;Parcialmente nublado;20 km;20;No se calcula; 96;Noreste  7;981.2 / 
+Oberá;25-Junio-2021;21:00;Cubierto;10 km;16.8;No se calcula; 82;Noreste  3;977.4 / 
+Posadas;25-Junio-2021;23:00;Parcialmente nublado con tormenta sin precipitación;20 km;17.8;No se calcula; 85;Este  11;996.4 / 
+Chapelco;25-Junio-2021;21:00;Algo nublado;15 km;1.8;-3.5; 66;Oeste  24;927.6 / 
+Neuquén;25-Junio-2021;23:00;Despejado;15 km;5.9;3.5; 51;Oeste  11;987 / 
+Bariloche;25-Junio-2021;23:00;Parcialmente nublado;10 km;1.4;-4.6; 69;Oeste  29;921.8 / 
+Cipolletti;25-Junio-2021;21:00;Despejado;25 km;8;6.4; 45;Oeste  9;985.9 / 
+El Bolsón;25-Junio-2021;21:00;Parcialmente nublado;30 km;1.5;No se calcula; 87;Calma;981.2 / 
+Maquinchao;25-Junio-2021;21:00;Parcialmente nublado;40 km;2;-3.2; 42;Sudoeste  24;913.8 / 
+Río Colorado;25-Junio-2021;21:00;Despejado;15 km;5.4;No se calcula; 66;Calma;1004.5 / 
+San Antonio Oeste;25-Junio-2021;21:00;Algo nublado;30 km;3.8;0.3; 62;Oeste  14;1012.4 / 
+Viedma;25-Junio-2021;23:00;Algo nublado;30 km;3.1;-0.5; 73;Oeste  14;1012.8 / 
+Metán;25-Junio-2021;21:00;Parcialmente nublado con neblina;13 km;11.2;No se calcula; 88;Oeste  3;912.7 / 
+Orán;25-Junio-2021;21:00;Algo nublado;10 km;12.9;No se calcula; 89;Noroeste  3;966.1 / 
+Rivadavia;25-Junio-2021;21:00;Despejado;Superior a 70 km;16;No se calcula; 71;Calma;989.6 / 
+Salta;25-Junio-2021;23:00;Nublado;15 km;7.6;6.3; 87;Noroeste  7;873.9 / 
+Tartagal;25-Junio-2021;23:00;Algo nublado;10 km;11.8;No se calcula; 85;Noroeste  3;957 / 
+Jachal;25-Junio-2021;21:00;Despejado;20 km;9;No se calcula; 51;Calma;879.6 / 
+San Juan;25-Junio-2021;23:00;Parcialmente nublado;15 km;11;No se calcula; 53;Sur  29;944.9 / 
+San Luis;25-Junio-2021;23:00;Cubierto;20 km;7.9;3.4; 82;Este  37;932.6 / 
+Santa Rosa del Conlara;25-Junio-2021;21:00;Parcialmente nublado;20 km;7.8;No se calcula; 74;Calma;939.6 / 
+Villa Reynolds;25-Junio-2021;23:00;Cubierto;10 km;7.9;6.3; 78;Sur  9;959.8 / 
+El Calafate;25-Junio-2021;23:00;Algo nublado;30 km;6;0.8; 47;Oeste  37;992.4 / 
+Gobernador Gregores;25-Junio-2021;21:00;Algo nublado;45 km;2.2;No se calcula; 68;Calma;969.8 / 
+Perito Moreno;25-Junio-2021;21:00;Parcialmente nublado;50 km;4.8;0.6; 71;Oeste  22;963 / 
+Puerto Deseado;25-Junio-2021;21:00;Nublado con lluvia y nevada;10 km;4.1;-2.2; 92;Sudoeste  44;996.2 / 
+Río Gallegos;25-Junio-2021;23:00;Despejado;30 km;1.4;-4.6; 74;Sudoeste  29;1011.4 / 
+Río Turbio;25-Junio-2021;14:00;Algo nublado;20 km;---;---;---;---  0;969.8 / 
+San Julián;25-Junio-2021;23:00;Parcialmente nublado;30 km;3.2;-3.7; 74;Sudoeste  48;1005.8 / 
+Santa Cruz;25-Junio-2021;21:00;Parcialmente nublado;30 km;3.8;-2.1; 64;Sur  37;997 / 
+Ceres;25-Junio-2021;23:00;Nublado con neblina;6 km;10.1;No se calcula; 91;Este  3;1001.4 / 
+El Trébol;25-Junio-2021;21:00;Parcialmente nublado;15 km;10.4;No se calcula; 94;Noreste  3;1000 / 
+Rafaela;25-Junio-2021;21:00;Parcialmente nublado;10 km;8.8;No se calcula; 90;Calma;999.5 / 
+Reconquista;25-Junio-2021;23:00;Nublado con neblina;6 km;11.8;No se calcula; 94;Calma;1005.4 / 
+Rosario;25-Junio-2021;23:00;Parcialmente nublado con banco delgado de niebla;3.0 km;9.3;No se calcula; 93;Calma;1009.8 / 
+Santa Fe;25-Junio-2021;23:00;Algo nublado con neblina;7 km;9.3;8.3; 93;Este  7;1010.8 / 
+Sunchales;25-Junio-2021;23:00;Parcialmente nublado;15 km;9.8;No se calcula; 94;Este  3;1002 / 
+Venado Tuerto;25-Junio-2021;21:00;Parcialmente nublado;10 km;10.5;No se calcula; 88;Norte  9;998.1 / 
+Termas de Rio Hondo;25-Junio-2021;21:00;Parcialmente nublado;10 km;13.5;No se calcula; 72;Noreste  9;975.9 / 
+Santiago del Estero;25-Junio-2021;23:00;Parcialmente nublado;10 km;7.5;No se calcula; 88;Sur  3;985.7 / 
+Río Grande B.A.;25-Junio-2021;23:00;Despejado;30 km;1.5;-4.1; 90;Sudoeste  25;1007.8 / 
+Ushuaia;25-Junio-2021;23:00;Parcialmente nublado;30 km;3.6;-2.5; 77;Sudoeste  38;1003.7 / 
+Tucumán;25-Junio-2021;23:00;Parcialmente nublado con humo;5 km;9.2;7.5; 89;Norte  11;957 / 
+Base Belgrano II;25-Junio-2021;21:00;Nublado con neblina;2.0 km;-22.3;-32.9; 80;Oeste  18;968.5 / 
+Base Esperanza;25-Junio-2021;21:00;Parcialmente nublado con niebla en la hora anterior;10 km;-1.5;-4.9; 94;Oeste  9;986.9 / 
+Base Carlini;25-Junio-2021;21:00;Cubierto con nevada;3.0 km;-1.3;-5.6; 96;Oeste  13;991.4 / 
+Base Marambio;25-Junio-2021;23:00;Nublado;15 km;-2.4;-10.3; 93;Norte  37;960.2 / 
+Base Orcadas;25-Junio-2021;21:00;Cubierto con nevada;3.0 km;-1.5;-8.4; 90;Oeste  29;1004.9 / 
+Base San Martín;25-Junio-2021;21:00;Cubierto;10 km;0.1;-6.1; 78;Norte  27;982.4 / 
+Azul;26-Junio-2021;00:00;Cubierto;15 km;8.6;8.0; 81;Sur  5;998.2 / 
+Bahía Blanca;26-Junio-2021;00:00;Parcialmente nublado;15 km;3.7;0.9; 78;Norte  11;1006.4 / 
+Benito Juárez;25-Junio-2021;21:00;Cubierto;10 km;8.2;No se calcula; 94;Calma;988.2 / 
+Bolívar;25-Junio-2021;21:00;Cubierto;15 km;9.8;No se calcula; 88;Este  3;1003 / 
+Campo de Mayo;25-Junio-2021;21:00;Algo nublado;10 km;10.2;No se calcula; 88;Este  7;1012 / 
+Coronel Pringles;25-Junio-2021;21:00;Cubierto;10 km;7.6;No se calcula; 84;Noroeste  3;986 / 
+Coronel Suarez;25-Junio-2021;21:00;Nublado con lluvia;12 km;8.7;6.1; 90;Noroeste  16;987.7 / 
+Dolores;26-Junio-2021;00:00;Cubierto;10 km;9.7;8.1; 84;Norte  11;1013.2 / 
+El Palomar;26-Junio-2021;00:00;Algo nublado;10 km;12.6;No se calcula; 72;Norte  9;1013.8 / 
+Ezeiza;26-Junio-2021;00:00;Parcialmente nublado con neblina;9 km;10.8;No se calcula; 85;Este  7;1012.6 / 
+Junín;26-Junio-2021;00:00;Cubierto;10 km;9.2;8.7; 68;Noroeste  5;1004.4 / 
+La Plata;26-Junio-2021;00:00;Parcialmente nublado;10 km;9.6;9.1; 88;Noreste  5;1013.6 / 
+Las Flores;25-Junio-2021;21:00;Nublado;15 km;9.9;No se calcula; 93;Calma;1009.7 / 
+Mar del Plata;25-Junio-2021;23:00;Nublado;10 km;8.7;No se calcula; 81;Calma;1012.5 / 
+Mariano Moreno;25-Junio-2021;21:00;Algo nublado;10 km;11.4;No se calcula; 87;Noreste  9;1010.6 / 
+Merlo;26-Junio-2021;00:00;Algo nublado;10 km;10.5;No se calcula; 80;Noreste  9;1013.2 / 
+Morón;26-Junio-2021;00:00;Parcialmente nublado;10 km;13;No se calcula; 72;Noreste  9;1012.4 / 
+Nueve de Julio;25-Junio-2021;21:00;Cubierto;15 km;11.9;No se calcula; 77;Sudeste  3;1004.2 / 
+Olavarría;25-Junio-2021;21:00;Parcialmente nublado;15 km;7.8;No se calcula; 89;Calma;994.6 / 
+Pehuajó;25-Junio-2021;21:00;Cubierto;15 km;9.9;7.6; 80;Sur  16;1003.8 / 
+Pigué;25-Junio-2021;21:00;Nublado;20 km;8.3;6.8; 81;Oeste  9;978.8 / 
+Punta Indio B.A.;25-Junio-2021;21:00;Algo nublado con banco delgado de niebla;900 mts;9.2;8.7; 64;Este  5;1012.8 / 
+San Fernando;26-Junio-2021;00:00;Algo nublado;10 km;9.8;8.2; 84;Noreste  11;1015.2 / 
+Tandil;26-Junio-2021;00:00;Cubierto;15 km;7.6;6.9; 86;Sudoeste  5;994.6 / 
+Trenque Lauquen;25-Junio-2021;21:00;Cubierto con lluvia;5 km;10;9.1; 86;Sudoeste  7;1003.8 / 
+Tres Arroyos;26-Junio-2021;00:00;Cubierto con neblina;6 km;8.6;8.0; 85;Noroeste  5;1001.3 / 
+Villa Gesell;25-Junio-2021;21:00;Nublado;10 km;9.4;No se calcula; 92;Calma;1014.1 / 
+Aeroparque Buenos Aires;26-Junio-2021;00:00;Algo nublado;10 km;13.8;No se calcula; 74;Norte  14;1014.8 / 
+Buenos Aires;26-Junio-2021;00:00;Algo nublado;10 km;13.8;No se calcula; 71;Noroeste  5;1012.4 / 
+Catamarca;25-Junio-2021;22:00;Parcialmente nublado;20 km;13.8;No se calcula; 70;Noreste  24;954.8 / 
+Tinogasta;25-Junio-2021;21:00;Algo nublado;20 km;17.6;No se calcula; 13;Noroeste  9;870.5 / 
+Pcia. Roque Saenz Peña;26-Junio-2021;00:00;Cubierto;20 km;16.3;No se calcula; 77;Este  1;1000.2 / 
+Resistencia;26-Junio-2021;00:00;Cubierto;15 km;15.5;No se calcula; 85;Este  9;1004.2 / 
+Comodoro Rivadavia;26-Junio-2021;00:00;Nublado;30 km;8;4.5; 54;Sudoeste  24;1009.4 / 
+Esquel;26-Junio-2021;00:00;Algo nublado;30 km;0.6;-4.5; 82;Oeste  20;926.2 / 
+Paso De Indios;25-Junio-2021;21:00;Algo nublado;45 km;2.6;-1.7; 70;Oeste  18;958 / 
+Puerto Madryn;26-Junio-2021;00:00;Algo nublado;30 km;2.2;-2.2; 71;Oeste  18;998.5 / 
+Trelew;26-Junio-2021;00:00;Algo nublado;30 km;3.7;0.2; 67;Oeste  14;1010.2 / 
+Córdoba;26-Junio-2021;00:00;Despejado;15 km;6.3;4.0; 92;Oeste  11;954.9 / 
+Córdoba Observatorio;26-Junio-2021;00:00;Parcialmente nublado;10 km;9.2;8.2; 85;Sudoeste  7;962.5 / 
+Esc. Aviación Militar;25-Junio-2021;21:00;Algo nublado;10 km;7.2;5.1; 90;Sur  11;954 / 
+Laboulaye;26-Junio-2021;00:00;Cubierto;10 km;10.1;No se calcula; 75;Sur  18;998.6 / 
+Marcos Juárez;26-Junio-2021;00:00;Parcialmente nublado;20 km;7.6;No se calcula; 97;Este  1;999 / 
+Pilar Obs.;26-Junio-2021;00:00;Algo nublado;10 km;8.9;No se calcula; 93;Calma;973.4 / 
+Río Cuarto;25-Junio-2021;21:00;Algo nublado;15 km;9.4;No se calcula; 76;Norte  3;962.1 / 
+Villa Dolores;26-Junio-2021;00:00;Parcialmente nublado;10 km;8.3;No se calcula; 83;Este  3;946.9 / 
+Villa María Del Río Seco;25-Junio-2021;21:00;Nublado;15 km;7.6;No se calcula; 78;Calma;970.6 / 
+Corrientes;26-Junio-2021;00:00;Cubierto;10 km;15.6;No se calcula; 83;Este  7;1003 / 
+Ituzaingó;25-Junio-2021;21:00;Cubierto;15 km;15.6;No se calcula; 91;Noreste  9;1001.8 / 
+Mercedes;25-Junio-2021;21:00;Parcialmente nublado;15 km;13;No se calcula; 88;Este  13;- / 
+Monte Caseros;26-Junio-2021;00:00;Parcialmente nublado;20 km;11.6;No se calcula; 90;Este  11;1005.6 / 
+Paso De Los Libres;26-Junio-2021;00:00;Parcialmente nublado;10 km;11.9;No se calcula; 90;Este  13;1004.2 / 
+Concordia;26-Junio-2021;00:00;Parcialmente nublado;15 km;9.8;No se calcula; 94;Noreste  3;1008.6 / 
+Gualeguaychú;25-Junio-2021;21:00;Parcialmente nublado;15 km;12;No se calcula; 78;Este  7;1010.5 / 
+Paraná;26-Junio-2021;00:00;Parcialmente nublado con neblina;6 km;9.3;No se calcula; 94;Calma;1004.6 / 
+Formosa;26-Junio-2021;00:00;Parcialmente nublado con lluvia en la hora anterior;20 km;16.7;No se calcula; 93;Sur  5;1003 / 
+Las Lomitas;25-Junio-2021;21:00;Cubierto;20 km;20.6;No se calcula; 75;Calma;994.2 / 
+Mount Pleasant Airport (Islas Malvinas);26-Junio-2021;00:00;Despejado;20 km;0.6;No se calcula; 86;Noreste  1;993.6 / 
+La Quiaca;26-Junio-2021;00:00;Algo nublado;30 km;3.1;No se calcula; 28;Noroeste  3;667.8 / 
+Jujuy;26-Junio-2021;00:00;Cubierto;10 km;7.5;5.8; 90;Noroeste  9;907.4 / 
+Jujuy Universidad Nacional;25-Junio-2021;21:00;Parcialmente nublado;12 km;9.2;No se calcula; 82;Calma;864.2 / 
+General Pico;25-Junio-2021;21:00;Parcialmente nublado;20 km;9.5;6.9; 88;Sur  18;997.7 / 
+Victorica;25-Junio-2021;21:00;Cubierto con lluvia en la hora anterior;40 km;6.9;No se calcula; 97;Sur  3;979.6 / 
+Santa Rosa;26-Junio-2021;00:00;Cubierto;30 km;7.6;6.9; 90;Oeste  5;994.4 / 
+Chamical;25-Junio-2021;21:00;Parcialmente nublado;20 km;12.6;No se calcula; 72;Calma;956.2 / 
+Chepes;25-Junio-2021;21:00;Algo nublado;20 km;10.4;No se calcula; 63;Noreste  9;934.7 / 
+Chilecito;25-Junio-2021;21:00;Algo nublado;20 km;12.4;No se calcula; 63;Sur  9;905.2 / 
+La Rioja;26-Junio-2021;00:00;Nublado;20 km;10.5;No se calcula; 63;Oeste  7;960.5 / 
+Malargue;26-Junio-2021;00:00;Despejado;20 km;2.6;-2.4; 30;Sudoeste  24;857.6 / 
+Mendoza;26-Junio-2021;00:00;Nublado con lluvia;8 km;8.9;5.8; 85;Sudeste  22;935.2 / 
+Mendoza Observatorio;26-Junio-2021;00:00;Nublado con lluvia en la hora anterior;15 km;8.4;No se calcula; 87;Sur  3;921.3 / 
+San Carlos (Mza);25-Junio-2021;21:00;Cubierto con lluvia;10 km;7.2;No se calcula; 89;Sur  3;903 / 
+San Martín (Mza);26-Junio-2021;00:00;Nublado con llovizna;1.0 km;8.2;6.6; 96;Sudeste  9;940.6 / 
+San Rafael;26-Junio-2021;00:00;Cubierto;20 km;6.6;2.3; 91;Sudeste  27;932.1 / 
+Uspallata;25-Junio-2021;21:00;Parcialmente nublado;15 km;5.6;No se calcula; 62;Calma;808.9 / 
+Bernardo De Irigoyen;25-Junio-2021;21:00;Algo nublado;20 km;18.6;No se calcula; 87;Noreste  3;920.2 / 
+Iguazú;26-Junio-2021;00:00;Parcialmente nublado;20 km;19.6;No se calcula; 96;Noreste  5;981 / 
+Oberá;25-Junio-2021;21:00;Cubierto;10 km;16.8;No se calcula; 82;Noreste  3;977.4 / 
+Posadas;26-Junio-2021;00:00;Parcialmente nublado con tormenta en la hora anterior;20 km;17.8;No se calcula; 85;Este  9;996.2 / 
+Chapelco;25-Junio-2021;21:00;Algo nublado;15 km;1.8;-3.5; 66;Oeste  24;927.6 / 
+Neuquén;26-Junio-2021;00:00;Despejado;15 km;4.8;3.1; 61;Oeste  7;988 / 
+Bariloche;26-Junio-2021;00:00;Parcialmente nublado;10 km;1.6;-3.5; 61;Oeste  22;923 / 
+Cipolletti;25-Junio-2021;21:00;Despejado;25 km;8;6.4; 45;Oeste  9;985.9 / 
+El Bolsón;25-Junio-2021;21:00;Parcialmente nublado;30 km;1.5;No se calcula; 87;Calma;981.2 / 
+Maquinchao;26-Junio-2021;00:00;Algo nublado;40 km;-0.8;-4.0; 58;Oeste  9;916.1 / 
+Río Colorado;25-Junio-2021;21:00;Despejado;15 km;5.4;No se calcula; 66;Calma;1004.5 / 
+San Antonio Oeste;25-Junio-2021;21:00;Algo nublado;30 km;3.8;0.3; 62;Oeste  14;1012.4 / 
+Viedma;26-Junio-2021;00:00;Algo nublado;30 km;2.4;-1.1; 75;Oeste  13;1013.6 / 
+Metán;25-Junio-2021;21:00;Parcialmente nublado con neblina;13 km;11.2;No se calcula; 88;Oeste  3;912.7 / 
+Orán;26-Junio-2021;00:00;Cubierto;10 km;14.8;No se calcula; 82;Calma;966.2 / 
+Rivadavia;25-Junio-2021;21:00;Despejado;Superior a 70 km;16;No se calcula; 71;Calma;989.6 / 
+Salta;26-Junio-2021;00:00;Nublado;15 km;6.2;No se calcula; 89;Noroeste  3;874.2 / 
+Tartagal;26-Junio-2021;00:00;Parcialmente nublado;10 km;10.8;No se calcula; 87;Calma;957.2 / 
+Jachal;25-Junio-2021;21:00;Despejado;20 km;9;No se calcula; 51;Calma;879.6 / 
+San Juan;26-Junio-2021;00:00;Parcialmente nublado;15 km;11;No se calcula; 56;Sur  31;946.5 / 
+San Luis;26-Junio-2021;00:00;Nublado con llovizna;10 km;6.9;1.7; 87;Este  42;934.5 / 
+Santa Rosa del Conlara;25-Junio-2021;21:00;Parcialmente nublado;20 km;7.8;No se calcula; 74;Calma;939.6 / 
+Villa Reynolds;26-Junio-2021;00:00;Cubierto;10 km;7.9;5.4; 77;Sudeste  14;960.8 / 
+El Calafate;26-Junio-2021;00:00;Algo nublado;30 km;4.6;-0.3; 50;Oeste  27;992.9 / 
+Gobernador Gregores;25-Junio-2021;21:00;Algo nublado;45 km;2.2;No se calcula; 68;Calma;969.8 / 
+Perito Moreno;25-Junio-2021;21:00;Parcialmente nublado;50 km;4.8;0.6; 71;Oeste  22;963 / 
+Puerto Deseado;25-Junio-2021;21:00;Nublado con lluvia y nevada;10 km;4.1;-2.2; 92;Sudoeste  44;996.2 / 
+Río Gallegos;26-Junio-2021;00:00;Despejado;30 km;1.4;-4.6; 77;Sudoeste  29;1012.1 / 
+Río Turbio;25-Junio-2021;14:00;Algo nublado;20 km;---;---;---;---  0;969.8 / 
+San Julián;26-Junio-2021;00:00;Algo nublado;30 km;2.8;-4.3; 74;Sudoeste  50;1006.4 / 
+Santa Cruz;25-Junio-2021;21:00;Parcialmente nublado;30 km;3.8;-2.1; 64;Sur  37;997 / 
+Ceres;26-Junio-2021;00:00;Cubierto con neblina;6 km;11;No se calcula; 92;Este  3;1001.4 / 
+El Trébol;25-Junio-2021;21:00;Parcialmente nublado;15 km;10.4;No se calcula; 94;Noreste  3;1000 / 
+Rafaela;25-Junio-2021;21:00;Parcialmente nublado;10 km;8.8;No se calcula; 90;Calma;999.5 / 
+Reconquista;26-Junio-2021;00:00;Nublado con neblina;3.0 km;11.2;No se calcula; 96;Sur  3;1005.4 / 
+Rosario;26-Junio-2021;00:00;Parcialmente nublado con banco delgado de niebla;3.0 km;9.4;8.9; 92;Sur  5;1010.4 / 
+Santa Fe;26-Junio-2021;00:00;Parcialmente nublado con neblina;5 km;8.4;7.8; 96;Este  5;1011 / 
+Sunchales;26-Junio-2021;00:00;Parcialmente nublado;15 km;9.4;No se calcula; 97;Este  3;1002 / 
+Venado Tuerto;25-Junio-2021;21:00;Parcialmente nublado;10 km;10.5;No se calcula; 88;Norte  9;998.1 / 
+Termas de Rio Hondo;25-Junio-2021;21:00;Parcialmente nublado;10 km;13.5;No se calcula; 72;Noreste  9;975.9 / 
+Santiago del Estero;26-Junio-2021;00:00;Nublado;10 km;8;6.8; 87;Sur  7;986 / 
+Río Grande B.A.;26-Junio-2021;00:00;Despejado;30 km;0.5;-1.3; 90;Norte  5;1009.4 / 
+Ushuaia;26-Junio-2021;00:00;Parcialmente nublado;30 km;4;-1.4; 70;Sudoeste  31;1004.6 / 
+Tucumán;26-Junio-2021;00:00;Parcialmente nublado con humo;5 km;9.2;7.5; 89;Noroeste  11;957.3 / 
+Base Belgrano II;26-Junio-2021;00:00;Nublado;10 km;-21;-32.2; 61;Noroeste  22;969.8 / 
+Base Esperanza;26-Junio-2021;00:00;Nublado con ventisca alta;9 km;-0.4;-8.3; 95;Oeste  44;982.6 / 
+Base Carlini;26-Junio-2021;00:00;Cubierto con nevada;3.0 km;-1.3;-5.1; 96;Oeste  11;990.6 / 
+Base Marambio;26-Junio-2021;00:00;Cubierto;15 km;-2.7;-9.5; 95;Noroeste  25;959.6 / 
+Base Orcadas;25-Junio-2021;21:00;Cubierto con nevada;3.0 km;-1.5;-8.4; 90;Oeste  29;1004.9 / 
+Base San Martín;26-Junio-2021;00:00;Parcialmente nublado;10 km;-1.7;-5.1; 73;Norte  9;982.9 / 
+Azul;26-Junio-2021;01:00;Cubierto con llovizna en la hora anterior;8 km;8.9;8.3; 82;Sur  5;998.6 / 
+Bahía Blanca;26-Junio-2021;01:00;Cubierto;15 km;4;0.6; 82;Norte  14;1006.9 / 
+Benito Juárez;25-Junio-2021;21:00;Cubierto;10 km;8.2;No se calcula; 94;Calma;988.2 / 
+Bolívar;25-Junio-2021;21:00;Cubierto;15 km;9.8;No se calcula; 88;Este  3;1003 / 
+Campo de Mayo;25-Junio-2021;21:00;Algo nublado;10 km;10.2;No se calcula; 88;Este  7;1012 / 
+Coronel Pringles;25-Junio-2021;21:00;Cubierto;10 km;7.6;No se calcula; 84;Noroeste  3;986 / 
+Coronel Suarez;25-Junio-2021;21:00;Nublado con lluvia;12 km;8.7;6.1; 90;Noroeste  16;987.7 / 
+Dolores;26-Junio-2021;01:00;Cubierto;10 km;8;6.8; 90;Norte  7;1013.7 / 
+El Palomar;26-Junio-2021;01:00;Algo nublado;10 km;12.1;No se calcula; 73;Norte  9;1013.6 / 
+Ezeiza;26-Junio-2021;01:00;Parcialmente nublado con neblina;9 km;10;9.1; 89;Este  7;1012.8 / 
+Junín;26-Junio-2021;01:00;Cubierto;10 km;9.4;8.9; 72;Norte  5;1004.4 / 
+La Plata;26-Junio-2021;01:00;Nublado;10 km;8.8;No se calcula; 96;Este  3;1013.7 / 
+Las Flores;25-Junio-2021;21:00;Nublado;15 km;9.9;No se calcula; 93;Calma;1009.7 / 
+Mar del Plata;26-Junio-2021;01:00;Cubierto;10 km;8.5;7.9; 83;Noroeste  5;1013.2 / 
+Mariano Moreno;25-Junio-2021;21:00;Algo nublado;10 km;11.4;No se calcula; 87;Noreste  9;1010.6 / 
+Merlo;26-Junio-2021;00:00;Algo nublado;10 km;10.5;No se calcula; 80;Noreste  9;1013.2 / 
+Morón;26-Junio-2021;01:00;Parcialmente nublado;10 km;13.2;No se calcula; 72;Norte  9;1012.2 / 
+Nueve de Julio;25-Junio-2021;21:00;Cubierto;15 km;11.9;No se calcula; 77;Sudeste  3;1004.2 / 
+Olavarría;25-Junio-2021;21:00;Parcialmente nublado;15 km;7.8;No se calcula; 89;Calma;994.6 / 
+Pehuajó;25-Junio-2021;21:00;Cubierto;15 km;9.9;7.6; 80;Sur  16;1003.8 / 
+Pigué;25-Junio-2021;21:00;Nublado;20 km;8.3;6.8; 81;Oeste  9;978.8 / 
+Punta Indio B.A.;25-Junio-2021;21:00;Algo nublado con banco delgado de niebla;900 mts;9.2;8.7; 64;Este  5;1012.8 / 
+San Fernando;26-Junio-2021;01:00;Algo nublado;10 km;10;8.2; 84;Noreste  13;1014.6 / 
+Tandil;26-Junio-2021;01:00;Cubierto con lluvia;8 km;8.8;6.5; 86;Sudoeste  14;995.4 / 
+Trenque Lauquen;25-Junio-2021;21:00;Cubierto con lluvia;5 km;10;9.1; 86;Sudoeste  7;1003.8 / 
+Tres Arroyos;26-Junio-2021;00:00;Cubierto con neblina;6 km;8.6;8.0; 85;Noroeste  5;1001.3 / 
+Villa Gesell;25-Junio-2021;21:00;Nublado;10 km;9.4;No se calcula; 92;Calma;1014.1 / 
+Aeroparque Buenos Aires;26-Junio-2021;01:00;Parcialmente nublado;10 km;13.5;No se calcula; 77;Norte  13;1014.6 / 
+Buenos Aires;26-Junio-2021;01:00;Parcialmente nublado;10 km;13.2;No se calcula; 74;Norte  14;1012.2 / 
+Catamarca;25-Junio-2021;22:00;Parcialmente nublado;20 km;13.8;No se calcula; 70;Noreste  24;954.8 / 
+Tinogasta;25-Junio-2021;21:00;Algo nublado;20 km;17.6;No se calcula; 13;Noroeste  9;870.5 / 
+Pcia. Roque Saenz Peña;26-Junio-2021;01:00;Cubierto;20 km;15.3;No se calcula; 87;Calma;999.8 / 
+Resistencia;26-Junio-2021;01:00;Cubierto;15 km;15.5;No se calcula; 85;Este  3;1003.7 / 
+Comodoro Rivadavia;26-Junio-2021;01:00;Nublado;30 km;7.7;3.9; 55;Sudoeste  25;1010.8 / 
+Esquel;26-Junio-2021;01:00;Algo nublado;30 km;0.6;-4.0; 82;Oeste  16;926.9 / 
+Paso De Indios;25-Junio-2021;21:00;Algo nublado;45 km;2.6;-1.7; 70;Oeste  18;958 / 
+Puerto Madryn;26-Junio-2021;01:00;Algo nublado;30 km;2;-1.9; 75;Oeste  14;999.3 / 
+Trelew;26-Junio-2021;01:00;Algo nublado;30 km;3.5;1.1; 70;Oeste  9;1011.2 / 
+Córdoba;26-Junio-2021;01:00;Despejado;15 km;6;4.5; 95;Sudoeste  7;955.3 / 
+Córdoba Observatorio;26-Junio-2021;01:00;Algo nublado;10 km;9;8.0; 91;Sur  7;962.2 / 
+Esc. Aviación Militar;25-Junio-2021;21:00;Algo nublado;10 km;7.2;5.1; 90;Sur  11;954 / 
+Laboulaye;26-Junio-2021;01:00;Cubierto;10 km;10.1;No se calcula; 75;Sur  29;999.8 / 
+Marcos Juárez;26-Junio-2021;01:00;Parcialmente nublado con neblina;6 km;7.5;No se calcula; 97;Sur  1;999.4 / 
+Pilar Obs.;26-Junio-2021;00:00;Algo nublado;10 km;8.9;No se calcula; 93;Calma;973.4 / 
+Río Cuarto;25-Junio-2021;21:00;Algo nublado;15 km;9.4;No se calcula; 76;Norte  3;962.1 / 
+Villa Dolores;26-Junio-2021;01:00;Nublado con humo;10 km;9.1;7.7; 76;Sur  9;947.6 / 
+Villa María Del Río Seco;25-Junio-2021;21:00;Nublado;15 km;7.6;No se calcula; 78;Calma;970.6 / 
+Corrientes;26-Junio-2021;01:00;Cubierto;10 km;15.4;No se calcula; 83;Sudeste  5;- / 
+Ituzaingó;25-Junio-2021;21:00;Cubierto;15 km;15.6;No se calcula; 91;Noreste  9;1001.8 / 
+Mercedes;25-Junio-2021;21:00;Parcialmente nublado;15 km;13;No se calcula; 88;Este  13;- / 
+Monte Caseros;26-Junio-2021;00:00;Parcialmente nublado;20 km;11.6;No se calcula; 90;Este  11;1005.6 / 
+Paso De Los Libres;26-Junio-2021;01:00;Nublado;10 km;12;No se calcula; 89;Este  14;1003.8 / 
+Concordia;26-Junio-2021;01:00;Parcialmente nublado;15 km;10.2;No se calcula; 87;Noreste  9;1008.5 / 
+Gualeguaychú;25-Junio-2021;21:00;Parcialmente nublado;15 km;12;No se calcula; 78;Este  7;1010.5 / 
+Paraná;26-Junio-2021;01:00;Parcialmente nublado con neblina;5 km;8.9;No se calcula; 94;Calma;1004.9 / 
+Formosa;26-Junio-2021;01:00;Parcialmente nublado;20 km;16.2;No se calcula; 95;Sudeste  5;1002.4 / 
+Las Lomitas;25-Junio-2021;21:00;Cubierto;20 km;20.6;No se calcula; 75;Calma;994.2 / 
+Mount Pleasant Airport (Islas Malvinas);26-Junio-2021;01:00;Algo nublado;20 km;0.6;-1.1; 86;Noroeste  5;994.5 / 
+La Quiaca;26-Junio-2021;01:00;Algo nublado;30 km;-1.2;No se calcula; 50;Noroeste  3;667.8 / 
+Jujuy;26-Junio-2021;01:00;Cubierto;10 km;6.8;5.0; 89;Noroeste  9;907 / 
+Jujuy Universidad Nacional;25-Junio-2021;21:00;Parcialmente nublado;12 km;9.2;No se calcula; 82;Calma;864.2 / 
+General Pico;25-Junio-2021;21:00;Parcialmente nublado;20 km;9.5;6.9; 88;Sur  18;997.7 / 
+Victorica;25-Junio-2021;21:00;Cubierto con lluvia en la hora anterior;40 km;6.9;No se calcula; 97;Sur  3;979.6 / 
+Santa Rosa;26-Junio-2021;01:00;Cubierto;30 km;7.9;6.3; 80;Sudoeste  9;995 / 
+Chamical;25-Junio-2021;21:00;Parcialmente nublado;20 km;12.6;No se calcula; 72;Calma;956.2 / 
+Chepes;25-Junio-2021;21:00;Algo nublado;20 km;10.4;No se calcula; 63;Noreste  9;934.7 / 
+Chilecito;25-Junio-2021;21:00;Algo nublado;20 km;12.4;No se calcula; 63;Sur  9;905.2 / 
+La Rioja;26-Junio-2021;01:00;Parcialmente nublado;20 km;11;No se calcula; 62;Oeste  1;960.8 / 
+Malargue;26-Junio-2021;01:00;Despejado;20 km;1.4;-2.6; 35;Sudoeste  14;857.7 / 
+Mendoza;26-Junio-2021;01:00;Nublado con lluvia;8 km;8.5;5.7; 86;Sur  18;936.2 / 
+Mendoza Observatorio;26-Junio-2021;00:00;Nublado con lluvia en la hora anterior;15 km;8.4;No se calcula; 87;Sur  3;921.3 / 
+San Carlos (Mza);25-Junio-2021;21:00;Cubierto con lluvia;10 km;7.2;No se calcula; 89;Sur  3;903 / 
+San Martín (Mza);26-Junio-2021;01:00;Nublado con llovizna;1.5 km;7.8;No se calcula; 94;Sudeste  3;941.3 / 
+San Rafael;26-Junio-2021;00:00;Cubierto;20 km;6.6;2.3; 91;Sudeste  27;932.1 / 
+Uspallata;25-Junio-2021;21:00;Parcialmente nublado;15 km;5.6;No se calcula; 62;Calma;808.9 / 
+Bernardo De Irigoyen;25-Junio-2021;21:00;Algo nublado;20 km;18.6;No se calcula; 87;Noreste  3;920.2 / 
+Iguazú;26-Junio-2021;01:00;Parcialmente nublado;20 km;19.5;No se calcula; 96;Noreste  7;980.6 / 
+Oberá;25-Junio-2021;21:00;Cubierto;10 km;16.8;No se calcula; 82;Noreste  3;977.4 / 
+Posadas;26-Junio-2021;01:00;Parcialmente nublado con relámpagos sin truenos;20 km;18;No se calcula; 85;Este  9;995.2 / 
+Chapelco;25-Junio-2021;21:00;Algo nublado;15 km;1.8;-3.5; 66;Oeste  24;927.6 / 
+Neuquén;26-Junio-2021;01:00;Despejado;15 km;3.6;0.8; 63;Oeste  11;989 / 
+Bariloche;26-Junio-2021;01:00;Parcialmente nublado;10 km;-0.3;-3.9; 64;Oeste  11;923.8 / 
+Cipolletti;25-Junio-2021;21:00;Despejado;25 km;8;6.4; 45;Oeste  9;985.9 / 
+El Bolsón;25-Junio-2021;21:00;Parcialmente nublado;30 km;1.5;No se calcula; 87;Calma;981.2 / 
+Maquinchao;26-Junio-2021;00:00;Algo nublado;40 km;-0.8;-4.0; 58;Oeste  9;916.1 / 
+Río Colorado;25-Junio-2021;21:00;Despejado;15 km;5.4;No se calcula; 66;Calma;1004.5 / 
+San Antonio Oeste;25-Junio-2021;21:00;Algo nublado;30 km;3.8;0.3; 62;Oeste  14;1012.4 / 
+Viedma;26-Junio-2021;01:00;Despejado;30 km;4.1;1.0; 74;Oeste  13;1014.4 / 
+Metán;25-Junio-2021;21:00;Parcialmente nublado con neblina;13 km;11.2;No se calcula; 88;Oeste  3;912.7 / 
+Orán;26-Junio-2021;00:00;Cubierto;10 km;14.8;No se calcula; 82;Calma;966.2 / 
+Rivadavia;25-Junio-2021;21:00;Despejado;Superior a 70 km;16;No se calcula; 71;Calma;989.6 / 
+Salta;26-Junio-2021;01:00;Parcialmente nublado;15 km;6.3;5.4; 90;Oeste  5;874 / 
+Tartagal;26-Junio-2021;01:00;Parcialmente nublado;10 km;10;No se calcula; 89;Calma;956.7 / 
+Jachal;25-Junio-2021;21:00;Despejado;20 km;9;No se calcula; 51;Calma;879.6 / 
+San Juan;26-Junio-2021;01:00;Cubierto;15 km;10.6;No se calcula; 57;Sur  25;947.3 / 
+San Luis;26-Junio-2021;01:00;Nublado con llovizna;10 km;5.5;1.7; 89;Este  20;935.3 / 
+Santa Rosa del Conlara;25-Junio-2021;21:00;Parcialmente nublado;20 km;7.8;No se calcula; 74;Calma;939.6 / 
+Villa Reynolds;26-Junio-2021;01:00;Nublado con lluvia;8 km;6.8;4.0; 90;Sudeste  14;961.6 / 
+El Calafate;26-Junio-2021;01:00;Algo nublado;30 km;4.4;1.1; 50;Noroeste  14;993.7 / 
+Gobernador Gregores;25-Junio-2021;21:00;Algo nublado;45 km;2.2;No se calcula; 68;Calma;969.8 / 
+Perito Moreno;25-Junio-2021;21:00;Parcialmente nublado;50 km;4.8;0.6; 71;Oeste  22;963 / 
+Puerto Deseado;25-Junio-2021;21:00;Nublado con lluvia y nevada;10 km;4.1;-2.2; 92;Sudoeste  44;996.2 / 
+Río Gallegos;26-Junio-2021;01:00;Despejado;30 km;1.8;-4.4; 76;Sudoeste  33;1013.3 / 
+Río Turbio;25-Junio-2021;14:00;Algo nublado;20 km;---;---;---;---  0;969.8 / 
+San Julián;26-Junio-2021;01:00;Despejado;30 km;2.3;-4.6; 73;Oeste  44;1007.8 / 
+Santa Cruz;25-Junio-2021;21:00;Parcialmente nublado;30 km;3.8;-2.1; 64;Sur  37;997 / 
+Ceres;26-Junio-2021;01:00;Cubierto con neblina;6 km;11.2;No se calcula; 94;Este  3;1001.6 / 
+El Trébol;25-Junio-2021;21:00;Parcialmente nublado;15 km;10.4;No se calcula; 94;Noreste  3;1000 / 
+Rafaela;25-Junio-2021;21:00;Parcialmente nublado;10 km;8.8;No se calcula; 90;Calma;999.5 / 
+Reconquista;26-Junio-2021;01:00;Nublado con niebla;800 mts;11;No se calcula; 98;Sur  5;1005.3 / 
+Rosario;26-Junio-2021;01:00;Parcialmente nublado con niebla en la hora anterior;4.0 km;8.8;No se calcula; 93;Calma;1010.6 / 
+Santa Fe;26-Junio-2021;01:00;Parcialmente nublado con neblina;6 km;10.1;No se calcula; 97;Noreste  3;1011.2 / 
+Sunchales;26-Junio-2021;01:00;Parcialmente nublado;15 km;9;No se calcula; 97;Calma;1002.2 / 
+Venado Tuerto;25-Junio-2021;21:00;Parcialmente nublado;10 km;10.5;No se calcula; 88;Norte  9;998.1 / 
+Termas de Rio Hondo;25-Junio-2021;21:00;Parcialmente nublado;10 km;13.5;No se calcula; 72;Noreste  9;975.9 / 
+Santiago del Estero;26-Junio-2021;01:00;Nublado;10 km;7.9;7.2; 90;Sur  5;986.2 / 
+Río Grande B.A.;26-Junio-2021;01:00;Despejado;30 km;-0.2;-4.6; 87;Oeste  14;1010.6 / 
+Ushuaia;26-Junio-2021;01:00;Parcialmente nublado;30 km;4.2;-1.6; 69;Oeste  37;1005.8 / 
+Tucumán;26-Junio-2021;01:00;Parcialmente nublado con humo;5 km;8.7;7.2; 93;Norte  9;957.4 / 
+Base Belgrano II;26-Junio-2021;00:00;Nublado;10 km;-21;-32.2; 61;Noroeste  22;969.8 / 
+Base Esperanza;26-Junio-2021;00:00;Nublado con ventisca alta;9 km;-0.4;-8.3; 95;Oeste  44;982.6 / 
+Base Carlini;26-Junio-2021;00:00;Cubierto con nevada;3.0 km;-1.3;-5.1; 96;Oeste  11;990.6 / 
+Base Marambio;26-Junio-2021;01:00;Cubierto;15 km;-2;-8.3; 97;Noroeste  24;959.4 / 
+Base Orcadas;25-Junio-2021;21:00;Cubierto con nevada;3.0 km;-1.5;-8.4; 90;Oeste  29;1004.9 / 
+Base San Martín;26-Junio-2021;00:00;Parcialmente nublado;10 km;-1.7;-5.1; 73;Norte  9;982.9 / 
+Azul;26-Junio-2021;02:00;Cubierto con llovizna en la hora anterior;5 km;8.9;7.9; 82;Sudeste  7;998.8 / 
+Bahía Blanca;26-Junio-2021;02:00;Cubierto;15 km;5;1.5; 78;Oeste  16;1007.4 / 
+Benito Juárez;25-Junio-2021;21:00;Cubierto;10 km;8.2;No se calcula; 94;Calma;988.2 / 
+Bolívar;25-Junio-2021;21:00;Cubierto;15 km;9.8;No se calcula; 88;Este  3;1003 / 
+Campo de Mayo;25-Junio-2021;21:00;Algo nublado;10 km;10.2;No se calcula; 88;Este  7;1012 / 
+Coronel Pringles;25-Junio-2021;21:00;Cubierto;10 km;7.6;No se calcula; 84;Noroeste  3;986 / 
+Coronel Suarez;25-Junio-2021;21:00;Nublado con lluvia;12 km;8.7;6.1; 90;Noroeste  16;987.7 / 
+Dolores;26-Junio-2021;02:00;Nublado;10 km;8.2;No se calcula; 82;Calma;1013.8 / 
+El Palomar;26-Junio-2021;02:00;Algo nublado;10 km;12.2;No se calcula; 77;Norte  5;1013.6 / 
+Ezeiza;26-Junio-2021;02:00;Parcialmente nublado;10 km;9.8;No se calcula; 92;Este  1;1012.4 / 
+Junín;26-Junio-2021;02:00;Cubierto;10 km;9.5;7.9; 61;Norte  11;1003.3 / 
+La Plata;26-Junio-2021;02:00;Nublado;10 km;9.2;8.2; 93;Este  7;1013 / 
+Las Flores;25-Junio-2021;21:00;Nublado;15 km;9.9;No se calcula; 93;Calma;1009.7 / 
+Mar del Plata;26-Junio-2021;02:00;Cubierto;10 km;9.6;8.7; 81;Sur  7;1013.6 / 
+Mariano Moreno;25-Junio-2021;21:00;Algo nublado;10 km;11.4;No se calcula; 87;Noreste  9;1010.6 / 
+Merlo;26-Junio-2021;00:00;Algo nublado;10 km;10.5;No se calcula; 80;Noreste  9;1013.2 / 
+Morón;26-Junio-2021;02:00;Algo nublado;10 km;12.2;No se calcula; 78;Norte  3;1012.2 / 
+Nueve de Julio;25-Junio-2021;21:00;Cubierto;15 km;11.9;No se calcula; 77;Sudeste  3;1004.2 / 
+Olavarría;25-Junio-2021;21:00;Parcialmente nublado;15 km;7.8;No se calcula; 89;Calma;994.6 / 
+Pehuajó;25-Junio-2021;21:00;Cubierto;15 km;9.9;7.6; 80;Sur  16;1003.8 / 
+Pigué;25-Junio-2021;21:00;Nublado;20 km;8.3;6.8; 81;Oeste  9;978.8 / 
+Punta Indio B.A.;25-Junio-2021;21:00;Algo nublado con banco delgado de niebla;900 mts;9.2;8.7; 64;Este  5;1012.8 / 
+San Fernando;26-Junio-2021;02:00;Parcialmente nublado;10 km;10;8.8; 82;Noreste  9;1014.6 / 
+Tandil;26-Junio-2021;02:00;Cubierto con lluvia;8 km;8.6;6.5; 86;Sudoeste  13;995.8 / 
+Trenque Lauquen;25-Junio-2021;21:00;Cubierto con lluvia;5 km;10;9.1; 86;Sudoeste  7;1003.8 / 
+Tres Arroyos;26-Junio-2021;00:00;Cubierto con neblina;6 km;8.6;8.0; 85;Noroeste  5;1001.3 / 
+Villa Gesell;25-Junio-2021;21:00;Nublado;10 km;9.4;No se calcula; 92;Calma;1014.1 / 
+Aeroparque Buenos Aires;26-Junio-2021;02:00;Nublado;10 km;13.6;No se calcula; 79;Norte  13;1014.4 / 
+Buenos Aires;26-Junio-2021;02:00;Parcialmente nublado;10 km;12.7;No se calcula; 74;Norte  14;1012 / 
+Catamarca;25-Junio-2021;22:00;Parcialmente nublado;20 km;13.8;No se calcula; 70;Noreste  24;954.8 / 
+Tinogasta;25-Junio-2021;21:00;Algo nublado;20 km;17.6;No se calcula; 13;Noroeste  9;870.5 / 
+Pcia. Roque Saenz Peña;26-Junio-2021;02:00;Cubierto;20 km;15.3;No se calcula; 89;Calma;999 / 
+Resistencia;26-Junio-2021;02:00;Cubierto;15 km;15.3;No se calcula; 91;Sudoeste  3;1003.2 / 
+Comodoro Rivadavia;26-Junio-2021;02:00;Parcialmente nublado;30 km;6.9;3.2; 49;Sudoeste  22;1012 / 
+Esquel;26-Junio-2021;02:00;Algo nublado;30 km;0.4;-4.5; 81;Oeste  18;927.7 / 
+Paso De Indios;25-Junio-2021;21:00;Algo nublado;45 km;2.6;-1.7; 70;Oeste  18;958 / 
+Puerto Madryn;26-Junio-2021;02:00;Algo nublado;30 km;2.8;-2.4; 79;Oeste  25;999.7 / 
+Trelew;26-Junio-2021;02:00;Algo nublado;30 km;3.4;-1.2; 73;Oeste  22;1011.4 / 
+Córdoba;26-Junio-2021;02:00;Despejado;15 km;5.4;2.3; 98;Sudoeste  14;955.7 / 
+Córdoba Observatorio;26-Junio-2021;02:00;Parcialmente nublado;10 km;7.4;5.7; 92;Sudoeste  9;962.4 / 
+Esc. Aviación Militar;25-Junio-2021;21:00;Algo nublado;10 km;7.2;5.1; 90;Sur  11;954 / 
+Laboulaye;26-Junio-2021;01:00;Cubierto;10 km;10.1;No se calcula; 75;Sur  29;999.8 / 
+Marcos Juárez;26-Junio-2021;02:00;Nublado con neblina;6 km;8.4;No se calcula; 96;Calma;999.6 / 
+Pilar Obs.;26-Junio-2021;00:00;Algo nublado;10 km;8.9;No se calcula; 93;Calma;973.4 / 
+Río Cuarto;25-Junio-2021;21:00;Algo nublado;15 km;9.4;No se calcula; 76;Norte  3;962.1 / 
+Villa Dolores;26-Junio-2021;02:00;Nublado con polvo levantado por viento;5 km;8.3;3.5; 83;Sur  44;948.5 / 
+Villa María Del Río Seco;25-Junio-2021;21:00;Nublado;15 km;7.6;No se calcula; 78;Calma;970.6 / 
+Corrientes;26-Junio-2021;01:00;Cubierto;10 km;15.4;No se calcula; 83;Sudeste  5;- / 
+Ituzaingó;25-Junio-2021;21:00;Cubierto;15 km;15.6;No se calcula; 91;Noreste  9;1001.8 / 
+Mercedes;25-Junio-2021;21:00;Parcialmente nublado;15 km;13;No se calcula; 88;Este  13;- / 
+Monte Caseros;26-Junio-2021;00:00;Parcialmente nublado;20 km;11.6;No se calcula; 90;Este  11;1005.6 / 
+Paso De Los Libres;26-Junio-2021;02:00;Nublado;10 km;11.8;No se calcula; 91;Este  14;1003.2 / 
+Concordia;26-Junio-2021;02:00;Nublado;15 km;10;9.1; 85;Noreste  7;1007.8 / 
+Gualeguaychú;25-Junio-2021;21:00;Parcialmente nublado;15 km;12;No se calcula; 78;Este  7;1010.5 / 
+Paraná;26-Junio-2021;02:00;Parcialmente nublado con neblina;6 km;9.1;No se calcula; 92;Calma;1004.5 / 
+Formosa;26-Junio-2021;02:00;Parcialmente nublado;20 km;16.5;No se calcula; 95;Sudeste  3;1001.7 / 
+Las Lomitas;25-Junio-2021;21:00;Cubierto;20 km;20.6;No se calcula; 75;Calma;994.2 / 
+Mount Pleasant Airport (Islas Malvinas);26-Junio-2021;02:00;Despejado;30 km;0.8;-0.9; 87;Oeste  5;995.1 / 
+La Quiaca;26-Junio-2021;02:00;Algo nublado;30 km;-3.8;No se calcula; 53;Noroeste  3;667.8 / 
+Jujuy;26-Junio-2021;02:00;Nublado;10 km;6.5;4.6; 91;Noroeste  9;906.6 / 
+Jujuy Universidad Nacional;25-Junio-2021;21:00;Parcialmente nublado;12 km;9.2;No se calcula; 82;Calma;864.2 / 
+General Pico;25-Junio-2021;21:00;Parcialmente nublado;20 km;9.5;6.9; 88;Sur  18;997.7 / 
+Victorica;25-Junio-2021;21:00;Cubierto con lluvia en la hora anterior;40 km;6.9;No se calcula; 97;Sur  3;979.6 / 
+Santa Rosa;26-Junio-2021;02:00;Cubierto;30 km;7.7;7.0; 77;Sudoeste  5;995.4 / 
+Chamical;25-Junio-2021;21:00;Parcialmente nublado;20 km;12.6;No se calcula; 72;Calma;956.2 / 
+Chepes;25-Junio-2021;21:00;Algo nublado;20 km;10.4;No se calcula; 63;Noreste  9;934.7 / 
+Chilecito;25-Junio-2021;21:00;Algo nublado;20 km;12.4;No se calcula; 63;Sur  9;905.2 / 
+La Rioja;26-Junio-2021;02:00;Parcialmente nublado;20 km;10.6;No se calcula; 71;Oeste  1;961.3 / 
+Malargue;26-Junio-2021;02:00;Despejado;20 km;1;-3.1; 37;Sudoeste  14;858 / 
+Mendoza;26-Junio-2021;02:00;Nublado con lluvia;8 km;8;5.7; 90;Sudeste  13;936.6 / 
+Mendoza Observatorio;26-Junio-2021;00:00;Nublado con lluvia en la hora anterior;15 km;8.4;No se calcula; 87;Sur  3;921.3 / 
+San Carlos (Mza);25-Junio-2021;21:00;Cubierto con lluvia;10 km;7.2;No se calcula; 89;Sur  3;903 / 
+San Martín (Mza);26-Junio-2021;02:00;Nublado con llovizna;4.0 km;7.4;5.7; 97;Sudeste  9;942 / 
+San Rafael;26-Junio-2021;01:00;Parcialmente nublado;20 km;5.3;4.2; 86;Sudeste  5;933 / 
+Uspallata;25-Junio-2021;21:00;Parcialmente nublado;15 km;5.6;No se calcula; 62;Calma;808.9 / 
+Bernardo De Irigoyen;25-Junio-2021;21:00;Algo nublado;20 km;18.6;No se calcula; 87;Noreste  3;920.2 / 
+Iguazú;26-Junio-2021;02:00;Parcialmente nublado;20 km;19.3;No se calcula; 96;Noreste  7;980.2 / 
+Oberá;25-Junio-2021;21:00;Cubierto;10 km;16.8;No se calcula; 82;Noreste  3;977.4 / 
+Posadas;26-Junio-2021;02:00;Nublado con tormenta sin precipitación;20 km;18;No se calcula; 89;Este  7;994.6 / 
+Chapelco;25-Junio-2021;21:00;Algo nublado;15 km;1.8;-3.5; 66;Oeste  24;927.6 / 
+Neuquén;26-Junio-2021;01:00;Despejado;15 km;3.6;0.8; 63;Oeste  11;989 / 
+Bariloche;26-Junio-2021;02:00;Parcialmente nublado;10 km;0.4;-3.5; 65;Oeste  13;924.1 / 
+Cipolletti;25-Junio-2021;21:00;Despejado;25 km;8;6.4; 45;Oeste  9;985.9 / 
+El Bolsón;25-Junio-2021;21:00;Parcialmente nublado;30 km;1.5;No se calcula; 87;Calma;981.2 / 
+Maquinchao;26-Junio-2021;00:00;Algo nublado;40 km;-0.8;-4.0; 58;Oeste  9;916.1 / 
+Río Colorado;25-Junio-2021;21:00;Despejado;15 km;5.4;No se calcula; 66;Calma;1004.5 / 
+San Antonio Oeste;25-Junio-2021;21:00;Algo nublado;30 km;3.8;0.3; 62;Oeste  14;1012.4 / 
+Viedma;26-Junio-2021;02:00;Despejado;30 km;4.6;1.0; 71;Sudoeste  16;1015.2 / 
+Metán;25-Junio-2021;21:00;Parcialmente nublado con neblina;13 km;11.2;No se calcula; 88;Oeste  3;912.7 / 
+Orán;26-Junio-2021;00:00;Cubierto;10 km;14.8;No se calcula; 82;Calma;966.2 / 
+Rivadavia;25-Junio-2021;21:00;Despejado;Superior a 70 km;16;No se calcula; 71;Calma;989.6 / 
+Salta;26-Junio-2021;02:00;Parcialmente nublado;15 km;5.5;3.9; 92;Sudoeste  7;873.6 / 
+Tartagal;26-Junio-2021;02:00;Parcialmente nublado;10 km;9.6;No se calcula; 89;Calma;956.2 / 
+Jachal;25-Junio-2021;21:00;Despejado;20 km;9;No se calcula; 51;Calma;879.6 / 
+San Juan;26-Junio-2021;02:00;Cubierto;15 km;10.4;No se calcula; 59;Sur  37;947.7 / 
+San Luis;26-Junio-2021;02:00;Nublado con llovizna;5 km;5.1;1.4; 92;Este  18;935.6 / 
+Santa Rosa del Conlara;25-Junio-2021;21:00;Parcialmente nublado;20 km;7.8;No se calcula; 74;Calma;939.6 / 
+Villa Reynolds;26-Junio-2021;02:00;Nublado con lluvia;8 km;6.4;No se calcula; 94;Calma;961.7 / 
+El Calafate;26-Junio-2021;02:00;Algo nublado;30 km;4.6;1.3; 44;Norte  14;995.2 / 
+Gobernador Gregores;25-Junio-2021;21:00;Algo nublado;45 km;2.2;No se calcula; 68;Calma;969.8 / 
+Perito Moreno;25-Junio-2021;21:00;Parcialmente nublado;50 km;4.8;0.6; 71;Oeste  22;963 / 
+Puerto Deseado;25-Junio-2021;21:00;Nublado con lluvia y nevada;10 km;4.1;-2.2; 92;Sudoeste  44;996.2 / 
+Río Gallegos;26-Junio-2021;02:00;Despejado;30 km;1.1;-3.0; 84;Oeste  14;1015 / 
+Río Turbio;25-Junio-2021;14:00;Algo nublado;20 km;---;---;---;---  0;969.8 / 
+San Julián;26-Junio-2021;02:00;Despejado;30 km;1.9;-4.3; 78;Oeste  33;1009.3 / 
+Santa Cruz;25-Junio-2021;21:00;Parcialmente nublado;30 km;3.8;-2.1; 64;Sur  37;997 / 
+Ceres;26-Junio-2021;02:00;Cubierto con neblina;8 km;11.2;No se calcula; 93;Noreste  3;1001 / 
+El Trébol;25-Junio-2021;21:00;Parcialmente nublado;15 km;10.4;No se calcula; 94;Noreste  3;1000 / 
+Rafaela;25-Junio-2021;21:00;Parcialmente nublado;10 km;8.8;No se calcula; 90;Calma;999.5 / 
+Reconquista;26-Junio-2021;02:00;Nublado con niebla en la hora anterior;3.0 km;10.6;No se calcula; 97;Sur  3;1005 / 
+Rosario;26-Junio-2021;02:00;Parcialmente nublado con neblina;4.0 km;7.4;6.1; 91;Sur  7;1010.6 / 
+Santa Fe;26-Junio-2021;02:00;Cubierto con neblina;8 km;11.1;No se calcula; 96;Este  3;1010.9 / 
+Sunchales;26-Junio-2021;02:00;Parcialmente nublado;15 km;9;No se calcula; 97;Calma;1001.9 / 
+Venado Tuerto;25-Junio-2021;21:00;Parcialmente nublado;10 km;10.5;No se calcula; 88;Norte  9;998.1 / 
+Termas de Rio Hondo;25-Junio-2021;21:00;Parcialmente nublado;10 km;13.5;No se calcula; 72;Noreste  9;975.9 / 
+Santiago del Estero;26-Junio-2021;02:00;Nublado;10 km;7.6;6.9; 92;Sur  5;986.2 / 
+Río Grande B.A.;26-Junio-2021;02:00;Despejado;30 km;-1;No se calcula; 87;Sur  3;1012 / 
+Ushuaia;26-Junio-2021;02:00;Parcialmente nublado;30 km;4.4;-1.6; 71;Sudoeste  40;1006.5 / 
+Tucumán;26-Junio-2021;02:00;Parcialmente nublado con humo;5 km;7.6;5.6; 91;Norte  11;957.7 / 
+Base Belgrano II;26-Junio-2021;00:00;Nublado;10 km;-21;-32.2; 61;Noroeste  22;969.8 / 
+Base Esperanza;26-Junio-2021;00:00;Nublado con ventisca alta;9 km;-0.4;-8.3; 95;Oeste  44;982.6 / 
+Base Carlini;26-Junio-2021;00:00;Cubierto con nevada;3.0 km;-1.3;-5.1; 96;Oeste  11;990.6 / 
+Base Marambio;26-Junio-2021;02:00;Cubierto;15 km;-0.4;-5.5; 85;Sudoeste  18;959.4 / 
+Base Orcadas;25-Junio-2021;21:00;Cubierto con nevada;3.0 km;-1.5;-8.4; 90;Oeste  29;1004.9 / 
+Base San Martín;26-Junio-2021;00:00;Parcialmente nublado;10 km;-1.7;-5.1; 73;Norte  9;982.9 / 
+Azul;26-Junio-2021;03:00;Cubierto con llovizna en la hora anterior;5 km;8.9;No se calcula; 86;Sudeste  3;999 / 
+Bahía Blanca;26-Junio-2021;03:00;Cubierto;15 km;5.7;3.3; 68;Oeste  11;1008.1 / 
+Benito Juárez;25-Junio-2021;21:00;Cubierto;10 km;8.2;No se calcula; 94;Calma;988.2 / 
+Bolívar;25-Junio-2021;21:00;Cubierto;15 km;9.8;No se calcula; 88;Este  3;1003 / 
+Campo de Mayo;25-Junio-2021;21:00;Algo nublado;10 km;10.2;No se calcula; 88;Este  7;1012 / 
+Coronel Pringles;25-Junio-2021;21:00;Cubierto;10 km;7.6;No se calcula; 84;Noroeste  3;986 / 
+Coronel Suarez;25-Junio-2021;21:00;Nublado con lluvia;12 km;8.7;6.1; 90;Noroeste  16;987.7 / 
+Dolores;26-Junio-2021;03:00;Nublado;10 km;8.5;No se calcula; 81;Norte  3;1013.8 / 
+El Palomar;26-Junio-2021;03:00;Parcialmente nublado;10 km;11.6;No se calcula; 79;Norte  5;1013.3 / 
+Ezeiza;26-Junio-2021;03:00;Nublado;10 km;9.6;No se calcula; 81;Sudeste  1;1012.2 / 
+Junín;26-Junio-2021;03:00;Nublado con lluvia;10 km;9.5;9.0; 84;Sur  5;1003.8 / 
+La Plata;26-Junio-2021;03:00;Nublado;10 km;8.4;No se calcula; 98;Calma;1013 / 
+Las Flores;25-Junio-2021;21:00;Nublado;15 km;9.9;No se calcula; 93;Calma;1009.7 / 
+Mar del Plata;26-Junio-2021;03:00;Nublado;10 km;10;8.8; 83;Oeste  9;1014.5 / 
+Mariano Moreno;25-Junio-2021;21:00;Algo nublado;10 km;11.4;No se calcula; 87;Noreste  9;1010.6 / 
+Merlo;26-Junio-2021;03:00;Algo nublado;10 km;10.6;No se calcula; 81;Calma;1012.4 / 
+Morón;26-Junio-2021;03:00;Parcialmente nublado;10 km;12.4;No se calcula; 76;Noreste  5;1012 / 
+Nueve de Julio;25-Junio-2021;21:00;Cubierto;15 km;11.9;No se calcula; 77;Sudeste  3;1004.2 / 
+Olavarría;25-Junio-2021;21:00;Parcialmente nublado;15 km;7.8;No se calcula; 89;Calma;994.6 / 
+Pehuajó;25-Junio-2021;21:00;Cubierto;15 km;9.9;7.6; 80;Sur  16;1003.8 / 
+Pigué;25-Junio-2021;21:00;Nublado;20 km;8.3;6.8; 81;Oeste  9;978.8 / 
+Punta Indio B.A.;25-Junio-2021;21:00;Algo nublado con banco delgado de niebla;900 mts;9.2;8.7; 64;Este  5;1012.8 / 
+San Fernando;26-Junio-2021;03:00;Parcialmente nublado;10 km;10.2;No se calcula; 84;Noreste  3;1014.4 / 
+Tandil;26-Junio-2021;03:00;Cubierto con lluvia;6 km;7.8;4.8; 86;Sur  18;995.8 / 
+Trenque Lauquen;25-Junio-2021;21:00;Cubierto con lluvia;5 km;10;9.1; 86;Sudoeste  7;1003.8 / 
+Tres Arroyos;26-Junio-2021;03:00;Cubierto con neblina;8 km;7.7;6.5; 79;Noroeste  7;1002.1 / 
+Villa Gesell;25-Junio-2021;21:00;Nublado;10 km;9.4;No se calcula; 92;Calma;1014.1 / 
+Aeroparque Buenos Aires;26-Junio-2021;03:00;Parcialmente nublado;10 km;13.2;No se calcula; 76;Norte  11;1014.1 / 
+Buenos Aires;26-Junio-2021;02:00;Parcialmente nublado;10 km;12.7;No se calcula; 74;Norte  14;1012 / 
+Catamarca;25-Junio-2021;22:00;Parcialmente nublado;20 km;13.8;No se calcula; 70;Noreste  24;954.8 / 
+Tinogasta;25-Junio-2021;21:00;Algo nublado;20 km;17.6;No se calcula; 13;Noroeste  9;870.5 / 
+Pcia. Roque Saenz Peña;26-Junio-2021;03:00;Cubierto;20 km;15.6;No se calcula; 88;Este  3;998.9 / 
+Resistencia;26-Junio-2021;03:00;Cubierto;15 km;15.1;No se calcula; 93;Sur  5;1002.6 / 
+Comodoro Rivadavia;26-Junio-2021;03:00;Algo nublado;30 km;6.1;1.7; 49;Sudoeste  27;1013.4 / 
+Esquel;26-Junio-2021;03:00;Algo nublado;30 km;0.3;-3.6; 81;Oeste  13;928.6 / 
+Paso De Indios;25-Junio-2021;21:00;Algo nublado;45 km;2.6;-1.7; 70;Oeste  18;958 / 
+Puerto Madryn;26-Junio-2021;03:00;Algo nublado;30 km;2.6;-2.7; 75;Sudoeste  25;1000.2 / 
+Trelew;26-Junio-2021;03:00;Algo nublado;30 km;3;-0.7; 78;Oeste  14;1012.6 / 
+Córdoba;26-Junio-2021;03:00;Parcialmente nublado;15 km;8.7;5.2; 86;Sudoeste  25;956.1 / 
+Córdoba Observatorio;26-Junio-2021;03:00;Nublado;10 km;7.4;4.7; 96;Sur  14;962.9 / 
+Esc. Aviación Militar;26-Junio-2021;03:00;Parcialmente nublado;10 km;8.2;4.1; 86;Sur  31;956.2 / 
+Laboulaye;26-Junio-2021;03:00;Nublado;10 km;8.1;4.8; 71;Sur  22;1001.2 / 
+Marcos Juárez;26-Junio-2021;03:00;Nublado con neblina;6 km;8.2;7.5; 96;Oeste  5;999.6 / 
+Pilar Obs.;26-Junio-2021;03:00;Cubierto;10 km;9.1;6.0; 83;Sur  22;975.6 / 
+Río Cuarto;25-Junio-2021;21:00;Algo nublado;15 km;9.4;No se calcula; 76;Norte  3;962.1 / 
+Villa Dolores;26-Junio-2021;03:00;Cubierto con polvo levantado por viento;10 km;8.1;3.9; 81;Sur  33;949 / 
+Villa María Del Río Seco;25-Junio-2021;21:00;Nublado;15 km;7.6;No se calcula; 78;Calma;970.6 / 
+Corrientes;26-Junio-2021;03:00;Cubierto;10 km;15.6;No se calcula; 89;Sur  5;1001.7 / 
+Ituzaingó;25-Junio-2021;21:00;Cubierto;15 km;15.6;No se calcula; 91;Noreste  9;1001.8 / 
+Mercedes;25-Junio-2021;21:00;Parcialmente nublado;15 km;13;No se calcula; 88;Este  13;- / 
+Monte Caseros;26-Junio-2021;03:00;Parcialmente nublado;20 km;10.2;No se calcula; 92;Este  5;1004.1 / 
+Paso De Los Libres;26-Junio-2021;03:00;Cubierto;10 km;11.9;No se calcula; 91;Este  11;1002.4 / 
+Concordia;26-Junio-2021;03:00;Nublado;15 km;9;No se calcula; 89;Calma;1007.8 / 
+Gualeguaychú;25-Junio-2021;21:00;Parcialmente nublado;15 km;12;No se calcula; 78;Este  7;1010.5 / 
+Paraná;26-Junio-2021;03:00;Nublado con neblina;8 km;9.3;7.9; 94;Sur  9;1004.4 / 
+Formosa;26-Junio-2021;03:00;Nublado;20 km;15.9;No se calcula; 96;Calma;1001 / 
+Las Lomitas;25-Junio-2021;21:00;Cubierto;20 km;20.6;No se calcula; 75;Calma;994.2 / 
+Mount Pleasant Airport (Islas Malvinas);26-Junio-2021;03:00;Despejado;25 km;-0.2;-2.8; 85;Oeste  7;995.7 / 
+La Quiaca;26-Junio-2021;03:00;Algo nublado;30 km;-4.9;No se calcula; 60;Noroeste  3;667.6 / 
+Jujuy;26-Junio-2021;03:00;Nublado;10 km;6.7;4.9; 89;Noroeste  9;906 / 
+Jujuy Universidad Nacional;25-Junio-2021;21:00;Parcialmente nublado;12 km;9.2;No se calcula; 82;Calma;864.2 / 
+General Pico;25-Junio-2021;21:00;Parcialmente nublado;20 km;9.5;6.9; 88;Sur  18;997.7 / 
+Victorica;25-Junio-2021;21:00;Cubierto con lluvia en la hora anterior;40 km;6.9;No se calcula; 97;Sur  3;979.6 / 
+Santa Rosa;26-Junio-2021;03:00;Cubierto;30 km;7.6;5.6; 70;Sur  11;995.4 / 
+Chamical;25-Junio-2021;21:00;Parcialmente nublado;20 km;12.6;No se calcula; 72;Calma;956.2 / 
+Chepes;25-Junio-2021;21:00;Algo nublado;20 km;10.4;No se calcula; 63;Noreste  9;934.7 / 
+Chilecito;25-Junio-2021;21:00;Algo nublado;20 km;12.4;No se calcula; 63;Sur  9;905.2 / 
+La Rioja;26-Junio-2021;03:00;Algo nublado;20 km;13.2;No se calcula; 65;Sur  18;961.4 / 
+Malargue;26-Junio-2021;03:00;Despejado;20 km;-1;-4.3; 41;Sur  9;858.2 / 
+Mendoza;26-Junio-2021;03:00;Nublado con lluvia;10 km;7.5;5.8; 92;Sur  9;937.2 / 
+Mendoza Observatorio;26-Junio-2021;03:00;Nublado con llovizna;8 km;6.6;No se calcula; 94;Calma;923.3 / 
+San Carlos (Mza);25-Junio-2021;21:00;Cubierto con lluvia;10 km;7.2;No se calcula; 89;Sur  3;903 / 
+San Martín (Mza);26-Junio-2021;03:00;Nublado con llovizna;5 km;7.2;No se calcula; 94;Sudeste  3;942.4 / 
+San Rafael;26-Junio-2021;03:00;Parcialmente nublado;20 km;4.8;2.2; 89;Sur  11;933.2 / 
+Uspallata;25-Junio-2021;21:00;Parcialmente nublado;15 km;5.6;No se calcula; 62;Calma;808.9 / 
+Bernardo De Irigoyen;25-Junio-2021;21:00;Algo nublado;20 km;18.6;No se calcula; 87;Noreste  3;920.2 / 
+Iguazú;26-Junio-2021;03:00;Parcialmente nublado;20 km;19;No se calcula; 96;Noreste  9;979.8 / 
+Oberá;25-Junio-2021;21:00;Cubierto;10 km;16.8;No se calcula; 82;Noreste  3;977.4 / 
+Posadas;26-Junio-2021;02:00;Nublado con tormenta sin precipitación;20 km;18;No se calcula; 89;Este  7;994.6 / 
+Chapelco;25-Junio-2021;21:00;Algo nublado;15 km;1.8;-3.5; 66;Oeste  24;927.6 / 
+Neuquén;26-Junio-2021;03:00;Despejado;15 km;2.7;0.1; 67;Oeste  9;989.6 / 
+Bariloche;26-Junio-2021;03:00;Algo nublado;10 km;0.6;-4.2; 63;Oeste  18;924.2 / 
+Cipolletti;25-Junio-2021;21:00;Despejado;25 km;8;6.4; 45;Oeste  9;985.9 / 
+El Bolsón;25-Junio-2021;21:00;Parcialmente nublado;30 km;1.5;No se calcula; 87;Calma;981.2 / 
+Maquinchao;26-Junio-2021;03:00;Algo nublado;40 km;-3;-6.7; 68;Oeste  9;917.4 / 
+Río Colorado;25-Junio-2021;21:00;Despejado;15 km;5.4;No se calcula; 66;Calma;1004.5 / 
+San Antonio Oeste;25-Junio-2021;21:00;Algo nublado;30 km;3.8;0.3; 62;Oeste  14;1012.4 / 
+Viedma;26-Junio-2021;03:00;Despejado;30 km;4.6;1.3; 64;Sudoeste  14;1016 / 
+Metán;25-Junio-2021;21:00;Parcialmente nublado con neblina;13 km;11.2;No se calcula; 88;Oeste  3;912.7 / 
+Orán;26-Junio-2021;03:00;Cubierto;10 km;13.6;No se calcula; 86;Sudeste  9;965 / 
+Rivadavia;25-Junio-2021;21:00;Despejado;Superior a 70 km;16;No se calcula; 71;Calma;989.6 / 
+Salta;26-Junio-2021;03:00;Parcialmente nublado con neblina;12 km;3.4;No se calcula; 95;Calma;873.2 / 
+Tartagal;26-Junio-2021;03:00;Nublado;10 km;10.6;No se calcula; 80;Oeste  14;955.8 / 
+Jachal;25-Junio-2021;21:00;Despejado;20 km;9;No se calcula; 51;Calma;879.6 / 
+San Juan;26-Junio-2021;03:00;Cubierto;15 km;10;6.4; 59;Sur  33;948.5 / 
+San Luis;26-Junio-2021;03:00;Nublado con llovizna;8 km;4.8;0.0; 93;Este  27;935.4 / 
+Santa Rosa del Conlara;25-Junio-2021;21:00;Parcialmente nublado;20 km;7.8;No se calcula; 74;Calma;939.6 / 
+Villa Reynolds;26-Junio-2021;03:00;Nublado con lluvia;8 km;6.3;4.8; 97;Sudeste  7;962 / 
+El Calafate;26-Junio-2021;03:00;Algo nublado;30 km;-0.4;-4.9; 68;Este  14;996.5 / 
+Gobernador Gregores;25-Junio-2021;21:00;Algo nublado;45 km;2.2;No se calcula; 68;Calma;969.8 / 
+Perito Moreno;25-Junio-2021;21:00;Parcialmente nublado;50 km;4.8;0.6; 71;Oeste  22;963 / 
+Puerto Deseado;25-Junio-2021;21:00;Nublado con lluvia y nevada;10 km;4.1;-2.2; 92;Sudoeste  44;996.2 / 
+Río Gallegos;26-Junio-2021;03:00;Despejado;30 km;0.2;-5.3; 90;Oeste  22;1016 / 
+Río Turbio;25-Junio-2021;14:00;Algo nublado;20 km;---;---;---;---  0;969.8 / 
+San Julián;26-Junio-2021;02:00;Despejado;30 km;1.9;-4.3; 78;Oeste  33;1009.3 / 
+Santa Cruz;25-Junio-2021;21:00;Parcialmente nublado;30 km;3.8;-2.1; 64;Sur  37;997 / 
+Ceres;26-Junio-2021;03:00;Parcialmente nublado con neblina;8 km;10.6;No se calcula; 92;Este  3;1000.6 / 
+El Trébol;25-Junio-2021;21:00;Parcialmente nublado;15 km;10.4;No se calcula; 94;Noreste  3;1000 / 
+Rafaela;25-Junio-2021;21:00;Parcialmente nublado;10 km;8.8;No se calcula; 90;Calma;999.5 / 
+Reconquista;26-Junio-2021;03:00;Nublado con neblina;2.0 km;10.5;No se calcula; 97;Sur  3;1004.4 / 
+Rosario;26-Junio-2021;03:00;Cubierto con neblina;6 km;6.8;No se calcula; 95;Calma;1010.4 / 
+Santa Fe;26-Junio-2021;03:00;Cubierto;12 km;11.2;No se calcula; 96;Este  7;1010.9 / 
+Sunchales;26-Junio-2021;03:00;Parcialmente nublado;15 km;10;No se calcula; 97;Calma;1001.9 / 
+Venado Tuerto;25-Junio-2021;21:00;Parcialmente nublado;10 km;10.5;No se calcula; 88;Norte  9;998.1 / 
+Termas de Rio Hondo;25-Junio-2021;21:00;Parcialmente nublado;10 km;13.5;No se calcula; 72;Noreste  9;975.9 / 
+Santiago del Estero;26-Junio-2021;03:00;Nublado;10 km;8.6;8.0; 90;Sur  5;986.2 / 
+Río Grande B.A.;26-Junio-2021;02:00;Despejado;30 km;-1;No se calcula; 87;Sur  3;1012 / 
+Ushuaia;26-Junio-2021;03:00;Parcialmente nublado;30 km;4.4;-0.5; 74;Oeste  27;1008.4 / 
+Tucumán;26-Junio-2021;03:00;Parcialmente nublado con humo;6 km;6.9;6.1; 92;Noroeste  5;957.7 / 
+Base Belgrano II;26-Junio-2021;03:00;Cubierto con nevada;4.0 km;-21;-31.8; 81;Oeste  20;970.1 / 
+Base Esperanza;26-Junio-2021;03:00;Nublado;10 km;1.5;-5.4; 92;Oeste  40;982 / 
+Base Carlini;26-Junio-2021;03:00;Cubierto con ventisca baja;4.0 km;-1.3;-9.2; 93;Noroeste  40;990.5 / 
+Base Marambio;26-Junio-2021;03:00;Cubierto;15 km;-2;-7.5; 93;Sur  18;959.8 / 
+Base Orcadas;25-Junio-2021;21:00;Cubierto con nevada;3.0 km;-1.5;-8.4; 90;Oeste  29;1004.9 / 
+Base San Martín;26-Junio-2021;03:00;Cubierto con nevada;6 km;-2;-6.4; 79;Norte  13;985.6 / 
+Azul;26-Junio-2021;04:00;Cubierto con llovizna en la hora anterior;5 km;8.9;5.2; 86;Sur  29;999 / 
+Bahía Blanca;26-Junio-2021;04:00;Cubierto;15 km;4.7;2.5; 71;Oeste  9;1008.6 / 
+Benito Juárez;25-Junio-2021;21:00;Cubierto;10 km;8.2;No se calcula; 94;Calma;988.2 / 
+Bolívar;25-Junio-2021;21:00;Cubierto;15 km;9.8;No se calcula; 88;Este  3;1003 / 
+Campo de Mayo;25-Junio-2021;21:00;Algo nublado;10 km;10.2;No se calcula; 88;Este  7;1012 / 
+Coronel Pringles;25-Junio-2021;21:00;Cubierto;10 km;7.6;No se calcula; 84;Noroeste  3;986 / 
+Coronel Suarez;25-Junio-2021;21:00;Nublado con lluvia;12 km;8.7;6.1; 90;Noroeste  16;987.7 / 
+Dolores;26-Junio-2021;04:00;Nublado;10 km;7.9;No se calcula; 83;Calma;1013.6 / 
+El Palomar;26-Junio-2021;04:00;Algo nublado;10 km;11.2;No se calcula; 80;Norte  5;1012.9 / 
+Ezeiza;26-Junio-2021;04:00;Parcialmente nublado;10 km;9.8;No se calcula; 86;Este  3;1011.6 / 
+Junín;26-Junio-2021;04:00;Cubierto con lluvia;10 km;9.6;7.0; 84;Sur  18;1004.2 / 
+La Plata;26-Junio-2021;04:00;Nublado con neblina;8 km;6;5.0; 100;Sudeste  5;1012.5 / 
+Las Flores;25-Junio-2021;21:00;Nublado;15 km;9.9;No se calcula; 93;Calma;1009.7 / 
+Mar del Plata;26-Junio-2021;04:00;Nublado;10 km;9.3;7.9; 85;Sudoeste  9;1014.5 / 
+Mariano Moreno;25-Junio-2021;21:00;Algo nublado;10 km;11.4;No se calcula; 87;Noreste  9;1010.6 / 
+Merlo;26-Junio-2021;03:00;Algo nublado;10 km;10.6;No se calcula; 81;Calma;1012.4 / 
+Morón;26-Junio-2021;04:00;Parcialmente nublado;10 km;11.4;No se calcula; 80;Noreste  7;1011.3 / 
+Nueve de Julio;25-Junio-2021;21:00;Cubierto;15 km;11.9;No se calcula; 77;Sudeste  3;1004.2 / 
+Olavarría;25-Junio-2021;21:00;Parcialmente nublado;15 km;7.8;No se calcula; 89;Calma;994.6 / 
+Pehuajó;25-Junio-2021;21:00;Cubierto;15 km;9.9;7.6; 80;Sur  16;1003.8 / 
+Pigué;25-Junio-2021;21:00;Nublado;20 km;8.3;6.8; 81;Oeste  9;978.8 / 
+Punta Indio B.A.;25-Junio-2021;21:00;Algo nublado con banco delgado de niebla;900 mts;9.2;8.7; 64;Este  5;1012.8 / 
+San Fernando;26-Junio-2021;04:00;Parcialmente nublado;10 km;9.8;No se calcula; 89;Calma;1014.1 / 
+Tandil;26-Junio-2021;04:00;Cubierto con lluvia;5 km;7.1;4.4; 89;Sur  14;996.1 / 
+Trenque Lauquen;25-Junio-2021;21:00;Cubierto con lluvia;5 km;10;9.1; 86;Sudoeste  7;1003.8 / 
+Tres Arroyos;26-Junio-2021;03:00;Cubierto con neblina;8 km;7.7;6.5; 79;Noroeste  7;1002.1 / 
+Villa Gesell;25-Junio-2021;21:00;Nublado;10 km;9.4;No se calcula; 92;Calma;1014.1 / 
+Aeroparque Buenos Aires;26-Junio-2021;04:00;Parcialmente nublado;10 km;12.8;No se calcula; 80;Norte  5;1013.8 / 
+Buenos Aires;26-Junio-2021;04:00;Parcialmente nublado;10 km;12.2;No se calcula; 79;Norte  1;1011.4 / 
+Catamarca;25-Junio-2021;22:00;Parcialmente nublado;20 km;13.8;No se calcula; 70;Noreste  24;954.8 / 
+Tinogasta;25-Junio-2021;21:00;Algo nublado;20 km;17.6;No se calcula; 13;Noroeste  9;870.5 / 
+Pcia. Roque Saenz Peña;26-Junio-2021;04:00;Cubierto;20 km;15.7;No se calcula; 89;Sur  1;998.5 / 
+Resistencia;26-Junio-2021;03:00;Cubierto;15 km;15.1;No se calcula; 93;Sur  5;1002.6 / 
+Comodoro Rivadavia;26-Junio-2021;04:00;Algo nublado;30 km;5.3;0.8; 51;Sudoeste  25;1014.4 / 
+Esquel;26-Junio-2021;04:00;Algo nublado;30 km;0.2;-3.8; 82;Oeste  13;929 / 
+Paso De Indios;25-Junio-2021;21:00;Algo nublado;45 km;2.6;-1.7; 70;Oeste  18;958 / 
+Puerto Madryn;26-Junio-2021;04:00;Algo nublado;30 km;2.2;-1.7; 75;Sudoeste  14;1001 / 
+Trelew;26-Junio-2021;04:00;Parcialmente nublado;30 km;2.8;-1.5; 79;Oeste  18;1013.3 / 
+Córdoba;26-Junio-2021;04:00;Cubierto;15 km;8.9;4.9; 84;Sur  33;957 / 
+Córdoba Observatorio;26-Junio-2021;04:00;Cubierto;10 km;7.2;4.0; 96;Sur  18;963.6 / 
+Esc. Aviación Militar;26-Junio-2021;03:00;Parcialmente nublado;10 km;8.2;4.1; 86;Sur  31;956.2 / 
+Laboulaye;26-Junio-2021;04:00;Cubierto con lluvia;6 km;7.9;4.9; 87;Sudeste  18;1001.2 / 
+Marcos Juárez;26-Junio-2021;03:00;Nublado con neblina;6 km;8.2;7.5; 96;Oeste  5;999.6 / 
+Pilar Obs.;26-Junio-2021;03:00;Cubierto;10 km;9.1;6.0; 83;Sur  22;975.6 / 
+Río Cuarto;25-Junio-2021;21:00;Algo nublado;15 km;9.4;No se calcula; 76;Norte  3;962.1 / 
+Villa Dolores;26-Junio-2021;04:00;Cubierto con polvo levantado por viento;10 km;8;3.7; 72;Sur  33;948.8 / 
+Villa María Del Río Seco;25-Junio-2021;21:00;Nublado;15 km;7.6;No se calcula; 78;Calma;970.6 / 
+Corrientes;26-Junio-2021;04:00;Cubierto;10 km;15.4;No se calcula; 93;Sudeste  5;1001.2 / 
+Ituzaingó;25-Junio-2021;21:00;Cubierto;15 km;15.6;No se calcula; 91;Noreste  9;1001.8 / 
+Mercedes;25-Junio-2021;21:00;Parcialmente nublado;15 km;13;No se calcula; 88;Este  13;- / 
+Monte Caseros;26-Junio-2021;03:00;Parcialmente nublado;20 km;10.2;No se calcula; 92;Este  5;1004.1 / 
+Paso De Los Libres;26-Junio-2021;04:00;Nublado;10 km;12;No se calcula; 91;Este  11;1001.6 / 
+Concordia;26-Junio-2021;03:00;Nublado;15 km;9;No se calcula; 89;Calma;1007.8 / 
+Gualeguaychú;25-Junio-2021;21:00;Parcialmente nublado;15 km;12;No se calcula; 78;Este  7;1010.5 / 
+Paraná;26-Junio-2021;04:00;Cubierto con neblina;8 km;9.4;8.1; 93;Sur  9;1004 / 
+Formosa;26-Junio-2021;04:00;Nublado;20 km;15.7;No se calcula; 95;Calma;1000.4 / 
+Las Lomitas;25-Junio-2021;21:00;Cubierto;20 km;20.6;No se calcula; 75;Calma;994.2 / 
+Mount Pleasant Airport (Islas Malvinas);26-Junio-2021;04:00;Despejado;25 km;-0.1;-4.8; 88;Oeste  16;997 / 
+La Quiaca;26-Junio-2021;04:00;Algo nublado;30 km;-6.3;No se calcula; 69;Sudoeste  3;667.2 / 
+Jujuy;26-Junio-2021;04:00;Parcialmente nublado;10 km;6.7;5.8; 89;Noroeste  5;905.4 / 
+Jujuy Universidad Nacional;25-Junio-2021;21:00;Parcialmente nublado;12 km;9.2;No se calcula; 82;Calma;864.2 / 
+General Pico;25-Junio-2021;21:00;Parcialmente nublado;20 km;9.5;6.9; 88;Sur  18;997.7 / 
+Victorica;25-Junio-2021;21:00;Cubierto con lluvia en la hora anterior;40 km;6.9;No se calcula; 97;Sur  3;979.6 / 
+Santa Rosa;26-Junio-2021;04:00;Cubierto;30 km;7.6;4.5; 56;Sur  18;995.6 / 
+Chamical;25-Junio-2021;21:00;Parcialmente nublado;20 km;12.6;No se calcula; 72;Calma;956.2 / 
+Chepes;25-Junio-2021;21:00;Algo nublado;20 km;10.4;No se calcula; 63;Noreste  9;934.7 / 
+Chilecito;25-Junio-2021;21:00;Algo nublado;20 km;12.4;No se calcula; 63;Sur  9;905.2 / 
+La Rioja;26-Junio-2021;04:00;Parcialmente nublado;20 km;13;No se calcula; 64;Sur  11;962 / 
+Malargue;26-Junio-2021;04:00;Despejado;20 km;-3.2;No se calcula; 46;Sudoeste  3;858.6 / 
+Mendoza;26-Junio-2021;03:00;Nublado con lluvia;10 km;7.5;5.8; 92;Sur  9;937.2 / 
+Mendoza Observatorio;26-Junio-2021;03:00;Nublado con llovizna;8 km;6.6;No se calcula; 94;Calma;923.3 / 
+San Carlos (Mza);25-Junio-2021;21:00;Cubierto con lluvia;10 km;7.2;No se calcula; 89;Sur  3;903 / 
+San Martín (Mza);26-Junio-2021;04:00;Cubierto con llovizna en la hora anterior;10 km;6.4;No se calcula; 94;Sudeste  3;942.8 / 
+San Rafael;26-Junio-2021;03:00;Parcialmente nublado;20 km;4.8;2.2; 89;Sur  11;933.2 / 
+Uspallata;25-Junio-2021;21:00;Parcialmente nublado;15 km;5.6;No se calcula; 62;Calma;808.9 / 
+Bernardo De Irigoyen;25-Junio-2021;21:00;Algo nublado;20 km;18.6;No se calcula; 87;Noreste  3;920.2 / 
+Iguazú;26-Junio-2021;04:00;Parcialmente nublado;20 km;18.8;No se calcula; 96;Noreste  7;979.4 / 
+Oberá;25-Junio-2021;21:00;Cubierto;10 km;16.8;No se calcula; 82;Noreste  3;977.4 / 
+Posadas;26-Junio-2021;04:00;Parcialmente nublado con tormenta sin precipitación;20 km;18.6;No se calcula; 96;Sudeste  5;994.1 / 
+Chapelco;25-Junio-2021;21:00;Algo nublado;15 km;1.8;-3.5; 66;Oeste  24;927.6 / 
+Neuquén;26-Junio-2021;04:00;Despejado;15 km;3.8;0.3; 61;Oeste  14;989.8 / 
+Bariloche;26-Junio-2021;03:00;Algo nublado;10 km;0.6;-4.2; 63;Oeste  18;924.2 / 
+Cipolletti;25-Junio-2021;21:00;Despejado;25 km;8;6.4; 45;Oeste  9;985.9 / 
+El Bolsón;25-Junio-2021;21:00;Parcialmente nublado;30 km;1.5;No se calcula; 87;Calma;981.2 / 
+Maquinchao;26-Junio-2021;03:00;Algo nublado;40 km;-3;-6.7; 68;Oeste  9;917.4 / 
+Río Colorado;25-Junio-2021;21:00;Despejado;15 km;5.4;No se calcula; 66;Calma;1004.5 / 
+San Antonio Oeste;25-Junio-2021;21:00;Algo nublado;30 km;3.8;0.3; 62;Oeste  14;1012.4 / 
+Viedma;26-Junio-2021;04:00;Despejado;30 km;2.3;-0.4; 82;Oeste  9;1016.4 / 
+Metán;25-Junio-2021;21:00;Parcialmente nublado con neblina;13 km;11.2;No se calcula; 88;Oeste  3;912.7 / 
+Orán;26-Junio-2021;03:00;Cubierto;10 km;13.6;No se calcula; 86;Sudeste  9;965 / 
+Rivadavia;25-Junio-2021;21:00;Despejado;Superior a 70 km;16;No se calcula; 71;Calma;989.6 / 
+Salta;26-Junio-2021;04:00;Parcialmente nublado con neblina;10 km;3;0.5; 93;Sur  9;872.9 / 
+Tartagal;26-Junio-2021;04:00;Cubierto;10 km;11.2;No se calcula; 85;Noroeste  9;955.1 / 
+Jachal;25-Junio-2021;21:00;Despejado;20 km;9;No se calcula; 51;Calma;879.6 / 
+San Juan;26-Junio-2021;04:00;Cubierto con llovizna;15 km;8.4;4.4; 71;Sur  31;949.3 / 
+San Luis;26-Junio-2021;04:00;Nublado con llovizna;10 km;4.9;0.1; 95;Este  27;934.6 / 
+Santa Rosa del Conlara;25-Junio-2021;21:00;Parcialmente nublado;20 km;7.8;No se calcula; 74;Calma;939.6 / 
+Villa Reynolds;26-Junio-2021;04:00;Nublado con lluvia;8 km;6.1;No se calcula; 97;Calma;962.6 / 
+El Calafate;26-Junio-2021;04:00;Algo nublado;30 km;-1.6;-5.0; 78;Sudeste  9;997.4 / 
+Gobernador Gregores;25-Junio-2021;21:00;Algo nublado;45 km;2.2;No se calcula; 68;Calma;969.8 / 
+Perito Moreno;25-Junio-2021;21:00;Parcialmente nublado;50 km;4.8;0.6; 71;Oeste  22;963 / 
+Puerto Deseado;25-Junio-2021;21:00;Nublado con lluvia y nevada;10 km;4.1;-2.2; 92;Sudoeste  44;996.2 / 
+Río Gallegos;26-Junio-2021;04:00;Despejado;30 km;0;-5.3; 87;Oeste  20;1017.4 / 
+Río Turbio;25-Junio-2021;14:00;Algo nublado;20 km;---;---;---;---  0;969.8 / 
+San Julián;26-Junio-2021;04:00;Despejado;30 km;2;-4.3; 81;Sudoeste  35;1012 / 
+Santa Cruz;25-Junio-2021;21:00;Parcialmente nublado;30 km;3.8;-2.1; 64;Sur  37;997 / 
+Ceres;26-Junio-2021;04:00;Parcialmente nublado con neblina;8 km;10.4;No se calcula; 92;Este  3;1000.4 / 
+El Trébol;25-Junio-2021;21:00;Parcialmente nublado;15 km;10.4;No se calcula; 94;Noreste  3;1000 / 
+Rafaela;25-Junio-2021;21:00;Parcialmente nublado;10 km;8.8;No se calcula; 90;Calma;999.5 / 
+Reconquista;26-Junio-2021;04:00;Nublado con neblina;4.0 km;10.8;No se calcula; 96;Sur  5;1004.1 / 
+Rosario;26-Junio-2021;04:00;Cubierto con neblina;7 km;7.6;No se calcula; 92;Calma;1009.8 / 
+Santa Fe;26-Junio-2021;04:00;Cubierto;12 km;10.9;No se calcula; 94;Sur  3;1010.4 / 
+Sunchales;26-Junio-2021;04:00;Parcialmente nublado;15 km;10;No se calcula; 97;Calma;1001.6 / 
+Venado Tuerto;25-Junio-2021;21:00;Parcialmente nublado;10 km;10.5;No se calcula; 88;Norte  9;998.1 / 
+Termas de Rio Hondo;25-Junio-2021;21:00;Parcialmente nublado;10 km;13.5;No se calcula; 72;Noreste  9;975.9 / 
+Santiago del Estero;26-Junio-2021;04:00;Nublado;10 km;8.5;7.4; 93;Sur  7;986 / 
+Río Grande B.A.;26-Junio-2021;04:00;Despejado;30 km;0.4;-2.6; 88;Sudoeste  9;1013.8 / 
+Ushuaia;26-Junio-2021;04:00;Parcialmente nublado;30 km;4.6;-0.1; 73;Oeste  25;1009.7 / 
+Tucumán;26-Junio-2021;04:00;Parcialmente nublado con humo;6 km;8.6;7.1; 89;Noroeste  9;957.4 / 
+Base Belgrano II;26-Junio-2021;03:00;Cubierto con nevada;4.0 km;-21;-31.8; 81;Oeste  20;970.1 / 
+Base Esperanza;26-Junio-2021;03:00;Nublado;10 km;1.5;-5.4; 92;Oeste  40;982 / 
+Base Carlini;26-Junio-2021;03:00;Cubierto con ventisca baja;4.0 km;-1.3;-9.2; 93;Noroeste  40;990.5 / 
+Base Marambio;26-Junio-2021;04:00;Cubierto;15 km;-1.7;-8.4; 94;Sudoeste  27;959.8 / 
+Base Orcadas;25-Junio-2021;21:00;Cubierto con nevada;3.0 km;-1.5;-8.4; 90;Oeste  29;1004.9 / 
+Base San Martín;26-Junio-2021;03:00;Cubierto con nevada;6 km;-2;-6.4; 79;Norte  13;985.6 / 
+Azul;26-Junio-2021;05:00;Cubierto con llovizna;8 km;6.9;No se calcula; 92;Sur  3;998.1 / 
+Bahía Blanca;26-Junio-2021;05:00;Cubierto;15 km;4.3;1.2; 72;Oeste  13;1008.2 / 
+Benito Juárez;25-Junio-2021;21:00;Cubierto;10 km;8.2;No se calcula; 94;Calma;988.2 / 
+Bolívar;25-Junio-2021;21:00;Cubierto;15 km;9.8;No se calcula; 88;Este  3;1003 / 
+Campo de Mayo;25-Junio-2021;21:00;Algo nublado;10 km;10.2;No se calcula; 88;Este  7;1012 / 
+Coronel Pringles;25-Junio-2021;21:00;Cubierto;10 km;7.6;No se calcula; 84;Noroeste  3;986 / 
+Coronel Suarez;25-Junio-2021;21:00;Nublado con lluvia;12 km;8.7;6.1; 90;Noroeste  16;987.7 / 
+Dolores;26-Junio-2021;05:00;Nublado;10 km;7.6;6.3; 87;Sudeste  7;1013.2 / 
+El Palomar;26-Junio-2021;05:00;Algo nublado;10 km;4.8;No se calcula; 96;Calma;1012.2 / 
+Ezeiza;26-Junio-2021;05:00;Algo nublado con niebla a la distancia;800 mts;8.8;8.2; 97;Este  5;1011.2 / 
+Junín;26-Junio-2021;05:00;Cubierto con lluvia en la hora anterior;10 km;9.6;6.7; 63;Sur  22;1004.4 / 
+La Plata;26-Junio-2021;05:00;Algo nublado con niebla;400 mts;6.4;No se calcula; 100;Calma;1012 / 
+Las Flores;25-Junio-2021;21:00;Nublado;15 km;9.9;No se calcula; 93;Calma;1009.7 / 
+Mar del Plata;26-Junio-2021;04:00;Nublado;10 km;9.3;7.9; 85;Sudoeste  9;1014.5 / 
+Mariano Moreno;25-Junio-2021;21:00;Algo nublado;10 km;11.4;No se calcula; 87;Noreste  9;1010.6 / 
+Merlo;26-Junio-2021;03:00;Algo nublado;10 km;10.6;No se calcula; 81;Calma;1012.4 / 
+Morón;26-Junio-2021;05:00;Algo nublado;10 km;9.6;No se calcula; 86;Calma;1010.9 / 
+Nueve de Julio;25-Junio-2021;21:00;Cubierto;15 km;11.9;No se calcula; 77;Sudeste  3;1004.2 / 
+Olavarría;25-Junio-2021;21:00;Parcialmente nublado;15 km;7.8;No se calcula; 89;Calma;994.6 / 
+Pehuajó;25-Junio-2021;21:00;Cubierto;15 km;9.9;7.6; 80;Sur  16;1003.8 / 
+Pigué;25-Junio-2021;21:00;Nublado;20 km;8.3;6.8; 81;Oeste  9;978.8 / 
+Punta Indio B.A.;25-Junio-2021;21:00;Algo nublado con banco delgado de niebla;900 mts;9.2;8.7; 64;Este  5;1012.8 / 
+San Fernando;26-Junio-2021;05:00;Algo nublado;10 km;9;No se calcula; 94;Direcciones Variables  1;1013.3 / 
+Tandil;26-Junio-2021;05:00;Cubierto con lluvia;6 km;7;4.0; 91;Sur  16;995.6 / 
+Trenque Lauquen;25-Junio-2021;21:00;Cubierto con lluvia;5 km;10;9.1; 86;Sudoeste  7;1003.8 / 
+Tres Arroyos;26-Junio-2021;03:00;Cubierto con neblina;8 km;7.7;6.5; 79;Noroeste  7;1002.1 / 
+Villa Gesell;25-Junio-2021;21:00;Nublado;10 km;9.4;No se calcula; 92;Calma;1014.1 / 
+Aeroparque Buenos Aires;26-Junio-2021;05:00;Parcialmente nublado;10 km;12.2;No se calcula; 83;Direcciones Variables  3;1013.2 / 
+Buenos Aires;26-Junio-2021;05:00;Nublado;10 km;11.9;No se calcula; 79;Calma;1010.8 / 
+Catamarca;25-Junio-2021;22:00;Parcialmente nublado;20 km;13.8;No se calcula; 70;Noreste  24;954.8 / 
+Tinogasta;25-Junio-2021;21:00;Algo nublado;20 km;17.6;No se calcula; 13;Noroeste  9;870.5 / 
+Pcia. Roque Saenz Peña;26-Junio-2021;05:00;Cubierto;20 km;15.7;No se calcula; 89;Sur  3;998.2 / 
+Resistencia;26-Junio-2021;05:00;Cubierto con lluvia;10 km;15.1;No se calcula; 93;Sur  3;1002 / 
+Comodoro Rivadavia;26-Junio-2021;05:00;Algo nublado;30 km;5.6;1.2; 48;Sudoeste  25;1014.9 / 
+Esquel;26-Junio-2021;05:00;Algo nublado;30 km;-0.2;-4.9; 89;Oeste  16;929.8 / 
+Paso De Indios;25-Junio-2021;21:00;Algo nublado;45 km;2.6;-1.7; 70;Oeste  18;958 / 
+Puerto Madryn;26-Junio-2021;05:00;Despejado;30 km;3.4;-0.7; 70;Sudoeste  18;1001.4 / 
+Trelew;26-Junio-2021;05:00;Algo nublado;30 km;2.9;-1.4; 79;Oeste  18;1013.6 / 
+Córdoba;26-Junio-2021;05:00;Cubierto;12 km;8.3;3.6; 77;Sur  42;958 / 
+Córdoba Observatorio;26-Junio-2021;05:00;Cubierto;10 km;8.5;5.5; 94;Sur  20;964 / 
+Esc. Aviación Militar;26-Junio-2021;03:00;Parcialmente nublado;10 km;8.2;4.1; 86;Sur  31;956.2 / 
+Laboulaye;26-Junio-2021;05:00;Cubierto con lluvia;8 km;7.5;4.9; 92;Sudeste  14;1001.2 / 
+Marcos Juárez;26-Junio-2021;05:00;Nublado;20 km;10.4;No se calcula; 93;Sur  29;999.6 / 
+Pilar Obs.;26-Junio-2021;03:00;Cubierto;10 km;9.1;6.0; 83;Sur  22;975.6 / 
+Río Cuarto;25-Junio-2021;21:00;Algo nublado;15 km;9.4;No se calcula; 76;Norte  3;962.1 / 
+Villa Dolores;26-Junio-2021;05:00;Parcialmente nublado con humo;10 km;6.5;2.5; 80;Sur  24;948.9 / 
+Villa María Del Río Seco;25-Junio-2021;21:00;Nublado;15 km;7.6;No se calcula; 78;Calma;970.6 / 
+Corrientes;26-Junio-2021;05:00;Cubierto con lluvia;6 km;15;No se calcula; 98;Sudeste  3;1000.9 / 
+Ituzaingó;25-Junio-2021;21:00;Cubierto;15 km;15.6;No se calcula; 91;Noreste  9;1001.8 / 
+Mercedes;25-Junio-2021;21:00;Parcialmente nublado;15 km;13;No se calcula; 88;Este  13;- / 
+Monte Caseros;26-Junio-2021;03:00;Parcialmente nublado;20 km;10.2;No se calcula; 92;Este  5;1004.1 / 
+Paso De Los Libres;26-Junio-2021;05:00;Nublado;10 km;12;No se calcula; 94;Este  5;1001.4 / 
+Concordia;26-Junio-2021;05:00;Cubierto;15 km;8.9;7.9; 96;Sur  7;1007 / 
+Gualeguaychú;25-Junio-2021;21:00;Parcialmente nublado;15 km;12;No se calcula; 78;Este  7;1010.5 / 
+Paraná;26-Junio-2021;05:00;Parcialmente nublado con neblina;8 km;10;8.5; 96;Sur  11;1003.4 / 
+Formosa;26-Junio-2021;05:00;Cubierto;20 km;16.1;No se calcula; 95;Sudeste  5;1000.5 / 
+Las Lomitas;25-Junio-2021;21:00;Cubierto;20 km;20.6;No se calcula; 75;Calma;994.2 / 
+Mount Pleasant Airport (Islas Malvinas);26-Junio-2021;05:00;Despejado;25 km;-1.1;-6.4; 91;Oeste  18;997.8 / 
+La Quiaca;26-Junio-2021;05:00;Algo nublado;30 km;-7.1;No se calcula; 66;Sudoeste  3;666.8 / 
+Jujuy;26-Junio-2021;05:00;Parcialmente nublado;10 km;5.5;3.0; 94;Oeste  11;905.4 / 
+Jujuy Universidad Nacional;25-Junio-2021;21:00;Parcialmente nublado;12 km;9.2;No se calcula; 82;Calma;864.2 / 
+General Pico;25-Junio-2021;21:00;Parcialmente nublado;20 km;9.5;6.9; 88;Sur  18;997.7 / 
+Victorica;25-Junio-2021;21:00;Cubierto con lluvia en la hora anterior;40 km;6.9;No se calcula; 97;Sur  3;979.6 / 
+Santa Rosa;26-Junio-2021;05:00;Cubierto;30 km;6.8;3.5; 55;Sur  18;995.8 / 
+Chamical;25-Junio-2021;21:00;Parcialmente nublado;20 km;12.6;No se calcula; 72;Calma;956.2 / 
+Chepes;25-Junio-2021;21:00;Algo nublado;20 km;10.4;No se calcula; 63;Noreste  9;934.7 / 
+Chilecito;25-Junio-2021;21:00;Algo nublado;20 km;12.4;No se calcula; 63;Sur  9;905.2 / 
+La Rioja;26-Junio-2021;05:00;Cubierto;20 km;12.8;No se calcula; 61;Sur  14;963 / 
+Malargue;26-Junio-2021;05:00;Despejado;20 km;-2.2;No se calcula; 49;Sudoeste  3;858.9 / 
+Mendoza;26-Junio-2021;05:00;Nublado con lluvia;8 km;7.2;4.5; 92;Sur  14;938.1 / 
+Mendoza Observatorio;26-Junio-2021;03:00;Nublado con llovizna;8 km;6.6;No se calcula; 94;Calma;923.3 / 
+San Carlos (Mza);25-Junio-2021;21:00;Cubierto con lluvia;10 km;7.2;No se calcula; 89;Sur  3;903 / 
+San Martín (Mza);26-Junio-2021;05:00;Cubierto;15 km;5.9;3.9; 92;Sur  9;943 / 
+San Rafael;26-Junio-2021;04:00;Algo nublado;20 km;2.8;1.4; 81;Oeste  5;933.8 / 
+Uspallata;25-Junio-2021;21:00;Parcialmente nublado;15 km;5.6;No se calcula; 62;Calma;808.9 / 
+Bernardo De Irigoyen;25-Junio-2021;21:00;Algo nublado;20 km;18.6;No se calcula; 87;Noreste  3;920.2 / 
+Iguazú;26-Junio-2021;05:00;Parcialmente nublado;20 km;18.5;No se calcula; 96;Noreste  11;979 / 
+Oberá;25-Junio-2021;21:00;Cubierto;10 km;16.8;No se calcula; 82;Noreste  3;977.4 / 
+Posadas;26-Junio-2021;05:00;Parcialmente nublado con tormenta en la hora anterior;20 km;18.5;No se calcula; 96;Sudeste  5;993.6 / 
+Chapelco;25-Junio-2021;21:00;Algo nublado;15 km;1.8;-3.5; 66;Oeste  24;927.6 / 
+Neuquén;26-Junio-2021;05:00;Despejado;15 km;3.4;2.1; 67;Oeste  5;990.6 / 
+Bariloche;26-Junio-2021;05:00;Algo nublado;10 km;-4.1;-6.5; 79;Sur  5;925.7 / 
+Cipolletti;25-Junio-2021;21:00;Despejado;25 km;8;6.4; 45;Oeste  9;985.9 / 
+El Bolsón;25-Junio-2021;21:00;Parcialmente nublado;30 km;1.5;No se calcula; 87;Calma;981.2 / 
+Maquinchao;26-Junio-2021;03:00;Algo nublado;40 km;-3;-6.7; 68;Oeste  9;917.4 / 
+Río Colorado;25-Junio-2021;21:00;Despejado;15 km;5.4;No se calcula; 66;Calma;1004.5 / 
+San Antonio Oeste;25-Junio-2021;21:00;Algo nublado;30 km;3.8;0.3; 62;Oeste  14;1012.4 / 
+Viedma;26-Junio-2021;05:00;Despejado;30 km;1.9;-1.7; 80;Noroeste  13;1016.9 / 
+Metán;25-Junio-2021;21:00;Parcialmente nublado con neblina;13 km;11.2;No se calcula; 88;Oeste  3;912.7 / 
+Orán;26-Junio-2021;03:00;Cubierto;10 km;13.6;No se calcula; 86;Sudeste  9;965 / 
+Rivadavia;25-Junio-2021;21:00;Despejado;Superior a 70 km;16;No se calcula; 71;Calma;989.6 / 
+Salta;26-Junio-2021;05:00;Parcialmente nublado con neblina;12 km;3.6;No se calcula; 95;Calma;872.5 / 
+Tartagal;26-Junio-2021;05:00;Cubierto;10 km;12.6;No se calcula; 77;Calma;954.7 / 
+Jachal;25-Junio-2021;21:00;Despejado;20 km;9;No se calcula; 51;Calma;879.6 / 
+San Juan;26-Junio-2021;05:00;Cubierto con llovizna;15 km;7;3.2; 86;Sur  24;950.2 / 
+San Luis;26-Junio-2021;05:00;Nublado con llovizna;10 km;5.3;0.7; 89;Este  27;934.5 / 
+Santa Rosa del Conlara;25-Junio-2021;21:00;Parcialmente nublado;20 km;7.8;No se calcula; 74;Calma;939.6 / 
+Villa Reynolds;26-Junio-2021;05:00;Nublado con lluvia;8 km;5.8;No se calcula; 98;Calma;962.2 / 
+El Calafate;26-Junio-2021;05:00;Algo nublado;30 km;-2;-5.5; 89;Este  9;998.1 / 
+Gobernador Gregores;25-Junio-2021;21:00;Algo nublado;45 km;2.2;No se calcula; 68;Calma;969.8 / 
+Perito Moreno;25-Junio-2021;21:00;Parcialmente nublado;50 km;4.8;0.6; 71;Oeste  22;963 / 
+Puerto Deseado;25-Junio-2021;21:00;Nublado con lluvia y nevada;10 km;4.1;-2.2; 92;Sudoeste  44;996.2 / 
+Río Gallegos;26-Junio-2021;05:00;Despejado;30 km;0.2;-5.0; 85;Oeste  20;1018 / 
+Río Turbio;25-Junio-2021;14:00;Algo nublado;20 km;---;---;---;---  0;969.8 / 
+San Julián;26-Junio-2021;05:00;Algo nublado;30 km;1.8;-4.1; 80;Sudoeste  29;1012.6 / 
+Santa Cruz;25-Junio-2021;21:00;Parcialmente nublado;30 km;3.8;-2.1; 64;Sur  37;997 / 
+Ceres;26-Junio-2021;05:00;Cubierto con neblina;8 km;10.4;No se calcula; 92;Sudeste  3;1000 / 
+El Trébol;25-Junio-2021;21:00;Parcialmente nublado;15 km;10.4;No se calcula; 94;Noreste  3;1000 / 
+Rafaela;25-Junio-2021;21:00;Parcialmente nublado;10 km;8.8;No se calcula; 90;Calma;999.5 / 
+Reconquista;26-Junio-2021;05:00;Cubierto con neblina;6 km;11;No se calcula; 94;Sur  11;1004 / 
+Rosario;26-Junio-2021;05:00;Cubierto con neblina;8 km;7.8;No se calcula; 96;Sur  3;1009.8 / 
+Santa Fe;26-Junio-2021;05:00;Cubierto;12 km;10.3;No se calcula; 96;Oeste  9;1010.2 / 
+Sunchales;26-Junio-2021;05:00;Parcialmente nublado con neblina;10 km;8.2;No se calcula; 97;Calma;1001.6 / 
+Venado Tuerto;25-Junio-2021;21:00;Parcialmente nublado;10 km;10.5;No se calcula; 88;Norte  9;998.1 / 
+Termas de Rio Hondo;25-Junio-2021;21:00;Parcialmente nublado;10 km;13.5;No se calcula; 72;Noreste  9;975.9 / 
+Santiago del Estero;26-Junio-2021;05:00;Parcialmente nublado;10 km;8;7.3; 94;Sur  5;986.1 / 
+Río Grande B.A.;26-Junio-2021;04:00;Despejado;30 km;0.4;-2.6; 88;Sudoeste  9;1013.8 / 
+Ushuaia;26-Junio-2021;05:00;Parcialmente nublado;30 km;4.8;-0.2; 71;Sudoeste  29;1010.5 / 
+Tucumán;26-Junio-2021;05:00;Parcialmente nublado con humo;7 km;8;6.4; 89;Noroeste  9;957.6 / 
+Base Belgrano II;26-Junio-2021;03:00;Cubierto con nevada;4.0 km;-21;-31.8; 81;Oeste  20;970.1 / 
+Base Esperanza;26-Junio-2021;03:00;Nublado;10 km;1.5;-5.4; 92;Oeste  40;982 / 
+Base Carlini;26-Junio-2021;03:00;Cubierto con ventisca baja;4.0 km;-1.3;-9.2; 93;Noroeste  40;990.5 / 
+Base Marambio;26-Junio-2021;05:00;Cubierto;15 km;-1.8;-9.8; 94;Sudoeste  40;960 / 
+Base Orcadas;25-Junio-2021;21:00;Cubierto con nevada;3.0 km;-1.5;-8.4; 90;Oeste  29;1004.9 / 
+Base San Martín;26-Junio-2021;03:00;Cubierto con nevada;6 km;-2;-6.4; 79;Norte  13;985.6 / 
+Azul;26-Junio-2021;06:00;Nublado con lluvia;5 km;6.8;3.8; 87;Sur  16;997.8 / 
+Bahía Blanca;26-Junio-2021;06:00;Cubierto;15 km;3.7;0.2; 77;Oeste  14;1008.9 / 
+Benito Juárez;25-Junio-2021;21:00;Cubierto;10 km;8.2;No se calcula; 94;Calma;988.2 / 
+Bolívar;26-Junio-2021;06:00;Cubierto con llovizna;5 km;6.8;No se calcula; 91;Calma;1005.2 / 
+Campo de Mayo;26-Junio-2021;06:00;Algo nublado con niebla;900 mts;5.4;3.3; 100;Sudeste  9;1010.5 / 
+Coronel Pringles;25-Junio-2021;21:00;Cubierto;10 km;7.6;No se calcula; 84;Noroeste  3;986 / 
+Coronel Suarez;26-Junio-2021;06:00;Nublado;12 km;5.3;2.8; 90;Sudoeste  11;988.5 / 
+Dolores;26-Junio-2021;06:00;Parcialmente nublado;10 km;6.8;5.4; 91;Sur  7;1013.4 / 
+El Palomar;26-Junio-2021;06:00;Algo nublado;10 km;4.1;No se calcula; 96;Sudeste  1;1011.8 / 
+Ezeiza;26-Junio-2021;06:00;Algo nublado con niebla en bancos;500 mts;8.4;No se calcula; 97;Este  3;1010.8 / 
+Junín;26-Junio-2021;06:00;Cubierto;10 km;8.4;4.5; 82;Sur  29;1004.9 / 
+La Plata;26-Junio-2021;06:00;Algo nublado con niebla;200 mts;5;No se calcula; 100;Sudeste  3;1011.7 / 
+Las Flores;26-Junio-2021;06:00;Cubierto;15 km;9.3;6.0; 82;Sudeste  25;1010.2 / 
+Mar del Plata;26-Junio-2021;06:00;Nublado con lluvia;8 km;8;6.8; 89;Sur  7;1014.8 / 
+Mariano Moreno;25-Junio-2021;21:00;Algo nublado;10 km;11.4;No se calcula; 87;Noreste  9;1010.6 / 
+Merlo;26-Junio-2021;06:00;Parcialmente nublado;10 km;8.4;No se calcula; 91;Calma;1012.1 / 
+Morón;26-Junio-2021;06:00;Parcialmente nublado;10 km;8.2;No se calcula; 90;Calma;1010.4 / 
+Nueve de Julio;25-Junio-2021;21:00;Cubierto;15 km;11.9;No se calcula; 77;Sudeste  3;1004.2 / 
+Olavarría;26-Junio-2021;06:00;Nublado con lluvia;5 km;6.6;5.7; 89;Sur  5;996.4 / 
+Pehuajó;26-Junio-2021;06:00;Cubierto con neblina;10 km;7;No se calcula; 91;Calma;1006.5 / 
+Pigué;25-Junio-2021;21:00;Nublado;20 km;8.3;6.8; 81;Oeste  9;978.8 / 
+Punta Indio B.A.;25-Junio-2021;21:00;Algo nublado con banco delgado de niebla;900 mts;9.2;8.7; 64;Este  5;1012.8 / 
+San Fernando;26-Junio-2021;06:00;Algo nublado;10 km;7;6.2; 94;Este  5;1013 / 
+Tandil;26-Junio-2021;06:00;Cubierto con lluvia;6 km;6.6;3.5; 85;Sur  16;995 / 
+Trenque Lauquen;25-Junio-2021;21:00;Cubierto con lluvia;5 km;10;9.1; 86;Sudoeste  7;1003.8 / 
+Tres Arroyos;26-Junio-2021;06:00;Parcialmente nublado;10 km;6.3;5.4; 63;Oeste  5;1002.4 / 
+Villa Gesell;25-Junio-2021;21:00;Nublado;10 km;9.4;No se calcula; 92;Calma;1014.1 / 
+Aeroparque Buenos Aires;26-Junio-2021;06:00;Parcialmente nublado;10 km;10.5;No se calcula; 91;Calma;1012.7 / 
+Buenos Aires;26-Junio-2021;06:00;Nublado;10 km;11.2;No se calcula; 81;Noreste  3;1010.2 / 
+Catamarca;26-Junio-2021;06:00;Cubierto;20 km;9.6;No se calcula; 82;Calma;959.2 / 
+Tinogasta;26-Junio-2021;06:00;Despejado;20 km;2;-0.7; 81;Sur  9;874.7 / 
+Pcia. Roque Saenz Peña;26-Junio-2021;06:00;Cubierto;20 km;15.5;No se calcula; 91;Sur  1;998.1 / 
+Resistencia;26-Junio-2021;06:00;Nublado con lluvia;12 km;14.9;No se calcula; 96;Sur  3;1001.8 / 
+Comodoro Rivadavia;26-Junio-2021;06:00;Parcialmente nublado;30 km;5.3;0.7; 51;Sudoeste  27;1015.6 / 
+Esquel;26-Junio-2021;06:00;Algo nublado;30 km;-0.4;-4.1; 88;Oeste  11;930.4 / 
+Paso De Indios;25-Junio-2021;21:00;Algo nublado;45 km;2.6;-1.7; 70;Oeste  18;958 / 
+Puerto Madryn;26-Junio-2021;06:00;Despejado;30 km;3.8;-0.7; 73;Sudoeste  22;1001.8 / 
+Trelew;26-Junio-2021;06:00;Algo nublado;30 km;3;-2.3; 76;Oeste  27;1014.1 / 
+Córdoba;26-Junio-2021;06:00;Cubierto con lluvia;9 km;7.1;2.8; 89;Sur  29;958.9 / 
+Córdoba Observatorio;26-Junio-2021;06:00;Cubierto con llovizna;9 km;8.2;4.9; 85;Sur  22;964.4 / 
+Esc. Aviación Militar;26-Junio-2021;06:00;Nublado;10 km;7.8;3.7; 80;Sur  29;958.6 / 
+Laboulaye;26-Junio-2021;05:00;Cubierto con lluvia;8 km;7.5;4.9; 92;Sudeste  14;1001.2 / 
+Marcos Juárez;26-Junio-2021;06:00;Nublado;20 km;8.5;3.5; 85;Sur  48;1000.8 / 
+Pilar Obs.;26-Junio-2021;03:00;Cubierto;10 km;9.1;6.0; 83;Sur  22;975.6 / 
+Río Cuarto;26-Junio-2021;06:00;Nublado con lluvia;10 km;6;3.0; 95;Sudoeste  14;968 / 
+Villa Dolores;26-Junio-2021;06:00;Nublado con humo;10 km;6.4;4.5; 81;Sur  9;949.6 / 
+Villa María Del Río Seco;26-Junio-2021;03:00;Cubierto;15 km;7.6;No se calcula; 83;Calma;971.8 / 
+Corrientes;26-Junio-2021;06:00;Cubierto con lluvia en la hora anterior;10 km;15;No se calcula; 98;Sur  5;1000.9 / 
+Ituzaingó;25-Junio-2021;21:00;Cubierto;15 km;15.6;No se calcula; 91;Noreste  9;1001.8 / 
+Mercedes;25-Junio-2021;21:00;Parcialmente nublado;15 km;13;No se calcula; 88;Este  13;- / 
+Monte Caseros;26-Junio-2021;03:00;Parcialmente nublado;20 km;10.2;No se calcula; 92;Este  5;1004.1 / 
+Paso De Los Libres;26-Junio-2021;06:00;Nublado;10 km;12.4;No se calcula; 93;Noreste  3;1001.3 / 
+Concordia;26-Junio-2021;06:00;Nublado;15 km;9;No se calcula; 92;Sur  3;1006.9 / 
+Gualeguaychú;26-Junio-2021;06:00;Cubierto con neblina;7 km;8.7;No se calcula; 96;Sudoeste  3;1016.9 / 
+Paraná;26-Junio-2021;06:00;Parcialmente nublado con neblina;8 km;10.2;No se calcula; 94;Sudoeste  9;1003.3 / 
+Formosa;26-Junio-2021;06:00;Cubierto;20 km;16.7;No se calcula; 95;Sudeste  3;1000.2 / 
+Las Lomitas;26-Junio-2021;06:00;Parcialmente nublado;20 km;17.6;No se calcula; 88;Sur  3;991.8 / 
+Mount Pleasant Airport (Islas Malvinas);26-Junio-2021;06:00;Despejado;25 km;-0.9;-5.8; 91;Oeste  16;999.2 / 
+La Quiaca;26-Junio-2021;06:00;Algo nublado;30 km;-4.9;No se calcula; 77;Sudoeste  3;666.6 / 
+Jujuy;26-Junio-2021;06:00;Parcialmente nublado;10 km;5.9;3.5; 90;Oeste  11;905.4 / 
+Jujuy Universidad Nacional;25-Junio-2021;21:00;Parcialmente nublado;12 km;9.2;No se calcula; 82;Calma;864.2 / 
+General Pico;26-Junio-2021;06:00;Cubierto;20 km;6.1;2.9; 83;Sudoeste  16;1000.4 / 
+Victorica;25-Junio-2021;21:00;Cubierto con lluvia en la hora anterior;40 km;6.9;No se calcula; 97;Sur  3;979.6 / 
+Santa Rosa;26-Junio-2021;06:00;Cubierto;30 km;5.5;1.9; 58;Sur  18;996.1 / 
+Chamical;25-Junio-2021;21:00;Parcialmente nublado;20 km;12.6;No se calcula; 72;Calma;956.2 / 
+Chepes;25-Junio-2021;21:00;Algo nublado;20 km;10.4;No se calcula; 63;Noreste  9;934.7 / 
+Chilecito;25-Junio-2021;21:00;Algo nublado;20 km;12.4;No se calcula; 63;Sur  9;905.2 / 
+La Rioja;26-Junio-2021;06:00;Cubierto;20 km;13.1;No se calcula; 64;Sur  18;963.8 / 
+Malargue;26-Junio-2021;06:00;Despejado;20 km;-5.4;-11.0; 69;Sudoeste  14;859.7 / 
+Mendoza;26-Junio-2021;06:00;Nublado con lluvia;8 km;5.5;1.7; 92;Sur  20;938.8 / 
+Mendoza Observatorio;26-Junio-2021;06:00;Nublado con llovizna;6 km;4.2;No se calcula; 96;Oeste  3;924.8 / 
+San Carlos (Mza);25-Junio-2021;21:00;Cubierto con lluvia;10 km;7.2;No se calcula; 89;Sur  3;903 / 
+San Martín (Mza);26-Junio-2021;05:00;Cubierto;15 km;5.9;3.9; 92;Sur  9;943 / 
+San Rafael;26-Junio-2021;06:00;Despejado;20 km;1.6;-0.7; 86;Sur  7;934.6 / 
+Uspallata;25-Junio-2021;21:00;Parcialmente nublado;15 km;5.6;No se calcula; 62;Calma;808.9 / 
+Bernardo De Irigoyen;26-Junio-2021;06:00;Parcialmente nublado con neblina;12 km;18.4;No se calcula; 88;Noreste  24;919.8 / 
+Iguazú;26-Junio-2021;06:00;Parcialmente nublado;20 km;18.4;No se calcula; 98;Noreste  9;979 / 
+Oberá;25-Junio-2021;21:00;Cubierto;10 km;16.8;No se calcula; 82;Noreste  3;977.4 / 
+Posadas;26-Junio-2021;06:00;Parcialmente nublado con relámpagos sin truenos;20 km;18.3;No se calcula; 96;Sudeste  5;993.4 / 
+Chapelco;25-Junio-2021;21:00;Algo nublado;15 km;1.8;-3.5; 66;Oeste  24;927.6 / 
+Neuquén;26-Junio-2021;05:00;Despejado;15 km;3.4;2.1; 67;Oeste  5;990.6 / 
+Bariloche;26-Junio-2021;06:00;Algo nublado;10 km;-3.8;-7.0; 79;Sur  7;925.8 / 
+Cipolletti;25-Junio-2021;21:00;Despejado;25 km;8;6.4; 45;Oeste  9;985.9 / 
+El Bolsón;25-Junio-2021;21:00;Parcialmente nublado;30 km;1.5;No se calcula; 87;Calma;981.2 / 
+Maquinchao;26-Junio-2021;06:00;Despejado;40 km;-6;No se calcula; 74;Calma;918.9 / 
+Río Colorado;25-Junio-2021;21:00;Despejado;15 km;5.4;No se calcula; 66;Calma;1004.5 / 
+San Antonio Oeste;25-Junio-2021;21:00;Algo nublado;30 km;3.8;0.3; 62;Oeste  14;1012.4 / 
+Viedma;26-Junio-2021;06:00;Despejado;30 km;0.8;-2.1; 81;Noroeste  9;1017.2 / 
+Metán;25-Junio-2021;21:00;Parcialmente nublado con neblina;13 km;11.2;No se calcula; 88;Oeste  3;912.7 / 
+Orán;26-Junio-2021;06:00;Algo nublado con neblina;4.0 km;11;No se calcula; 89;Calma;964.4 / 
+Rivadavia;25-Junio-2021;21:00;Despejado;Superior a 70 km;16;No se calcula; 71;Calma;989.6 / 
+Salta;26-Junio-2021;06:00;Parcialmente nublado con neblina;14 km;3.3;1.9; 93;Oeste  5;872.5 / 
+Tartagal;26-Junio-2021;06:00;Cubierto;10 km;13;No se calcula; 84;Oeste  3;954.9 / 
+Jachal;25-Junio-2021;21:00;Despejado;20 km;9;No se calcula; 51;Calma;879.6 / 
+San Juan;26-Junio-2021;06:00;Cubierto con llovizna;15 km;6.8;3.5; 91;Sur  18;950.2 / 
+San Luis;26-Junio-2021;06:00;Nublado con llovizna en la hora anterior;20 km;4.7;-1.1; 89;Este  40;935 / 
+Santa Rosa del Conlara;25-Junio-2021;21:00;Parcialmente nublado;20 km;7.8;No se calcula; 74;Calma;939.6 / 
+Villa Reynolds;26-Junio-2021;06:00;Nublado con lluvia;8 km;5.3;3.7; 98;Sur  7;961.8 / 
+El Calafate;26-Junio-2021;06:00;Algo nublado;30 km;-3;-6.7; 95;Este  9;998.6 / 
+Gobernador Gregores;25-Junio-2021;21:00;Algo nublado;45 km;2.2;No se calcula; 68;Calma;969.8 / 
+Perito Moreno;25-Junio-2021;21:00;Parcialmente nublado;50 km;4.8;0.6; 71;Oeste  22;963 / 
+Puerto Deseado;25-Junio-2021;21:00;Nublado con lluvia y nevada;10 km;4.1;-2.2; 92;Sudoeste  44;996.2 / 
+Río Gallegos;26-Junio-2021;06:00;Algo nublado;30 km;0;-5.5; 89;Oeste  22;1019 / 
+Río Turbio;25-Junio-2021;14:00;Algo nublado;20 km;---;---;---;---  0;969.8 / 
+San Julián;26-Junio-2021;06:00;Parcialmente nublado;30 km;2.2;-3.7; 84;Oeste  31;1014 / 
+Santa Cruz;25-Junio-2021;21:00;Parcialmente nublado;30 km;3.8;-2.1; 64;Sur  37;997 / 
+Ceres;26-Junio-2021;06:00;Parcialmente nublado con neblina;8 km;10;No se calcula; 93;Sur  3;1000.6 / 
+El Trébol;25-Junio-2021;21:00;Parcialmente nublado;15 km;10.4;No se calcula; 94;Noreste  3;1000 / 
+Rafaela;25-Junio-2021;21:00;Parcialmente nublado;10 km;8.8;No se calcula; 90;Calma;999.5 / 
+Reconquista;26-Junio-2021;06:00;Cubierto con neblina;6 km;11.7;No se calcula; 97;Sur  7;1004.1 / 
+Rosario;26-Junio-2021;06:00;Cubierto con neblina;6 km;7.3;No se calcula; 92;Sur  3;1009.2 / 
+Santa Fe;26-Junio-2021;06:00;Cubierto;12 km;10.2;No se calcula; 94;Oeste  3;1009.8 / 
+Sunchales;26-Junio-2021;06:00;Parcialmente nublado con neblina;10 km;8.4;No se calcula; 97;Calma;1001.9 / 
+Venado Tuerto;26-Junio-2021;06:00;Nublado con lluvia en la hora anterior;10 km;7.5;3.1; 94;Sur  33;1000.4 / 
+Termas de Rio Hondo;25-Junio-2021;21:00;Parcialmente nublado;10 km;13.5;No se calcula; 72;Noreste  9;975.9 / 
+Santiago del Estero;26-Junio-2021;06:00;Parcialmente nublado;10 km;7.3;6.0; 96;Sur  7;986.5 / 
+Río Grande B.A.;26-Junio-2021;06:00;Algo nublado;30 km;-0.4;-4.5; 91;Sudoeste  13;1015.8 / 
+Ushuaia;26-Junio-2021;06:00;Parcialmente nublado;30 km;4.7;0.4; 73;Oeste  22;1011.3 / 
+Tucumán;26-Junio-2021;06:00;Parcialmente nublado con humo;5 km;7;6.2; 89;Noroeste  5;958 / 
+Base Belgrano II;26-Junio-2021;06:00;Cubierto con nevada;4.0 km;-18.4;-29.3; 83;Oeste  24;970.6 / 
+Base Esperanza;26-Junio-2021;06:00;Nublado con ventisca baja;10 km;1.1;-6.7; 97;Sur  51;983.4 / 
+Base Carlini;26-Junio-2021;06:00;Cubierto con ventisca baja;5 km;-1.5;-9.6; 92;Oeste  42;993.8 / 
+Base Marambio;26-Junio-2021;06:00;Nublado;15 km;-2;-10.6; 95;Sudoeste  46;960.9 / 
+Base Orcadas;25-Junio-2021;21:00;Cubierto con nevada;3.0 km;-1.5;-8.4; 90;Oeste  29;1004.9 / 
+Base San Martín;26-Junio-2021;06:00;Cubierto con nevada;1.2 km;-2.4;-10.1; 75;Norte  35;987.7 / 

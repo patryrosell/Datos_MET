@@ -1,0 +1,1348 @@
+Azul;13-Abril-2021;10:00;Despejado;20 km;16.2;No se calcula; 73;Oeste  3;1003.8 / 
+Bahía Blanca;13-Abril-2021;10:00;Despejado;15 km;20.7;No se calcula; 54;Norte  22;1009.4 / 
+Benito Juárez;13-Abril-2021;09:00;Despejado;15 km;14.6;No se calcula; 74;Noroeste  24;994.9 / 
+Bolívar;13-Abril-2021;10:00;Despejado;15 km;17;No se calcula; 72;Noroeste  7;1010.8 / 
+Campo de Mayo;13-Abril-2021;10:00;Despejado;10 km;19.7;No se calcula; 68;Oeste  3;1020.5 / 
+Coronel Pringles;13-Abril-2021;09:00;Despejado;25 km;13.1;No se calcula; 75;Noroeste  3;990.9 / 
+Coronel Suarez;13-Abril-2021;09:00;Despejado;60 km;12.9;No se calcula; 84;Noroeste  7;992.8 / 
+Dolores;13-Abril-2021;10:00;Despejado;10 km;15.2;No se calcula; 79;Noroeste  7;1020.4 / 
+El Palomar;13-Abril-2021;10:00;Despejado;10 km;18.6;No se calcula; 74;Oeste  7;1021.8 / 
+Ezeiza;13-Abril-2021;10:00;Despejado;10 km;19.4;No se calcula; 65;Oeste  7;1020.8 / 
+Junín;13-Abril-2021;10:00;Despejado;10 km;18.1;No se calcula; 71;Noroeste  5;1012.6 / 
+La Plata;13-Abril-2021;10:00;Despejado;10 km;19.6;No se calcula; 64;Noroeste  7;1020.8 / 
+Las Flores;13-Abril-2021;09:00;Despejado;15 km;13.5;No se calcula; 83;Norte  7;1016.9 / 
+Mar del Plata;13-Abril-2021;10:00;Despejado;10 km;18.3;No se calcula; 74;Noroeste  11;1018 / 
+Mariano Moreno;13-Abril-2021;10:00;Despejado;10 km;19;No se calcula; 70;Oeste  9;1019.6 / 
+Merlo;13-Abril-2021;10:00;Despejado;10 km;19.9;No se calcula; 64;Oeste  1;1020.4 / 
+Morón;13-Abril-2021;10:00;Despejado;10 km;19.8;No se calcula; 65;Oeste  9;1020.1 / 
+Nueve de Julio;13-Abril-2021;09:00;Despejado;15 km;12.6;No se calcula; 86;Norte  3;1010.9 / 
+Olavarría;13-Abril-2021;10:00;Despejado con neblina;12 km;16.3;No se calcula; 72;Calma;1002.1 / 
+Pehuajó;13-Abril-2021;10:00;Despejado;15 km;17.5;No se calcula; 72;Noroeste  11;1011.4 / 
+Pigué;13-Abril-2021;10:00;Despejado;30 km;16.8;No se calcula; 69;Calma;984.4 / 
+Punta Indio B.A.;13-Abril-2021;10:00;Despejado;10 km;19.8;No se calcula; 71;Oeste  13;1020.2 / 
+San Fernando;13-Abril-2021;10:00;Despejado;10 km;19.6;No se calcula; 69;Oeste  5;1023 / 
+Tandil;13-Abril-2021;10:00;Despejado;20 km;18.1;No se calcula; 60;Oeste  7;1000.4 / 
+Trenque Lauquen;13-Abril-2021;09:00;Despejado;15 km;12.8;No se calcula; 86;Norte  5;1009.6 / 
+Tres Arroyos;13-Abril-2021;09:00;Despejado;15 km;14.8;No se calcula; 74;Norte  7;1005.8 / 
+Villa Gesell;13-Abril-2021;10:00;Despejado;15 km;18.3;No se calcula; 74;Oeste  9;1020.1 / 
+Aeroparque Buenos Aires;13-Abril-2021;10:00;Despejado;10 km;20.6;No se calcula; 58;Noroeste  7;1022.8 / 
+Buenos Aires;13-Abril-2021;10:00;Despejado;10 km;21.3;No se calcula; 59;Oeste  5;1020.2 / 
+Catamarca;13-Abril-2021;10:00;Algo nublado;20 km;18.2;No se calcula; 66;Calma;966.1 / 
+Tinogasta;13-Abril-2021;09:00;Algo nublado;20 km;14.6;No se calcula; 66;Sur  9;885.4 / 
+Pcia. Roque Saenz Peña;13-Abril-2021;10:00;Algo nublado;20 km;20.4;No se calcula; 75;Este  5;1010.9 / 
+Resistencia;13-Abril-2021;10:00;Algo nublado;15 km;20.8;No se calcula; 66;Sudeste  11;1014 / 
+Comodoro Rivadavia;13-Abril-2021;10:00;Nublado;30 km;19.3;No se calcula; 37;Oeste  33;1006.5 / 
+Esquel;13-Abril-2021;10:00;Algo nublado;30 km;11.9;No se calcula; 67;Norte  9;926.5 / 
+Paso De Indios;13-Abril-2021;10:00;Algo nublado;45 km;17.7;No se calcula; 53;Noroeste  9;961.3 / 
+Puerto Madryn;13-Abril-2021;10:00;Despejado;30 km;18.2;No se calcula; 50;Oeste  14;1000.6 / 
+Trelew;13-Abril-2021;10:00;Algo nublado;30 km;18.4;No se calcula; 50;Oeste  9;1011.7 / 
+Córdoba;13-Abril-2021;10:00;Despejado;12 km;18.1;No se calcula; 58;Norte  11;963.4 / 
+Córdoba Observatorio;13-Abril-2021;10:00;Despejado;10 km;18;No se calcula; 62;Noreste  9;971.2 / 
+Esc. Aviación Militar;13-Abril-2021;10:00;Despejado;10 km;16.2;No se calcula; 84;Calma;963.4 / 
+Laboulaye;13-Abril-2021;10:00;Despejado;10 km;17.1;No se calcula; 69;Norte  7;1004.1 / 
+Marcos Juárez;13-Abril-2021;10:00;Despejado;20 km;19.6;No se calcula; 73;Norte  11;1007.3 / 
+Pilar Obs.;13-Abril-2021;10:00;Despejado;10 km;17.4;No se calcula; 76;Norte  13;982.2 / 
+Río Cuarto;13-Abril-2021;10:00;Despejado;15 km;16.5;No se calcula; 60;Norte  9;971 / 
+Villa Dolores;13-Abril-2021;10:00;Despejado con humo;15 km;16.7;No se calcula; 61;Oeste  9;955.8 / 
+Villa María Del Río Seco;13-Abril-2021;09:00;Despejado;15 km;11.6;No se calcula; 93;Calma;981.8 / 
+Corrientes;13-Abril-2021;10:00;Algo nublado;10 km;20;No se calcula; 73;Sur  14;1012.8 / 
+Ituzaingó;13-Abril-2021;09:00;Despejado;15 km;18;No se calcula; 86;Sudeste  14;1008.9 / 
+Mercedes;13-Abril-2021;10:00;Algo nublado;15 km;18.4;No se calcula; 75;Este  14;- / 
+Monte Caseros;13-Abril-2021;10:00;Algo nublado;20 km;20;No se calcula; 67;Sudeste  13;1015.2 / 
+Paso De Los Libres;13-Abril-2021;10:00;Algo nublado;10 km;21.2;No se calcula; 68;Este  11;1013.4 / 
+Concordia;13-Abril-2021;10:00;Despejado;15 km;18.2;No se calcula; 92;Sudeste  3;1018.4 / 
+Gualeguaychú;13-Abril-2021;10:00;Despejado;15 km;18.8;No se calcula; 76;Este  5;1019.3 / 
+Paraná;13-Abril-2021;10:00;Despejado;15 km;19.1;No se calcula; 69;Noreste  3;1014.2 / 
+Formosa;13-Abril-2021;10:00;Despejado;20 km;21.5;No se calcula; 79;Sur  5;1012.5 / 
+Las Lomitas;13-Abril-2021;10:00;Algo nublado;20 km;22;No se calcula; 64;Este  3;1005.6 / 
+Mount Pleasant Airport (Islas Malvinas);13-Abril-2021;10:00;Algo nublado;40 km;10.9;No se calcula; 59;Oeste  48;992.6 / 
+La Quiaca;13-Abril-2021;10:00;Parcialmente nublado;30 km;10.6;No se calcula; 80;Noroeste  3;673.4 / 
+Jujuy;13-Abril-2021;10:00;Algo nublado;10 km;19;No se calcula; 72;Calma;918.1 / 
+Jujuy Universidad Nacional;13-Abril-2021;09:00;Parcialmente nublado;12 km;14.6;No se calcula; 87;Noroeste  3;875 / 
+General Pico;13-Abril-2021;10:00;Despejado;20 km;14.1;No se calcula; 77;Norte  16;1003 / 
+Victorica;13-Abril-2021;09:00;Despejado;40 km;13.9;No se calcula; 70;Norte  3;982.6 / 
+Santa Rosa;13-Abril-2021;10:00;Despejado;30 km;16.7;No se calcula; 74;Norte  7;997.2 / 
+Chamical;13-Abril-2021;10:00;Algo nublado;20 km;18;No se calcula; 64;Este  3;967 / 
+Chepes;13-Abril-2021;09:00;Despejado;20 km;16;No se calcula; 48;Calma;943.4 / 
+Chilecito;11-Abril-2021;15:00;Algo nublado;20 km;24;No se calcula; 39;Oeste  14;914.9 / 
+La Rioja;13-Abril-2021;10:00;Algo nublado;20 km;15;No se calcula; 79;Sur  9;969.6 / 
+Malargue;13-Abril-2021;10:00;Despejado;20 km;11.4;No se calcula; 54;Sudoeste  9;862.4 / 
+Mendoza;13-Abril-2021;10:00;Despejado;15 km;16.2;No se calcula; 57;Calma;938.4 / 
+Mendoza Observatorio;13-Abril-2021;10:00;Despejado;15 km;17.8;No se calcula; 55;Calma;924.6 / 
+San Carlos (Mza);13-Abril-2021;09:00;Despejado;15 km;6.2;No se calcula; 88;Sur  3;911 / 
+San Martín (Mza);13-Abril-2021;10:00;Despejado;15 km;13.9;No se calcula; 67;Sudoeste  3;944.1 / 
+San Rafael;13-Abril-2021;10:00;Despejado;20 km;17;No se calcula; 53;Oeste  7;933.3 / 
+Uspallata;13-Abril-2021;09:00;Despejado;15 km;3.6;No se calcula; 57;Calma;821 / 
+Bernardo De Irigoyen;13-Abril-2021;10:00;Despejado;20 km;22;No se calcula; 72;Este  9;926.8 / 
+Iguazú;13-Abril-2021;10:00;Despejado;20 km;21.7;No se calcula; 81;Sur  5;987.3 / 
+Oberá;13-Abril-2021;09:00;Despejado;20 km;14.8;No se calcula; 91;Este  9;983.3 / 
+Posadas;13-Abril-2021;10:00;Algo nublado;20 km;19.9;No se calcula; 72;Este  11;1004.5 / 
+Chapelco;13-Abril-2021;10:00;Algo nublado con niebla en la hora anterior;10 km;5.4;No se calcula; 97;Calma;929.2 / 
+Neuquén;13-Abril-2021;10:00;Despejado;15 km;15.4;No se calcula; 64;Noroeste  13;987 / 
+Bariloche;13-Abril-2021;10:00;Cubierto con niebla en bancos;2.0 km;7.3;6.5; 92;Sur  5;923.8 / 
+Cipolletti;13-Abril-2021;09:00;Despejado;25 km;11;No se calcula; 79;Sudoeste  3;987.1 / 
+El Bolsón;13-Abril-2021;10:00;Despejado;30 km;11.2;No se calcula; 94;Calma;982.1 / 
+Maquinchao;13-Abril-2021;09:00;Despejado;40 km;5;No se calcula; 85;Calma;918.6 / 
+Río Colorado;13-Abril-2021;09:00;Despejado;15 km;15.4;No se calcula; 78;Calma;1007.8 / 
+San Antonio Oeste;13-Abril-2021;10:00;Despejado;30 km;19;No se calcula; 45;Sur  13;1016.2 / 
+Viedma;13-Abril-2021;10:00;Algo nublado;30 km;17.6;No se calcula; 59;Noroeste  11;1015.6 / 
+Metán;13-Abril-2021;09:00;Cubierto con neblina;13 km;15;No se calcula; 91;Oeste  3;923.9 / 
+Orán;13-Abril-2021;10:00;Algo nublado;15 km;21.6;No se calcula; 75;Calma;977.8 / 
+Rivadavia;13-Abril-2021;09:00;Despejado;Superior a 70 km;19.6;No se calcula; 59;Calma;995.5 / 
+Salta;13-Abril-2021;10:00;Algo nublado con humo;13 km;15.9;No se calcula; 77;Norte  3;884.9 / 
+Tartagal;13-Abril-2021;10:00;Cubierto;10 km;21;No se calcula; 71;Sudoeste  3;968.6 / 
+Jachal;13-Abril-2021;09:00;Despejado;30 km;10.4;No se calcula; 76;Calma;887.2 / 
+San Juan;13-Abril-2021;10:00;Despejado;15 km;16.3;No se calcula; 51;Calma;950.8 / 
+San Luis;13-Abril-2021;10:00;Despejado;20 km;16.1;No se calcula; 60;Norte  14;938.6 / 
+Santa Rosa del Conlara;13-Abril-2021;10:00;Despejado;20 km;12.3;No se calcula; 84;Calma;950 / 
+Villa Reynolds;13-Abril-2021;10:00;Despejado;10 km;13.4;No se calcula; 74;Norte  5;964.1 / 
+El Calafate;13-Abril-2021;10:00;Nublado con precipitación a la vista;20 km;10.4;No se calcula; 72;Norte  14;980.4 / 
+Gobernador Gregores;13-Abril-2021;09:00;Algo nublado;45 km;11.8;No se calcula; 63;Oeste  14;964.3 / 
+Perito Moreno;13-Abril-2021;10:00;Parcialmente nublado;50 km;12;No se calcula; 43;Oeste  5;960.8 / 
+Puerto Deseado;13-Abril-2021;10:00;Nublado;30 km;12.9;No se calcula; 50;Oeste  24;1001 / 
+Río Gallegos;13-Abril-2021;10:00;Nublado;30 km;6;No se calcula; 76;Sur  3;- / 
+San Julián;13-Abril-2021;10:00;Parcialmente nublado;30 km;14;No se calcula; 42;Noroeste  24;1002.4 / 
+Santa Cruz;13-Abril-2021;10:00;Parcialmente nublado;30 km;9.9;8.7; 72;Norte  9;994.1 / 
+Ceres;13-Abril-2021;10:00;Algo nublado;15 km;19.5;No se calcula; 74;Este  3;1011.3 / 
+Rafaela;13-Abril-2021;09:00;Despejado;10 km;15.4;No se calcula; 86;Calma;1010.4 / 
+Reconquista;13-Abril-2021;10:00;Parcialmente nublado;15 km;20.4;No se calcula; 68;Este  13;1015.3 / 
+Rosario;13-Abril-2021;10:00;Despejado;15 km;17.1;No se calcula; 92;Calma;1019.7 / 
+Santa Fe;13-Abril-2021;10:00;Despejado;12 km;20.4;No se calcula; 61;Este  5;1020.6 / 
+Sunchales;13-Abril-2021;10:00;Despejado;15 km;18.7;No se calcula; 80;Este  3;1011.9 / 
+Venado Tuerto;13-Abril-2021;10:00;Despejado con neblina;9 km;18.2;No se calcula; 78;Norte  9;1007.3 / 
+Termas de Rio Hondo;13-Abril-2021;10:00;Parcialmente nublado;15 km;18;No se calcula; 80;Norte  14;988.2 / 
+Santiago del Estero;13-Abril-2021;10:00;Algo nublado;10 km;20.8;No se calcula; 65;Norte  11;997.8 / 
+Río Grande B.A.;13-Abril-2021;10:00;Algo nublado;30 km;6.8;2.0; 68;Oeste  35;999 / 
+Ushuaia;13-Abril-2021;10:00;Algo nublado;30 km;6.5;1.1; 78;Sudoeste  42;992 / 
+Tucumán;13-Abril-2021;10:00;Cubierto con neblina;6 km;17;No se calcula; 88;Calma;968.9 / 
+Base Belgrano II;13-Abril-2021;09:00;Cubierto con nevada;4.0 km;-19;No se calcula; 30;Calma;950.9 / 
+Base Esperanza;13-Abril-2021;09:00;Algo nublado con niebla;900 mts;-13.5;-26.3; 83;Sur  48;981.8 / 
+Base Carlini;13-Abril-2021;09:00;Nublado;10 km;-7;-15.8; 72;Este  31;982.8 / 
+Base Marambio;13-Abril-2021;10:00;Algo nublado con ventisca alta;900 mts;-18.2;-34.9; 83;Sur  70;960 / 
+Base Orcadas;13-Abril-2021;06:00;Cubierto con neblina;8 km;-1.2;-7.1; 89;Sur  22;973.8 / 
+Base San Martín;13-Abril-2021;09:00;Despejado;20 km;-9.4;No se calcula; 53;Calma;981.6 / 
+Azul;13-Abril-2021;11:00;Despejado;20 km;19.8;No se calcula; 59;Oeste  11;1004.1 / 
+Bahía Blanca;13-Abril-2021;11:00;Despejado;15 km;23.1;No se calcula; 49;Norte  24;1009.4 / 
+Benito Juárez;13-Abril-2021;09:00;Despejado;15 km;14.6;No se calcula; 74;Noroeste  24;994.9 / 
+Bolívar;13-Abril-2021;11:00;Despejado;15 km;20;No se calcula; 62;Noroeste  11;1011 / 
+Campo de Mayo;13-Abril-2021;11:00;Despejado;10 km;22.3;No se calcula; 58;Norte  1;1020.5 / 
+Coronel Pringles;13-Abril-2021;09:00;Despejado;25 km;13.1;No se calcula; 75;Noroeste  3;990.9 / 
+Coronel Suarez;13-Abril-2021;09:00;Despejado;60 km;12.9;No se calcula; 84;Noroeste  7;992.8 / 
+Dolores;13-Abril-2021;11:00;Despejado;10 km;20.9;No se calcula; 58;Oeste  11;1019.8 / 
+El Palomar;13-Abril-2021;11:00;Despejado;10 km;20.9;No se calcula; 61;Oeste  7;1021.7 / 
+Ezeiza;13-Abril-2021;11:00;Despejado;10 km;21.4;No se calcula; 58;Oeste  11;1020.8 / 
+Junín;13-Abril-2021;11:00;Despejado;10 km;21.5;No se calcula; 56;Oeste  9;1012.4 / 
+La Plata;13-Abril-2021;11:00;Despejado;10 km;22.2;No se calcula; 55;Oeste  7;1020.8 / 
+Las Flores;13-Abril-2021;09:00;Despejado;15 km;13.5;No se calcula; 83;Norte  7;1016.9 / 
+Mar del Plata;13-Abril-2021;11:00;Despejado;10 km;22.1;No se calcula; 61;Noroeste  7;1018 / 
+Mariano Moreno;13-Abril-2021;11:00;Despejado;10 km;20.9;No se calcula; 64;Oeste  9;1019.5 / 
+Merlo;13-Abril-2021;11:00;Despejado;10 km;22.3;No se calcula; 61;Noroeste  3;1021.2 / 
+Morón;13-Abril-2021;11:00;Despejado con humo;9 km;21.4;No se calcula; 57;Oeste  11;1020.2 / 
+Nueve de Julio;13-Abril-2021;09:00;Despejado;15 km;12.6;No se calcula; 86;Norte  3;1010.9 / 
+Olavarría;13-Abril-2021;11:00;Despejado con bruma;12 km;19.3;No se calcula; 62;Oeste  5;1002.2 / 
+Pehuajó;13-Abril-2021;11:00;Despejado;15 km;19.9;No se calcula; 69;Noroeste  14;1011.6 / 
+Pigué;13-Abril-2021;11:00;Despejado;30 km;19.5;No se calcula; 59;Norte  14;984.4 / 
+Punta Indio B.A.;13-Abril-2021;11:00;Despejado;10 km;22.4;No se calcula; 64;Oeste  13;1020.4 / 
+San Fernando;13-Abril-2021;11:00;Despejado;10 km;21.5;No se calcula; 60;Oeste  7;1023 / 
+Tandil;13-Abril-2021;11:00;Despejado;20 km;20.9;No se calcula; 54;Oeste  11;1000.7 / 
+Trenque Lauquen;13-Abril-2021;09:00;Despejado;15 km;12.8;No se calcula; 86;Norte  5;1009.6 / 
+Tres Arroyos;13-Abril-2021;09:00;Despejado;15 km;14.8;No se calcula; 74;Norte  7;1005.8 / 
+Villa Gesell;13-Abril-2021;11:00;Despejado;15 km;21.2;No se calcula; 64;Oeste  9;1020.1 / 
+Aeroparque Buenos Aires;13-Abril-2021;11:00;Despejado;10 km;21.4;No se calcula; 60;Norte  11;1022.6 / 
+Buenos Aires;13-Abril-2021;11:00;Despejado;10 km;22.8;No se calcula; 54;Sudoeste  5;1020.2 / 
+Catamarca;13-Abril-2021;11:00;Algo nublado;20 km;21.4;No se calcula; 61;Norte  3;966 / 
+Tinogasta;13-Abril-2021;09:00;Algo nublado;20 km;14.6;No se calcula; 66;Sur  9;885.4 / 
+Pcia. Roque Saenz Peña;13-Abril-2021;11:00;Algo nublado;20 km;22.4;No se calcula; 63;Sudeste  5;1010.8 / 
+Resistencia;13-Abril-2021;11:00;Algo nublado;15 km;22.6;No se calcula; 62;Este  3;1014 / 
+Comodoro Rivadavia;13-Abril-2021;11:00;Parcialmente nublado;30 km;20.8;No se calcula; 37;Oeste  35;1006.4 / 
+Esquel;13-Abril-2021;11:00;Algo nublado;30 km;15;No se calcula; 55;Este  9;926.2 / 
+Paso De Indios;13-Abril-2021;11:00;Algo nublado;45 km;19.8;No se calcula; 39;Oeste  18;961.2 / 
+Puerto Madryn;13-Abril-2021;11:00;Despejado;30 km;20.8;No se calcula; 41;Oeste  25;1000.9 / 
+Trelew;13-Abril-2021;11:00;Algo nublado;30 km;20.6;No se calcula; 49;Sudoeste  5;1012.1 / 
+Córdoba;13-Abril-2021;11:00;Despejado;15 km;20.5;No se calcula; 57;Noreste  14;963.7 / 
+Córdoba Observatorio;13-Abril-2021;11:00;Despejado;10 km;21;No se calcula; 55;Noreste  7;971.2 / 
+Esc. Aviación Militar;13-Abril-2021;11:00;Despejado;10 km;19.2;No se calcula; 56;Noreste  7;963.7 / 
+Laboulaye;13-Abril-2021;11:00;Despejado;10 km;20.9;No se calcula; 58;Norte  14;1004.6 / 
+Marcos Juárez;13-Abril-2021;11:00;Despejado;20 km;21.7;No se calcula; 59;Norte  14;1006.8 / 
+Pilar Obs.;13-Abril-2021;11:00;Despejado;10 km;19.9;No se calcula; 65;Norte  16;982.2 / 
+Río Cuarto;13-Abril-2021;11:00;Despejado;15 km;19.6;No se calcula; 55;Norte  22;971.2 / 
+Villa Dolores;13-Abril-2021;11:00;Despejado con humo;15 km;18.5;No se calcula; 53;Sur  3;956 / 
+Villa María Del Río Seco;13-Abril-2021;09:00;Despejado;15 km;11.6;No se calcula; 93;Calma;981.8 / 
+Corrientes;13-Abril-2021;11:00;Algo nublado;10 km;22.4;No se calcula; 65;Sudeste  14;1012.6 / 
+Ituzaingó;13-Abril-2021;09:00;Despejado;15 km;18;No se calcula; 86;Sudeste  14;1008.9 / 
+Mercedes;13-Abril-2021;11:00;Parcialmente nublado;15 km;21.4;No se calcula; 64;Sudeste  13;- / 
+Monte Caseros;13-Abril-2021;11:00;Algo nublado;20 km;21.4;No se calcula; 67;Este  13;1015.4 / 
+Paso De Los Libres;13-Abril-2021;11:00;Algo nublado;10 km;22;No se calcula; 68;Este  22;1013 / 
+Concordia;13-Abril-2021;11:00;Despejado;15 km;20.6;No se calcula; 79;Este  14;1018.4 / 
+Gualeguaychú;13-Abril-2021;11:00;Despejado;15 km;21;No se calcula; 63;Sudeste  5;1019.3 / 
+Paraná;13-Abril-2021;11:00;Despejado;15 km;21.4;No se calcula; 57;Noreste  7;1014.1 / 
+Formosa;13-Abril-2021;11:00;Despejado;20 km;23.7;No se calcula; 70;Sudeste  7;1012.4 / 
+Las Lomitas;13-Abril-2021;11:00;Algo nublado;20 km;23.4;No se calcula; 59;Este  1;1005.4 / 
+Mount Pleasant Airport (Islas Malvinas);13-Abril-2021;11:00;Algo nublado;40 km;11.8;No se calcula; 51;Oeste  55;992.8 / 
+La Quiaca;13-Abril-2021;11:00;Algo nublado;30 km;13.4;No se calcula; 67;Noreste  3;673.3 / 
+Jujuy;13-Abril-2021;11:00;Algo nublado;12 km;20.2;No se calcula; 60;Noreste  9;918.1 / 
+Jujuy Universidad Nacional;13-Abril-2021;09:00;Parcialmente nublado;12 km;14.6;No se calcula; 87;Noroeste  3;875 / 
+General Pico;13-Abril-2021;11:00;Despejado;20 km;18.9;No se calcula; 72;Norte  13;1003 / 
+Victorica;13-Abril-2021;09:00;Despejado;40 km;13.9;No se calcula; 70;Norte  3;982.6 / 
+Santa Rosa;13-Abril-2021;11:00;Despejado;30 km;20.5;No se calcula; 64;Noroeste  5;997.3 / 
+Chamical;13-Abril-2021;11:00;Algo nublado;20 km;18.8;No se calcula; 64;Este  3;967.2 / 
+Chepes;13-Abril-2021;09:00;Despejado;20 km;16;No se calcula; 48;Calma;943.4 / 
+Chilecito;11-Abril-2021;15:00;Algo nublado;20 km;24;No se calcula; 39;Oeste  14;914.9 / 
+La Rioja;13-Abril-2021;11:00;Algo nublado;20 km;18.6;No se calcula; 66;Sudoeste  3;969.4 / 
+Malargue;13-Abril-2021;11:00;Despejado;20 km;15.2;No se calcula; 39;Oeste  3;862.5 / 
+Mendoza;13-Abril-2021;11:00;Despejado;15 km;18;No se calcula; 48;Este  5;938.4 / 
+Mendoza Observatorio;13-Abril-2021;11:00;Despejado;15 km;19.6;No se calcula; 51;Calma;924.6 / 
+San Carlos (Mza);13-Abril-2021;09:00;Despejado;15 km;6.2;No se calcula; 88;Sur  3;911 / 
+San Martín (Mza);13-Abril-2021;11:00;Despejado;15 km;17.4;No se calcula; 58;Sur  3;944.2 / 
+San Rafael;13-Abril-2021;11:00;Despejado;20 km;20.8;No se calcula; 44;Calma;933.4 / 
+Uspallata;13-Abril-2021;09:00;Despejado;15 km;3.6;No se calcula; 57;Calma;821 / 
+Bernardo De Irigoyen;13-Abril-2021;11:00;Algo nublado;20 km;24;No se calcula; 63;Este  9;926.9 / 
+Iguazú;13-Abril-2021;11:00;Despejado;20 km;24.2;No se calcula; 71;Direcciones Variables  5;985.8 / 
+Oberá;13-Abril-2021;09:00;Despejado;20 km;14.8;No se calcula; 91;Este  9;983.3 / 
+Posadas;13-Abril-2021;11:00;Algo nublado;20 km;22.7;No se calcula; 67;Noreste  9;1004.2 / 
+Chapelco;13-Abril-2021;11:00;Despejado;15 km;10;No se calcula; 80;Calma;928.9 / 
+Neuquén;13-Abril-2021;11:00;Despejado;15 km;18.4;No se calcula; 57;Noroeste  7;987 / 
+Bariloche;13-Abril-2021;11:00;Parcialmente nublado con niebla en bancos;7 km;8.6;No se calcula; 92;Este  3;924 / 
+Cipolletti;13-Abril-2021;09:00;Despejado;25 km;11;No se calcula; 79;Sudoeste  3;987.1 / 
+El Bolsón;13-Abril-2021;11:00;Despejado;30 km;14.9;No se calcula; 78;Calma;981.8 / 
+Maquinchao;13-Abril-2021;09:00;Despejado;40 km;5;No se calcula; 85;Calma;918.6 / 
+Río Colorado;13-Abril-2021;09:00;Despejado;15 km;15.4;No se calcula; 78;Calma;1007.8 / 
+San Antonio Oeste;13-Abril-2021;11:00;Despejado;30 km;20.8;No se calcula; 39;Sur  9;1016.2 / 
+Viedma;13-Abril-2021;11:00;Despejado;30 km;20.3;No se calcula; 54;Noroeste  5;1015.6 / 
+Metán;13-Abril-2021;09:00;Cubierto con neblina;13 km;15;No se calcula; 91;Oeste  3;923.9 / 
+Orán;13-Abril-2021;11:00;Algo nublado;15 km;23.2;No se calcula; 70;Norte  3;977.8 / 
+Rivadavia;13-Abril-2021;09:00;Despejado;Superior a 70 km;19.6;No se calcula; 59;Calma;995.5 / 
+Salta;13-Abril-2021;11:00;Algo nublado;15 km;18.5;No se calcula; 66;Norte  5;884.9 / 
+Tartagal;13-Abril-2021;11:00;Cubierto;10 km;22.4;No se calcula; 58;Calma;968.8 / 
+Jachal;13-Abril-2021;09:00;Despejado;30 km;10.4;No se calcula; 76;Calma;887.2 / 
+San Juan;13-Abril-2021;10:00;Despejado;15 km;16.3;No se calcula; 51;Calma;950.8 / 
+San Luis;13-Abril-2021;11:00;Despejado;20 km;18.7;No se calcula; 57;Noroeste  18;938.9 / 
+Santa Rosa del Conlara;13-Abril-2021;11:00;Despejado;20 km;16.4;No se calcula; 69;Calma;950 / 
+Villa Reynolds;13-Abril-2021;11:00;Despejado;15 km;17.9;No se calcula; 62;Este  3;964.1 / 
+El Calafate;13-Abril-2021;11:00;Nublado;30 km;10.4;No se calcula; 77;Norte  11;979.6 / 
+Gobernador Gregores;13-Abril-2021;09:00;Algo nublado;45 km;11.8;No se calcula; 63;Oeste  14;964.3 / 
+Perito Moreno;13-Abril-2021;11:00;Parcialmente nublado;50 km;13.8;No se calcula; 41;Calma;960.8 / 
+Puerto Deseado;13-Abril-2021;11:00;Despejado;30 km;15.5;No se calcula; 41;Oeste  24;1001.1 / 
+Río Gallegos;13-Abril-2021;11:00;Nublado;30 km;10.4;No se calcula; 51;Norte  18;- / 
+San Julián;13-Abril-2021;11:00;Algo nublado;30 km;16.6;No se calcula; 35;Oeste  20;1002.1 / 
+Santa Cruz;13-Abril-2021;11:00;Nublado;30 km;12.9;No se calcula; 58;Norte  18;993.7 / 
+Ceres;13-Abril-2021;11:00;Algo nublado;15 km;21.8;No se calcula; 61;Noreste  3;1011.3 / 
+Rafaela;13-Abril-2021;09:00;Despejado;10 km;15.4;No se calcula; 86;Calma;1010.4 / 
+Reconquista;13-Abril-2021;11:00;Parcialmente nublado;15 km;20.9;No se calcula; 70;Este  7;1015.4 / 
+Rosario;13-Abril-2021;11:00;Despejado;15 km;21;No se calcula; 61;Noreste  3;1019.8 / 
+Santa Fe;13-Abril-2021;11:00;Despejado;12 km;21.2;No se calcula; 55;Este  5;1020.5 / 
+Sunchales;13-Abril-2021;11:00;Despejado;15 km;21.4;No se calcula; 64;Este  9;1012 / 
+Venado Tuerto;13-Abril-2021;11:00;Despejado;10 km;20.8;No se calcula; 63;Noreste  9;1007.4 / 
+Termas de Rio Hondo;13-Abril-2021;11:00;Parcialmente nublado;15 km;19;No se calcula; 77;Oeste  11;988.5 / 
+Santiago del Estero;13-Abril-2021;11:00;Parcialmente nublado;10 km;22.2;No se calcula; 61;Norte  11;997.7 / 
+Río Grande B.A.;13-Abril-2021;11:00;Algo nublado;30 km;8.2;3.8; 62;Oeste  37;998.1 / 
+Ushuaia;13-Abril-2021;11:00;Parcialmente nublado;30 km;6.7;1.6; 68;Sudoeste  38;992.1 / 
+Tucumán;13-Abril-2021;11:00;Cubierto con neblina;7 km;17.4;No se calcula; 84;Sur  7;969.2 / 
+Base Belgrano II;13-Abril-2021;09:00;Cubierto con nevada;4.0 km;-19;No se calcula; 30;Calma;950.9 / 
+Base Esperanza;13-Abril-2021;09:00;Algo nublado con niebla;900 mts;-13.5;-26.3; 83;Sur  48;981.8 / 
+Base Carlini;13-Abril-2021;09:00;Nublado;10 km;-7;-15.8; 72;Este  31;982.8 / 
+Base Marambio;13-Abril-2021;11:00;Algo nublado con ventisca alta;900 mts;-18;-34.4; 84;Sudoeste  68;960.9 / 
+Base Orcadas;13-Abril-2021;06:00;Cubierto con neblina;8 km;-1.2;-7.1; 89;Sur  22;973.8 / 
+Base San Martín;13-Abril-2021;09:00;Despejado;20 km;-9.4;No se calcula; 53;Calma;981.6 / 
+Azul;13-Abril-2021;12:00;Despejado;20 km;21;No se calcula; 54;Sudoeste  9;1004 / 
+Bahía Blanca;13-Abril-2021;12:00;Despejado;15 km;25.1;No se calcula; 45;Norte  20;1009.4 / 
+Benito Juárez;13-Abril-2021;12:00;Despejado;15 km;22.4;No se calcula; 54;Noroeste  24;995.6 / 
+Bolívar;13-Abril-2021;12:00;Despejado;15 km;22;No se calcula; 54;Noroeste  11;1011 / 
+Campo de Mayo;13-Abril-2021;12:00;Despejado;10 km;23.5;No se calcula; 52;Noroeste  1;1020.4 / 
+Coronel Pringles;13-Abril-2021;09:00;Despejado;25 km;13.1;No se calcula; 75;Noroeste  3;990.9 / 
+Coronel Suarez;13-Abril-2021;12:00;Despejado;60 km;22.2;No se calcula; 52;Norte  14;992.5 / 
+Dolores;13-Abril-2021;12:00;Despejado;10 km;21.2;No se calcula; 57;Oeste  11;1021 / 
+El Palomar;13-Abril-2021;12:00;Despejado;10 km;22.4;No se calcula; 58;Oeste  7;1021.6 / 
+Ezeiza;13-Abril-2021;12:00;Despejado;10 km;23;No se calcula; 54;Oeste  7;1020.5 / 
+Junín;13-Abril-2021;12:00;Despejado;10 km;23;No se calcula; 46;Oeste  18;1012 / 
+La Plata;13-Abril-2021;12:00;Despejado;10 km;23;No se calcula; 53;Noroeste  5;1020.8 / 
+Las Flores;13-Abril-2021;12:00;Despejado;15 km;22;No se calcula; 62;Oeste  7;1017.6 / 
+Mar del Plata;13-Abril-2021;12:00;Despejado;10 km;25.2;No se calcula; 48;Calma;1017.8 / 
+Mariano Moreno;13-Abril-2021;12:00;Despejado;10 km;22.3;No se calcula; 56;Noroeste  9;1019.3 / 
+Merlo;13-Abril-2021;12:00;Despejado;10 km;22.9;No se calcula; 56;Noroeste  5;1021 / 
+Morón;13-Abril-2021;12:00;Despejado;10 km;23.6;No se calcula; 54;Oeste  5;1019.7 / 
+Nueve de Julio;13-Abril-2021;12:00;Despejado;15 km;23.2;No se calcula; 49;Noroeste  9;1013 / 
+Olavarría;13-Abril-2021;12:00;Despejado con bruma;12 km;21.6;No se calcula; 55;Oeste  9;1002.2 / 
+Pehuajó;13-Abril-2021;12:00;Despejado;15 km;22;No se calcula; 59;Oeste  18;1011.4 / 
+Pigué;13-Abril-2021;12:00;Despejado;30 km;21.5;No se calcula; 53;Noroeste  14;984.2 / 
+Punta Indio B.A.;13-Abril-2021;12:00;Despejado;10 km;23.8;No se calcula; 54;Oeste  13;1020.1 / 
+San Fernando;13-Abril-2021;12:00;Despejado;10 km;22.6;No se calcula; 50;Noroeste  9;1022.9 / 
+Tandil;13-Abril-2021;12:00;Despejado;20 km;23.2;No se calcula; 41;Oeste  13;1000.6 / 
+Trenque Lauquen;13-Abril-2021;09:00;Despejado;15 km;12.8;No se calcula; 86;Norte  5;1009.6 / 
+Tres Arroyos;13-Abril-2021;12:00;Despejado;20 km;25.2;No se calcula; 28;Noroeste  11;1004.9 / 
+Villa Gesell;13-Abril-2021;12:00;Despejado;15 km;22.9;No se calcula; 56;Oeste  11;1020 / 
+Aeroparque Buenos Aires;13-Abril-2021;12:00;Despejado;10 km;21.8;No se calcula; 63;Norte  11;1022.5 / 
+Buenos Aires;13-Abril-2021;12:00;Despejado;10 km;24.5;No se calcula; 47;Norte  1;1020 / 
+Catamarca;13-Abril-2021;12:00;Algo nublado;20 km;23.6;No se calcula; 56;Calma;965.3 / 
+Tinogasta;13-Abril-2021;12:00;Despejado;20 km;22.4;No se calcula; 45;Norte  9;884.7 / 
+Pcia. Roque Saenz Peña;13-Abril-2021;12:00;Parcialmente nublado;20 km;23.6;No se calcula; 60;Este  7;1010.6 / 
+Resistencia;13-Abril-2021;12:00;Parcialmente nublado;15 km;25;No se calcula; 55;Este  7;1013.7 / 
+Comodoro Rivadavia;13-Abril-2021;12:00;Parcialmente nublado;30 km;22.5;No se calcula; 36;Oeste  29;1006.2 / 
+Esquel;13-Abril-2021;12:00;Algo nublado;30 km;17.5;No se calcula; 50;Este  9;925.8 / 
+Paso De Indios;13-Abril-2021;12:00;Algo nublado;45 km;21.5;No se calcula; 34;Noroeste  14;960.9 / 
+Puerto Madryn;13-Abril-2021;12:00;Despejado;30 km;23.4;No se calcula; 32;Sudoeste  11;1000.6 / 
+Trelew;13-Abril-2021;12:00;Algo nublado;30 km;23.2;No se calcula; 38;Oeste  14;1012 / 
+Córdoba;13-Abril-2021;12:00;Despejado;15 km;22.5;No se calcula; 52;Noreste  16;963.4 / 
+Córdoba Observatorio;13-Abril-2021;12:00;Despejado;10 km;22.2;No se calcula; 55;Noreste  14;971 / 
+Esc. Aviación Militar;13-Abril-2021;12:00;Despejado;10 km;21.2;No se calcula; 55;Norte  14;963.4 / 
+Laboulaye;13-Abril-2021;12:00;Despejado;10 km;23;No se calcula; 52;Norte  18;1004.6 / 
+Marcos Juárez;13-Abril-2021;12:00;Algo nublado;20 km;22.9;No se calcula; 54;Norte  18;1006.1 / 
+Pilar Obs.;13-Abril-2021;12:00;Despejado;10 km;21.2;No se calcula; 59;Norte  18;981.8 / 
+Río Cuarto;13-Abril-2021;12:00;Despejado;15 km;22.1;No se calcula; 48;Norte  25;971 / 
+Villa Dolores;13-Abril-2021;12:00;Despejado;30 km;20.3;No se calcula; 45;Sudoeste  9;955.3 / 
+Villa María Del Río Seco;13-Abril-2021;12:00;Parcialmente nublado;15 km;22;No se calcula; 75;Este  3;980.5 / 
+Corrientes;13-Abril-2021;12:00;Algo nublado;10 km;23.8;No se calcula; 58;Sur  9;1012.5 / 
+Ituzaingó;13-Abril-2021;12:00;Algo nublado;15 km;23.2;No se calcula; 67;Sudeste  11;1009.3 / 
+Mercedes;13-Abril-2021;12:00;Parcialmente nublado;15 km;23;No se calcula; 58;Sudeste  13;- / 
+Monte Caseros;13-Abril-2021;12:00;Algo nublado;20 km;23.6;No se calcula; 55;Sudeste  11;1015.3 / 
+Paso De Los Libres;13-Abril-2021;12:00;Parcialmente nublado;10 km;23.8;No se calcula; 58;Este  11;1012.9 / 
+Concordia;13-Abril-2021;12:00;Despejado;15 km;21.8;No se calcula; 54;Este  13;1018.1 / 
+Gualeguaychú;13-Abril-2021;12:00;Despejado;15 km;22.5;No se calcula; 59;Este  9;1018.9 / 
+Paraná;13-Abril-2021;12:00;Despejado;15 km;22.4;No se calcula; 52;Norte  7;1013.8 / 
+Formosa;13-Abril-2021;12:00;Despejado;20 km;25.4;No se calcula; 66;Sur  5;1012 / 
+Las Lomitas;13-Abril-2021;12:00;Algo nublado;20 km;24.4;No se calcula; 58;Oeste  5;1005.2 / 
+Mount Pleasant Airport (Islas Malvinas);13-Abril-2021;11:00;Algo nublado;40 km;11.8;No se calcula; 51;Oeste  55;992.8 / 
+La Quiaca;13-Abril-2021;12:00;Algo nublado;30 km;16.4;No se calcula; 50;Norte  3;672.8 / 
+Jujuy;13-Abril-2021;12:00;Algo nublado;12 km;21.6;No se calcula; 55;Noreste  3;917.6 / 
+Jujuy Universidad Nacional;13-Abril-2021;09:00;Parcialmente nublado;12 km;14.6;No se calcula; 87;Noroeste  3;875 / 
+General Pico;13-Abril-2021;12:00;Despejado;20 km;22.1;No se calcula; 50;Norte  20;1002.9 / 
+Victorica;13-Abril-2021;09:00;Despejado;40 km;13.9;No se calcula; 70;Norte  3;982.6 / 
+Santa Rosa;13-Abril-2021;11:00;Despejado;30 km;20.5;No se calcula; 64;Noroeste  5;997.3 / 
+Chamical;13-Abril-2021;12:00;Algo nublado;20 km;21.2;No se calcula; 52;Sudeste  3;966.8 / 
+Chepes;13-Abril-2021;09:00;Despejado;20 km;16;No se calcula; 48;Calma;943.4 / 
+Chilecito;11-Abril-2021;15:00;Algo nublado;20 km;24;No se calcula; 39;Oeste  14;914.9 / 
+La Rioja;13-Abril-2021;12:00;Algo nublado;20 km;20.6;No se calcula; 62;Sur  3;969 / 
+Malargue;13-Abril-2021;12:00;Despejado;20 km;18;No se calcula; 36;Sudoeste  3;862.2 / 
+Mendoza;13-Abril-2021;12:00;Despejado;15 km;19.6;No se calcula; 44;Este  5;938.1 / 
+Mendoza Observatorio;13-Abril-2021;12:00;Despejado;15 km;20;No se calcula; 51;Calma;924.2 / 
+San Carlos (Mza);13-Abril-2021;09:00;Despejado;15 km;6.2;No se calcula; 88;Sur  3;911 / 
+San Martín (Mza);13-Abril-2021;12:00;Despejado;15 km;20.6;No se calcula; 45;Calma;943.7 / 
+San Rafael;13-Abril-2021;12:00;Despejado;20 km;22.2;No se calcula; 42;Norte  9;933.2 / 
+Uspallata;13-Abril-2021;12:00;Despejado;15 km;17.8;No se calcula; 28;Calma;820.1 / 
+Bernardo De Irigoyen;13-Abril-2021;12:00;Algo nublado;20 km;25.2;No se calcula; 57;Norte  9;926.5 / 
+Iguazú;13-Abril-2021;12:00;Despejado;20 km;26.3;27.3; 61;Direcciones Variables  5;986.6 / 
+Oberá;13-Abril-2021;09:00;Despejado;20 km;14.8;No se calcula; 91;Este  9;983.3 / 
+Posadas;13-Abril-2021;12:00;Algo nublado;20 km;23.8;No se calcula; 64;Este  5;1003.8 / 
+Chapelco;13-Abril-2021;12:00;Algo nublado;15 km;14.6;No se calcula; 63;Noreste  9;928.2 / 
+Neuquén;13-Abril-2021;12:00;Despejado;15 km;21.8;No se calcula; 46;Norte  3;986.6 / 
+Bariloche;13-Abril-2021;12:00;Despejado con niebla en la hora anterior;10 km;11.9;No se calcula; 74;Direcciones Variables  3;923.4 / 
+Cipolletti;13-Abril-2021;09:00;Despejado;25 km;11;No se calcula; 79;Sudoeste  3;987.1 / 
+El Bolsón;13-Abril-2021;11:00;Despejado;30 km;14.9;No se calcula; 78;Calma;981.8 / 
+Maquinchao;13-Abril-2021;12:00;Despejado;40 km;14.6;No se calcula; 44;Calma;918.1 / 
+Río Colorado;13-Abril-2021;09:00;Despejado;15 km;15.4;No se calcula; 78;Calma;1007.8 / 
+San Antonio Oeste;13-Abril-2021;12:00;Despejado;30 km;21.2;No se calcula; 36;Sur  7;1016.6 / 
+Viedma;13-Abril-2021;12:00;Despejado;30 km;23.6;No se calcula; 45;Direcciones Variables  7;1015.7 / 
+Metán;13-Abril-2021;09:00;Cubierto con neblina;13 km;15;No se calcula; 91;Oeste  3;923.9 / 
+Orán;13-Abril-2021;12:00;Algo nublado;15 km;26;27.0; 61;Calma;977.3 / 
+Rivadavia;13-Abril-2021;09:00;Despejado;Superior a 70 km;19.6;No se calcula; 59;Calma;995.5 / 
+Salta;13-Abril-2021;12:00;Algo nublado;15 km;19.9;No se calcula; 57;Este  7;884.3 / 
+Tartagal;13-Abril-2021;12:00;Cubierto;10 km;22.6;No se calcula; 59;Este  3;968.6 / 
+Jachal;13-Abril-2021;09:00;Despejado;30 km;10.4;No se calcula; 76;Calma;887.2 / 
+San Juan;13-Abril-2021;12:00;Despejado;15 km;21.6;No se calcula; 37;Sur  5;950.2 / 
+San Luis;13-Abril-2021;12:00;Despejado;20 km;22.1;No se calcula; 45;Noroeste  16;938.2 / 
+Santa Rosa del Conlara;13-Abril-2021;12:00;Despejado;20 km;19.5;No se calcula; 57;Calma;949.7 / 
+Villa Reynolds;13-Abril-2021;12:00;Despejado;15 km;20;No se calcula; 44;Noreste  3;963.8 / 
+El Calafate;13-Abril-2021;12:00;Nublado;30 km;10.4;No se calcula; 80;Norte  7;978.8 / 
+Gobernador Gregores;13-Abril-2021;09:00;Algo nublado;45 km;11.8;No se calcula; 63;Oeste  14;964.3 / 
+Perito Moreno;13-Abril-2021;12:00;Nublado;50 km;15;No se calcula; 40;Calma;960.4 / 
+Puerto Deseado;13-Abril-2021;12:00;Parcialmente nublado;30 km;18.2;No se calcula; 35;Oeste  24;1001 / 
+Río Gallegos;13-Abril-2021;12:00;Nublado;30 km;11.4;No se calcula; 48;Norte  24;- / 
+San Julián;13-Abril-2021;12:00;Algo nublado;30 km;18.8;No se calcula; 30;Norte  20;1001 / 
+Santa Cruz;13-Abril-2021;12:00;Nublado;30 km;13.2;No se calcula; 57;Norte  18;992.4 / 
+Ceres;13-Abril-2021;12:00;Algo nublado;15 km;23.1;No se calcula; 55;Noreste  9;1011.2 / 
+Rafaela;13-Abril-2021;12:00;Algo nublado;10 km;22.9;No se calcula; 50;Noreste  3;1010.7 / 
+Reconquista;13-Abril-2021;12:00;Parcialmente nublado;15 km;22.6;No se calcula; 66;Sur  9;1015.2 / 
+Rosario;13-Abril-2021;12:00;Algo nublado;15 km;22.2;No se calcula; 57;Este  11;1019.6 / 
+Santa Fe;13-Abril-2021;12:00;Algo nublado;12 km;23.1;No se calcula; 52;Este  11;1020.4 / 
+Sunchales;13-Abril-2021;12:00;Despejado;15 km;23.5;No se calcula; 57;Este  14;1011.6 / 
+Venado Tuerto;13-Abril-2021;11:00;Despejado;10 km;20.8;No se calcula; 63;Noreste  9;1007.4 / 
+Termas de Rio Hondo;13-Abril-2021;12:00;Cubierto;15 km;20.6;No se calcula; 73;Oeste  7;987.8 / 
+Santiago del Estero;13-Abril-2021;12:00;Nublado;10 km;22.8;No se calcula; 57;Noreste  11;997.3 / 
+Río Grande B.A.;13-Abril-2021;12:00;Parcialmente nublado;30 km;9.4;5.8; 56;Oeste  29;998.4 / 
+Ushuaia;13-Abril-2021;12:00;Algo nublado;30 km;7.7;3.6; 57;Sudoeste  29;992.2 / 
+Tucumán;13-Abril-2021;12:00;Cubierto con neblina;7 km;17.8;No se calcula; 82;Calma;968.6 / 
+Base Belgrano II;13-Abril-2021;12:00;Cubierto;20 km;-19.6;-24.2; 70;Este  5;951.2 / 
+Base Esperanza;13-Abril-2021;12:00;Algo nublado con ventisca alta;100 mts;-12.5;-25.0; 81;Sudoeste  48;984.5 / 
+Base Carlini;13-Abril-2021;12:00;Algo nublado;10 km;-5.9;-12.7; 69;Este  20;986.6 / 
+Base Marambio;13-Abril-2021;12:00;Algo nublado con ventisca alta;900 mts;-17.8;-34.1; 84;Sudoeste  68;961.8 / 
+Base Orcadas;13-Abril-2021;12:00;Cubierto con nevada en la hora anterior;15 km;-2.9;-7.1; 83;Este  11;976.5 / 
+Base San Martín;13-Abril-2021;12:00;Despejado;20 km;-8.2;-12.1; 74;Este  7;983.8 / 
+Azul;13-Abril-2021;13:00;Despejado;20 km;22.8;No se calcula; 50;Oeste  11;1003.8 / 
+Bahía Blanca;13-Abril-2021;13:00;Despejado;15 km;26.3;24.4; 42;Norte  22;1009 / 
+Benito Juárez;13-Abril-2021;12:00;Despejado;15 km;22.4;No se calcula; 54;Noroeste  24;995.6 / 
+Bolívar;13-Abril-2021;13:00;Despejado;15 km;23.2;No se calcula; 49;Noroeste  18;1010.6 / 
+Campo de Mayo;13-Abril-2021;13:00;Despejado;10 km;24.4;No se calcula; 48;Noroeste  1;1019.7 / 
+Coronel Pringles;13-Abril-2021;09:00;Despejado;25 km;13.1;No se calcula; 75;Noroeste  3;990.9 / 
+Coronel Suarez;13-Abril-2021;12:00;Despejado;60 km;22.2;No se calcula; 52;Norte  14;992.5 / 
+Dolores;13-Abril-2021;13:00;Despejado;10 km;24.2;No se calcula; 52;Sudoeste  11;1020.8 / 
+El Palomar;13-Abril-2021;13:00;Despejado;10 km;23.6;No se calcula; 50;Noroeste  9;1020.9 / 
+Ezeiza;13-Abril-2021;13:00;Despejado;10 km;24.3;No se calcula; 48;Norte  7;1020 / 
+Junín;13-Abril-2021;13:00;Despejado;10 km;24.2;No se calcula; 42;Noroeste  14;1011.4 / 
+La Plata;13-Abril-2021;13:00;Despejado;10 km;24;No se calcula; 48;Noroeste  3;1020.1 / 
+Las Flores;13-Abril-2021;12:00;Despejado;15 km;22;No se calcula; 62;Oeste  7;1017.6 / 
+Mar del Plata;13-Abril-2021;13:00;Despejado;10 km;25.9;No se calcula; 40;Calma;1017.6 / 
+Mariano Moreno;13-Abril-2021;13:00;Despejado;10 km;24;No se calcula; 50;Noroeste  9;1018.5 / 
+Merlo;13-Abril-2021;13:00;Despejado;10 km;24;No se calcula; 56;Norte  9;1020.4 / 
+Morón;13-Abril-2021;13:00;Despejado;10 km;24;No se calcula; 49;Norte  5;1019.3 / 
+Nueve de Julio;13-Abril-2021;12:00;Despejado;15 km;23.2;No se calcula; 49;Noroeste  9;1013 / 
+Olavarría;13-Abril-2021;13:00;Despejado con bruma;12 km;23.2;No se calcula; 51;Noroeste  9;1001.8 / 
+Pehuajó;13-Abril-2021;13:00;Despejado;15 km;23.5;No se calcula; 49;Noroeste  14;1010.9 / 
+Pigué;13-Abril-2021;13:00;Despejado;30 km;22.5;No se calcula; 50;Noroeste  18;984 / 
+Punta Indio B.A.;13-Abril-2021;13:00;Despejado;10 km;24.8;No se calcula; 48;Norte  11;1019.6 / 
+San Fernando;13-Abril-2021;13:00;Despejado;10 km;23.7;No se calcula; 51;Direcciones Variables  7;1022.2 / 
+Tandil;13-Abril-2021;13:00;Despejado;20 km;24.9;No se calcula; 40;Oeste  7;1000.3 / 
+Trenque Lauquen;13-Abril-2021;09:00;Despejado;15 km;12.8;No se calcula; 86;Norte  5;1009.6 / 
+Tres Arroyos;13-Abril-2021;12:00;Despejado;20 km;25.2;No se calcula; 28;Noroeste  11;1004.9 / 
+Villa Gesell;13-Abril-2021;13:00;Despejado;15 km;24.2;No se calcula; 47;Oeste  11;1019.4 / 
+Aeroparque Buenos Aires;13-Abril-2021;13:00;Despejado;10 km;22.7;No se calcula; 59;Norte  11;1022.1 / 
+Buenos Aires;13-Abril-2021;13:00;Despejado;10 km;25.1;No se calcula; 44;Sudoeste  3;1019.3 / 
+Catamarca;13-Abril-2021;13:00;Algo nublado;20 km;25.8;No se calcula; 49;Noreste  9;964.2 / 
+Tinogasta;13-Abril-2021;12:00;Despejado;20 km;22.4;No se calcula; 45;Norte  9;884.7 / 
+Pcia. Roque Saenz Peña;13-Abril-2021;13:00;Parcialmente nublado;20 km;23.6;No se calcula; 62;Sudeste  5;1009.6 / 
+Resistencia;13-Abril-2021;13:00;Parcialmente nublado;15 km;25.6;No se calcula; 51;Sur  5;1013 / 
+Comodoro Rivadavia;13-Abril-2021;13:00;Nublado;30 km;24.2;No se calcula; 33;Oeste  24;1005.7 / 
+Esquel;13-Abril-2021;13:00;Algo nublado;30 km;19.6;No se calcula; 43;Norte  5;925 / 
+Paso De Indios;13-Abril-2021;13:00;Algo nublado;45 km;22.4;No se calcula; 36;Oeste  20;960.1 / 
+Puerto Madryn;13-Abril-2021;13:00;Despejado;30 km;24.8;No se calcula; 28;Oeste  14;1000.4 / 
+Trelew;13-Abril-2021;13:00;Algo nublado;30 km;24.9;No se calcula; 29;Oeste  20;1011.4 / 
+Córdoba;13-Abril-2021;13:00;Algo nublado;15 km;23.6;No se calcula; 46;Noreste  14;962.8 / 
+Córdoba Observatorio;13-Abril-2021;13:00;Despejado;10 km;23.8;No se calcula; 49;Noreste  11;971 / 
+Esc. Aviación Militar;13-Abril-2021;13:00;Despejado;10 km;22.8;No se calcula; 52;Noreste  11;962.8 / 
+Laboulaye;13-Abril-2021;13:00;Despejado;10 km;23.9;No se calcula; 48;Norte  18;1004.4 / 
+Marcos Juárez;13-Abril-2021;13:00;Algo nublado;20 km;23.9;No se calcula; 52;Norte  18;1005.6 / 
+Pilar Obs.;13-Abril-2021;13:00;Despejado;10 km;23;No se calcula; 54;Norte  16;981 / 
+Río Cuarto;13-Abril-2021;13:00;Despejado;15 km;22.9;No se calcula; 46;Norte  25;970.4 / 
+Villa Dolores;13-Abril-2021;13:00;Despejado;30 km;20.9;No se calcula; 44;Sudeste  9;954.6 / 
+Villa María Del Río Seco;13-Abril-2021;12:00;Parcialmente nublado;15 km;22;No se calcula; 75;Este  3;980.5 / 
+Corrientes;13-Abril-2021;13:00;Algo nublado;10 km;24.6;No se calcula; 56;Sur  14;1011.8 / 
+Ituzaingó;13-Abril-2021;12:00;Algo nublado;15 km;23.2;No se calcula; 67;Sudeste  11;1009.3 / 
+Mercedes;13-Abril-2021;13:00;Parcialmente nublado;15 km;24;No se calcula; 54;Este  13;- / 
+Monte Caseros;13-Abril-2021;13:00;Algo nublado;20 km;24.4;No se calcula; 52;Sudeste  11;1015 / 
+Paso De Los Libres;13-Abril-2021;13:00;Parcialmente nublado;10 km;24.2;No se calcula; 53;Sudeste  22;1012 / 
+Concordia;13-Abril-2021;13:00;Algo nublado;15 km;22.7;No se calcula; 55;Este  7;1017.6 / 
+Gualeguaychú;13-Abril-2021;13:00;Despejado;15 km;23.2;No se calcula; 55;Este  11;1018.2 / 
+Paraná;13-Abril-2021;13:00;Despejado;15 km;22.8;No se calcula; 49;Norte  11;1013.2 / 
+Formosa;13-Abril-2021;13:00;Algo nublado;20 km;25.7;No se calcula; 64;Sur  11;1011 / 
+Las Lomitas;13-Abril-2021;13:00;Algo nublado;20 km;25.8;No se calcula; 52;Sur  3;1004.1 / 
+Mount Pleasant Airport (Islas Malvinas);13-Abril-2021;13:00;Sin información ;25 km;11.9;No se calcula; 43;Oeste  57;994.9 / 
+La Quiaca;13-Abril-2021;13:00;Algo nublado;30 km;18.6;No se calcula; 43;Norte  3;671.8 / 
+Jujuy;13-Abril-2021;13:00;Parcialmente nublado;12 km;21.6;No se calcula; 58;Sudeste  3;916.6 / 
+Jujuy Universidad Nacional;13-Abril-2021;09:00;Parcialmente nublado;12 km;14.6;No se calcula; 87;Noroeste  3;875 / 
+General Pico;13-Abril-2021;13:00;Despejado;20 km;23.1;No se calcula; 51;Norte  25;1002.4 / 
+Victorica;13-Abril-2021;09:00;Despejado;40 km;13.9;No se calcula; 70;Norte  3;982.6 / 
+Santa Rosa;13-Abril-2021;13:00;Despejado;30 km;25.6;No se calcula; 44;Norte  9;996.4 / 
+Chamical;13-Abril-2021;13:00;Algo nublado;20 km;22.4;No se calcula; 47;Sudeste  3;966.1 / 
+Chepes;13-Abril-2021;09:00;Despejado;20 km;16;No se calcula; 48;Calma;943.4 / 
+Chilecito;11-Abril-2021;15:00;Algo nublado;20 km;24;No se calcula; 39;Oeste  14;914.9 / 
+La Rioja;13-Abril-2021;13:00;Algo nublado;20 km;24.2;No se calcula; 49;Noroeste  3;968 / 
+Malargue;13-Abril-2021;13:00;Despejado;20 km;19.8;No se calcula; 34;Sudeste  3;861.4 / 
+Mendoza;13-Abril-2021;13:00;Despejado;15 km;21.4;No se calcula; 36;Este  7;937.3 / 
+Mendoza Observatorio;13-Abril-2021;13:00;Despejado;15 km;22.4;No se calcula; 46;Norte  9;923.6 / 
+San Carlos (Mza);13-Abril-2021;09:00;Despejado;15 km;6.2;No se calcula; 88;Sur  3;911 / 
+San Martín (Mza);13-Abril-2021;13:00;Despejado;15 km;22.5;No se calcula; 45;Norte  3;942.9 / 
+San Rafael;13-Abril-2021;13:00;Despejado;20 km;24.6;No se calcula; 43;Este  13;932.2 / 
+Uspallata;13-Abril-2021;12:00;Despejado;15 km;17.8;No se calcula; 28;Calma;820.1 / 
+Bernardo De Irigoyen;13-Abril-2021;13:00;Algo nublado;20 km;25.2;No se calcula; 58;Sudoeste  9;926.2 / 
+Iguazú;13-Abril-2021;13:00;Despejado;20 km;27.2;28.2; 57;Sur  7;985.8 / 
+Oberá;13-Abril-2021;09:00;Despejado;20 km;14.8;No se calcula; 91;Este  9;983.3 / 
+Posadas;13-Abril-2021;13:00;Algo nublado;20 km;25.8;No se calcula; 58;Este  3;1003 / 
+Chapelco;13-Abril-2021;13:00;Despejado;15 km;18.4;No se calcula; 46;Noreste  13;927.3 / 
+Neuquén;13-Abril-2021;13:00;Despejado;15 km;22.8;No se calcula; 46;Sur  9;986 / 
+Bariloche;13-Abril-2021;13:00;Algo nublado;10 km;15.3;No se calcula; 55;Noreste  3;922.6 / 
+Cipolletti;13-Abril-2021;09:00;Despejado;25 km;11;No se calcula; 79;Sudoeste  3;987.1 / 
+El Bolsón;13-Abril-2021;13:00;Despejado;30 km;19.4;No se calcula; 58;Calma;979.6 / 
+Maquinchao;13-Abril-2021;12:00;Despejado;40 km;14.6;No se calcula; 44;Calma;918.1 / 
+Río Colorado;13-Abril-2021;09:00;Despejado;15 km;15.4;No se calcula; 78;Calma;1007.8 / 
+San Antonio Oeste;13-Abril-2021;13:00;Despejado;30 km;21.5;No se calcula; 35;Sur  16;1016.8 / 
+Viedma;13-Abril-2021;13:00;Despejado;30 km;26.5;No se calcula; 39;Noroeste  9;1015.2 / 
+Metán;13-Abril-2021;09:00;Cubierto con neblina;13 km;15;No se calcula; 91;Oeste  3;923.9 / 
+Orán;13-Abril-2021;13:00;Algo nublado;15 km;27.2;27.9; 54;Norte  9;975.8 / 
+Rivadavia;13-Abril-2021;09:00;Despejado;Superior a 70 km;19.6;No se calcula; 59;Calma;995.5 / 
+Salta;13-Abril-2021;13:00;Parcialmente nublado;15 km;20.1;No se calcula; 57;Noreste  7;883.5 / 
+Tartagal;13-Abril-2021;13:00;Parcialmente nublado;10 km;23.2;No se calcula; 58;Este  9;967.8 / 
+Jachal;13-Abril-2021;09:00;Despejado;30 km;10.4;No se calcula; 76;Calma;887.2 / 
+San Juan;13-Abril-2021;13:00;Despejado;15 km;24;No se calcula; 33;Sudeste  3;949 / 
+San Luis;13-Abril-2021;13:00;Despejado;20 km;23.5;No se calcula; 48;Norte  13;937.7 / 
+Santa Rosa del Conlara;13-Abril-2021;13:00;Despejado;20 km;21.1;No se calcula; 50;Calma;948.8 / 
+Villa Reynolds;13-Abril-2021;13:00;Despejado;15 km;25.2;No se calcula; 34;Este  3;963 / 
+El Calafate;13-Abril-2021;13:00;Nublado con precipitación a la vista;25 km;10.8;No se calcula; 75;Este  18;977.8 / 
+Gobernador Gregores;13-Abril-2021;09:00;Algo nublado;45 km;11.8;No se calcula; 63;Oeste  14;964.3 / 
+Perito Moreno;13-Abril-2021;13:00;Nublado;50 km;15.2;No se calcula; 40;Noroeste  18;959 / 
+Puerto Deseado;13-Abril-2021;13:00;Nublado;30 km;19.2;No se calcula; 25;Oeste  9;1000.5 / 
+Río Gallegos;13-Abril-2021;13:00;Nublado;30 km;13;No se calcula; 45;Norte  25;- / 
+San Julián;13-Abril-2021;13:00;Parcialmente nublado;30 km;19.4;No se calcula; 28;Noroeste  25;1000.6 / 
+Santa Cruz;13-Abril-2021;13:00;Parcialmente nublado;30 km;15.2;No se calcula; 48;Norte  37;991.6 / 
+Ceres;13-Abril-2021;13:00;Parcialmente nublado;15 km;24;No se calcula; 54;Norte  3;1010.5 / 
+Rafaela;13-Abril-2021;12:00;Algo nublado;10 km;22.9;No se calcula; 50;Noreste  3;1010.7 / 
+Reconquista;13-Abril-2021;13:00;Parcialmente nublado;15 km;24.2;No se calcula; 55;Este  9;1014.4 / 
+Rosario;13-Abril-2021;13:00;Despejado;15 km;23;No se calcula; 51;Este  11;1018.9 / 
+Santa Fe;13-Abril-2021;13:00;Algo nublado;12 km;23.3;No se calcula; 51;Este  7;1019.6 / 
+Sunchales;13-Abril-2021;13:00;Despejado;15 km;24.4;No se calcula; 55;Este  14;1010.9 / 
+Venado Tuerto;13-Abril-2021;13:00;Despejado;10 km;23.7;No se calcula; 45;Norte  24;1006.2 / 
+Termas de Rio Hondo;13-Abril-2021;13:00;Cubierto;15 km;20.8;No se calcula; 73;Sudoeste  11;987 / 
+Santiago del Estero;13-Abril-2021;13:00;Nublado;10 km;24.2;No se calcula; 55;Norte  7;996.2 / 
+Río Grande B.A.;13-Abril-2021;13:00;Parcialmente nublado;30 km;9.2;6.7; 56;Oeste  16;999.2 / 
+Ushuaia;13-Abril-2021;13:00;Algo nublado;30 km;8.5;7.0; 51;Sudeste  9;992.4 / 
+Tucumán;13-Abril-2021;13:00;Cubierto con bruma;8 km;19;No se calcula; 76;Calma;967.8 / 
+Base Belgrano II;13-Abril-2021;12:00;Cubierto;20 km;-19.6;-24.2; 70;Este  5;951.2 / 
+Base Esperanza;13-Abril-2021;12:00;Algo nublado con ventisca alta;100 mts;-12.5;-25.0; 81;Sudoeste  48;984.5 / 
+Base Carlini;13-Abril-2021;12:00;Algo nublado;10 km;-5.9;-12.7; 69;Este  20;986.6 / 
+Base Marambio;13-Abril-2021;13:00;Algo nublado con ventisca alta;900 mts;-17.6;-33.5; 84;Sudoeste  64;963 / 
+Base Orcadas;13-Abril-2021;12:00;Cubierto con nevada en la hora anterior;15 km;-2.9;-7.1; 83;Este  11;976.5 / 
+Base San Martín;13-Abril-2021;12:00;Despejado;20 km;-8.2;-12.1; 74;Este  7;983.8 / 
+Azul;13-Abril-2021;14:00;Despejado;20 km;23.8;No se calcula; 47;Oeste  13;1003 / 
+Bahía Blanca;13-Abril-2021;14:00;Despejado;15 km;27.6;No se calcula; 38;Norte  22;1008.2 / 
+Benito Juárez;13-Abril-2021;12:00;Despejado;15 km;22.4;No se calcula; 54;Noroeste  24;995.6 / 
+Bolívar;13-Abril-2021;14:00;Despejado;15 km;23.8;No se calcula; 44;Noroeste  18;1010.5 / 
+Campo de Mayo;13-Abril-2021;14:00;Despejado;10 km;25.1;No se calcula; 47;Noroeste  1;1018.8 / 
+Coronel Pringles;13-Abril-2021;09:00;Despejado;25 km;13.1;No se calcula; 75;Noroeste  3;990.9 / 
+Coronel Suarez;13-Abril-2021;12:00;Despejado;60 km;22.2;No se calcula; 52;Norte  14;992.5 / 
+Dolores;13-Abril-2021;14:00;Despejado;10 km;24.7;No se calcula; 48;Oeste  18;1020.5 / 
+El Palomar;13-Abril-2021;14:00;Despejado;10 km;24.5;No se calcula; 41;Oeste  7;1020 / 
+Ezeiza;13-Abril-2021;14:00;Despejado;10 km;24.6;No se calcula; 50;Este  7;1019 / 
+Junín;13-Abril-2021;14:00;Despejado;10 km;24.4;No se calcula; 41;Noroeste  14;1010.8 / 
+La Plata;13-Abril-2021;14:00;Despejado;10 km;24.4;No se calcula; 58;Oeste  5;1019.3 / 
+Las Flores;13-Abril-2021;12:00;Despejado;15 km;22;No se calcula; 62;Oeste  7;1017.6 / 
+Mar del Plata;13-Abril-2021;14:00;Despejado;10 km;26.5;26.5; 40;Norte  5;1017.2 / 
+Mariano Moreno;13-Abril-2021;14:00;Despejado;10 km;24.1;No se calcula; 50;Oeste  9;1017.8 / 
+Merlo;13-Abril-2021;14:00;Despejado;10 km;24.2;No se calcula; 55;Norte  9;1020.1 / 
+Morón;13-Abril-2021;14:00;Despejado;10 km;24.8;No se calcula; 46;Norte  7;1019 / 
+Nueve de Julio;13-Abril-2021;12:00;Despejado;15 km;23.2;No se calcula; 49;Noroeste  9;1013 / 
+Olavarría;13-Abril-2021;14:00;Despejado con bruma;12 km;24.2;No se calcula; 47;Norte  7;1001 / 
+Pehuajó;13-Abril-2021;14:00;Despejado;15 km;24.6;No se calcula; 47;Noroeste  18;1010.1 / 
+Pigué;13-Abril-2021;14:00;Despejado;30 km;23.3;No se calcula; 44;Norte  24;983.3 / 
+Punta Indio B.A.;13-Abril-2021;14:00;Despejado;10 km;25;No se calcula; 48;Norte  3;1018.9 / 
+San Fernando;13-Abril-2021;14:00;Despejado;10 km;24.5;No se calcula; 48;Direcciones Variables  3;1021.4 / 
+Tandil;13-Abril-2021;14:00;Despejado;20 km;25.1;No se calcula; 34;Noroeste  13;999.5 / 
+Trenque Lauquen;13-Abril-2021;09:00;Despejado;15 km;12.8;No se calcula; 86;Norte  5;1009.6 / 
+Tres Arroyos;13-Abril-2021;12:00;Despejado;20 km;25.2;No se calcula; 28;Noroeste  11;1004.9 / 
+Villa Gesell;13-Abril-2021;14:00;Despejado;15 km;24.9;No se calcula; 42;Oeste  11;1019.3 / 
+Aeroparque Buenos Aires;13-Abril-2021;14:00;Despejado;10 km;22.8;No se calcula; 60;Norte  9;1021.2 / 
+Buenos Aires;13-Abril-2021;14:00;Despejado;10 km;25.8;No se calcula; 41;Oeste  5;1018.5 / 
+Catamarca;13-Abril-2021;14:00;Algo nublado;20 km;26.8;27.2; 49;Calma;963.2 / 
+Tinogasta;13-Abril-2021;12:00;Despejado;20 km;22.4;No se calcula; 45;Norte  9;884.7 / 
+Pcia. Roque Saenz Peña;13-Abril-2021;14:00;Parcialmente nublado;20 km;24.4;No se calcula; 59;Sudeste  1;1008.9 / 
+Resistencia;13-Abril-2021;14:00;Parcialmente nublado;15 km;25.8;No se calcula; 52;Sur  7;1012.2 / 
+Comodoro Rivadavia;13-Abril-2021;14:00;Parcialmente nublado;30 km;25.4;No se calcula; 32;Oeste  24;1004.9 / 
+Esquel;13-Abril-2021;14:00;Algo nublado;30 km;20.6;No se calcula; 43;Este  7;924.1 / 
+Paso De Indios;13-Abril-2021;14:00;Algo nublado;45 km;23.5;No se calcula; 34;Oeste  22;959.1 / 
+Puerto Madryn;13-Abril-2021;14:00;Despejado;30 km;25.2;No se calcula; 24;Calma;999.8 / 
+Trelew;13-Abril-2021;14:00;Algo nublado;30 km;25;No se calcula; 31;Sudoeste  11;1010.8 / 
+Córdoba;13-Abril-2021;14:00;Algo nublado;15 km;24.5;No se calcula; 45;Norte  14;961.8 / 
+Córdoba Observatorio;13-Abril-2021;14:00;Despejado;10 km;24.5;No se calcula; 48;Noreste  9;970.4 / 
+Esc. Aviación Militar;13-Abril-2021;14:00;Despejado;10 km;23.4;No se calcula; 48;Norte  11;961.8 / 
+Laboulaye;13-Abril-2021;14:00;Despejado;10 km;24.9;No se calcula; 45;Norte  22;1003.7 / 
+Marcos Juárez;13-Abril-2021;14:00;Algo nublado;20 km;24.5;No se calcula; 53;Norte  16;1005.2 / 
+Pilar Obs.;13-Abril-2021;14:00;Despejado;10 km;23.5;No se calcula; 50;Norte  14;980.2 / 
+Río Cuarto;13-Abril-2021;14:00;Despejado;15 km;23.8;No se calcula; 38;Norte  27;969.5 / 
+Villa Dolores;13-Abril-2021;14:00;Despejado;30 km;22.5;No se calcula; 45;Noreste  3;953.4 / 
+Villa María Del Río Seco;13-Abril-2021;12:00;Parcialmente nublado;15 km;22;No se calcula; 75;Este  3;980.5 / 
+Corrientes;13-Abril-2021;14:00;Parcialmente nublado;10 km;25;No se calcula; 56;Sudoeste  9;1011 / 
+Ituzaingó;13-Abril-2021;12:00;Algo nublado;15 km;23.2;No se calcula; 67;Sudeste  11;1009.3 / 
+Mercedes;13-Abril-2021;14:00;Parcialmente nublado;15 km;24;No se calcula; 54;Este  9;- / 
+Monte Caseros;13-Abril-2021;13:00;Algo nublado;20 km;24.4;No se calcula; 52;Sudeste  11;1015 / 
+Paso De Los Libres;13-Abril-2021;14:00;Parcialmente nublado;10 km;24.8;No se calcula; 54;Sudeste  22;1011.2 / 
+Concordia;13-Abril-2021;14:00;Algo nublado;15 km;23.3;No se calcula; 51;Noreste  14;1016.6 / 
+Gualeguaychú;13-Abril-2021;14:00;Despejado;15 km;23.8;No se calcula; 53;Este  9;1017.4 / 
+Paraná;13-Abril-2021;14:00;Despejado;15 km;23.2;No se calcula; 45;Noreste  11;1012.4 / 
+Formosa;13-Abril-2021;14:00;Parcialmente nublado;20 km;26.1;27.2; 65;Este  3;1010.5 / 
+Las Lomitas;13-Abril-2021;14:00;Algo nublado;20 km;26.8;27.2; 50;Este  1;1002.8 / 
+Mount Pleasant Airport (Islas Malvinas);13-Abril-2021;14:00;Sin información ;23 km;10.9;No se calcula; 45;Oeste  63;996 / 
+La Quiaca;13-Abril-2021;14:00;Parcialmente nublado;30 km;18.8;No se calcula; 40;Noreste  3;671 / 
+Jujuy;13-Abril-2021;14:00;Nublado;12 km;22.7;No se calcula; 58;Este  9;915.9 / 
+Jujuy Universidad Nacional;13-Abril-2021;09:00;Parcialmente nublado;12 km;14.6;No se calcula; 87;Noroeste  3;875 / 
+General Pico;13-Abril-2021;14:00;Despejado;20 km;25.1;No se calcula; 49;Norte  9;1001.4 / 
+Victorica;13-Abril-2021;09:00;Despejado;40 km;13.9;No se calcula; 70;Norte  3;982.6 / 
+Santa Rosa;13-Abril-2021;14:00;Despejado;30 km;25.6;No se calcula; 48;Norte  16;995.8 / 
+Chamical;13-Abril-2021;14:00;Despejado;20 km;23.8;No se calcula; 44;Sur  3;964.8 / 
+Chepes;13-Abril-2021;09:00;Despejado;20 km;16;No se calcula; 48;Calma;943.4 / 
+Chilecito;11-Abril-2021;15:00;Algo nublado;20 km;24;No se calcula; 39;Oeste  14;914.9 / 
+La Rioja;13-Abril-2021;14:00;Algo nublado;20 km;26.2;26.5; 44;Sur  3;966.6 / 
+Malargue;13-Abril-2021;14:00;Despejado;20 km;21.6;No se calcula; 33;Este  3;860.6 / 
+Mendoza;13-Abril-2021;14:00;Despejado;15 km;24.4;---; 35;---  0;936.2 / 
+Mendoza Observatorio;13-Abril-2021;14:00;Despejado;15 km;23.5;No se calcula; 43;Norte  3;922.2 / 
+San Carlos (Mza);13-Abril-2021;09:00;Despejado;15 km;6.2;No se calcula; 88;Sur  3;911 / 
+San Martín (Mza);13-Abril-2021;14:00;Despejado;15 km;24.4;No se calcula; 29;Noreste  14;941.7 / 
+San Rafael;13-Abril-2021;14:00;Despejado;20 km;25.8;No se calcula; 39;Este  18;931.4 / 
+Uspallata;13-Abril-2021;12:00;Despejado;15 km;17.8;No se calcula; 28;Calma;820.1 / 
+Bernardo De Irigoyen;13-Abril-2021;14:00;Algo nublado;20 km;26;26.9; 58;Sur  9;924.5 / 
+Iguazú;13-Abril-2021;14:00;Despejado;20 km;27.9;29.0; 56;Sudoeste  11;985 / 
+Oberá;13-Abril-2021;09:00;Despejado;20 km;14.8;No se calcula; 91;Este  9;983.3 / 
+Posadas;13-Abril-2021;14:00;Algo nublado;20 km;26.8;27.4; 53;Este  7;1002.2 / 
+Chapelco;13-Abril-2021;14:00;Despejado;15 km;20.6;No se calcula; 36;Este  18;926.2 / 
+Neuquén;13-Abril-2021;14:00;Despejado;15 km;25.8;No se calcula; 33;Noreste  7;984.6 / 
+Bariloche;13-Abril-2021;14:00;Algo nublado;10 km;18.7;No se calcula; 41;Direcciones Variables  5;921.4 / 
+Cipolletti;13-Abril-2021;09:00;Despejado;25 km;11;No se calcula; 79;Sudoeste  3;987.1 / 
+El Bolsón;13-Abril-2021;14:00;Despejado;30 km;20.5;No se calcula; 56;Calma;978.8 / 
+Maquinchao;13-Abril-2021;12:00;Despejado;40 km;14.6;No se calcula; 44;Calma;918.1 / 
+Río Colorado;13-Abril-2021;09:00;Despejado;15 km;15.4;No se calcula; 78;Calma;1007.8 / 
+San Antonio Oeste;13-Abril-2021;14:00;Despejado;30 km;22;No se calcula; 29;Sur  13;1016.8 / 
+Viedma;13-Abril-2021;14:00;Despejado;30 km;27.7;27.5; 41;Direcciones Variables  5;1014.6 / 
+Metán;13-Abril-2021;09:00;Cubierto con neblina;13 km;15;No se calcula; 91;Oeste  3;923.9 / 
+Orán;13-Abril-2021;14:00;Parcialmente nublado;15 km;27.6;28.2; 52;Calma;974.9 / 
+Rivadavia;13-Abril-2021;09:00;Despejado;Superior a 70 km;19.6;No se calcula; 59;Calma;995.5 / 
+Salta;13-Abril-2021;14:00;Parcialmente nublado;15 km;22.6;No se calcula; 54;Este  11;882.4 / 
+Tartagal;13-Abril-2021;14:00;Parcialmente nublado;10 km;24.6;No se calcula; 56;Noreste  9;966.7 / 
+Jachal;13-Abril-2021;09:00;Despejado;30 km;10.4;No se calcula; 76;Calma;887.2 / 
+San Juan;13-Abril-2021;14:00;Despejado;15 km;25.4;No se calcula; 32;Este  9;948.2 / 
+San Luis;13-Abril-2021;14:00;Despejado;20 km;24.5;No se calcula; 42;Norte  7;936.6 / 
+Santa Rosa del Conlara;13-Abril-2021;14:00;Despejado;20 km;21.9;No se calcula; 48;Calma;947.8 / 
+Villa Reynolds;13-Abril-2021;14:00;Despejado;15 km;26.4;No se calcula; 35;Este  14;962.2 / 
+El Calafate;13-Abril-2021;14:00;Nublado con precipitación a la vista;20 km;11.8;No se calcula; 69;Este  9;976.2 / 
+Gobernador Gregores;13-Abril-2021;09:00;Algo nublado;45 km;11.8;No se calcula; 63;Oeste  14;964.3 / 
+Perito Moreno;13-Abril-2021;14:00;Parcialmente nublado;50 km;17.2;No se calcula; 49;Norte  44;958.4 / 
+Puerto Deseado;13-Abril-2021;14:00;Nublado;30 km;20.6;No se calcula; 24;Noroeste  9;1000 / 
+Río Gallegos;13-Abril-2021;14:00;Nublado;30 km;13.4;No se calcula; 46;Norte  35;- / 
+San Julián;13-Abril-2021;14:00;Parcialmente nublado;30 km;20.2;No se calcula; 26;Norte  25;999 / 
+Santa Cruz;13-Abril-2021;14:00;Nublado;30 km;16.5;No se calcula; 37;Norte  27;989.6 / 
+Ceres;13-Abril-2021;14:00;Parcialmente nublado;15 km;23.7;No se calcula; 55;Este  3;1010 / 
+Rafaela;13-Abril-2021;12:00;Algo nublado;10 km;22.9;No se calcula; 50;Noreste  3;1010.7 / 
+Reconquista;13-Abril-2021;14:00;Parcialmente nublado;15 km;25.2;No se calcula; 52;Este  9;1013.6 / 
+Rosario;13-Abril-2021;14:00;Despejado;15 km;23.8;No se calcula; 47;Norte  11;1018 / 
+Santa Fe;13-Abril-2021;14:00;Algo nublado;12 km;24.1;No se calcula; 51;Calma;1018.8 / 
+Sunchales;13-Abril-2021;14:00;Parcialmente nublado;15 km;24.4;No se calcula; 55;Este  9;1010.1 / 
+Venado Tuerto;13-Abril-2021;14:00;Despejado;10 km;24.6;No se calcula; 46;Norte  14;1005.4 / 
+Termas de Rio Hondo;13-Abril-2021;14:00;Cubierto;15 km;21.6;No se calcula; 69;Sudoeste  11;986.1 / 
+Santiago del Estero;13-Abril-2021;14:00;Nublado;10 km;24.2;No se calcula; 55;Este  7;995.3 / 
+Río Grande B.A.;13-Abril-2021;14:00;Parcialmente nublado;30 km;9.8;7.5; 62;Noroeste  16;998.8 / 
+Ushuaia;13-Abril-2021;14:00;Parcialmente nublado;30 km;8.5;6.7; 60;Sudeste  11;990.8 / 
+Tucumán;13-Abril-2021;14:00;Cubierto con bruma;8 km;20;No se calcula; 72;Calma;967 / 
+Base Belgrano II;13-Abril-2021;12:00;Cubierto;20 km;-19.6;-24.2; 70;Este  5;951.2 / 
+Base Esperanza;13-Abril-2021;12:00;Algo nublado con ventisca alta;100 mts;-12.5;-25.0; 81;Sudoeste  48;984.5 / 
+Base Carlini;13-Abril-2021;12:00;Algo nublado;10 km;-5.9;-12.7; 69;Este  20;986.6 / 
+Base Marambio;13-Abril-2021;14:00;Algo nublado con ventisca alta;900 mts;-17.6;-34.0; 84;Sudoeste  70;963.8 / 
+Base Orcadas;13-Abril-2021;12:00;Cubierto con nevada en la hora anterior;15 km;-2.9;-7.1; 83;Este  11;976.5 / 
+Base San Martín;13-Abril-2021;12:00;Despejado;20 km;-8.2;-12.1; 74;Este  7;983.8 / 
+Azul;13-Abril-2021;15:00;Despejado;20 km;23.6;No se calcula; 43;Oeste  13;1002 / 
+Bahía Blanca;13-Abril-2021;15:00;Algo nublado;15 km;28.2;No se calcula; 36;Norte  25;1007.8 / 
+Benito Juárez;13-Abril-2021;15:00;Despejado;15 km;24.4;No se calcula; 49;Noroeste  14;994.5 / 
+Bolívar;13-Abril-2021;15:00;Despejado;15 km;24.4;No se calcula; 40;Oeste  22;1010.1 / 
+Campo de Mayo;13-Abril-2021;15:00;Algo nublado;10 km;25.4;No se calcula; 47;Norte  3;1018.2 / 
+Coronel Pringles;13-Abril-2021;09:00;Despejado;25 km;13.1;No se calcula; 75;Noroeste  3;990.9 / 
+Coronel Suarez;13-Abril-2021;15:00;Despejado;60 km;23;No se calcula; 45;Norte  16;991.2 / 
+Dolores;13-Abril-2021;15:00;Despejado;10 km;25.2;No se calcula; 47;Oeste  14;1020.5 / 
+El Palomar;13-Abril-2021;15:00;Despejado;10 km;25.6;No se calcula; 32;Norte  5;1019.4 / 
+Ezeiza;13-Abril-2021;15:00;Despejado con humo;9 km;25.3;No se calcula; 45;Noroeste  5;1018.4 / 
+Junín;13-Abril-2021;15:00;Despejado;12 km;25.6;No se calcula; 36;Oeste  14;1009.8 / 
+La Plata;13-Abril-2021;15:00;Despejado;10 km;25;No se calcula; 38;Este  9;1018.8 / 
+Las Flores;13-Abril-2021;15:00;Despejado;15 km;25;No se calcula; 45;Oeste  7;1014.8 / 
+Mar del Plata;13-Abril-2021;15:00;Despejado;10 km;26.3;26.4; 41;Noroeste  9;1016.8 / 
+Mariano Moreno;13-Abril-2021;15:00;Despejado;10 km;25;No se calcula; 47;Noroeste  9;1017.1 / 
+Merlo;13-Abril-2021;15:00;Despejado;10 km;25.1;No se calcula; 51;Norte  9;1019.2 / 
+Morón;13-Abril-2021;15:00;Despejado;10 km;25.2;No se calcula; 44;Calma;1018.2 / 
+Nueve de Julio;13-Abril-2021;15:00;Despejado;15 km;24.8;No se calcula; 39;Norte  9;1011 / 
+Olavarría;13-Abril-2021;15:00;Despejado;15 km;23.8;No se calcula; 44;Norte  14;1000.9 / 
+Pehuajó;13-Abril-2021;15:00;Despejado;15 km;25.3;No se calcula; 44;Noroeste  16;1009.3 / 
+Pigué;13-Abril-2021;15:00;Despejado;30 km;23.8;No se calcula; 41;Norte  14;982.8 / 
+Punta Indio B.A.;13-Abril-2021;15:00;Despejado;10 km;25.4;No se calcula; 49;Norte  11;1018.4 / 
+San Fernando;13-Abril-2021;15:00;Despejado;10 km;25;No se calcula; 45;Norte  5;1020.8 / 
+Tandil;13-Abril-2021;15:00;Despejado;20 km;25.3;No se calcula; 33;Noroeste  14;999.2 / 
+Trenque Lauquen;13-Abril-2021;15:00;Despejado;15 km;25.8;No se calcula; 42;Norte  9;1007.7 / 
+Tres Arroyos;13-Abril-2021;12:00;Despejado;20 km;25.2;No se calcula; 28;Noroeste  11;1004.9 / 
+Villa Gesell;13-Abril-2021;15:00;Despejado;15 km;25.2;No se calcula; 40;Oeste  11;1019.2 / 
+Aeroparque Buenos Aires;13-Abril-2021;15:00;Despejado;10 km;22.6;No se calcula; 64;Noreste  9;1020.8 / 
+Buenos Aires;13-Abril-2021;15:00;Despejado;10 km;25.4;No se calcula; 47;Noroeste  9;1018 / 
+Catamarca;13-Abril-2021;15:00;Algo nublado;20 km;27.2;27.4; 47;Calma;962.1 / 
+Tinogasta;13-Abril-2021;15:00;Despejado;20 km;28.4;No se calcula; 38;Oeste  9;877.4 / 
+Pcia. Roque Saenz Peña;13-Abril-2021;15:00;Nublado;20 km;24.7;No se calcula; 58;Sudeste  3;1008 / 
+Resistencia;13-Abril-2021;15:00;Parcialmente nublado;15 km;25.4;No se calcula; 57;Sur  7;1011.6 / 
+Comodoro Rivadavia;13-Abril-2021;15:00;Algo nublado;30 km;26.6;No se calcula; 35;Noroeste  24;1004 / 
+Esquel;13-Abril-2021;15:00;Algo nublado;30 km;21.8;No se calcula; 40;Este  11;922.9 / 
+Paso De Indios;13-Abril-2021;15:00;Algo nublado;45 km;24.6;No se calcula; 31;Oeste  20;957.8 / 
+Puerto Madryn;13-Abril-2021;15:00;Despejado;30 km;24.2;No se calcula; 33;Noreste  14;998.9 / 
+Trelew;13-Abril-2021;15:00;Algo nublado;30 km;26.4;No se calcula; 28;Calma;1010.1 / 
+Córdoba;13-Abril-2021;15:00;Despejado;15 km;24.8;No se calcula; 45;Este  14;961 / 
+Córdoba Observatorio;13-Abril-2021;15:00;Despejado;10 km;25;No se calcula; 46;Este  13;970.4 / 
+Esc. Aviación Militar;13-Abril-2021;15:00;Despejado;10 km;24.1;No se calcula; 47;Noreste  14;961 / 
+Laboulaye;13-Abril-2021;15:00;Despejado;10 km;25.4;No se calcula; 45;Norte  22;1002.9 / 
+Marcos Juárez;13-Abril-2021;15:00;Algo nublado;20 km;24.5;No se calcula; 51;Norte  16;1004.1 / 
+Pilar Obs.;13-Abril-2021;15:00;Despejado;10 km;23.9;No se calcula; 49;Norte  13;979.4 / 
+Río Cuarto;13-Abril-2021;15:00;Despejado;15 km;25;No se calcula; 34;Noreste  27;968.6 / 
+Villa Dolores;13-Abril-2021;15:00;Despejado;30 km;23.7;No se calcula; 43;Sur  3;952.6 / 
+Villa María Del Río Seco;13-Abril-2021;15:00;Algo nublado;15 km;24.4;No se calcula; 50;Norte  14;979.3 / 
+Corrientes;13-Abril-2021;15:00;Parcialmente nublado;10 km;24.7;No se calcula; 57;Sur  3;1010.6 / 
+Ituzaingó;13-Abril-2021;15:00;Parcialmente nublado;15 km;28.2;29.2; 55;Sudoeste  11;1006.9 / 
+Mercedes;13-Abril-2021;15:00;Parcialmente nublado;15 km;24.6;No se calcula; 49;Sudeste  7;- / 
+Monte Caseros;13-Abril-2021;15:00;Algo nublado;20 km;25.4;No se calcula; 48;Este  7;1013.2 / 
+Paso De Los Libres;13-Abril-2021;14:00;Parcialmente nublado;10 km;24.8;No se calcula; 54;Sudeste  22;1011.2 / 
+Concordia;13-Abril-2021;15:00;Algo nublado;15 km;24;No se calcula; 45;Este  9;1015.8 / 
+Gualeguaychú;13-Abril-2021;15:00;Despejado;15 km;23.9;No se calcula; 51;Este  9;1016.9 / 
+Paraná;13-Abril-2021;15:00;Despejado;15 km;24;No se calcula; 43;Noreste  7;1011.4 / 
+Formosa;13-Abril-2021;15:00;Parcialmente nublado;20 km;27.5;28.2; 61;Oeste  13;1009.6 / 
+Las Lomitas;13-Abril-2021;15:00;Algo nublado;20 km;27.2;27.6; 49;Este  3;1002 / 
+Mount Pleasant Airport (Islas Malvinas);13-Abril-2021;15:00;Sin información ;23 km;11.1;No se calcula; 46;Oeste  57;996.6 / 
+La Quiaca;13-Abril-2021;15:00;Nublado;30 km;18;No se calcula; 44;Noreste  3;670 / 
+Jujuy;13-Abril-2021;15:00;Nublado;12 km;22.5;No se calcula; 59;Este  9;915 / 
+Jujuy Universidad Nacional;13-Abril-2021;15:00;Parcialmente nublado;12 km;23;No se calcula; 54;Sudeste  9;872.6 / 
+General Pico;13-Abril-2021;15:00;Despejado;20 km;26.1;24.2; 42;Norte  22;1000.8 / 
+Victorica;13-Abril-2021;15:00;Despejado;40 km;27.3;No se calcula; 36;Norte  9;980.2 / 
+Santa Rosa;13-Abril-2021;15:00;Despejado;30 km;26.2;25.2; 41;Norte  18;995 / 
+Chamical;13-Abril-2021;15:00;Despejado;20 km;25.2;No se calcula; 41;Noreste  5;964.9 / 
+Chepes;13-Abril-2021;15:00;Despejado;20 km;26.6;No se calcula; 25;Noreste  9;942.3 / 
+La Rioja;13-Abril-2021;15:00;Algo nublado;20 km;25.6;No se calcula; 44;Sudeste  3;965.8 / 
+Malargue;13-Abril-2021;15:00;Despejado;20 km;23.2;No se calcula; 23;Norte  9;859.7 / 
+Mendoza;13-Abril-2021;15:00;Despejado;15 km;24.6;No se calcula; 30;Noreste  9;935.3 / 
+Mendoza Observatorio;13-Abril-2021;15:00;Despejado;15 km;24.5;No se calcula; 43;Calma;921.7 / 
+San Carlos (Mza);13-Abril-2021;15:00;Despejado;15 km;23.8;No se calcula; 44;Norte  14;909.9 / 
+San Martín (Mza);13-Abril-2021;15:00;Despejado;15 km;26;No se calcula; 33;Norte  9;940.6 / 
+San Rafael;13-Abril-2021;15:00;Despejado;20 km;26.2;No se calcula; 35;Este  16;930.6 / 
+Uspallata;13-Abril-2021;15:00;Despejado;15 km;21.2;No se calcula; 23;Sudoeste  3;817 / 
+Bernardo De Irigoyen;13-Abril-2021;15:00;Algo nublado;20 km;26.5;27.2; 54;Sur  9;924.1 / 
+Iguazú;13-Abril-2021;15:00;Despejado;20 km;28.9;29.4; 48;Sur  9;984.5 / 
+Oberá;13-Abril-2021;15:00;Parcialmente nublado;20 km;26.2;27.0; 55;Sudeste  3;981.8 / 
+Posadas;13-Abril-2021;15:00;Parcialmente nublado;20 km;27.2;27.9; 54;Este  9;1001.6 / 
+Chapelco;13-Abril-2021;15:00;Despejado;15 km;21.4;No se calcula; 38;Este  11;925.2 / 
+Neuquén;13-Abril-2021;15:00;Despejado;15 km;26;No se calcula; 33;Sudeste  9;986.3 / 
+Bariloche;13-Abril-2021;15:00;Despejado;10 km;21.2;No se calcula; 30;Calma;920.2 / 
+Cipolletti;13-Abril-2021;15:00;Despejado;25 km;26.4;No se calcula; 34;Sudeste  9;984.7 / 
+El Bolsón;13-Abril-2021;14:00;Despejado;30 km;20.5;No se calcula; 56;Calma;978.8 / 
+Maquinchao;13-Abril-2021;15:00;Algo nublado;40 km;22.3;No se calcula; 10;Noreste  3;915.6 / 
+Río Colorado;13-Abril-2021;15:00;Despejado;16 km;29;28.9; 42;Noroeste  3;1005.3 / 
+San Antonio Oeste;13-Abril-2021;15:00;Despejado;30 km;22.5;No se calcula; 28;Sur  14;1016.8 / 
+Viedma;13-Abril-2021;15:00;Despejado;30 km;29.3;No se calcula; 35;Noroeste  9;1013.8 / 
+Metán;13-Abril-2021;15:00;Cubierto con bruma;10 km;19.8;No se calcula; 79;Este  3;920.1 / 
+Orán;13-Abril-2021;15:00;Parcialmente nublado;15 km;26.5;27.3; 56;Noreste  9;973.8 / 
+Rivadavia;13-Abril-2021;09:00;Despejado;Superior a 70 km;19.6;No se calcula; 59;Calma;995.5 / 
+Salta;13-Abril-2021;15:00;Parcialmente nublado;15 km;21.4;No se calcula; 57;Noreste  14;881.9 / 
+Tartagal;13-Abril-2021;15:00;Parcialmente nublado;10 km;24.6;No se calcula; 58;Norte  9;965.6 / 
+Jachal;13-Abril-2021;15:00;Despejado;30 km;25.4;No se calcula; 29;Sur  3;884.8 / 
+San Juan;13-Abril-2021;15:00;Despejado;15 km;27.3;No se calcula; 26;Sudeste  11;946.8 / 
+San Luis;13-Abril-2021;15:00;Despejado;20 km;25.8;No se calcula; 39;Calma;935.7 / 
+Santa Rosa del Conlara;13-Abril-2021;15:00;Despejado;20 km;22.9;No se calcula; 49;Calma;946.5 / 
+Villa Reynolds;13-Abril-2021;15:00;Despejado;15 km;26;No se calcula; 31;Este  13;961.2 / 
+El Calafate;13-Abril-2021;15:00;Nublado con lluvia;25 km;12.6;No se calcula; 72;Este  9;974.6 / 
+Gobernador Gregores;13-Abril-2021;15:00;Parcialmente nublado;45 km;18.4;No se calcula; 35;Norte  38;959 / 
+Perito Moreno;13-Abril-2021;15:00;Parcialmente nublado;50 km;19;No se calcula; 47;Noroeste  40;957.4 / 
+Puerto Deseado;13-Abril-2021;15:00;Nublado;30 km;21.9;No se calcula; 23;Noroeste  9;999.5 / 
+Río Gallegos;13-Abril-2021;15:00;Nublado;30 km;12.8;No se calcula; 53;Norte  33;- / 
+San Julián;13-Abril-2021;15:00;Nublado;30 km;19.4;No se calcula; 29;Noreste  16;998 / 
+Santa Cruz;13-Abril-2021;15:00;Cubierto con precipitación a la vista;30 km;16.9;No se calcula; 36;Norte  37;989 / 
+Ceres;13-Abril-2021;15:00;Parcialmente nublado;15 km;22.8;No se calcula; 56;Este  3;1008.8 / 
+Rafaela;13-Abril-2021;12:00;Algo nublado;10 km;22.9;No se calcula; 50;Noreste  3;1010.7 / 
+Reconquista;13-Abril-2021;15:00;Parcialmente nublado;15 km;24.5;No se calcula; 51;Este  7;1013 / 
+Rosario;13-Abril-2021;15:00;Despejado;15 km;24.3;No se calcula; 45;Noreste  11;1017.2 / 
+Santa Fe;13-Abril-2021;15:00;Despejado;12 km;24.1;No se calcula; 50;Sudeste  11;1017.8 / 
+Sunchales;13-Abril-2021;15:00;Parcialmente nublado;15 km;24.5;No se calcula; 49;Este  9;1009.3 / 
+Venado Tuerto;13-Abril-2021;15:00;Despejado;10 km;25.1;No se calcula; 44;Norte  14;1005.2 / 
+Termas de Rio Hondo;13-Abril-2021;15:00;Cubierto;15 km;23.4;No se calcula; 55;Sudoeste  11;985 / 
+Santiago del Estero;13-Abril-2021;15:00;Nublado;10 km;25.4;No se calcula; 50;Este  5;994.2 / 
+Río Grande B.A.;13-Abril-2021;15:00;Cubierto;30 km;9.2;5.3; 72;Norte  33;998.6 / 
+Ushuaia;13-Abril-2021;15:00;Cubierto;30 km;8.2;6.3; 59;Este  11;990.6 / 
+Tucumán;13-Abril-2021;15:00;Cubierto con bruma;7 km;20.4;No se calcula; 68;Calma;966.2 / 
+Base Belgrano II;13-Abril-2021;15:00;Parcialmente nublado;20 km;-17.8;-25.0; 84;Noreste  11;950.6 / 
+Base Esperanza;13-Abril-2021;15:00;Algo nublado;10 km;-9.2;-19.5; 82;Sur  38;987.2 / 
+Base Carlini;13-Abril-2021;15:00;Algo nublado;10 km;-5.5;-10.7; 72;Este  13;990.4 / 
+Base Marambio;13-Abril-2021;15:00;Algo nublado con ventisca baja;2.0 km;-17.4;-32.8; 84;Sur  59;965.4 / 
+Base Orcadas;13-Abril-2021;15:00;Cubierto;15 km;-3.6;-7.4; 72;Sur  9;978.1 / 
+Base San Martín;13-Abril-2021;15:00;Algo nublado;20 km;-6.2;-10.5; 75;Este  9;986.2 / 
+Azul;13-Abril-2021;16:00;Despejado;20 km;23.8;No se calcula; 44;Oeste  11;1002.2 / 
+Bahía Blanca;13-Abril-2021;16:00;Algo nublado;15 km;28.5;No se calcula; 32;Norte  24;1007.4 / 
+Benito Juárez;13-Abril-2021;15:00;Despejado;15 km;24.4;No se calcula; 49;Noroeste  14;994.5 / 
+Bolívar;13-Abril-2021;16:00;Despejado;15 km;25;No se calcula; 38;Noroeste  22;1009.1 / 
+Campo de Mayo;13-Abril-2021;16:00;Algo nublado;10 km;25.8;No se calcula; 46;Calma;1018 / 
+Coronel Pringles;13-Abril-2021;15:00;Despejado;25 km;25.8;No se calcula; 41;Norte  14;989.8 / 
+Coronel Suarez;13-Abril-2021;15:00;Despejado;60 km;23;No se calcula; 45;Norte  16;991.2 / 
+Dolores;13-Abril-2021;16:00;Despejado;10 km;24.9;No se calcula; 48;Noroeste  11;1020.4 / 
+El Palomar;13-Abril-2021;16:00;Despejado;10 km;25.1;No se calcula; 40;Norte  5;1019.2 / 
+Ezeiza;13-Abril-2021;16:00;Algo nublado con bruma;9 km;25.6;No se calcula; 39;Oeste  7;1018.1 / 
+Junín;13-Abril-2021;16:00;Despejado;12 km;25.8;No se calcula; 33;Norte  14;1009.2 / 
+La Plata;13-Abril-2021;16:00;Despejado;10 km;24.6;No se calcula; 41;Norte  11;1018.8 / 
+Las Flores;13-Abril-2021;15:00;Despejado;15 km;25;No se calcula; 45;Oeste  7;1014.8 / 
+Mar del Plata;13-Abril-2021;16:00;Despejado;10 km;26.3;26.5; 41;Norte  9;1016.8 / 
+Mariano Moreno;13-Abril-2021;16:00;Despejado;10 km;24.8;No se calcula; 44;Calma;1016.9 / 
+Merlo;13-Abril-2021;16:00;Despejado;10 km;24.9;No se calcula; 47;Noreste  9;1018.6 / 
+Morón;13-Abril-2021;16:00;Despejado;10 km;25.4;No se calcula; 43;Norte  3;1017.8 / 
+Nueve de Julio;13-Abril-2021;15:00;Despejado;15 km;24.8;No se calcula; 39;Norte  9;1011 / 
+Olavarría;13-Abril-2021;16:00;Despejado;15 km;23.9;No se calcula; 48;Norte  14;1000.4 / 
+Pehuajó;13-Abril-2021;16:00;Despejado;15 km;25.4;No se calcula; 43;Noroeste  13;1008.8 / 
+Pigué;13-Abril-2021;16:00;Despejado;30 km;23.5;No se calcula; 42;Norte  14;982.6 / 
+Punta Indio B.A.;13-Abril-2021;16:00;Despejado;10 km;25;No se calcula; 49;Oeste  9;1018.1 / 
+San Fernando;13-Abril-2021;16:00;Despejado;10 km;24.2;No se calcula; 53;Noreste  11;1020.5 / 
+Tandil;13-Abril-2021;16:00;Despejado;20 km;24.9;No se calcula; 41;Norte  20;999 / 
+Trenque Lauquen;13-Abril-2021;15:00;Despejado;15 km;25.8;No se calcula; 42;Norte  9;1007.7 / 
+Tres Arroyos;13-Abril-2021;12:00;Despejado;20 km;25.2;No se calcula; 28;Noroeste  11;1004.9 / 
+Villa Gesell;13-Abril-2021;16:00;Despejado;15 km;25.3;No se calcula; 45;Oeste  11;1018.5 / 
+Aeroparque Buenos Aires;13-Abril-2021;16:00;Despejado;10 km;22.5;No se calcula; 59;Noreste  9;1020.4 / 
+Buenos Aires;13-Abril-2021;16:00;Despejado;10 km;25.3;No se calcula; 41;Norte  5;1017.7 / 
+Catamarca;13-Abril-2021;16:00;Algo nublado;20 km;28.2;28.4; 47;Calma;961 / 
+Tinogasta;13-Abril-2021;15:00;Despejado;20 km;28.4;No se calcula; 38;Oeste  9;877.4 / 
+Pcia. Roque Saenz Peña;13-Abril-2021;16:00;Parcialmente nublado;20 km;25.4;No se calcula; 55;Sur  11;1007.3 / 
+Resistencia;13-Abril-2021;16:00;Parcialmente nublado;15 km;24.3;No se calcula; 58;Sur  9;1011.2 / 
+Comodoro Rivadavia;13-Abril-2021;16:00;Algo nublado;30 km;26.8;No se calcula; 33;Noroeste  24;1003 / 
+Esquel;13-Abril-2021;16:00;Algo nublado;30 km;22.5;No se calcula; 39;Sudoeste  11;922 / 
+Paso De Indios;13-Abril-2021;16:00;Algo nublado;45 km;25.2;No se calcula; 30;Oeste  24;956.8 / 
+Puerto Madryn;13-Abril-2021;16:00;Despejado;30 km;23.4;No se calcula; 33;Este  18;998.2 / 
+Trelew;13-Abril-2021;16:00;Algo nublado;30 km;27.1;No se calcula; 34;Oeste  13;1009 / 
+Córdoba;13-Abril-2021;16:00;Despejado;15 km;25.2;No se calcula; 44;Norte  14;960.5 / 
+Córdoba Observatorio;13-Abril-2021;16:00;Despejado;10 km;25.3;No se calcula; 46;Noreste  9;969.7 / 
+Esc. Aviación Militar;13-Abril-2021;16:00;Despejado;10 km;24.1;No se calcula; 49;Noreste  11;960.4 / 
+Laboulaye;13-Abril-2021;16:00;Despejado;10 km;25.6;No se calcula; 41;Norte  14;1002.1 / 
+Marcos Juárez;13-Abril-2021;16:00;Despejado;20 km;24.9;No se calcula; 48;Norte  18;1003.4 / 
+Pilar Obs.;13-Abril-2021;16:00;Despejado;10 km;23.7;No se calcula; 48;Norte  13;978.9 / 
+Río Cuarto;13-Abril-2021;16:00;Despejado;15 km;25.6;No se calcula; 32;Noreste  20;968.1 / 
+Villa Dolores;13-Abril-2021;16:00;Despejado;30 km;24.5;No se calcula; 36;Sudoeste  9;951.7 / 
+Villa María Del Río Seco;13-Abril-2021;15:00;Algo nublado;15 km;24.4;No se calcula; 50;Norte  14;979.3 / 
+Corrientes;13-Abril-2021;16:00;Parcialmente nublado;10 km;24.8;No se calcula; 58;Sur  3;1010.1 / 
+Ituzaingó;13-Abril-2021;15:00;Parcialmente nublado;15 km;28.2;29.2; 55;Sudoeste  11;1006.9 / 
+Mercedes;13-Abril-2021;15:00;Parcialmente nublado;15 km;24.6;No se calcula; 49;Sudeste  7;- / 
+Monte Caseros;13-Abril-2021;16:00;Algo nublado;20 km;25.8;No se calcula; 49;Este  14;1012.9 / 
+Paso De Los Libres;13-Abril-2021;16:00;Parcialmente nublado;10 km;25.4;No se calcula; 50;Este  13;1010.2 / 
+Concordia;13-Abril-2021;16:00;Algo nublado;15 km;23.4;No se calcula; 51;Sudeste  7;1015.4 / 
+Gualeguaychú;13-Abril-2021;16:00;Despejado;15 km;24.6;No se calcula; 54;Este  18;1016.5 / 
+Paraná;13-Abril-2021;16:00;Despejado;15 km;24;No se calcula; 44;Este  13;1011 / 
+Formosa;13-Abril-2021;16:00;Algo nublado;20 km;27.2;27.8; 62;Sudoeste  14;1009 / 
+Las Lomitas;13-Abril-2021;16:00;Algo nublado;20 km;27.3;27.6; 47;Este  3;1000.8 / 
+Mount Pleasant Airport (Islas Malvinas);13-Abril-2021;16:00;Sin información ;24 km;10.6;No se calcula; 46;Oeste  51;997.5 / 
+La Quiaca;13-Abril-2021;16:00;Nublado con tormenta sin precipitación;5 km;17.2;No se calcula; 45;Sudeste  14;670 / 
+Jujuy;13-Abril-2021;16:00;Nublado;12 km;21.8;No se calcula; 62;Este  14;914.5 / 
+Jujuy Universidad Nacional;13-Abril-2021;15:00;Parcialmente nublado;12 km;23;No se calcula; 54;Sudeste  9;872.6 / 
+General Pico;13-Abril-2021;16:00;Despejado;20 km;26.1;24.2; 42;Norte  25;1000.1 / 
+Victorica;13-Abril-2021;15:00;Despejado;40 km;27.3;No se calcula; 36;Norte  9;980.2 / 
+Santa Rosa;13-Abril-2021;16:00;Despejado;30 km;25.9;No se calcula; 40;Norte  22;994.5 / 
+Chamical;13-Abril-2021;16:00;Despejado;20 km;25.6;No se calcula; 38;Noreste  3;962.9 / 
+Chepes;13-Abril-2021;15:00;Despejado;20 km;26.6;No se calcula; 25;Noreste  9;942.3 / 
+La Rioja;13-Abril-2021;16:00;Despejado;20 km;26.5;26.6; 41;Sudeste  3;965 / 
+Malargue;13-Abril-2021;16:00;Despejado;20 km;23.6;No se calcula; 27;Noroeste  9;859 / 
+Mendoza;13-Abril-2021;16:00;Despejado;15 km;24.8;No se calcula; 32;Este  9;934.5 / 
+Mendoza Observatorio;13-Abril-2021;16:00;Despejado;15 km;24.9;No se calcula; 42;Calma;920.9 / 
+San Carlos (Mza);13-Abril-2021;15:00;Despejado;15 km;23.8;No se calcula; 44;Norte  14;909.9 / 
+San Martín (Mza);13-Abril-2021;16:00;Despejado;15 km;26.8;No se calcula; 31;Noreste  9;939.6 / 
+San Rafael;13-Abril-2021;16:00;Despejado;20 km;26.2;No se calcula; 32;Norte  25;930 / 
+Uspallata;13-Abril-2021;15:00;Despejado;15 km;21.2;No se calcula; 23;Sudoeste  3;817 / 
+Bernardo De Irigoyen;13-Abril-2021;16:00;Algo nublado;20 km;26.8;27.5; 53;Sur  9;923.8 / 
+Iguazú;13-Abril-2021;16:00;Algo nublado;20 km;29.7;29.8; 44;Sur  5;984.1 / 
+Oberá;13-Abril-2021;15:00;Parcialmente nublado;20 km;26.2;27.0; 55;Sudeste  3;981.8 / 
+Posadas;13-Abril-2021;16:00;Parcialmente nublado;20 km;27.7;28.4; 52;Sur  5;1001.3 / 
+Chapelco;13-Abril-2021;16:00;Despejado;15 km;22.2;No se calcula; 38;Este  9;924.2 / 
+Neuquén;13-Abril-2021;16:00;Despejado;15 km;27.2;No se calcula; 31;Este  13;982.2 / 
+Bariloche;13-Abril-2021;16:00;Despejado;10 km;22.4;No se calcula; 31;Oeste  9;918.9 / 
+Cipolletti;13-Abril-2021;15:00;Despejado;25 km;26.4;No se calcula; 34;Sudeste  9;984.7 / 
+El Bolsón;13-Abril-2021;14:00;Despejado;30 km;20.5;No se calcula; 56;Calma;978.8 / 
+Maquinchao;13-Abril-2021;15:00;Algo nublado;40 km;22.3;No se calcula; 10;Noreste  3;915.6 / 
+Río Colorado;13-Abril-2021;15:00;Despejado;16 km;29;28.9; 42;Noroeste  3;1005.3 / 
+San Antonio Oeste;13-Abril-2021;16:00;Despejado;30 km;22.7;No se calcula; 27;Sur  18;1017 / 
+Viedma;13-Abril-2021;16:00;Despejado;30 km;29.7;No se calcula; 30;Noroeste  11;1013.3 / 
+Metán;13-Abril-2021;15:00;Cubierto con bruma;10 km;19.8;No se calcula; 79;Este  3;920.1 / 
+Orán;13-Abril-2021;16:00;Parcialmente nublado;15 km;26.8;27.5; 55;Noreste  9;973.4 / 
+Rivadavia;13-Abril-2021;16:00;Parcialmente nublado;25 km;28;No se calcula; 34;Este  3;990.7 / 
+Salta;13-Abril-2021;16:00;Parcialmente nublado;15 km;22.2;No se calcula; 53;Noreste  11;881.5 / 
+Tartagal;13-Abril-2021;16:00;Parcialmente nublado;10 km;24.6;No se calcula; 54;Este  3;964.8 / 
+Jachal;13-Abril-2021;15:00;Despejado;30 km;25.4;No se calcula; 29;Sur  3;884.8 / 
+San Juan;13-Abril-2021;16:00;Despejado;15 km;27.8;No se calcula; 22;Este  13;945.8 / 
+San Luis;13-Abril-2021;16:00;Despejado;20 km;25.9;No se calcula; 38;Calma;935 / 
+Santa Rosa del Conlara;13-Abril-2021;16:00;Despejado;20 km;23.9;No se calcula; 43;Calma;945.8 / 
+Villa Reynolds;13-Abril-2021;16:00;Despejado;15 km;26;No se calcula; 34;Este  33;960.5 / 
+El Calafate;13-Abril-2021;16:00;Nublado con lluvia en la hora anterior;25 km;13.6;No se calcula; 75;Sur  9;972.6 / 
+Gobernador Gregores;13-Abril-2021;15:00;Parcialmente nublado;45 km;18.4;No se calcula; 35;Norte  38;959 / 
+Perito Moreno;13-Abril-2021;15:00;Parcialmente nublado;50 km;19;No se calcula; 47;Noroeste  40;957.4 / 
+Puerto Deseado;13-Abril-2021;16:00;Nublado;30 km;21.4;No se calcula; 25;Noroeste  14;997.4 / 
+Río Gallegos;13-Abril-2021;16:00;Nublado con lluvia;15 km;11;No se calcula; 85;Norte  37;- / 
+San Julián;13-Abril-2021;16:00;Nublado;30 km;19.8;No se calcula; 21;Norte  35;996.2 / 
+Santa Cruz;13-Abril-2021;16:00;Nublado;30 km;17.4;No se calcula; 29;Norte  27;987.4 / 
+Ceres;13-Abril-2021;16:00;Parcialmente nublado;15 km;24.4;No se calcula; 52;Sudeste  3;1008.1 / 
+Rafaela;13-Abril-2021;12:00;Algo nublado;10 km;22.9;No se calcula; 50;Noreste  3;1010.7 / 
+Reconquista;13-Abril-2021;16:00;Nublado;15 km;24.6;No se calcula; 54;Este  7;1012.5 / 
+Rosario;13-Abril-2021;16:00;Despejado;15 km;24.3;No se calcula; 44;Norte  14;1016.6 / 
+Santa Fe;13-Abril-2021;16:00;Despejado;12 km;24.1;No se calcula; 46;Este  11;1017.4 / 
+Sunchales;13-Abril-2021;16:00;Parcialmente nublado;15 km;24.7;No se calcula; 48;Este  9;1009.1 / 
+Venado Tuerto;13-Abril-2021;15:00;Despejado;10 km;25.1;No se calcula; 44;Norte  14;1005.2 / 
+Termas de Rio Hondo;13-Abril-2021;16:00;Cubierto;15 km;23.8;No se calcula; 54;Noreste  14;984.5 / 
+Santiago del Estero;13-Abril-2021;16:00;Nublado;10 km;25.2;No se calcula; 51;Noreste  3;993.7 / 
+Río Grande B.A.;13-Abril-2021;16:00;Nublado;30 km;8.7;4.8; 86;Norte  31;998.2 / 
+Ushuaia;13-Abril-2021;16:00;Cubierto;30 km;8;6.8; 62;Norte  7;990 / 
+Tucumán;13-Abril-2021;16:00;Cubierto con bruma;7 km;20.5;No se calcula; 68;Este  11;965.7 / 
+Base Belgrano II;13-Abril-2021;15:00;Parcialmente nublado;20 km;-17.8;-25.0; 84;Noreste  11;950.6 / 
+Base Esperanza;13-Abril-2021;15:00;Algo nublado;10 km;-9.2;-19.5; 82;Sur  38;987.2 / 
+Base Carlini;13-Abril-2021;15:00;Algo nublado;10 km;-5.5;-10.7; 72;Este  13;990.4 / 
+Base Marambio;13-Abril-2021;16:00;Algo nublado con ventisca baja;4.0 km;-17.4;-32.0; 84;Sur  51;966.6 / 
+Base Orcadas;13-Abril-2021;15:00;Cubierto;15 km;-3.6;-7.4; 72;Sur  9;978.1 / 
+Base San Martín;13-Abril-2021;15:00;Algo nublado;20 km;-6.2;-10.5; 75;Este  9;986.2 / 
+Azul;13-Abril-2021;17:00;Despejado;20 km;23.2;No se calcula; 51;Oeste  13;1002.2 / 
+Bahía Blanca;13-Abril-2021;17:00;Algo nublado;15 km;27.7;No se calcula; 34;Norte  22;1007.4 / 
+Benito Juárez;13-Abril-2021;15:00;Despejado;15 km;24.4;No se calcula; 49;Noroeste  14;994.5 / 
+Bolívar;13-Abril-2021;17:00;Despejado;15 km;25.2;No se calcula; 36;Norte  18;1008.2 / 
+Campo de Mayo;13-Abril-2021;17:00;Algo nublado;10 km;24.8;No se calcula; 51;Norte  3;1017.8 / 
+Coronel Pringles;13-Abril-2021;15:00;Despejado;25 km;25.8;No se calcula; 41;Norte  14;989.8 / 
+Coronel Suarez;13-Abril-2021;15:00;Despejado;60 km;23;No se calcula; 45;Norte  16;991.2 / 
+Dolores;13-Abril-2021;17:00;Despejado;10 km;25;No se calcula; 48;Oeste  7;1020.4 / 
+El Palomar;13-Abril-2021;17:00;Despejado;10 km;24.4;No se calcula; 42;Noreste  11;1019 / 
+Ezeiza;13-Abril-2021;17:00;Algo nublado con bruma;9 km;25.3;No se calcula; 41;Este  7;1018 / 
+Junín;13-Abril-2021;17:00;Despejado;12 km;25.5;No se calcula; 34;Norte  16;1009 / 
+La Plata;13-Abril-2021;17:00;Despejado;10 km;23.5;No se calcula; 43;Norte  7;1018.6 / 
+Las Flores;13-Abril-2021;15:00;Despejado;15 km;25;No se calcula; 45;Oeste  7;1014.8 / 
+Mar del Plata;13-Abril-2021;17:00;Despejado;10 km;25.7;No se calcula; 42;Noroeste  13;1016.8 / 
+Mariano Moreno;13-Abril-2021;17:00;Despejado;10 km;24.8;No se calcula; 46;Noroeste  9;1016.6 / 
+Merlo;13-Abril-2021;17:00;Despejado;10 km;24.4;No se calcula; 52;Noreste  13;1018.5 / 
+Morón;13-Abril-2021;17:00;Despejado;10 km;25.2;No se calcula; 45;Calma;1017.6 / 
+Nueve de Julio;13-Abril-2021;15:00;Despejado;15 km;24.8;No se calcula; 39;Norte  9;1011 / 
+Olavarría;13-Abril-2021;16:00;Despejado;15 km;23.9;No se calcula; 48;Norte  14;1000.4 / 
+Pehuajó;13-Abril-2021;17:00;Despejado;15 km;25.4;No se calcula; 40;Noroeste  9;1008.6 / 
+Pigué;13-Abril-2021;17:00;Despejado;30 km;23.4;No se calcula; 43;Oeste  14;982.5 / 
+Punta Indio B.A.;13-Abril-2021;17:00;Despejado;10 km;23.5;No se calcula; 50;Noreste  16;1018.4 / 
+San Fernando;13-Abril-2021;17:00;Despejado;10 km;23.5;No se calcula; 60;Noreste  13;1020.4 / 
+Tandil;13-Abril-2021;17:00;Despejado;20 km;24.1;No se calcula; 45;Norte  20;999 / 
+Trenque Lauquen;13-Abril-2021;15:00;Despejado;15 km;25.8;No se calcula; 42;Norte  9;1007.7 / 
+Tres Arroyos;13-Abril-2021;12:00;Despejado;20 km;25.2;No se calcula; 28;Noroeste  11;1004.9 / 
+Villa Gesell;13-Abril-2021;17:00;Despejado;15 km;24.4;No se calcula; 48;Oeste  7;1018.4 / 
+Aeroparque Buenos Aires;13-Abril-2021;17:00;Despejado;10 km;22.1;No se calcula; 60;Noreste  9;1020.2 / 
+Buenos Aires;13-Abril-2021;17:00;Despejado;10 km;24;No se calcula; 41;Noroeste  5;1017.6 / 
+Catamarca;13-Abril-2021;17:00;Algo nublado;20 km;28.2;28.6; 49;Sudoeste  3;960.6 / 
+Tinogasta;13-Abril-2021;15:00;Despejado;20 km;28.4;No se calcula; 38;Oeste  9;877.4 / 
+Pcia. Roque Saenz Peña;13-Abril-2021;17:00;Parcialmente nublado;20 km;24.8;No se calcula; 57;Sur  9;1007.2 / 
+Resistencia;13-Abril-2021;17:00;Parcialmente nublado;15 km;25.8;No se calcula; 54;Sur  9;1010.8 / 
+Comodoro Rivadavia;13-Abril-2021;17:00;Algo nublado;30 km;27.3;No se calcula; 31;Noroeste  22;1002.2 / 
+Esquel;13-Abril-2021;17:00;Algo nublado;30 km;22.7;No se calcula; 38;Oeste  13;921.4 / 
+Paso De Indios;13-Abril-2021;17:00;Algo nublado;45 km;24.9;No se calcula; 30;Noroeste  20;956.3 / 
+Puerto Madryn;13-Abril-2021;17:00;Despejado;30 km;23;No se calcula; 35;Noreste  18;997.8 / 
+Trelew;13-Abril-2021;17:00;Algo nublado;30 km;27;No se calcula; 29;Noroeste  14;1008.7 / 
+Córdoba;13-Abril-2021;17:00;Despejado;15 km;24.3;No se calcula; 47;Noreste  16;960.5 / 
+Córdoba Observatorio;13-Abril-2021;17:00;Despejado;10 km;24.5;No se calcula; 47;Noreste  13;969.7 / 
+Esc. Aviación Militar;13-Abril-2021;17:00;Despejado;10 km;23.5;No se calcula; 49;Noreste  14;960.4 / 
+Laboulaye;13-Abril-2021;17:00;Despejado;10 km;25.4;No se calcula; 41;Norte  14;1001.7 / 
+Marcos Juárez;13-Abril-2021;17:00;Despejado;20 km;24.4;No se calcula; 49;Norte  16;1003.3 / 
+Pilar Obs.;13-Abril-2021;17:00;Despejado;10 km;23.7;No se calcula; 48;Norte  13;978.9 / 
+Río Cuarto;13-Abril-2021;17:00;Despejado;15 km;24.2;No se calcula; 35;Noreste  24;967.8 / 
+Villa Dolores;13-Abril-2021;17:00;Despejado;30 km;24.3;No se calcula; 40;Oeste  9;951.6 / 
+Villa María Del Río Seco;13-Abril-2021;15:00;Algo nublado;15 km;24.4;No se calcula; 50;Norte  14;979.3 / 
+Corrientes;13-Abril-2021;17:00;Nublado;10 km;24.4;No se calcula; 63;Sur  9;1009.8 / 
+Ituzaingó;13-Abril-2021;15:00;Parcialmente nublado;15 km;28.2;29.2; 55;Sudoeste  11;1006.9 / 
+Mercedes;13-Abril-2021;15:00;Parcialmente nublado;15 km;24.6;No se calcula; 49;Sudeste  7;- / 
+Monte Caseros;13-Abril-2021;17:00;Algo nublado;20 km;25;No se calcula; 48;Este  18;1012.9 / 
+Paso De Los Libres;13-Abril-2021;17:00;Parcialmente nublado;10 km;25.2;No se calcula; 54;Sudeste  13;1010.2 / 
+Concordia;13-Abril-2021;17:00;Algo nublado;15 km;23.7;No se calcula; 49;Este  9;1015.3 / 
+Gualeguaychú;13-Abril-2021;17:00;Despejado;15 km;24.2;No se calcula; 53;Este  9;1016.4 / 
+Paraná;13-Abril-2021;17:00;Despejado;15 km;23.6;No se calcula; 48;Noreste  11;1010.6 / 
+Formosa;13-Abril-2021;17:00;Algo nublado;20 km;26.8;27.1; 62;Sur  18;1008.8 / 
+Las Lomitas;13-Abril-2021;17:00;Algo nublado;20 km;27.4;27.6; 46;Este  3;1000.8 / 
+Mount Pleasant Airport (Islas Malvinas);13-Abril-2021;17:00;Parcialmente nublado;30 km;9.5;5.3; 54;Oeste  40;998.5 / 
+La Quiaca;13-Abril-2021;17:00;Nublado con tormenta;8 km;11;No se calcula; 85;Sudeste  3;670.6 / 
+Jujuy;13-Abril-2021;17:00;Parcialmente nublado;12 km;21.9;No se calcula; 62;Este  9;914.4 / 
+Jujuy Universidad Nacional;13-Abril-2021;15:00;Parcialmente nublado;12 km;23;No se calcula; 54;Sudeste  9;872.6 / 
+General Pico;13-Abril-2021;17:00;Despejado;20 km;26.1;No se calcula; 30;Norte  22;1000 / 
+Victorica;13-Abril-2021;15:00;Despejado;40 km;27.3;No se calcula; 36;Norte  9;980.2 / 
+Santa Rosa;13-Abril-2021;17:00;Despejado;30 km;25;No se calcula; 43;Norte  25;994.2 / 
+Chamical;13-Abril-2021;17:00;Despejado;20 km;25.6;No se calcula; 36;Noreste  7;962.4 / 
+Chepes;13-Abril-2021;15:00;Despejado;20 km;26.6;No se calcula; 25;Noreste  9;942.3 / 
+La Rioja;13-Abril-2021;17:00;Despejado;20 km;27;27.0; 42;Sudeste  3;964.2 / 
+Malargue;13-Abril-2021;17:00;Despejado;20 km;24;No se calcula; 23;Norte  9;858.6 / 
+Mendoza;13-Abril-2021;17:00;Despejado;15 km;25.8;No se calcula; 27;Norte  9;934.1 / 
+Mendoza Observatorio;13-Abril-2021;17:00;Despejado;15 km;25.2;No se calcula; 43;Este  14;920.6 / 
+San Carlos (Mza);13-Abril-2021;15:00;Despejado;15 km;23.8;No se calcula; 44;Norte  14;909.9 / 
+San Martín (Mza);13-Abril-2021;17:00;Despejado;15 km;26.9;No se calcula; 29;Norte  9;939.3 / 
+San Rafael;13-Abril-2021;17:00;Despejado;20 km;25.8;No se calcula; 33;Noreste  20;929.7 / 
+Uspallata;13-Abril-2021;15:00;Despejado;15 km;21.2;No se calcula; 23;Sudoeste  3;817 / 
+Bernardo De Irigoyen;13-Abril-2021;17:00;Algo nublado;20 km;26.1;26.8; 55;Sudoeste  3;923.8 / 
+Iguazú;13-Abril-2021;17:00;Algo nublado;20 km;29.2;29.5; 46;Sur  5;984.1 / 
+Oberá;13-Abril-2021;15:00;Parcialmente nublado;20 km;26.2;27.0; 55;Sudeste  3;981.8 / 
+Posadas;13-Abril-2021;17:00;Parcialmente nublado;20 km;27;27.5; 50;Sur  9;1001.3 / 
+Chapelco;13-Abril-2021;17:00;Despejado;15 km;23.4;No se calcula; 34;Direcciones Variables  5;923.6 / 
+Neuquén;13-Abril-2021;17:00;Despejado;15 km;27.8;No se calcula; 29;Este  13;981.3 / 
+Bariloche;13-Abril-2021;17:00;Despejado;10 km;22.2;No se calcula; 30;Oeste  11;918.4 / 
+Cipolletti;13-Abril-2021;15:00;Despejado;25 km;26.4;No se calcula; 34;Sudeste  9;984.7 / 
+El Bolsón;13-Abril-2021;15:00;Despejado;30 km;21.4;No se calcula; 48;Calma;978.1 / 
+Maquinchao;13-Abril-2021;15:00;Algo nublado;40 km;22.3;No se calcula; 10;Noreste  3;915.6 / 
+Río Colorado;13-Abril-2021;15:00;Despejado;16 km;29;28.9; 42;Noroeste  3;1005.3 / 
+San Antonio Oeste;13-Abril-2021;17:00;Despejado;30 km;21.4;No se calcula; 42;Sudeste  5;1014.4 / 
+Viedma;13-Abril-2021;17:00;Despejado;30 km;30.1;No se calcula; 27;Oeste  14;1013.2 / 
+Metán;13-Abril-2021;15:00;Cubierto con bruma;10 km;19.8;No se calcula; 79;Este  3;920.1 / 
+Orán;13-Abril-2021;17:00;Nublado;15 km;26.2;27.0; 57;Calma;973.6 / 
+Rivadavia;13-Abril-2021;16:00;Parcialmente nublado;25 km;28;No se calcula; 34;Este  3;990.7 / 
+Salta;13-Abril-2021;17:00;Parcialmente nublado;15 km;20.1;No se calcula; 60;Norte  16;881.2 / 
+Tartagal;13-Abril-2021;17:00;Parcialmente nublado;10 km;24.2;No se calcula; 52;Calma;964.8 / 
+Jachal;13-Abril-2021;15:00;Despejado;30 km;25.4;No se calcula; 29;Sur  3;884.8 / 
+San Juan;13-Abril-2021;17:00;Despejado;15 km;28.4;No se calcula; 22;Sur  11;945.4 / 
+San Luis;13-Abril-2021;17:00;Despejado;20 km;26.1;No se calcula; 34;Este  3;934.5 / 
+Santa Rosa del Conlara;13-Abril-2021;17:00;Despejado;20 km;24.1;No se calcula; 43;Calma;945.5 / 
+Villa Reynolds;13-Abril-2021;17:00;Despejado;15 km;26.5;No se calcula; 32;Este  14;960.1 / 
+El Calafate;13-Abril-2021;17:00;Nublado con precipitación a la vista;25 km;15.8;No se calcula; 67;Sudoeste  9;970.6 / 
+Gobernador Gregores;13-Abril-2021;15:00;Parcialmente nublado;45 km;18.4;No se calcula; 35;Norte  38;959 / 
+Perito Moreno;13-Abril-2021;15:00;Parcialmente nublado;50 km;19;No se calcula; 47;Noroeste  40;957.4 / 
+Puerto Deseado;13-Abril-2021;17:00;Parcialmente nublado;30 km;19.7;No se calcula; 37;Norte  14;998 / 
+Río Gallegos;13-Abril-2021;17:00;Nublado con lluvia;25 km;11.6;No se calcula; 78;Norte  29;- / 
+San Julián;13-Abril-2021;17:00;Nublado;30 km;20.2;No se calcula; 20;Norte  37;994.6 / 
+Santa Cruz;13-Abril-2021;17:00;Cubierto;30 km;16.7;No se calcula; 33;Norte  27;985.6 / 
+Ceres;13-Abril-2021;17:00;Algo nublado;15 km;24.2;No se calcula; 52;Este  3;1007.4 / 
+Rafaela;13-Abril-2021;12:00;Algo nublado;10 km;22.9;No se calcula; 50;Noreste  3;1010.7 / 
+Reconquista;13-Abril-2021;17:00;Nublado;15 km;24.7;No se calcula; 55;Este  9;1012.1 / 
+Rosario;13-Abril-2021;17:00;Despejado;15 km;24;No se calcula; 48;Noreste  13;1016.4 / 
+Santa Fe;13-Abril-2021;17:00;Despejado;12 km;24.2;No se calcula; 49;Este  11;1017 / 
+Sunchales;13-Abril-2021;17:00;Algo nublado;15 km;25;No se calcula; 50;Este  9;1008.5 / 
+Venado Tuerto;13-Abril-2021;17:00;Despejado;10 km;25.1;No se calcula; 42;Norte  14;1005 / 
+Termas de Rio Hondo;13-Abril-2021;17:00;Cubierto;15 km;22.6;No se calcula; 59;Noreste  14;984.1 / 
+Santiago del Estero;13-Abril-2021;17:00;Nublado;10 km;25;No se calcula; 54;Norte  3;993.4 / 
+Río Grande B.A.;13-Abril-2021;17:00;Nublado;30 km;9;5.3; 82;Norte  29;997.6 / 
+Ushuaia;13-Abril-2021;17:00;Nublado;30 km;9.8;6.2; 43;Norte  31;989.2 / 
+Tucumán;13-Abril-2021;17:00;Cubierto con bruma;8 km;20.4;No se calcula; 72;Este  7;965.3 / 
+Base Belgrano II;13-Abril-2021;15:00;Parcialmente nublado;20 km;-17.8;-25.0; 84;Noreste  11;950.6 / 
+Base Esperanza;13-Abril-2021;15:00;Algo nublado;10 km;-9.2;-19.5; 82;Sur  38;987.2 / 
+Base Carlini;13-Abril-2021;15:00;Algo nublado;10 km;-5.5;-10.7; 72;Este  13;990.4 / 
+Base Marambio;13-Abril-2021;17:00;Algo nublado con ventisca baja;8 km;-18;-31.5; 84;Sur  40;968 / 
+Base Orcadas;13-Abril-2021;15:00;Cubierto;15 km;-3.6;-7.4; 72;Sur  9;978.1 / 
+Base San Martín;13-Abril-2021;15:00;Algo nublado;20 km;-6.2;-10.5; 75;Este  9;986.2 / 
+Azul;13-Abril-2021;18:00;Despejado;20 km;22.6;No se calcula; 53;Noroeste  9;1002.1 / 
+Bahía Blanca;13-Abril-2021;18:00;Algo nublado;15 km;25.7;No se calcula; 39;Norte  18;1007.4 / 
+Benito Juárez;13-Abril-2021;18:00;Despejado;15 km;23;No se calcula; 52;Noroeste  14;994 / 
+Bolívar;13-Abril-2021;18:00;Despejado;15 km;22.6;No se calcula; 43;Calma;1008.2 / 
+Campo de Mayo;13-Abril-2021;18:00;Despejado;10 km;22.1;No se calcula; 62;Noreste  3;1017.8 / 
+Coronel Pringles;13-Abril-2021;15:00;Despejado;25 km;25.8;No se calcula; 41;Norte  14;989.8 / 
+Coronel Suarez;13-Abril-2021;18:00;Despejado;60 km;23;No se calcula; 50;Norte  13;990.2 / 
+Dolores;13-Abril-2021;18:00;Despejado;10 km;23.8;No se calcula; 55;Oeste  7;1020.4 / 
+El Palomar;13-Abril-2021;18:00;Despejado;10 km;23;No se calcula; 47;Noreste  7;1019 / 
+Ezeiza;13-Abril-2021;18:00;Algo nublado con bruma;9 km;23.9;No se calcula; 35;Este  14;1018 / 
+Junín;13-Abril-2021;18:00;Despejado;12 km;23.7;No se calcula; 40;Norte  18;1009.2 / 
+La Plata;13-Abril-2021;18:00;Despejado;10 km;21.9;No se calcula; 50;Noreste  3;1018.5 / 
+Las Flores;13-Abril-2021;18:00;Despejado;15 km;24.5;No se calcula; 47;Calma;1014.1 / 
+Mar del Plata;13-Abril-2021;18:00;Despejado;10 km;24.4;No se calcula; 50;Norte  5;1016.8 / 
+Mariano Moreno;13-Abril-2021;18:00;Despejado;10 km;23.6;No se calcula; 48;Norte  5;1016.6 / 
+Merlo;13-Abril-2021;18:00;Despejado;10 km;23;No se calcula; 51;Noreste  11;1018.2 / 
+Morón;13-Abril-2021;18:00;Despejado;10 km;23.6;No se calcula; 52;Norte  5;1017.4 / 
+Nueve de Julio;13-Abril-2021;18:00;Despejado;15 km;24.4;No se calcula; 43;Calma;1010.1 / 
+Olavarría;13-Abril-2021;18:00;Despejado;15 km;22.4;No se calcula; 53;Norte  7;1000.1 / 
+Pehuajó;13-Abril-2021;18:00;Despejado;15 km;24;No se calcula; 44;Norte  7;1008.4 / 
+Pigué;13-Abril-2021;18:00;Despejado;25 km;22;No se calcula; 52;Norte  9;982.4 / 
+Punta Indio B.A.;13-Abril-2021;18:00;Despejado;10 km;20.6;No se calcula; 66;Noreste  9;1018.2 / 
+San Fernando;13-Abril-2021;18:00;Despejado;10 km;20.8;No se calcula; 74;Noreste  11;1020.4 / 
+Tandil;13-Abril-2021;18:00;Despejado;20 km;22.1;No se calcula; 51;Norte  13;999.1 / 
+Trenque Lauquen;13-Abril-2021;15:00;Despejado;15 km;25.8;No se calcula; 42;Norte  9;1007.7 / 
+Tres Arroyos;13-Abril-2021;18:00;Despejado;15 km;24;No se calcula; 46;Norte  9;1005.6 / 
+Villa Gesell;13-Abril-2021;18:00;Despejado;15 km;22.6;No se calcula; 66;Calma;1018.6 / 
+Aeroparque Buenos Aires;13-Abril-2021;18:00;Algo nublado;10 km;21.8;No se calcula; 60;Noreste  7;1020.1 / 
+Buenos Aires;13-Abril-2021;18:00;Despejado;10 km;22.5;No se calcula; 59;Norte  5;1017.6 / 
+Catamarca;13-Abril-2021;18:00;Despejado;20 km;27.8;27.7; 50;Noreste  14;960.6 / 
+Tinogasta;13-Abril-2021;15:00;Despejado;20 km;28.4;No se calcula; 38;Oeste  9;877.4 / 
+Pcia. Roque Saenz Peña;13-Abril-2021;18:00;Parcialmente nublado;20 km;23.9;No se calcula; 61;Sur  9;1006.8 / 
+Resistencia;13-Abril-2021;18:00;Parcialmente nublado;15 km;24.6;No se calcula; 62;Sudeste  5;1010.4 / 
+Comodoro Rivadavia;13-Abril-2021;18:00;Algo nublado;30 km;27.2;No se calcula; 31;Norte  20;1001.6 / 
+Esquel;13-Abril-2021;18:00;Algo nublado;30 km;22.4;No se calcula; 37;Oeste  11;921 / 
+Paso De Indios;13-Abril-2021;18:00;Algo nublado;45 km;24.6;No se calcula; 29;Noroeste  20;955.5 / 
+Puerto Madryn;13-Abril-2021;18:00;Despejado;30 km;21.6;No se calcula; 41;Noreste  16;997.4 / 
+Trelew;13-Abril-2021;18:00;Algo nublado;30 km;26.5;No se calcula; 27;Noroeste  13;1008.2 / 
+Córdoba;13-Abril-2021;18:00;Despejado;15 km;22.6;No se calcula; 54;Noreste  16;960.6 / 
+Córdoba Observatorio;13-Abril-2021;18:00;Despejado;10 km;23.4;No se calcula; 52;Este  11;968.9 / 
+Esc. Aviación Militar;13-Abril-2021;18:00;Despejado;10 km;22.2;No se calcula; 54;Noreste  11;960.4 / 
+Laboulaye;13-Abril-2021;18:00;Despejado;10 km;23.5;No se calcula; 49;Norte  7;1001.4 / 
+Marcos Juárez;13-Abril-2021;18:00;Despejado;20 km;22.9;No se calcula; 49;Noreste  20;1002.9 / 
+Pilar Obs.;13-Abril-2021;18:00;Despejado;10 km;22.5;No se calcula; 53;Noreste  13;979 / 
+Río Cuarto;13-Abril-2021;18:00;Despejado;15 km;22.8;No se calcula; 39;Norte  18;967.8 / 
+Villa Dolores;13-Abril-2021;18:00;Despejado;30 km;23.5;No se calcula; 45;Oeste  3;951.4 / 
+Villa María Del Río Seco;13-Abril-2021;18:00;Despejado;15 km;22.5;No se calcula; 57;Norte  9;978.1 / 
+Corrientes;13-Abril-2021;18:00;Parcialmente nublado con humo;9 km;24.1;No se calcula; 62;Sur  9;1009.4 / 
+Ituzaingó;13-Abril-2021;18:00;Nublado con humo;6 km;25;No se calcula; 76;Sur  9;1005.8 / 
+Mercedes;13-Abril-2021;15:00;Parcialmente nublado;15 km;24.6;No se calcula; 49;Sudeste  7;- / 
+Monte Caseros;13-Abril-2021;18:00;Algo nublado;20 km;23.4;No se calcula; 55;Este  5;1012.9 / 
+Paso De Los Libres;13-Abril-2021;18:00;Parcialmente nublado;10 km;23.8;No se calcula; 59;Sudeste  13;1010 / 
+Concordia;13-Abril-2021;18:00;Despejado;15 km;22.4;No se calcula; 60;Sudeste  5;1015.2 / 
+Gualeguaychú;13-Abril-2021;18:00;Despejado;15 km;23.5;No se calcula; 57;Este  7;1016.2 / 
+Paraná;13-Abril-2021;18:00;Despejado;15 km;23;No se calcula; 50;Noreste  11;1010.6 / 
+Formosa;13-Abril-2021;18:00;Parcialmente nublado;20 km;24.8;No se calcula; 70;Sur  9;1008.9 / 
+Las Lomitas;13-Abril-2021;18:00;Algo nublado;20 km;27;27.3; 48;Este  3;1000.8 / 
+Mount Pleasant Airport (Islas Malvinas);13-Abril-2021;18:00;Parcialmente nublado;30 km;8.1;4.4; 63;Oeste  25;999.1 / 
+La Quiaca;13-Abril-2021;18:00;Nublado con llovizna;9 km;11.4;No se calcula; 70;Noreste  3;671 / 
+Jujuy;13-Abril-2021;18:00;Parcialmente nublado;12 km;21;No se calcula; 61;Noreste  9;914.2 / 
+Jujuy Universidad Nacional;13-Abril-2021;15:00;Parcialmente nublado;12 km;23;No se calcula; 54;Sudeste  9;872.6 / 
+General Pico;13-Abril-2021;17:00;Despejado;20 km;26.1;No se calcula; 30;Norte  22;1000 / 
+Victorica;13-Abril-2021;15:00;Despejado;40 km;27.3;No se calcula; 36;Norte  9;980.2 / 
+Santa Rosa;13-Abril-2021;18:00;Despejado;30 km;23.3;No se calcula; 50;Norte  18;994.2 / 
+Chamical;13-Abril-2021;18:00;Despejado;20 km;24.8;No se calcula; 38;Sudeste  7;962.1 / 
+Chepes;13-Abril-2021;15:00;Despejado;20 km;26.6;No se calcula; 25;Noreste  9;942.3 / 
+La Rioja;13-Abril-2021;18:00;Despejado;20 km;26.8;26.8; 42;Este  3;964.1 / 
+Malargue;13-Abril-2021;18:00;Despejado;20 km;23.5;No se calcula; 27;Norte  9;858.6 / 
+Mendoza;13-Abril-2021;18:00;Despejado;15 km;26;No se calcula; 28;Norte  9;934 / 
+Mendoza Observatorio;13-Abril-2021;18:00;Despejado;15 km;23.4;No se calcula; 47;Calma;920.5 / 
+San Carlos (Mza);13-Abril-2021;15:00;Despejado;15 km;23.8;No se calcula; 44;Norte  14;909.9 / 
+San Martín (Mza);13-Abril-2021;18:00;Despejado;15 km;26.4;No se calcula; 32;Calma;938.8 / 
+San Rafael;13-Abril-2021;18:00;Despejado;20 km;25;No se calcula; 31;Noreste  16;929.8 / 
+Uspallata;13-Abril-2021;18:00;Despejado;15 km;23.6;No se calcula; 33;Calma;816.1 / 
+Bernardo De Irigoyen;13-Abril-2021;18:00;Algo nublado;20 km;24;No se calcula; 59;Sudoeste  3;924 / 
+Iguazú;13-Abril-2021;18:00;Algo nublado;20 km;27.3;28.7; 62;Sur  5;983.8 / 
+Oberá;13-Abril-2021;15:00;Parcialmente nublado;20 km;26.2;27.0; 55;Sudeste  3;981.8 / 
+Posadas;13-Abril-2021;18:00;Parcialmente nublado;20 km;25.8;No se calcula; 68;Sur  9;1001 / 
+Chapelco;13-Abril-2021;18:00;Algo nublado;15 km;23.8;No se calcula; 34;Este  7;923 / 
+Neuquén;13-Abril-2021;18:00;Despejado;15 km;27.2;No se calcula; 31;Este  9;984.2 / 
+Bariloche;13-Abril-2021;18:00;Despejado;10 km;21.6;No se calcula; 31;Noroeste  9;917.8 / 
+Cipolletti;13-Abril-2021;15:00;Despejado;25 km;26.4;No se calcula; 34;Sudeste  9;984.7 / 
+El Bolsón;13-Abril-2021;18:00;Despejado;30 km;21.4;No se calcula; 45;Calma;976.5 / 
+Maquinchao;13-Abril-2021;18:00;Despejado;40 km;24.2;No se calcula; 12;Calma;914.5 / 
+Río Colorado;13-Abril-2021;15:00;Despejado;16 km;29;28.9; 42;Noroeste  3;1005.3 / 
+San Antonio Oeste;13-Abril-2021;18:00;Despejado;30 km;20.4;No se calcula; 47;Sur  7;1014.4 / 
+Viedma;13-Abril-2021;18:00;Despejado;30 km;26.5;27.0; 51;Sudeste  11;1013 / 
+Metán;13-Abril-2021;15:00;Cubierto con bruma;10 km;19.8;No se calcula; 79;Este  3;920.1 / 
+Orán;13-Abril-2021;18:00;Nublado;15 km;25;No se calcula; 62;Calma;973.8 / 
+Rivadavia;13-Abril-2021;16:00;Parcialmente nublado;25 km;28;No se calcula; 34;Este  3;990.7 / 
+Salta;13-Abril-2021;18:00;Nublado;15 km;19.2;No se calcula; 64;Noreste  18;881.5 / 
+Tartagal;13-Abril-2021;18:00;Parcialmente nublado;10 km;23.4;No se calcula; 58;Este  3;964.8 / 
+Jachal;13-Abril-2021;15:00;Despejado;30 km;25.4;No se calcula; 29;Sur  3;884.8 / 
+San Juan;13-Abril-2021;18:00;Despejado;15 km;28.2;No se calcula; 22;Sur  16;945 / 
+San Luis;13-Abril-2021;18:00;Despejado;20 km;27.7;No se calcula; 30;Norte  7;934.2 / 
+Santa Rosa del Conlara;13-Abril-2021;18:00;Despejado;20 km;23.9;No se calcula; 41;Calma;945.3 / 
+Villa Reynolds;13-Abril-2021;18:00;Despejado;15 km;25.8;No se calcula; 32;Este  9;959.8 / 
+El Calafate;13-Abril-2021;18:00;Parcialmente nublado con precipitación a la vista;25 km;15;No se calcula; 68;Calma;968.6 / 
+Gobernador Gregores;13-Abril-2021;15:00;Parcialmente nublado;45 km;18.4;No se calcula; 35;Norte  38;959 / 
+Perito Moreno;13-Abril-2021;15:00;Parcialmente nublado;50 km;19;No se calcula; 47;Noroeste  40;957.4 / 
+Puerto Deseado;13-Abril-2021;18:00;Parcialmente nublado;30 km;18;No se calcula; 41;Norte  24;997 / 
+Río Gallegos;13-Abril-2021;18:00;Nublado con lluvia en la hora anterior;25 km;12.4;No se calcula; 68;Norte  46;- / 
+San Julián;13-Abril-2021;18:00;Nublado;30 km;20;No se calcula; 20;Norte  40;993.3 / 
+Santa Cruz;13-Abril-2021;18:00;Nublado;30 km;17.4;No se calcula; 27;Norte  37;983.6 / 
+Ceres;13-Abril-2021;18:00;Algo nublado;15 km;23.2;No se calcula; 58;Este  3;1007.4 / 
+Rafaela;13-Abril-2021;12:00;Algo nublado;10 km;22.9;No se calcula; 50;Noreste  3;1010.7 / 
+Reconquista;13-Abril-2021;18:00;Parcialmente nublado;15 km;22.9;No se calcula; 65;Este  5;1012 / 
+Rosario;13-Abril-2021;18:00;Despejado;15 km;23.2;No se calcula; 51;Noreste  7;1016.2 / 
+Santa Fe;13-Abril-2021;18:00;Despejado;12 km;23.4;No se calcula; 54;Este  7;1016.8 / 
+Sunchales;13-Abril-2021;18:00;Despejado;15 km;23.2;No se calcula; 54;Este  9;1008.3 / 
+Venado Tuerto;13-Abril-2021;18:00;Despejado;10 km;23.5;No se calcula; 44;Norte  9;1004.5 / 
+Termas de Rio Hondo;13-Abril-2021;18:00;Cubierto;15 km;21.8;No se calcula; 62;Noreste  11;984.1 / 
+Santiago del Estero;13-Abril-2021;18:00;Parcialmente nublado;10 km;24.2;No se calcula; 57;Norte  3;993.3 / 
+Río Grande B.A.;13-Abril-2021;18:00;Nublado con llovizna;10 km;9;5.7; 85;Norte  24;995.3 / 
+Ushuaia;13-Abril-2021;18:00;Nublado con llovizna;20 km;7.9;3.7; 63;Norte  31;988 / 
+Tucumán;13-Abril-2021;18:00;Cubierto con bruma;9 km;20.4;No se calcula; 72;Este  5;965 / 
+Base Belgrano II;13-Abril-2021;18:00;Algo nublado;20 km;-18.4;-28.5; 72;Sudeste  20;950.2 / 
+Base Esperanza;13-Abril-2021;18:00;Cubierto;10 km;-11.2;-18.6; 83;Sur  16;990.2 / 
+Base Carlini;13-Abril-2021;18:00;Cubierto;10 km;-5.2;-9.3; 63;Oeste  9;992.9 / 
+Base Marambio;13-Abril-2021;18:00;Algo nublado;15 km;-19.2;-33.4; 82;Sur  42;968.6 / 
+Base Orcadas;13-Abril-2021;18:00;Cubierto;14 km;-4.4;-9.8; 90;Este  14;980.9 / 
+Base San Martín;13-Abril-2021;18:00;Algo nublado;20 km;-6.4;-10.0; 60;Sudeste  7;987 / 
+Azul;13-Abril-2021;19:00;Despejado;20 km;19.9;No se calcula; 67;Noroeste  5;1001.8 / 
+Bahía Blanca;13-Abril-2021;19:00;Despejado;15 km;20.8;No se calcula; 57;Norte  14;1007.3 / 
+Benito Juárez;13-Abril-2021;18:00;Despejado;15 km;23;No se calcula; 52;Noroeste  14;994 / 
+Bolívar;13-Abril-2021;19:00;Despejado;15 km;18;No se calcula; 67;Calma;1008.2 / 
+Campo de Mayo;13-Abril-2021;19:00;Despejado;10 km;18.8;No se calcula; 80;Calma;1017.7 / 
+Coronel Pringles;13-Abril-2021;15:00;Despejado;25 km;25.8;No se calcula; 41;Norte  14;989.8 / 
+Coronel Suarez;13-Abril-2021;18:00;Despejado;60 km;23;No se calcula; 50;Norte  13;990.2 / 
+Dolores;13-Abril-2021;19:00;Despejado;10 km;19.8;No se calcula; 71;Calma;1019.6 / 
+El Palomar;13-Abril-2021;19:00;Despejado;10 km;19.4;No se calcula; 66;Norte  7;1018.9 / 
+Ezeiza;13-Abril-2021;19:00;Algo nublado con bruma;9 km;21.4;No se calcula; 42;Este  9;1018 / 
+Junín;13-Abril-2021;19:00;Despejado;12 km;19.7;No se calcula; 55;Norte  11;1009 / 
+La Plata;13-Abril-2021;19:00;Despejado;10 km;18.4;No se calcula; 70;Calma;1018.4 / 
+Las Flores;13-Abril-2021;18:00;Despejado;15 km;24.5;No se calcula; 47;Calma;1014.1 / 
+Mar del Plata;13-Abril-2021;19:00;Despejado;10 km;20.7;No se calcula; 65;Norte  5;1016.8 / 
+Mariano Moreno;13-Abril-2021;19:00;Despejado;10 km;21.1;No se calcula; 67;Noreste  9;1016.6 / 
+Merlo;13-Abril-2021;19:00;Despejado;10 km;20.4;No se calcula; 71;Noreste  9;1018 / 
+Morón;13-Abril-2021;19:00;Despejado;10 km;21.2;No se calcula; 60;Norte  7;1017.7 / 
+Nueve de Julio;13-Abril-2021;18:00;Despejado;15 km;24.4;No se calcula; 43;Calma;1010.1 / 
+Olavarría;13-Abril-2021;19:00;Despejado;15 km;18.9;No se calcula; 70;Calma;1000 / 
+Pehuajó;13-Abril-2021;18:00;Despejado;15 km;24;No se calcula; 44;Norte  7;1008.4 / 
+Pigué;13-Abril-2021;19:00;Despejado;25 km;18.6;No se calcula; 66;Noreste  9;982.2 / 
+Punta Indio B.A.;13-Abril-2021;18:00;Despejado;10 km;20.6;No se calcula; 66;Noreste  9;1018.2 / 
+San Fernando;13-Abril-2021;19:00;Despejado;10 km;20.1;No se calcula; 75;Noreste  7;1020.1 / 
+Tandil;13-Abril-2021;19:00;Algo nublado;20 km;18.6;No se calcula; 65;Norte  9;999 / 
+Trenque Lauquen;13-Abril-2021;15:00;Despejado;15 km;25.8;No se calcula; 42;Norte  9;1007.7 / 
+Tres Arroyos;13-Abril-2021;18:00;Despejado;15 km;24;No se calcula; 46;Norte  9;1005.6 / 
+Villa Gesell;13-Abril-2021;19:00;Despejado;15 km;19.5;No se calcula; 81;Calma;1018.8 / 
+Aeroparque Buenos Aires;13-Abril-2021;19:00;Algo nublado;10 km;20.6;No se calcula; 65;Calma;1019.8 / 
+Buenos Aires;13-Abril-2021;19:00;Despejado;10 km;20.5;No se calcula; 67;Noroeste  1;1017.4 / 
+Catamarca;13-Abril-2021;19:00;Algo nublado;20 km;24.2;No se calcula; 59;Noreste  14;960.6 / 
+Tinogasta;13-Abril-2021;18:00;Despejado;20 km;27;No se calcula; 35;Sur  14;877.4 / 
+Pcia. Roque Saenz Peña;13-Abril-2021;19:00;Parcialmente nublado con humo;8 km;22;No se calcula; 72;Sur  1;1006.6 / 
+Resistencia;13-Abril-2021;19:00;Parcialmente nublado;15 km;22.7;No se calcula; 70;Sudeste  9;1010.2 / 
+Comodoro Rivadavia;13-Abril-2021;19:00;Algo nublado;30 km;25.3;No se calcula; 43;Norte  9;1000.8 / 
+Esquel;13-Abril-2021;19:00;Algo nublado;30 km;20;No se calcula; 41;Oeste  11;920.2 / 
+Paso De Indios;13-Abril-2021;19:00;Algo nublado;45 km;21.8;No se calcula; 32;Noroeste  14;954.9 / 
+Puerto Madryn;13-Abril-2021;18:00;Despejado;30 km;21.6;No se calcula; 41;Noreste  16;997.4 / 
+Trelew;13-Abril-2021;19:00;Algo nublado;30 km;22.4;No se calcula; 44;Norte  16;1007.7 / 
+Córdoba;13-Abril-2021;19:00;Despejado;12 km;19.2;No se calcula; 66;Noreste  11;960.6 / 
+Córdoba Observatorio;13-Abril-2021;18:00;Despejado;10 km;23.4;No se calcula; 52;Este  11;968.9 / 
+Esc. Aviación Militar;13-Abril-2021;19:00;Despejado;10 km;21;No se calcula; 58;Noreste  11;960.4 / 
+Laboulaye;13-Abril-2021;19:00;Despejado;10 km;18.4;No se calcula; 68;Norte  3;1001.3 / 
+Marcos Juárez;13-Abril-2021;19:00;Despejado;20 km;20.3;No se calcula; 61;Noreste  9;1001.6 / 
+Pilar Obs.;13-Abril-2021;19:00;Despejado;10 km;19.9;No se calcula; 65;Norte  9;978.9 / 
+Río Cuarto;13-Abril-2021;19:00;Despejado;15 km;19.8;No se calcula; 53;Norte  20;967.8 / 
+Villa Dolores;13-Abril-2021;19:00;Despejado;30 km;21.6;No se calcula; 58;Sudoeste  9;951.6 / 
+Villa María Del Río Seco;13-Abril-2021;18:00;Despejado;15 km;22.5;No se calcula; 57;Norte  9;978.1 / 
+Corrientes;13-Abril-2021;19:00;Nublado con humo;8 km;22;No se calcula; 72;Sur  9;1009.2 / 
+Ituzaingó;13-Abril-2021;18:00;Nublado con humo;6 km;25;No se calcula; 76;Sur  9;1005.8 / 
+Mercedes;13-Abril-2021;15:00;Parcialmente nublado;15 km;24.6;No se calcula; 49;Sudeste  7;- / 
+Monte Caseros;13-Abril-2021;18:00;Algo nublado;20 km;23.4;No se calcula; 55;Este  5;1012.9 / 
+Paso De Los Libres;13-Abril-2021;19:00;Parcialmente nublado con humo;8 km;22;No se calcula; 68;Sudeste  13;1009.7 / 
+Concordia;13-Abril-2021;19:00;Despejado;15 km;20.6;No se calcula; 63;Sudeste  5;1014.8 / 
+Gualeguaychú;13-Abril-2021;19:00;Despejado;15 km;21.5;No se calcula; 66;Este  5;1016.2 / 
+Paraná;13-Abril-2021;19:00;Despejado;15 km;20.8;No se calcula; 59;Noreste  5;1010.4 / 
+Formosa;13-Abril-2021;19:00;Nublado;20 km;23;No se calcula; 78;Sur  9;1008.6 / 
+Las Lomitas;13-Abril-2021;19:00;Algo nublado;20 km;25.6;No se calcula; 56;Calma;1000.8 / 
+Mount Pleasant Airport (Islas Malvinas);13-Abril-2021;19:00;Nublado;30 km;5.7;2.7; 74;Noroeste  14;999.3 / 
+La Quiaca;13-Abril-2021;19:00;Nublado con llovizna en la hora anterior;30 km;10.8;No se calcula; 72;Noreste  9;670.8 / 
+Jujuy;13-Abril-2021;19:00;Nublado;12 km;19.8;No se calcula; 68;Este  9;914.4 / 
+Jujuy Universidad Nacional;13-Abril-2021;15:00;Parcialmente nublado;12 km;23;No se calcula; 54;Sudeste  9;872.6 / 
+General Pico;13-Abril-2021;19:00;Despejado;20 km;22.3;No se calcula; 47;Norte  13;999.6 / 
+Victorica;13-Abril-2021;15:00;Despejado;40 km;27.3;No se calcula; 36;Norte  9;980.2 / 
+Santa Rosa;13-Abril-2021;19:00;Despejado;30 km;20;No se calcula; 65;Norte  9;994.1 / 
+Chamical;13-Abril-2021;19:00;Algo nublado;20 km;23.2;No se calcula; 43;Noreste  3;962.1 / 
+Chepes;13-Abril-2021;15:00;Despejado;20 km;26.6;No se calcula; 25;Noreste  9;942.3 / 
+La Rioja;13-Abril-2021;19:00;Despejado;20 km;25.6;No se calcula; 53;Calma;964 / 
+Malargue;13-Abril-2021;19:00;Despejado;20 km;20.5;No se calcula; 34;Noreste  9;858.6 / 
+Mendoza;13-Abril-2021;19:00;Despejado;15 km;24.8;No se calcula; 31;Noreste  5;933.7 / 
+Mendoza Observatorio;13-Abril-2021;19:00;Despejado;15 km;20.6;No se calcula; 54;Calma;920.5 / 
+San Carlos (Mza);13-Abril-2021;15:00;Despejado;15 km;23.8;No se calcula; 44;Norte  14;909.9 / 
+San Martín (Mza);13-Abril-2021;19:00;Despejado;15 km;23.9;No se calcula; 45;Calma;938.5 / 
+San Rafael;13-Abril-2021;19:00;Despejado;20 km;23;No se calcula; 36;Norte  13;929.7 / 
+Uspallata;13-Abril-2021;18:00;Despejado;15 km;23.6;No se calcula; 33;Calma;816.1 / 
+Bernardo De Irigoyen;13-Abril-2021;19:00;Parcialmente nublado;20 km;22.2;No se calcula; 61;Sudoeste  9;924.1 / 
+Iguazú;13-Abril-2021;19:00;Parcialmente nublado;20 km;25.8;No se calcula; 67;Sur  5;983.8 / 
+Oberá;13-Abril-2021;15:00;Parcialmente nublado;20 km;26.2;27.0; 55;Sudeste  3;981.8 / 
+Posadas;13-Abril-2021;19:00;Parcialmente nublado;20 km;24.4;No se calcula; 66;Sudeste  9;1001 / 
+Chapelco;13-Abril-2021;19:00;Algo nublado;15 km;22;No se calcula; 40;Este  5;922.8 / 
+Neuquén;13-Abril-2021;19:00;Despejado;15 km;27.2;No se calcula; 33;Este  3;980.6 / 
+Bariloche;13-Abril-2021;19:00;Despejado;10 km;18.6;No se calcula; 41;Norte  9;917.6 / 
+Cipolletti;13-Abril-2021;15:00;Despejado;25 km;26.4;No se calcula; 34;Sudeste  9;984.7 / 
+El Bolsón;13-Abril-2021;18:00;Despejado;30 km;21.4;No se calcula; 45;Calma;976.5 / 
+Maquinchao;13-Abril-2021;18:00;Despejado;40 km;24.2;No se calcula; 12;Calma;914.5 / 
+Río Colorado;13-Abril-2021;15:00;Despejado;16 km;29;28.9; 42;Noroeste  3;1005.3 / 
+San Antonio Oeste;13-Abril-2021;19:00;Despejado;30 km;18;No se calcula; 62;Sur  9;1013.3 / 
+Viedma;13-Abril-2021;19:00;Despejado;30 km;23.5;No se calcula; 57;Sur  11;1013.3 / 
+Metán;13-Abril-2021;15:00;Cubierto con bruma;10 km;19.8;No se calcula; 79;Este  3;920.1 / 
+Orán;13-Abril-2021;19:00;Parcialmente nublado;10 km;22.9;No se calcula; 75;Calma;973.4 / 
+Rivadavia;13-Abril-2021;16:00;Parcialmente nublado;25 km;28;No se calcula; 34;Este  3;990.7 / 
+Salta;13-Abril-2021;19:00;Nublado con precipitación a la vista;12 km;18.4;No se calcula; 70;Norte  14;881.7 / 
+Tartagal;13-Abril-2021;19:00;Parcialmente nublado;10 km;22.4;No se calcula; 77;Este  3;965 / 
+Jachal;13-Abril-2021;15:00;Despejado;30 km;25.4;No se calcula; 29;Sur  3;884.8 / 
+San Juan;13-Abril-2021;19:00;Despejado;15 km;26;No se calcula; 27;Sur  9;944.9 / 
+San Luis;13-Abril-2021;19:00;Despejado;20 km;22.5;No se calcula; 50;Noroeste  7;934.2 / 
+Santa Rosa del Conlara;13-Abril-2021;18:00;Despejado;20 km;23.9;No se calcula; 41;Calma;945.3 / 
+Villa Reynolds;13-Abril-2021;19:00;Despejado;15 km;22.2;No se calcula; 43;Este  14;959.8 / 
+El Calafate;13-Abril-2021;19:00;Parcialmente nublado;30 km;10.6;No se calcula; 89;Oeste  18;967.4 / 
+Gobernador Gregores;13-Abril-2021;15:00;Parcialmente nublado;45 km;18.4;No se calcula; 35;Norte  38;959 / 
+Perito Moreno;13-Abril-2021;15:00;Parcialmente nublado;50 km;19;No se calcula; 47;Noroeste  40;957.4 / 
+Puerto Deseado;13-Abril-2021;19:00;Parcialmente nublado;30 km;16.4;No se calcula; 51;Norte  33;995.4 / 
+Río Gallegos;13-Abril-2021;19:00;Parcialmente nublado;30 km;12.4;No se calcula; 64;Norte  48;- / 
+San Julián;13-Abril-2021;19:00;Nublado;30 km;19.8;No se calcula; 20;Norte  33;991.8 / 
+Santa Cruz;13-Abril-2021;19:00;Parcialmente nublado;30 km;17.6;No se calcula; 28;Norte  37;982.5 / 
+Ceres;13-Abril-2021;19:00;Despejado;15 km;20.8;No se calcula; 66;Este  3;1007.6 / 
+Rafaela;13-Abril-2021;18:00;Despejado;10 km;23.5;No se calcula; 49;Calma;1007.7 / 
+Reconquista;13-Abril-2021;19:00;Parcialmente nublado;15 km;21.8;No se calcula; 71;Este  3;1011.4 / 
+Rosario;13-Abril-2021;19:00;Despejado;15 km;21;No se calcula; 61;Este  7;1016 / 
+Santa Fe;13-Abril-2021;19:00;Despejado;12 km;19.7;No se calcula; 75;Este  3;1016.5 / 
+Sunchales;13-Abril-2021;19:00;Despejado;15 km;19.6;No se calcula; 65;Este  9;1008.3 / 
+Venado Tuerto;13-Abril-2021;19:00;Despejado;10 km;20.1;No se calcula; 63;Norte  3;1004.4 / 
+Termas de Rio Hondo;13-Abril-2021;19:00;Cubierto;15 km;20.8;No se calcula; 68;Noreste  7;983.8 / 
+Santiago del Estero;13-Abril-2021;19:00;Parcialmente nublado;10 km;23;No se calcula; 62;Noroeste  3;993 / 
+Río Grande B.A.;13-Abril-2021;19:00;Nublado con lluvia;3.0 km;8.2;4.1; 90;Norte  31;993.4 / 
+Ushuaia;13-Abril-2021;19:00;Nublado con llovizna;10 km;7.6;3.2; 67;Norte  33;985.7 / 
+Tucumán;13-Abril-2021;19:00;Cubierto con bruma;8 km;20;No se calcula; 74;Este  7;964.9 / 
+Base Belgrano II;13-Abril-2021;18:00;Algo nublado;20 km;-18.4;-28.5; 72;Sudeste  20;950.2 / 
+Base Esperanza;13-Abril-2021;18:00;Cubierto;10 km;-11.2;-18.6; 83;Sur  16;990.2 / 
+Base Carlini;13-Abril-2021;18:00;Cubierto;10 km;-5.2;-9.3; 63;Oeste  9;992.9 / 
+Base Marambio;13-Abril-2021;19:00;Despejado;15 km;-19.2;-31.7; 82;Sur  31;969.8 / 
+Base Orcadas;13-Abril-2021;18:00;Cubierto;14 km;-4.4;-9.8; 90;Este  14;980.9 / 
+Base San Martín;13-Abril-2021;18:00;Algo nublado;20 km;-6.4;-10.0; 60;Sudeste  7;987 / 
+Azul;13-Abril-2021;20:00;Despejado;20 km;18.2;No se calcula; 73;Norte  5;1002.5 / 
+Bahía Blanca;13-Abril-2021;20:00;Despejado;15 km;16.6;No se calcula; 75;Norte  11;1007.3 / 
+Benito Juárez;13-Abril-2021;18:00;Despejado;15 km;23;No se calcula; 52;Noroeste  14;994 / 
+Bolívar;13-Abril-2021;20:00;Despejado;15 km;16.8;No se calcula; 72;Calma;1008.2 / 
+Campo de Mayo;13-Abril-2021;20:00;Despejado;10 km;16;No se calcula; 91;Calma;1017.8 / 
+Coronel Pringles;13-Abril-2021;15:00;Despejado;25 km;25.8;No se calcula; 41;Norte  14;989.8 / 
+Coronel Suarez;13-Abril-2021;18:00;Despejado;60 km;23;No se calcula; 50;Norte  13;990.2 / 
+Dolores;13-Abril-2021;20:00;Despejado;10 km;17.6;No se calcula; 84;Norte  3;1019.4 / 
+El Palomar;13-Abril-2021;20:00;Despejado;10 km;15.2;No se calcula; 87;Noreste  1;1019.2 / 
+Ezeiza;13-Abril-2021;20:00;Algo nublado;10 km;17;No se calcula; 68;Oeste  3;1018 / 
+Junín;13-Abril-2021;20:00;Despejado;12 km;18;No se calcula; 60;Norte  13;1009.4 / 
+La Plata;13-Abril-2021;20:00;Despejado con banco delgado de niebla;8 km;16.2;No se calcula; 82;Calma;1018.6 / 
+Las Flores;13-Abril-2021;18:00;Despejado;15 km;24.5;No se calcula; 47;Calma;1014.1 / 
+Mar del Plata;13-Abril-2021;20:00;Despejado;10 km;19.7;No se calcula; 66;Norte  7;1016.9 / 
+Mariano Moreno;13-Abril-2021;20:00;Despejado;10 km;19.4;No se calcula; 76;Norte  9;1016.8 / 
+Merlo;13-Abril-2021;20:00;Despejado;10 km;19;No se calcula; 77;Noreste  9;1018 / 
+Morón;13-Abril-2021;20:00;Despejado;10 km;20.8;No se calcula; 61;Calma;1017.7 / 
+Nueve de Julio;13-Abril-2021;18:00;Despejado;15 km;24.4;No se calcula; 43;Calma;1010.1 / 
+Olavarría;13-Abril-2021;20:00;Despejado;15 km;16.8;No se calcula; 73;Calma;1000 / 
+Pehuajó;13-Abril-2021;20:00;Despejado;15 km;18.6;No se calcula; 66;Norte  5;1008.6 / 
+Pigué;13-Abril-2021;20:00;Despejado;20 km;15;No se calcula; 76;Noreste  9;982.2 / 
+Punta Indio B.A.;13-Abril-2021;20:00;Despejado;10 km;17.5;No se calcula; 83;Noreste  7;1018.5 / 
+San Fernando;13-Abril-2021;20:00;Despejado;10 km;18.7;No se calcula; 83;Noreste  3;1020.2 / 
+Tandil;13-Abril-2021;20:00;Algo nublado;15 km;16.1;No se calcula; 79;Norte  3;999.4 / 
+Trenque Lauquen;13-Abril-2021;15:00;Despejado;15 km;25.8;No se calcula; 42;Norte  9;1007.7 / 
+Tres Arroyos;13-Abril-2021;18:00;Despejado;15 km;24;No se calcula; 46;Norte  9;1005.6 / 
+Villa Gesell;13-Abril-2021;20:00;Despejado;15 km;16.4;No se calcula; 86;Calma;1018.9 / 
+Aeroparque Buenos Aires;13-Abril-2021;20:00;Despejado;10 km;19.9;No se calcula; 66;Calma;1020 / 
+Buenos Aires;13-Abril-2021;20:00;Despejado;10 km;17.8;No se calcula; 80;Calma;1017.6 / 
+Catamarca;13-Abril-2021;20:00;Algo nublado;20 km;22.2;No se calcula; 61;Norte  24;961 / 
+Tinogasta;13-Abril-2021;18:00;Despejado;20 km;27;No se calcula; 35;Sur  14;877.4 / 
+Pcia. Roque Saenz Peña;13-Abril-2021;20:00;Algo nublado con humo;8 km;20.4;No se calcula; 87;Sur  1;1006.9 / 
+Resistencia;13-Abril-2021;20:00;Parcialmente nublado;15 km;21.2;No se calcula; 76;Sur  7;1010.4 / 
+Comodoro Rivadavia;13-Abril-2021;20:00;Algo nublado;30 km;21;No se calcula; 59;Noreste  3;1000.4 / 
+Esquel;13-Abril-2021;20:00;Algo nublado;30 km;18.2;No se calcula; 49;Oeste  11;920 / 
+Paso De Indios;13-Abril-2021;20:00;Algo nublado;45 km;18.8;No se calcula; 43;Noroeste  9;954.7 / 
+Puerto Madryn;13-Abril-2021;20:00;Despejado;30 km;19.4;No se calcula; 42;Norte  16;996.8 / 
+Trelew;13-Abril-2021;20:00;Algo nublado;30 km;18.3;No se calcula; 63;Norte  13;1007.5 / 
+Córdoba;13-Abril-2021;20:00;Despejado;10 km;14.7;No se calcula; 84;Norte  7;961 / 
+Córdoba Observatorio;13-Abril-2021;18:00;Despejado;10 km;23.4;No se calcula; 52;Este  11;968.9 / 
+Esc. Aviación Militar;13-Abril-2021;20:00;Despejado;10 km;19.4;No se calcula; 62;Noreste  9;960.9 / 
+Laboulaye;13-Abril-2021;20:00;Despejado;10 km;17.3;No se calcula; 72;Norte  3;1001.3 / 
+Marcos Juárez;13-Abril-2021;20:00;Despejado;20 km;17.5;No se calcula; 69;Norte  9;1003.4 / 
+Pilar Obs.;13-Abril-2021;20:00;Despejado;10 km;17.5;No se calcula; 77;Norte  9;979.3 / 
+Río Cuarto;13-Abril-2021;20:00;Despejado;15 km;17;No se calcula; 64;Norte  18;968 / 
+Villa Dolores;13-Abril-2021;20:00;Despejado;30 km;17.5;No se calcula; 75;Este  9;951.7 / 
+Villa María Del Río Seco;13-Abril-2021;18:00;Despejado;15 km;22.5;No se calcula; 57;Norte  9;978.1 / 
+Corrientes;13-Abril-2021;20:00;Nublado con humo;10 km;21.2;No se calcula; 77;Sur  9;1009.3 / 
+Ituzaingó;13-Abril-2021;18:00;Nublado con humo;6 km;25;No se calcula; 76;Sur  9;1005.8 / 
+Mercedes;13-Abril-2021;15:00;Parcialmente nublado;15 km;24.6;No se calcula; 49;Sudeste  7;- / 
+Monte Caseros;13-Abril-2021;20:00;Algo nublado;20 km;20.6;No se calcula; 68;Sudeste  9;1012.4 / 
+Paso De Los Libres;13-Abril-2021;20:00;Parcialmente nublado;10 km;21.3;No se calcula; 67;Sudeste  20;1009.6 / 
+Concordia;13-Abril-2021;20:00;Despejado;15 km;19.4;No se calcula; 67;Sudeste  5;1014.9 / 
+Gualeguaychú;13-Abril-2021;20:00;Despejado;15 km;20;No se calcula; 69;Este  5;1016 / 
+Paraná;13-Abril-2021;20:00;Despejado;15 km;19.2;No se calcula; 66;Este  3;1010.6 / 
+Formosa;13-Abril-2021;20:00;Parcialmente nublado;20 km;21.7;No se calcula; 85;Sudeste  9;1008.8 / 
+Las Lomitas;13-Abril-2021;20:00;Algo nublado;20 km;24;No se calcula; 60;Calma;1001.3 / 
+Mount Pleasant Airport (Islas Malvinas);13-Abril-2021;20:00;Nublado;30 km;5.9;2.2; 75;Oeste  20;1000.6 / 
+La Quiaca;13-Abril-2021;20:00;Nublado;15 km;10.4;No se calcula; 74;Este  3;671.7 / 
+Jujuy;13-Abril-2021;20:00;Cubierto;10 km;19.1;No se calcula; 72;Noreste  9;914.6 / 
+Jujuy Universidad Nacional;13-Abril-2021;15:00;Parcialmente nublado;12 km;23;No se calcula; 54;Sudeste  9;872.6 / 
+General Pico;13-Abril-2021;20:00;Despejado;20 km;20.1;No se calcula; 55;Noreste  14;999.8 / 
+Victorica;13-Abril-2021;15:00;Despejado;40 km;27.3;No se calcula; 36;Norte  9;980.2 / 
+Santa Rosa;13-Abril-2021;20:00;Despejado;30 km;17.6;No se calcula; 69;Norte  11;994.2 / 
+Chamical;13-Abril-2021;20:00;Despejado;20 km;20;No se calcula; 57;Calma;960.8 / 
+Chepes;13-Abril-2021;15:00;Despejado;20 km;26.6;No se calcula; 25;Noreste  9;942.3 / 
+La Rioja;13-Abril-2021;19:00;Despejado;20 km;25.6;No se calcula; 53;Calma;964 / 
+Malargue;13-Abril-2021;20:00;Despejado;20 km;17.5;No se calcula; 45;Noreste  9;858.6 / 
+Mendoza;13-Abril-2021;20:00;Despejado;15 km;22;No se calcula; 49;Calma;933.8 / 
+Mendoza Observatorio;13-Abril-2021;20:00;Despejado;15 km;17.5;No se calcula; 62;Calma;920.8 / 
+San Carlos (Mza);13-Abril-2021;15:00;Despejado;15 km;23.8;No se calcula; 44;Norte  14;909.9 / 
+San Martín (Mza);13-Abril-2021;20:00;Despejado;15 km;20;No se calcula; 58;Calma;938.5 / 
+San Rafael;13-Abril-2021;20:00;Despejado;20 km;20.2;No se calcula; 49;Noreste  3;929.8 / 
+Uspallata;13-Abril-2021;18:00;Despejado;15 km;23.6;No se calcula; 33;Calma;816.1 / 
+Bernardo De Irigoyen;13-Abril-2021;20:00;Parcialmente nublado;20 km;20.5;No se calcula; 69;Sur  3;924.2 / 
+Iguazú;13-Abril-2021;20:00;Parcialmente nublado;20 km;22.4;No se calcula; 76;Calma;983.8 / 
+Oberá;13-Abril-2021;15:00;Parcialmente nublado;20 km;26.2;27.0; 55;Sudeste  3;981.8 / 
+Posadas;13-Abril-2021;20:00;Parcialmente nublado;20 km;23.4;No se calcula; 67;Sudeste  5;1001.3 / 
+Chapelco;13-Abril-2021;20:00;Algo nublado;15 km;16.6;No se calcula; 53;Oeste  13;922.6 / 
+Neuquén;13-Abril-2021;20:00;Despejado;15 km;25.5;No se calcula; 43;Sudeste  5;980.5 / 
+Bariloche;13-Abril-2021;20:00;Despejado;10 km;14.4;No se calcula; 54;Oeste  3;917.6 / 
+Cipolletti;13-Abril-2021;15:00;Despejado;25 km;26.4;No se calcula; 34;Sudeste  9;984.7 / 
+El Bolsón;13-Abril-2021;18:00;Despejado;30 km;21.4;No se calcula; 45;Calma;976.5 / 
+Maquinchao;13-Abril-2021;18:00;Despejado;40 km;24.2;No se calcula; 12;Calma;914.5 / 
+Río Colorado;13-Abril-2021;15:00;Despejado;16 km;29;28.9; 42;Noroeste  3;1005.3 / 
+San Antonio Oeste;13-Abril-2021;20:00;Despejado;30 km;16;No se calcula; 75;Sur  9;1013.3 / 
+Viedma;13-Abril-2021;20:00;Despejado;30 km;17.7;No se calcula; 79;Sudeste  9;1013.6 / 
+Metán;13-Abril-2021;15:00;Cubierto con bruma;10 km;19.8;No se calcula; 79;Este  3;920.1 / 
+Orán;13-Abril-2021;20:00;Parcialmente nublado;10 km;22;No se calcula; 82;Calma;974 / 
+Rivadavia;13-Abril-2021;16:00;Parcialmente nublado;25 km;28;No se calcula; 34;Este  3;990.7 / 
+Salta;13-Abril-2021;20:00;Nublado con precipitación a la vista;12 km;17.7;No se calcula; 73;Norte  9;881.9 / 
+Tartagal;13-Abril-2021;20:00;Parcialmente nublado;10 km;20.1;No se calcula; 87;Calma;964.9 / 
+Jachal;13-Abril-2021;15:00;Despejado;30 km;25.4;No se calcula; 29;Sur  3;884.8 / 
+San Juan;13-Abril-2021;20:00;Despejado;15 km;21.4;No se calcula; 38;Sur  9;945.2 / 
+San Luis;13-Abril-2021;20:00;Despejado;20 km;20.1;No se calcula; 56;Norte  9;934.4 / 
+Santa Rosa del Conlara;13-Abril-2021;20:00;Despejado;20 km;15.7;No se calcula; 73;Calma;945.3 / 
+Villa Reynolds;13-Abril-2021;20:00;Despejado;15 km;19;No se calcula; 55;Este  14;959.8 / 
+El Calafate;13-Abril-2021;20:00;Parcialmente nublado;30 km;10;No se calcula; 89;Oeste  3;965.8 / 
+Gobernador Gregores;13-Abril-2021;15:00;Parcialmente nublado;45 km;18.4;No se calcula; 35;Norte  38;959 / 
+Perito Moreno;13-Abril-2021;15:00;Parcialmente nublado;50 km;19;No se calcula; 47;Noroeste  40;957.4 / 
+Puerto Deseado;13-Abril-2021;20:00;Algo nublado;30 km;15.4;No se calcula; 65;Norte  33;995.1 / 
+Río Gallegos;13-Abril-2021;20:00;Parcialmente nublado;30 km;13.2;No se calcula; 57;Norte  53;- / 
+San Julián;13-Abril-2021;20:00;Nublado;30 km;20.2;No se calcula; 31;Norte  33;991.4 / 
+Santa Cruz;13-Abril-2021;20:00;Parcialmente nublado;30 km;19;No se calcula; 38;Norte  37;981.4 / 
+Ceres;13-Abril-2021;20:00;Despejado;15 km;19.7;No se calcula; 64;Este  3;1007.8 / 
+Rafaela;13-Abril-2021;18:00;Despejado;10 km;23.5;No se calcula; 49;Calma;1007.7 / 
+Reconquista;13-Abril-2021;20:00;Parcialmente nublado;15 km;20.7;No se calcula; 75;Sur  3;1011.8 / 
+Rosario;13-Abril-2021;20:00;Despejado;12 km;18.5;No se calcula; 77;Este  5;1016.1 / 
+Santa Fe;13-Abril-2021;20:00;Despejado;12 km;19.7;No se calcula; 74;Sudeste  7;1019.6 / 
+Sunchales;13-Abril-2021;20:00;Despejado;15 km;17.5;No se calcula; 70;Este  9;1008.4 / 
+Venado Tuerto;13-Abril-2021;20:00;Despejado;10 km;16.7;No se calcula; 73;Norte  3;1004.5 / 
+Termas de Rio Hondo;13-Abril-2021;20:00;Cubierto;15 km;20;No se calcula; 73;Noreste  7;984.1 / 
+Santiago del Estero;13-Abril-2021;20:00;Parcialmente nublado;10 km;22;No se calcula; 71;Norte  7;993.3 / 
+Río Grande B.A.;13-Abril-2021;20:00;Nublado con lluvia;3.0 km;8.2;3.8; 90;Norte  37;991.8 / 
+Ushuaia;13-Abril-2021;20:00;Nublado con lluvia;8 km;6.8;2.4; 77;Norte  29;984.2 / 
+Tucumán;13-Abril-2021;20:00;Nublado con bruma;9 km;19.6;No se calcula; 78;Este  5;965.2 / 
+Base Belgrano II;13-Abril-2021;18:00;Algo nublado;20 km;-18.4;-28.5; 72;Sudeste  20;950.2 / 
+Base Esperanza;13-Abril-2021;18:00;Cubierto;10 km;-11.2;-18.6; 83;Sur  16;990.2 / 
+Base Carlini;13-Abril-2021;18:00;Cubierto;10 km;-5.2;-9.3; 63;Oeste  9;992.9 / 
+Base Marambio;13-Abril-2021;20:00;Despejado;15 km;-19.4;-31.3; 82;Sur  27;970.4 / 
+Base Orcadas;13-Abril-2021;18:00;Cubierto;14 km;-4.4;-9.8; 90;Este  14;980.9 / 
+Base San Martín;13-Abril-2021;18:00;Algo nublado;20 km;-6.4;-10.0; 60;Sudeste  7;987 / 
+observaciones/tiepre20210413.txtEl archivo no existe.observaciones/tiepre20210413.txtEl archivo no existe.observaciones/tiepre20210413.txtEl archivo no existe.

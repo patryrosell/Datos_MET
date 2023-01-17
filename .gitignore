@@ -37,3 +37,10 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# READMES generales
+README.txt
+README_ES.txt
+
+# Uruguay
+URY/*

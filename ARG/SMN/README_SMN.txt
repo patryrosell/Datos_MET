@@ -2,7 +2,7 @@
 # SERVICIO METEOROLÓGICO NACIONAL - SMN #
 #########################################
 
-Última actualización: 12/12/2023
+Última actualización: 12/12/2022
 
 # Sobre archivo log_smn
 
@@ -43,7 +43,7 @@
 	
 	A futuro, generaré un script para controlar la cantidad de estaciones presentes en cada archivo (aunque si estas estaciones no tienen coordenadas, como las que están en los listados que se pueden descargar del SMN, es medio inutil tenerla, ya que no le podemos asignar una estación GNSS cercana). Aún así, no veo malo tener los datos de esas estaciones.
 	
-	Hay algunas estaciones que tienen datos en tiempo presente, pero no presentan valores ni de OMM ni de OACI. En este caso, se inventó un código "OACI" con las siglas del lugar donde se encuentra la estación, seguido de XX para completar los 4 dígitos solicitados.
+	Hay algunas estaciones que tienen datos en tiempo presente, pero no presentan valores ni de OMM ni de OACI. En este caso, se inventó un código "OACI" con las siglas del lugar donde se encuentra la estación. El nombre está formado por "XX" más dos siglas representativas del lugar, para completar los 4 dígitos solicitados (Ej: XXSJ).
 	
 	Este es el archivo ideal si usted desea incorporar nuevas estaciones a los listados. 	
 

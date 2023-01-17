@@ -1,0 +1,53 @@
+# List of files and parameters
+
+# For more information, please check the README file located at "path_base".
+
+########################
+## General parameters ##
+########################
+
+overwrite="Y"
+
+graph_acum="N"
+
+sd_outliers=3
+
+#################
+## Directories ##
+#################
+
+path_base=E:/Scripts/Datos_MET
+
+path_scripts=E:/Scripts/Datos_MET/00_programas
+
+## ARG - SMN paths ##
+
+	# Programms
+
+smn_programas=E:/Scripts/Datos_MET/00_programas/SMN
+	
+	# Folders
+	
+SMN=E:/Scripts/Datos_MET/ARG/SMN
+
+smn_dato_norm=E:/Scripts/Datos_MET/ARG/SMN/NORM
+
+smn_graph=E:/Scripts/Datos_MET/ARG/SMN/GRAPH
+	
+	# Data
+	
+smn_datohorario_raw=E:/Scripts/Datos_MET/ARG/SMN/RAW/dato_horario
+
+smn_datoTP_raw=E:/Scripts/Datos_MET/ARG/SMN/RAW/dato_tiempopresente
+
+smn_historico=E:/Scripts/Datos_MET/ARG/SMN/RAW/historico/datos estaciones meteorologicas 2015-2016.xlsx
+
+	# Auxiliary data	
+		
+smn_stats_norm=E:/Scripts/Datos_MET/ARG/SMN/STATS.txt
+
+smn_stats_raw=E:/Scripts/Datos_MET/ARG/SMN/_aux/estaciones_smn.txt
+
+smn_equivalencias=E:/Scripts/Datos_MET/ARG/SMN/_aux/equivalencias_stats.xlsx
+	
+## URY - INUMET paths ## Coming soon....

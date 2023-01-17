@@ -1,43 +1,16 @@
-busca_stat<-function(j,equivalencias,datos){
+busca_stat <- function(equi, datos) {
   
-  # 
-  # # Busco los datos de la estación
-  # OMM=as.character(equivalencias$OMM[j])
-  # OACI=as.character(equivalencias$OACI[j])
-  # 
-  # Busco estación del listado "stat_TP" (porque estoy en Tiempo Presente)
-  stat_TP=as.character(equivalencias$stats_TP[j])
+  names = unlist(c(equi[-(1:5)]), use.names = FALSE) # Remove first 5 col. I don't want that info
   
-  # Busco nombres posibles para la estaciñon, en el del listado "stat_DH" 
-  ## (porque estoy en Dato Horario)
-  stat_DH=as.character(equivalencias$stats_DH[j])
-  stat_DH2=as.character(equivalencias$stats_DH2[j])
-  stat_DH3=as.character(equivalencias$stats_DH3[j])
+  filtro = dplyr::filter(datos, NAME %in% names)
   
-  # filtro nombre tiempo presente
-  filtro=dplyr::filter(datos,NAME == stat_TP)
-  
-  # filtro nombre dato horario 1
-  if (nrow(filtro) == 0){
-  filtro=dplyr::filter(datos,NAME == stat_DH)
-  }
-  
-  # Si no encuentra datos con un nombre, filtro nombre dato horario 2
-  if (nrow(filtro) == 0){
-    filtro=dplyr::filter(datos,NAME == stat_DH2)
-  }
-  
-  # Si no encuentra datos con un nombre, filtro nombre dato horario 3
-  if (nrow(filtro) == 0){
-    filtro=dplyr::filter(datos,NAME == stat_DH3)
-  }
-  
-  if (!nrow(filtro) == 0){
-    filtro$PREC=NA # Agrego columna para futuros valores de precipitación
+  if (!nrow(filtro) == 0) {
+    filtro$PREC = NA # Add empty values of precipitation
     
-    filtro=filtro[,-1] # Elimino columna con el nombre de la estación
+    filtro = filtro[,-1] # Remove station name
     
-    filtro=filtro[!duplicated(filtro$DATE), ]
+    filtro = filtro[!duplicated(filtro$DATE), ] # Remove duplicated dates
+    
   }
   
   filtro

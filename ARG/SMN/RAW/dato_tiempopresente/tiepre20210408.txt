@@ -1,0 +1,1117 @@
+Azul;08-Abril-2021;12:00;Nublado con tormenta;3.0 km;20.1;No se calcula; 91;Sudeste  11;993.3 / 
+Bahía Blanca;08-Abril-2021;11:00;Nublado;15 km;17;No se calcula; 89;Este  18;1003 / 
+Benito Juárez;08-Abril-2021;12:00;Nublado con tormenta;7 km;18.8;No se calcula; 100;Sudeste  33;987.8 / 
+Bolívar;08-Abril-2021;12:00;Cubierto con tormenta;1.0 km;19;No se calcula; 99;Noroeste  11;1000.5 / 
+Campo de Mayo;08-Abril-2021;12:00;Parcialmente nublado;10 km;24.3;No se calcula; 65;Norte  20;1009 / 
+Coronel Pringles;08-Abril-2021;09:00;Cubierto con lluvia;2.0 km;15.9;No se calcula; 86;Sudeste  14;984.6 / 
+Coronel Suarez;08-Abril-2021;12:00;Cubierto con tormenta;3.0 km;16.1;No se calcula; 98;Sudeste  29;984.1 / 
+Dolores;08-Abril-2021;12:00;Nublado;10 km;26.3;26.2; 61;Norte  18;1010.4 / 
+El Palomar;08-Abril-2021;12:00;Nublado;10 km;24.8;No se calcula; 63;Norte  14;1010.2 / 
+Ezeiza;08-Abril-2021;12:00;Nublado;10 km;26;25.9; 63;Norte  14;1009 / 
+Junín;08-Abril-2021;12:00;Nublado con tormenta;10 km;21.2;No se calcula; 83;Norte  16;1000 / 
+La Plata;08-Abril-2021;12:00;Nublado;10 km;25.2;No se calcula; 65;Norte  11;1009.7 / 
+Las Flores;08-Abril-2021;12:00;Cubierto;15 km;23.5;No se calcula; 72;Noroeste  11;1006.2 / 
+Mar del Plata;08-Abril-2021;12:00;Nublado con lluvia en la hora anterior;8 km;19.6;No se calcula; 90;Sur  14;1011.2 / 
+Mariano Moreno;08-Abril-2021;12:00;Nublado;10 km;24;No se calcula; 69;Norte  18;1008 / 
+Merlo;08-Abril-2021;12:00;Cubierto con bruma;9 km;24.8;No se calcula; 71;Norte  20;1008.9 / 
+Morón;08-Abril-2021;12:00;Nublado;10 km;25.2;No se calcula; 62;Norte  16;1008.9 / 
+Nueve de Julio;08-Abril-2021;12:00;Nublado con tormenta;6 km;20.6;No se calcula; 90;Norte  11;1001.6 / 
+Olavarría;08-Abril-2021;12:00;Nublado con tormenta;1.0 km;17.1;No se calcula; 93;Sur  37;991.4 / 
+Pehuajó;08-Abril-2021;12:00;Nublado con tormenta;8 km;18.8;No se calcula; 95;Sudeste  14;1000 / 
+Pigué;08-Abril-2021;12:00;Cubierto con neblina;10 km;15.4;No se calcula; 93;Este  44;975.4 / 
+Punta Indio B.A.;08-Abril-2021;12:00;Nublado;10 km;24.7;No se calcula; 72;Este  25;1010.2 / 
+San Fernando;08-Abril-2021;12:00;Nublado;10 km;23.9;No se calcula; 70;Norte  11;1011.2 / 
+Tandil;08-Abril-2021;12:00;Nublado con tormenta;10 km;20.4;No se calcula; 88;Sur  27;991.4 / 
+Trenque Lauquen;08-Abril-2021;09:00;Nublado con tormenta;1.0 km;19.4;No se calcula; 98;Calma;998.9 / 
+Tres Arroyos;08-Abril-2021;12:00;Cubierto con tormenta;1.2 km;15.4;No se calcula; 94;Este  13;999.4 / 
+Villa Gesell;08-Abril-2021;12:00;Cubierto;10 km;25.5;No se calcula; 70;Norte  11;1011.4 / 
+Aeroparque Buenos Aires;08-Abril-2021;12:00;Nublado;10 km;23.6;No se calcula; 73;Norte  14;1011 / 
+Buenos Aires;08-Abril-2021;12:00;Nublado;10 km;24.4;No se calcula; 68;Noroeste  13;1008.6 / 
+Catamarca;08-Abril-2021;12:00;Parcialmente nublado;20 km;28.2;30.6; 67;Calma;953.8 / 
+Tinogasta;08-Abril-2021;12:00;Algo nublado;20 km;25.8;No se calcula; 59;Sudeste  9;872.6 / 
+Pcia. Roque Saenz Peña;08-Abril-2021;12:00;Parcialmente nublado;20 km;30.2;33.7; 66;Norte  25;1001.8 / 
+Resistencia;08-Abril-2021;12:00;Algo nublado;15 km;30.2;32.1; 59;Norte  22;1006.1 / 
+Comodoro Rivadavia;08-Abril-2021;12:00;Algo nublado;30 km;17.8;No se calcula; 42;Oeste  16;1004 / 
+Esquel;08-Abril-2021;12:00;Nublado con lluvia;25 km;8.7;7.2; 70;Oeste  9;919.7 / 
+Paso De Indios;08-Abril-2021;12:00;Parcialmente nublado;45 km;14.4;No se calcula; 52;Calma;956 / 
+Puerto Madryn;08-Abril-2021;12:00;Algo nublado;30 km;19.2;No se calcula; 47;Sur  11;995.8 / 
+Trelew;08-Abril-2021;12:00;Algo nublado;30 km;18.4;No se calcula; 41;Oeste  7;1007.4 / 
+Córdoba;08-Abril-2021;12:00;Parcialmente nublado;12 km;28.6;29.8; 65;Norte  25;951.6 / 
+Córdoba Observatorio;08-Abril-2021;12:00;Parcialmente nublado;10 km;26.2;27.9; 77;Noreste  5;959.4 / 
+Esc. Aviación Militar;08-Abril-2021;12:00;Parcialmente nublado con neblina;8 km;26.2;27.9; 77;Noreste  7;951.7 / 
+Laboulaye;08-Abril-2021;12:00;Nublado con tormenta;8 km;21.1;No se calcula; 93;Norte  7;992.2 / 
+Marcos Juárez;08-Abril-2021;12:00;Nublado;20 km;30.1;32.3; 61;Norte  25;994.8 / 
+Pilar Obs.;08-Abril-2021;12:00;Parcialmente nublado;10 km;26.2;26.9; 78;Norte  16;969.6 / 
+Río Cuarto;08-Abril-2021;12:00;Parcialmente nublado;15 km;25.2;No se calcula; 75;Noreste  7;959.8 / 
+Villa Dolores;08-Abril-2021;12:00;Cubierto con humo;20 km;24;No se calcula; 82;Oeste  5;944.6 / 
+Villa María Del Río Seco;08-Abril-2021;12:00;Cubierto;15 km;25.5;No se calcula; 75;Norte  9;970.2 / 
+Corrientes;08-Abril-2021;12:00;Algo nublado;10 km;29.2;31.0; 59;Norte  14;1005.3 / 
+Ituzaingó;08-Abril-2021;12:00;Parcialmente nublado con humo;10 km;28.8;30.2; 59;Noroeste  16;1004.9 / 
+Mercedes;08-Abril-2021;12:00;Parcialmente nublado;15 km;29.6;28.9; 53;Norte  44;- / 
+Monte Caseros;08-Abril-2021;12:00;Parcialmente nublado;20 km;28;28.6; 57;Norte  18;1007.4 / 
+Paso De Los Libres;08-Abril-2021;12:00;Parcialmente nublado;10 km;29.4;29.9; 56;Norte  24;1006.1 / 
+Concordia;08-Abril-2021;12:00;Parcialmente nublado;15 km;27.8;27.4; 58;Noreste  27;1008.9 / 
+Gualeguaychú;08-Abril-2021;12:00;Nublado;15 km;28.9;29.3; 58;Noreste  31;1007.6 / 
+Paraná;08-Abril-2021;12:00;Parcialmente nublado;15 km;28;28.2; 62;Norte  29;1001.3 / 
+Formosa;08-Abril-2021;12:00;Parcialmente nublado;20 km;29.1;30.6; 64;Noreste  25;1006.2 / 
+Las Lomitas;08-Abril-2021;12:00;Algo nublado;20 km;31.2;34.7; 57;Noreste  11;996.1 / 
+Mount Pleasant Airport (Islas Malvinas);08-Abril-2021;12:00;Algo nublado;40 km;15.6;No se calcula; 53;Oeste  25;989.3 / 
+La Quiaca;08-Abril-2021;12:00;Parcialmente nublado;30 km;16.4;No se calcula; 45;Norte  3;671 / 
+Jujuy;08-Abril-2021;12:00;Parcialmente nublado;15 km;24;No se calcula; 80;Noreste  14;908.4 / 
+Jujuy Universidad Nacional;08-Abril-2021;09:00;Parcialmente nublado;12 km;19.3;No se calcula; 87;Noroeste  3;866.5 / 
+General Pico;08-Abril-2021;12:00;Cubierto con llovizna;10 km;20.5;No se calcula; 95;Este  13;991.7 / 
+Victorica;08-Abril-2021;09:00;Algo nublado;40 km;16.8;No se calcula; 83;Calma;974.4 / 
+Santa Rosa;08-Abril-2021;12:00;Cubierto con llovizna;1.0 km;17.9;No se calcula; 96;Sudeste  22;988.1 / 
+Chamical;08-Abril-2021;12:00;Cubierto;20 km;24.5;No se calcula; 74;Calma;955.8 / 
+Chepes;08-Abril-2021;09:00;Cubierto;20 km;20;No se calcula; 60;Calma;934.5 / 
+Chilecito;08-Abril-2021;12:00;Algo nublado;20 km;26;27.0; 62;Sudoeste  9;905.8 / 
+La Rioja;08-Abril-2021;12:00;Nublado;20 km;27.4;29.3; 67;Sur  9;957.6 / 
+Malargue;08-Abril-2021;12:00;Cubierto;20 km;16.4;No se calcula; 65;Norte  9;856 / 
+Mendoza;08-Abril-2021;12:00;Cubierto;15 km;21;No se calcula; 56;Este  11;930.8 / 
+Mendoza Observatorio;08-Abril-2021;12:00;Cubierto;15 km;20.5;No se calcula; 66;Calma;917.2 / 
+San Carlos (Mza);08-Abril-2021;09:00;Cubierto;15 km;15.2;No se calcula; 77;Sur  3;904.5 / 
+San Martín (Mza);08-Abril-2021;12:00;Cubierto;15 km;19;No se calcula; 78;Sudeste  3;936.2 / 
+San Rafael;08-Abril-2021;12:00;Cubierto;20 km;17;No se calcula; 61;Sur  13;927.6 / 
+Uspallata;08-Abril-2021;12:00;Despejado;15 km;19.7;No se calcula; 34;Sur  3;811.5 / 
+Bernardo De Irigoyen;08-Abril-2021;12:00;Algo nublado;20 km;24.8;No se calcula; 55;Noreste  24;927 / 
+Iguazú;08-Abril-2021;12:00;Algo nublado;20 km;28.2;28.4; 52;Noreste  13;985.8 / 
+Oberá;08-Abril-2021;09:00;Despejado;20 km;24.6;No se calcula; 78;Sudeste  3;974.2 / 
+Posadas;08-Abril-2021;12:00;Algo nublado;20 km;28.8;29.7; 55;Noreste  14;1000.9 / 
+Chapelco;08-Abril-2021;12:00;Parcialmente nublado;15 km;13.3;No se calcula; 47;Oeste  24;921.9 / 
+Neuquén;08-Abril-2021;12:00;Despejado;15 km;19.9;No se calcula; 45;Noroeste  9;981.4 / 
+Bariloche;08-Abril-2021;12:00;Nublado con precipitación a la vista;10 km;11.8;No se calcula; 50;Oeste  27;916.8 / 
+Cipolletti;08-Abril-2021;09:00;Algo nublado;25 km;12;No se calcula; 68;Norte  3;982.1 / 
+El Bolsón;08-Abril-2021;12:00;Nublado;30 km;12.1;No se calcula; 84;Calma;974.6 / 
+Maquinchao;08-Abril-2021;12:00;Parcialmente nublado;40 km;12.3;No se calcula; 51;Calma;912.1 / 
+Río Colorado;08-Abril-2021;09:00;Despejado;15 km;15.8;No se calcula; 99;Norte  3;1002.5 / 
+San Antonio Oeste;08-Abril-2021;12:00;Algo nublado;30 km;18.2;No se calcula; 54;Sur  18;1012 / 
+Viedma;08-Abril-2021;12:00;Algo nublado;30 km;21.4;No se calcula; 65;Direcciones Variables  7;1010.5 / 
+Metán;08-Abril-2021;09:00;Cubierto con neblina;6 km;20.7;No se calcula; 98;Norte  3;913.7 / 
+Orán;08-Abril-2021;12:00;Algo nublado;10 km;28.2;32.2; 77;Noreste  9;966.4 / 
+Rivadavia;08-Abril-2021;09:00;Despejado;Superior a 70 km;24;No se calcula; 69;Calma;989.6 / 
+Salta;08-Abril-2021;12:00;Cubierto con lluvia;3.5 km;21;No se calcula; 91;Norte  5;876.4 / 
+Tartagal;08-Abril-2021;12:00;Parcialmente nublado;10 km;29.4;32.6; 66;Norte  14;957.8 / 
+Jachal;08-Abril-2021;09:00;Cubierto;30 km;19;No se calcula; 81;Calma;880.9 / 
+San Juan;08-Abril-2021;12:00;Nublado;15 km;20.4;No se calcula; 66;Sur  20;942.6 / 
+San Luis;08-Abril-2021;12:00;Cubierto con neblina;8 km;17.9;No se calcula; 87;Sur  13;929.4 / 
+Santa Rosa del Conlara;08-Abril-2021;12:00;Cubierto con lluvia en la hora anterior;20 km;21.6;No se calcula; 94;Norte  7;939 / 
+Villa Reynolds;08-Abril-2021;12:00;Algo nublado;15 km;25.4;No se calcula; 60;Noroeste  3;953.6 / 
+El Calafate;08-Abril-2021;12:00;Parcialmente nublado;30 km;13.6;No se calcula; 42;Norte  3;983.8 / 
+Gobernador Gregores;08-Abril-2021;09:00;Parcialmente nublado;45 km;6.6;No se calcula; 68;Calma;964.5 / 
+Perito Moreno;08-Abril-2021;12:00;Parcialmente nublado;50 km;12.8;No se calcula; 47;Oeste  25;959.3 / 
+Puerto Deseado;08-Abril-2021;12:00;Despejado;30 km;14.2;No se calcula; 45;Oeste  24;998.1 / 
+Río Gallegos;08-Abril-2021;12:00;Parcialmente nublado;30 km;10.4;No se calcula; 44;Sudoeste  46;- / 
+San Julián;08-Abril-2021;12:00;Parcialmente nublado;30 km;12.6;No se calcula; 48;Oeste  20;1001.4 / 
+Santa Cruz;08-Abril-2021;12:00;Parcialmente nublado;30 km;12.5;No se calcula; 53;Sur  18;993.8 / 
+Ceres;08-Abril-2021;12:00;Parcialmente nublado;15 km;29.4;30.9; 62;Norte  24;999.4 / 
+El Trébol;08-Abril-2021;12:00;Nublado;15 km;29.1;29.2; 55;Norte  24;994.9 / 
+Rafaela;08-Abril-2021;12:00;Parcialmente nublado;10 km;29;31.0; 62;Norte  18;998.1 / 
+Reconquista;08-Abril-2021;12:00;Parcialmente nublado;15 km;29.6;31.2; 61;Norte  29;1005.4 / 
+Rosario;08-Abril-2021;12:00;Nublado;15 km;27.3;27.1; 65;Norte  22;1006.2 / 
+Santa Fe;08-Abril-2021;12:00;Parcialmente nublado;12 km;30.4;32.1; 57;Norte  29;1007.4 / 
+Sunchales;08-Abril-2021;12:00;Parcialmente nublado;15 km;30.1;32.9; 64;Norte  33;998.9 / 
+Venado Tuerto;08-Abril-2021;12:00;Nublado con tormenta;7 km;20.3;No se calcula; 98;Sudoeste  9;996.4 / 
+Termas de Rio Hondo;08-Abril-2021;12:00;Nublado;12 km;26;27.6; 78;Sudoeste  7;975 / 
+Santiago del Estero;08-Abril-2021;12:00;Nublado;10 km;28.7;31.3; 67;Norte  14;984.4 / 
+Río Grande B.A.;08-Abril-2021;12:00;Nublado;30 km;9.9;5.8; 59;Sudoeste  40;999 / 
+Ushuaia;08-Abril-2021;12:00;Nublado;30 km;6.3;1.5; 70;Sudoeste  33;994.8 / 
+Tucumán;08-Abril-2021;12:00;Cubierto con neblina;8 km;25;No se calcula; 82;Sudoeste  9;956.6 / 
+Base Belgrano II;08-Abril-2021;12:00;Cubierto con ventisca baja;4.0 km;-12.2;-24.2; 74;Sudeste  44;951 / 
+Base Esperanza;08-Abril-2021;12:00;Parcialmente nublado;10 km;2.4;No se calcula; 71;Noreste  3;977.6 / 
+Base Carlini;08-Abril-2021;12:00;Cubierto;10 km;0.2;-6.7; 77;Oeste  35;982.8 / 
+Base Marambio;08-Abril-2021;12:00;Parcialmente nublado;15 km;0.3;-2.7; 68;Sur  9;956.2 / 
+Base Orcadas;08-Abril-2021;12:00;Cubierto con nevada;4.0 km;1.5;-1.8; 97;Noroeste  11;975.4 / 
+Base San Martín;08-Abril-2021;12:00;Cubierto con nevada;4.0 km;-0.8;-6.3; 87;Noroeste  20;981.8 / 
+Azul;08-Abril-2021;13:00;Nublado con tormenta;800 mts;15.5;No se calcula; 100;Sudeste  25;995 / 
+Bahía Blanca;08-Abril-2021;13:00;Parcialmente nublado;15 km;19.9;No se calcula; 84;Este  22;1002.1 / 
+Benito Juárez;08-Abril-2021;12:00;Nublado con tormenta;7 km;18.8;No se calcula; 100;Sudeste  33;987.8 / 
+Bolívar;08-Abril-2021;13:00;Cubierto con llovizna;1.5 km;18;No se calcula; 100;Este  11;1000.5 / 
+Campo de Mayo;08-Abril-2021;13:00;Parcialmente nublado;10 km;24.5;No se calcula; 66;Norte  7;1008.9 / 
+Coronel Pringles;08-Abril-2021;09:00;Cubierto con lluvia;2.0 km;15.9;No se calcula; 86;Sudeste  14;984.6 / 
+Coronel Suarez;08-Abril-2021;12:00;Cubierto con tormenta;3.0 km;16.1;No se calcula; 98;Sudeste  29;984.1 / 
+Dolores;08-Abril-2021;13:00;Cubierto;10 km;26.9;27.1; 60;Norte  18;1010.2 / 
+El Palomar;08-Abril-2021;13:00;Nublado;10 km;24.8;No se calcula; 67;Norte  11;1010 / 
+Ezeiza;08-Abril-2021;13:00;Nublado;10 km;25.8;No se calcula; 67;Norte  11;1009 / 
+Junín;08-Abril-2021;13:00;Nublado con tormenta;5 km;20.3;No se calcula; 93;Sudoeste  9;1000.5 / 
+La Plata;08-Abril-2021;13:00;Nublado;10 km;25.2;No se calcula; 72;Norte  11;1009.2 / 
+Las Flores;08-Abril-2021;12:00;Cubierto;15 km;23.5;No se calcula; 72;Noroeste  11;1006.2 / 
+Mar del Plata;08-Abril-2021;13:00;Cubierto con neblina;7 km;19.4;No se calcula; 91;Sur  25;1010.8 / 
+Mariano Moreno;08-Abril-2021;13:00;Nublado;10 km;24.2;No se calcula; 71;Norte  9;1007.8 / 
+Merlo;08-Abril-2021;13:00;Cubierto;10 km;24.5;No se calcula; 73;Norte  9;1008.8 / 
+Morón;08-Abril-2021;13:00;Nublado;10 km;25;No se calcula; 66;Norte  11;1008.8 / 
+Nueve de Julio;08-Abril-2021;12:00;Nublado con tormenta;6 km;20.6;No se calcula; 90;Norte  11;1001.6 / 
+Olavarría;08-Abril-2021;13:00;Nublado con tormenta;1.0 km;15.1;No se calcula; 100;Sudeste  40;992.4 / 
+Pehuajó;08-Abril-2021;13:00;Nublado con lluvia;10 km;19.2;No se calcula; 96;Sudeste  18;1000.8 / 
+Pigué;08-Abril-2021;13:00;Cubierto con llovizna en la hora anterior;10 km;17;No se calcula; 89;Este  24;975 / 
+Punta Indio B.A.;08-Abril-2021;13:00;Nublado;10 km;24.9;No se calcula; 73;Noreste  25;1009.3 / 
+San Fernando;08-Abril-2021;13:00;Nublado;10 km;24.6;No se calcula; 68;Noroeste  5;1011 / 
+Tandil;08-Abril-2021;13:00;Nublado con tormenta;1.5 km;20;No se calcula; 95;Sur  35;991.4 / 
+Trenque Lauquen;08-Abril-2021;09:00;Nublado con tormenta;1.0 km;19.4;No se calcula; 98;Calma;998.9 / 
+Tres Arroyos;08-Abril-2021;12:00;Cubierto con tormenta;1.2 km;15.4;No se calcula; 94;Este  13;999.4 / 
+Villa Gesell;08-Abril-2021;13:00;Cubierto;10 km;25.4;No se calcula; 68;Norte  13;1010.9 / 
+Aeroparque Buenos Aires;08-Abril-2021;13:00;Nublado;10 km;24;No se calcula; 77;Norte  11;1011 / 
+Buenos Aires;08-Abril-2021;13:00;Nublado;10 km;24.7;No se calcula; 68;Noroeste  3;1008.4 / 
+Catamarca;08-Abril-2021;13:00;Parcialmente nublado;20 km;29.8;32.8; 61;Calma;952.8 / 
+Tinogasta;08-Abril-2021;12:00;Algo nublado;20 km;25.8;No se calcula; 59;Sudeste  9;872.6 / 
+Pcia. Roque Saenz Peña;08-Abril-2021;13:00;Parcialmente nublado;20 km;31.5;35.4; 60;Noreste  29;1000.6 / 
+Resistencia;08-Abril-2021;13:00;Algo nublado;15 km;31.5;33.5; 53;Norte  24;1005.4 / 
+Comodoro Rivadavia;08-Abril-2021;13:00;Algo nublado;30 km;18.5;No se calcula; 39;Oeste  14;1003.8 / 
+Esquel;08-Abril-2021;12:00;Nublado con lluvia;25 km;8.7;7.2; 70;Oeste  9;919.7 / 
+Paso De Indios;08-Abril-2021;13:00;Parcialmente nublado;45 km;15.5;No se calcula; 46;Calma;955.6 / 
+Puerto Madryn;08-Abril-2021;13:00;Algo nublado;30 km;20.2;No se calcula; 44;Sur  18;995.7 / 
+Trelew;08-Abril-2021;13:00;Algo nublado;30 km;19.5;No se calcula; 38;Oeste  5;1007.2 / 
+Córdoba;08-Abril-2021;13:00;Parcialmente nublado;12 km;30.6;32.3; 56;Norte  31;950.9 / 
+Córdoba Observatorio;08-Abril-2021;13:00;Parcialmente nublado;10 km;30.6;34.8; 63;Norte  7;959.2 / 
+Esc. Aviación Militar;08-Abril-2021;13:00;Parcialmente nublado;10 km;28.2;31.1; 69;Norte  5;951 / 
+Laboulaye;08-Abril-2021;13:00;Nublado con tormenta en la hora anterior;10 km;22.3;No se calcula; 88;Norte  3;991.7 / 
+Marcos Juárez;08-Abril-2021;13:00;Nublado;20 km;29.9;32.6; 60;Noroeste  13;994.1 / 
+Pilar Obs.;08-Abril-2021;13:00;Algo nublado;10 km;29.7;33.0; 64;Norte  18;968.4 / 
+Río Cuarto;08-Abril-2021;13:00;Parcialmente nublado;15 km;26;27.4; 73;Noreste  3;959.6 / 
+Villa Dolores;08-Abril-2021;13:00;Nublado con precipitación a la vista;20 km;24.7;No se calcula; 79;Oeste  5;944.4 / 
+Villa María Del Río Seco;08-Abril-2021;12:00;Cubierto;15 km;25.5;No se calcula; 75;Norte  9;970.2 / 
+Corrientes;08-Abril-2021;13:00;Algo nublado;10 km;30.9;33.8; 56;Norte  14;1004.6 / 
+Ituzaingó;08-Abril-2021;12:00;Parcialmente nublado con humo;10 km;28.8;30.2; 59;Noroeste  16;1004.9 / 
+Mercedes;08-Abril-2021;13:00;Parcialmente nublado;15 km;30.2;30.0; 53;Norte  46;- / 
+Monte Caseros;08-Abril-2021;13:00;Parcialmente nublado;20 km;29.2;30.3; 54;Norte  20;1006.6 / 
+Paso De Los Libres;08-Abril-2021;13:00;Parcialmente nublado;10 km;30.3;32.5; 56;Norte  18;1005.3 / 
+Concordia;08-Abril-2021;13:00;Parcialmente nublado;15 km;27.9;27.7; 59;Norte  25;1007.8 / 
+Gualeguaychú;08-Abril-2021;13:00;Nublado;15 km;29.5;30.5; 58;Norte  31;1008.2 / 
+Paraná;08-Abril-2021;13:00;Parcialmente nublado;15 km;29.9;30.9; 56;Norte  24;1000.6 / 
+Formosa;08-Abril-2021;13:00;Parcialmente nublado;20 km;30.9;34.8; 60;Norte  16;1005.4 / 
+Las Lomitas;08-Abril-2021;13:00;Parcialmente nublado;20 km;32;36.3; 57;Norte  11;995 / 
+Mount Pleasant Airport (Islas Malvinas);08-Abril-2021;13:00;Algo nublado;50 km;16.2;No se calcula; 50;Oeste  29;989 / 
+La Quiaca;08-Abril-2021;13:00;Parcialmente nublado;30 km;18.2;No se calcula; 36;Norte  3;670.5 / 
+Jujuy;08-Abril-2021;13:00;Parcialmente nublado;15 km;26;26.1; 70;Este  14;907.4 / 
+Jujuy Universidad Nacional;08-Abril-2021;09:00;Parcialmente nublado;12 km;19.3;No se calcula; 87;Noroeste  3;866.5 / 
+General Pico;08-Abril-2021;13:00;Parcialmente nublado con llovizna en la hora anterior;20 km;21.3;No se calcula; 91;Este  24;991.3 / 
+Victorica;08-Abril-2021;09:00;Algo nublado;40 km;16.8;No se calcula; 83;Calma;974.4 / 
+Santa Rosa;08-Abril-2021;13:00;Cubierto con llovizna en la hora anterior;30 km;18.1;No se calcula; 96;Sudeste  24;988.1 / 
+Chamical;08-Abril-2021;12:00;Cubierto;20 km;24.5;No se calcula; 74;Calma;955.8 / 
+Chepes;08-Abril-2021;09:00;Cubierto;20 km;20;No se calcula; 60;Calma;934.5 / 
+Chilecito;08-Abril-2021;13:00;Algo nublado;20 km;27;27.9; 57;Calma;904.9 / 
+La Rioja;08-Abril-2021;13:00;Nublado;20 km;28.4;31.3; 68;Este  3;956.8 / 
+Malargue;08-Abril-2021;13:00;Cubierto;20 km;16;No se calcula; 68;Este  14;855 / 
+Mendoza;08-Abril-2021;13:00;Cubierto;15 km;21.8;No se calcula; 53;Sudeste  9;930.2 / 
+Mendoza Observatorio;08-Abril-2021;13:00;Parcialmente nublado;15 km;21.7;No se calcula; 67;Sur  9;916.6 / 
+San Carlos (Mza);08-Abril-2021;09:00;Cubierto;15 km;15.2;No se calcula; 77;Sur  3;904.5 / 
+San Martín (Mza);08-Abril-2021;13:00;Cubierto;15 km;20.6;No se calcula; 76;Sudeste  9;935.4 / 
+San Rafael;08-Abril-2021;13:00;Cubierto;20 km;18.4;No se calcula; 56;Sur  14;926.9 / 
+Uspallata;08-Abril-2021;12:00;Despejado;15 km;19.7;No se calcula; 34;Sur  3;811.5 / 
+Bernardo De Irigoyen;08-Abril-2021;13:00;Algo nublado;20 km;26.2;24.8; 54;Norte  24;926.4 / 
+Iguazú;08-Abril-2021;13:00;Algo nublado;20 km;30.1;31.1; 49;Noreste  9;984.9 / 
+Oberá;08-Abril-2021;09:00;Despejado;20 km;24.6;No se calcula; 78;Sudeste  3;974.2 / 
+Posadas;08-Abril-2021;13:00;Algo nublado;20 km;30;31.1; 51;Norte  14;999.9 / 
+Chapelco;08-Abril-2021;13:00;Cubierto;15 km;12;No se calcula; 58;Oeste  33;922.1 / 
+Neuquén;08-Abril-2021;13:00;Algo nublado;15 km;20.9;No se calcula; 39;Oeste  5;981.2 / 
+Bariloche;08-Abril-2021;13:00;Nublado con lluvia;8 km;10;6.5; 67;Oeste  31;917.3 / 
+Cipolletti;08-Abril-2021;09:00;Algo nublado;25 km;12;No se calcula; 68;Norte  3;982.1 / 
+El Bolsón;08-Abril-2021;12:00;Nublado;30 km;12.1;No se calcula; 84;Calma;974.6 / 
+Maquinchao;08-Abril-2021;12:00;Parcialmente nublado;40 km;12.3;No se calcula; 51;Calma;912.1 / 
+Río Colorado;08-Abril-2021;09:00;Despejado;15 km;15.8;No se calcula; 99;Norte  3;1002.5 / 
+San Antonio Oeste;08-Abril-2021;13:00;Algo nublado;30 km;18.5;No se calcula; 51;Sur  16;1012 / 
+Viedma;08-Abril-2021;13:00;Algo nublado;30 km;22.6;No se calcula; 58;Direcciones Variables  7;1010.6 / 
+Metán;08-Abril-2021;09:00;Cubierto con neblina;6 km;20.7;No se calcula; 98;Norte  3;913.7 / 
+Orán;08-Abril-2021;13:00;Parcialmente nublado;10 km;29.6;34.6; 72;Noreste  9;965.3 / 
+Rivadavia;08-Abril-2021;09:00;Despejado;Superior a 70 km;24;No se calcula; 69;Calma;989.6 / 
+Salta;08-Abril-2021;13:00;Cubierto con lluvia en la hora anterior;8 km;22;No se calcula; 87;Norte  3;876 / 
+Tartagal;08-Abril-2021;13:00;Parcialmente nublado;10 km;30;32.3; 62;Norte  24;956.8 / 
+Jachal;08-Abril-2021;09:00;Cubierto;30 km;19;No se calcula; 81;Calma;880.9 / 
+San Juan;08-Abril-2021;13:00;Nublado;15 km;21.4;No se calcula; 60;Sur  18;942.2 / 
+San Luis;08-Abril-2021;13:00;Cubierto con neblina;8 km;19.1;No se calcula; 82;Sudeste  5;929 / 
+Santa Rosa del Conlara;08-Abril-2021;13:00;Cubierto;20 km;22;No se calcula; 94;Norte  11;938.7 / 
+Villa Reynolds;08-Abril-2021;13:00;Cubierto;15 km;27;28.1; 59;Sudeste  3;953.4 / 
+El Calafate;08-Abril-2021;13:00;Parcialmente nublado;30 km;14.6;No se calcula; 42;Norte  18;984.2 / 
+Gobernador Gregores;08-Abril-2021;09:00;Parcialmente nublado;45 km;6.6;No se calcula; 68;Calma;964.5 / 
+Perito Moreno;08-Abril-2021;13:00;Algo nublado;50 km;13;No se calcula; 45;Oeste  22;959.4 / 
+Puerto Deseado;08-Abril-2021;13:00;Despejado;30 km;15.2;No se calcula; 42;Oeste  14;998.3 / 
+Río Gallegos;08-Abril-2021;13:00;Nublado;30 km;10.2;No se calcula; 41;Sudoeste  42;- / 
+San Julián;08-Abril-2021;13:00;Parcialmente nublado;30 km;15;No se calcula; 42;Sur  22;1001.8 / 
+Santa Cruz;08-Abril-2021;13:00;Parcialmente nublado;30 km;12.8;No se calcula; 52;Sur  18;994.5 / 
+Ceres;08-Abril-2021;13:00;Parcialmente nublado;15 km;30.8;33.7; 60;Norte  24;998.1 / 
+El Trébol;08-Abril-2021;12:00;Nublado;15 km;29.1;29.2; 55;Norte  24;994.9 / 
+Rafaela;08-Abril-2021;12:00;Parcialmente nublado;10 km;29;31.0; 62;Norte  18;998.1 / 
+Reconquista;08-Abril-2021;13:00;Algo nublado;15 km;31.1;33.9; 58;Norte  22;1004.4 / 
+Rosario;08-Abril-2021;13:00;Nublado;15 km;29.9;30.6; 54;Noroeste  24;1005.7 / 
+Santa Fe;08-Abril-2021;13:00;Parcialmente nublado;12 km;31.2;No se calcula; 21;Norte  31;1006.6 / 
+Sunchales;08-Abril-2021;13:00;Parcialmente nublado;15 km;31.9;36.0; 59;Norte  24;997.9 / 
+Venado Tuerto;08-Abril-2021;13:00;Nublado con llovizna;8 km;20.8;No se calcula; 98;Sudoeste  9;996 / 
+Termas de Rio Hondo;08-Abril-2021;13:00;Nublado;12 km;25.8;No se calcula; 82;Sudoeste  13;974 / 
+Santiago del Estero;08-Abril-2021;13:00;Parcialmente nublado;10 km;30.4;33.9; 61;Norte  16;983.4 / 
+Río Grande B.A.;08-Abril-2021;13:00;Nublado;30 km;9.9;6.5; 57;Sudoeste  29;1000.2 / 
+Ushuaia;08-Abril-2021;13:00;Nublado con precipitación a la vista;25 km;6.6;1.3; 69;Sudoeste  42;994.9 / 
+Tucumán;08-Abril-2021;13:00;Nublado con neblina;8 km;26.1;27.8; 79;Sudoeste  9;955.8 / 
+Base Belgrano II;08-Abril-2021;12:00;Cubierto con ventisca baja;4.0 km;-12.2;-24.2; 74;Sudeste  44;951 / 
+Base Esperanza;08-Abril-2021;12:00;Parcialmente nublado;10 km;2.4;No se calcula; 71;Noreste  3;977.6 / 
+Base Carlini;08-Abril-2021;12:00;Cubierto;10 km;0.2;-6.7; 77;Oeste  35;982.8 / 
+Base Marambio;08-Abril-2021;13:00;Parcialmente nublado;15 km;0.4;-3.9; 74;Sudoeste  14;956.6 / 
+Base Orcadas;08-Abril-2021;12:00;Cubierto con nevada;4.0 km;1.5;-1.8; 97;Noroeste  11;975.4 / 
+Base San Martín;08-Abril-2021;12:00;Cubierto con nevada;4.0 km;-0.8;-6.3; 87;Noroeste  20;981.8 / 
+Azul;08-Abril-2021;14:00;Nublado con tormenta en la hora anterior;1.5 km;15.6;No se calcula; 98;Sudeste  42;993.8 / 
+Bahía Blanca;08-Abril-2021;14:00;Parcialmente nublado;15 km;20.6;No se calcula; 76;Este  18;1001.7 / 
+Benito Juárez;08-Abril-2021;12:00;Nublado con tormenta;7 km;18.8;No se calcula; 100;Sudeste  33;987.8 / 
+Bolívar;08-Abril-2021;14:00;Cubierto con llovizna;1.5 km;18.4;No se calcula; 100;Sudeste  11;1000.2 / 
+Campo de Mayo;08-Abril-2021;14:00;Nublado;10 km;24.7;No se calcula; 65;Noreste  7;1008.1 / 
+Coronel Pringles;08-Abril-2021;09:00;Cubierto con lluvia;2.0 km;15.9;No se calcula; 86;Sudeste  14;984.6 / 
+Coronel Suarez;08-Abril-2021;12:00;Cubierto con tormenta;3.0 km;16.1;No se calcula; 98;Sudeste  29;984.1 / 
+Dolores;08-Abril-2021;14:00;Cubierto;10 km;26.2;26.2; 64;Norte  18;1009.8 / 
+El Palomar;08-Abril-2021;14:00;Nublado;10 km;25;No se calcula; 66;Norte  11;1009.4 / 
+Ezeiza;08-Abril-2021;14:00;Nublado;10 km;25.4;No se calcula; 67;Noreste  9;1008.6 / 
+Junín;08-Abril-2021;14:00;Nublado con tormenta;3.0 km;20.1;No se calcula; 95;Sudeste  9;1000 / 
+La Plata;08-Abril-2021;14:00;Cubierto;10 km;25.5;No se calcula; 69;Norte  7;1009.2 / 
+Las Flores;08-Abril-2021;12:00;Cubierto;15 km;23.5;No se calcula; 72;Noroeste  11;1006.2 / 
+Mar del Plata;08-Abril-2021;14:00;Cubierto con neblina;7 km;19.4;No se calcula; 91;Sur  18;1010.4 / 
+Mariano Moreno;08-Abril-2021;14:00;Nublado;10 km;24.2;No se calcula; 74;Norte  9;1007 / 
+Merlo;08-Abril-2021;14:00;Cubierto;10 km;24.2;No se calcula; 75;Norte  11;1008.1 / 
+Morón;08-Abril-2021;14:00;Nublado;10 km;25;No se calcula; 67;Norte  9;1008.2 / 
+Nueve de Julio;08-Abril-2021;12:00;Nublado con tormenta;6 km;20.6;No se calcula; 90;Norte  11;1001.6 / 
+Olavarría;08-Abril-2021;14:00;Cubierto con lluvia;5 km;16.1;No se calcula; 93;Sudeste  37;992.1 / 
+Pehuajó;08-Abril-2021;14:00;Nublado con lluvia;10 km;19.4;No se calcula; 96;Sudeste  20;1000.2 / 
+Pigué;08-Abril-2021;14:00;Cubierto con neblina;10 km;17;No se calcula; 89;Este  24;975.3 / 
+Punta Indio B.A.;08-Abril-2021;14:00;Nublado;10 km;25.7;No se calcula; 71;Noreste  22;1008.8 / 
+San Fernando;08-Abril-2021;14:00;Nublado;10 km;25;No se calcula; 68;Norte  9;1010.5 / 
+Tandil;08-Abril-2021;14:00;Nublado con tormenta;1.5 km;17.2;No se calcula; 98;Sur  29;992 / 
+Trenque Lauquen;08-Abril-2021;09:00;Nublado con tormenta;1.0 km;19.4;No se calcula; 98;Calma;998.9 / 
+Tres Arroyos;08-Abril-2021;12:00;Cubierto con tormenta;1.2 km;15.4;No se calcula; 94;Este  13;999.4 / 
+Villa Gesell;08-Abril-2021;14:00;Nublado;10 km;25.3;No se calcula; 67;Norte  11;1010.5 / 
+Aeroparque Buenos Aires;08-Abril-2021;14:00;Nublado;10 km;24.2;No se calcula; 73;Norte  3;1010.4 / 
+Buenos Aires;08-Abril-2021;14:00;Nublado;10 km;25.6;No se calcula; 66;Norte  5;1007.8 / 
+Catamarca;08-Abril-2021;14:00;Cubierto;20 km;31.8;34.7; 53;Calma;952 / 
+Tinogasta;08-Abril-2021;12:00;Algo nublado;20 km;25.8;No se calcula; 59;Sudeste  9;872.6 / 
+Pcia. Roque Saenz Peña;08-Abril-2021;14:00;Parcialmente nublado;20 km;32.3;36.0; 56;Noreste  27;999.8 / 
+Resistencia;08-Abril-2021;14:00;Algo nublado;15 km;31.8;34.1; 53;Norte  24;1004.5 / 
+Comodoro Rivadavia;08-Abril-2021;14:00;Algo nublado;30 km;18.9;No se calcula; 39;Oeste  13;1003.4 / 
+Esquel;08-Abril-2021;14:00;Nublado con lluvia en la hora anterior;30 km;8.3;7.7; 85;Sur  5;919.3 / 
+Paso De Indios;08-Abril-2021;14:00;Parcialmente nublado;45 km;17.2;No se calcula; 40;Sudoeste  7;955 / 
+Puerto Madryn;08-Abril-2021;14:00;Algo nublado;30 km;20.6;No se calcula; 44;Noroeste  7;995 / 
+Trelew;08-Abril-2021;14:00;Algo nublado;30 km;19.4;No se calcula; 39;Oeste  7;1006.8 / 
+Córdoba;08-Abril-2021;14:00;Parcialmente nublado;12 km;31.7;33.5; 51;Norte  33;950.2 / 
+Córdoba Observatorio;08-Abril-2021;14:00;Parcialmente nublado;10 km;30.2;34.4; 65;Norte  7;958 / 
+Esc. Aviación Militar;08-Abril-2021;14:00;Parcialmente nublado;10 km;31.2;32.7; 52;Norte  25;950 / 
+Laboulaye;08-Abril-2021;14:00;Parcialmente nublado;10 km;23.9;No se calcula; 85;Calma;991.4 / 
+Marcos Juárez;08-Abril-2021;14:00;Nublado con polvo en suspensión;15 km;29.2;31.4; 62;Noroeste  14;993.7 / 
+Pilar Obs.;08-Abril-2021;14:00;Parcialmente nublado;10 km;30.4;32.7; 60;Norte  24;967.8 / 
+Río Cuarto;08-Abril-2021;14:00;Parcialmente nublado;15 km;26.4;28.0; 72;Sudeste  5;959.3 / 
+Villa Dolores;08-Abril-2021;14:00;Nublado;30 km;25;No se calcula; 80;Calma;943.8 / 
+Villa María Del Río Seco;08-Abril-2021;12:00;Cubierto;15 km;25.5;No se calcula; 75;Norte  9;970.2 / 
+Corrientes;08-Abril-2021;14:00;Algo nublado;10 km;31.2;32.9; 53;Norte  24;1003.8 / 
+Ituzaingó;08-Abril-2021;12:00;Parcialmente nublado con humo;10 km;28.8;30.2; 59;Noroeste  16;1004.9 / 
+Mercedes;08-Abril-2021;14:00;Parcialmente nublado;15 km;31.2;31.4; 50;Norte  50;- / 
+Monte Caseros;08-Abril-2021;14:00;Parcialmente nublado;20 km;30.2;31.8; 53;Norte  18;1005.6 / 
+Paso De Los Libres;08-Abril-2021;14:00;Parcialmente nublado;10 km;31.1;33.7; 54;Norte  18;1004.5 / 
+Concordia;08-Abril-2021;14:00;Parcialmente nublado;15 km;29.8;30.3; 53;Norte  27;1007.3 / 
+Gualeguaychú;08-Abril-2021;14:00;Nublado;15 km;31.1;33.2; 55;Noreste  27;1006.2 / 
+Paraná;08-Abril-2021;14:00;Parcialmente nublado;15 km;31.6;33.2; 51;Noroeste  29;999.8 / 
+Formosa;08-Abril-2021;14:00;Parcialmente nublado;20 km;30.6;32.9; 59;Noreste  25;1004.8 / 
+Las Lomitas;08-Abril-2021;14:00;Parcialmente nublado;20 km;32;36.6; 58;Noreste  11;994.4 / 
+Mount Pleasant Airport (Islas Malvinas);08-Abril-2021;14:00;Algo nublado;50 km;15.6;No se calcula; 56;Oeste  33;989.1 / 
+La Quiaca;08-Abril-2021;14:00;Parcialmente nublado;30 km;21;No se calcula; 25;Norte  3;669.4 / 
+Jujuy;08-Abril-2021;14:00;Parcialmente nublado;15 km;27.8;28.8; 62;Noreste  14;906.8 / 
+Jujuy Universidad Nacional;08-Abril-2021;09:00;Parcialmente nublado;12 km;19.3;No se calcula; 87;Noroeste  3;866.5 / 
+General Pico;08-Abril-2021;14:00;Cubierto;20 km;21.5;No se calcula; 83;Este  20;991.4 / 
+Victorica;08-Abril-2021;09:00;Algo nublado;40 km;16.8;No se calcula; 83;Calma;974.4 / 
+Santa Rosa;08-Abril-2021;14:00;Cubierto con llovizna;1.0 km;17.9;No se calcula; 95;Este  22;988.1 / 
+Chamical;08-Abril-2021;14:00;Cubierto;20 km;26.3;27.7; 69;Calma;953 / 
+Chepes;08-Abril-2021;09:00;Cubierto;20 km;20;No se calcula; 60;Calma;934.5 / 
+Chilecito;08-Abril-2021;14:00;Algo nublado;20 km;29;29.7; 50;Norte  3;903.7 / 
+La Rioja;08-Abril-2021;14:00;Parcialmente nublado;20 km;29;31.4; 62;Sur  3;956 / 
+Malargue;08-Abril-2021;14:00;Parcialmente nublado;20 km;16.7;No se calcula; 66;Este  9;854.6 / 
+Mendoza;08-Abril-2021;14:00;Cubierto;15 km;23;No se calcula; 51;Sudeste  14;929.7 / 
+Mendoza Observatorio;08-Abril-2021;14:00;Parcialmente nublado;15 km;22.3;No se calcula; 63;Sur  9;916 / 
+San Carlos (Mza);08-Abril-2021;09:00;Cubierto;15 km;15.2;No se calcula; 77;Sur  3;904.5 / 
+San Martín (Mza);08-Abril-2021;14:00;Cubierto;15 km;21.3;No se calcula; 75;Sudeste  9;934.9 / 
+San Rafael;08-Abril-2021;14:00;Nublado;20 km;19.8;No se calcula; 53;Sur  9;926.4 / 
+Uspallata;08-Abril-2021;12:00;Despejado;15 km;19.7;No se calcula; 34;Sur  3;811.5 / 
+Bernardo De Irigoyen;08-Abril-2021;14:00;Algo nublado;20 km;26.7;26.3; 52;Este  14;925.7 / 
+Iguazú;08-Abril-2021;14:00;Algo nublado;20 km;30.9;32.2; 48;Noreste  9;983.8 / 
+Oberá;08-Abril-2021;09:00;Despejado;20 km;24.6;No se calcula; 78;Sudeste  3;974.2 / 
+Posadas;08-Abril-2021;14:00;Parcialmente nublado;20 km;31.1;32.3; 47;Noreste  13;999 / 
+Chapelco;08-Abril-2021;14:00;Cubierto con lluvia;9 km;9.7;6.2; 79;Oeste  29;922.7 / 
+Neuquén;08-Abril-2021;14:00;Algo nublado;15 km;22.5;No se calcula; 34;Oeste  5;980.6 / 
+Bariloche;08-Abril-2021;14:00;Nublado con lluvia;9 km;8.7;5.5; 79;Oeste  22;917.3 / 
+Cipolletti;08-Abril-2021;09:00;Algo nublado;25 km;12;No se calcula; 68;Norte  3;982.1 / 
+El Bolsón;08-Abril-2021;14:00;Nublado con llovizna en la hora anterior;30 km;13.4;No se calcula; 73;Calma;974.2 / 
+Maquinchao;08-Abril-2021;12:00;Parcialmente nublado;40 km;12.3;No se calcula; 51;Calma;912.1 / 
+Río Colorado;08-Abril-2021;09:00;Despejado;15 km;15.8;No se calcula; 99;Norte  3;1002.5 / 
+San Antonio Oeste;08-Abril-2021;14:00;Algo nublado;30 km;19;No se calcula; 50;Sur  18;1012.1 / 
+Viedma;08-Abril-2021;14:00;Algo nublado;30 km;24.1;No se calcula; 52;Noroeste  11;1010.2 / 
+Metán;08-Abril-2021;09:00;Cubierto con neblina;6 km;20.7;No se calcula; 98;Norte  3;913.7 / 
+Orán;08-Abril-2021;14:00;Parcialmente nublado;10 km;29.8;34.6; 70;Sur  9;964.2 / 
+Rivadavia;08-Abril-2021;09:00;Despejado;Superior a 70 km;24;No se calcula; 69;Calma;989.6 / 
+Salta;08-Abril-2021;14:00;Nublado;15 km;23.6;No se calcula; 75;Noreste  9;875.1 / 
+Tartagal;08-Abril-2021;14:00;Parcialmente nublado;10 km;30.6;32.9; 59;Norte  24;956 / 
+Jachal;08-Abril-2021;09:00;Cubierto;30 km;19;No se calcula; 81;Calma;880.9 / 
+San Juan;08-Abril-2021;14:00;Nublado;15 km;22;No se calcula; 57;Sur  20;941.7 / 
+San Luis;08-Abril-2021;14:00;Parcialmente nublado;15 km;20.5;No se calcula; 80;Sur  9;928.5 / 
+Santa Rosa del Conlara;08-Abril-2021;14:00;Cubierto;20 km;24;No se calcula; 86;Norte  14;938.2 / 
+Villa Reynolds;08-Abril-2021;14:00;Cubierto;15 km;26.5;26.5; 61;Sur  20;952.8 / 
+El Calafate;08-Abril-2021;14:00;Parcialmente nublado;30 km;15.4;No se calcula; 35;Oeste  18;984.8 / 
+Gobernador Gregores;08-Abril-2021;09:00;Parcialmente nublado;45 km;6.6;No se calcula; 68;Calma;964.5 / 
+Perito Moreno;08-Abril-2021;14:00;Parcialmente nublado;50 km;14;No se calcula; 39;Oeste  16;959.2 / 
+Puerto Deseado;08-Abril-2021;14:00;Despejado;30 km;16.2;No se calcula; 38;Este  24;998.6 / 
+Río Gallegos;08-Abril-2021;14:00;Parcialmente nublado;30 km;11.4;No se calcula; 35;Sudoeste  37;- / 
+San Julián;08-Abril-2021;14:00;Algo nublado;30 km;15.2;No se calcula; 41;Sur  13;1002.2 / 
+Santa Cruz;08-Abril-2021;14:00;Parcialmente nublado;30 km;12.9;No se calcula; 51;Sur  27;995 / 
+Ceres;08-Abril-2021;14:00;Nublado;15 km;31.8;34.7; 55;Norte  24;997 / 
+El Trébol;08-Abril-2021;12:00;Nublado;15 km;29.1;29.2; 55;Norte  24;994.9 / 
+Rafaela;08-Abril-2021;12:00;Parcialmente nublado;10 km;29;31.0; 62;Norte  18;998.1 / 
+Reconquista;08-Abril-2021;14:00;Algo nublado;15 km;31.8;35.2; 57;Norte  24;1003.6 / 
+Rosario;08-Abril-2021;14:00;Parcialmente nublado;15 km;31.6;33.5; 52;Norte  27;1004.4 / 
+Santa Fe;08-Abril-2021;14:00;Parcialmente nublado;12 km;32.6;36.4; 54;Norte  24;1005.6 / 
+Sunchales;08-Abril-2021;14:00;Parcialmente nublado;15 km;31.8;35.2; 57;Norte  33;997.6 / 
+Venado Tuerto;08-Abril-2021;14:00;Nublado con llovizna;8 km;20.9;No se calcula; 96;Sudoeste  9;995.8 / 
+Termas de Rio Hondo;08-Abril-2021;14:00;Nublado;12 km;23.8;No se calcula; 94;Sudoeste  9;973.4 / 
+Santiago del Estero;08-Abril-2021;14:00;Parcialmente nublado;10 km;32.8;37.6; 55;Noreste  11;982.2 / 
+Río Grande B.A.;08-Abril-2021;14:00;Nublado;30 km;9.9;6.1; 55;Oeste  35;1001 / 
+Ushuaia;08-Abril-2021;14:00;Parcialmente nublado con precipitación a la vista;20 km;6.7;2.0; 74;Sudoeste  33;995.6 / 
+Tucumán;08-Abril-2021;14:00;Parcialmente nublado;10 km;27.1;29.7; 77;Sur  9;954.8 / 
+Base Belgrano II;08-Abril-2021;12:00;Cubierto con ventisca baja;4.0 km;-12.2;-24.2; 74;Sudeste  44;951 / 
+Base Esperanza;08-Abril-2021;12:00;Parcialmente nublado;10 km;2.4;No se calcula; 71;Noreste  3;977.6 / 
+Base Carlini;08-Abril-2021;12:00;Cubierto;10 km;0.2;-6.7; 77;Oeste  35;982.8 / 
+Base Marambio;08-Abril-2021;14:00;Parcialmente nublado;15 km;0.3;-4.0; 72;Sur  14;956.8 / 
+Base Orcadas;08-Abril-2021;12:00;Cubierto con nevada;4.0 km;1.5;-1.8; 97;Noroeste  11;975.4 / 
+Base San Martín;08-Abril-2021;12:00;Cubierto con nevada;4.0 km;-0.8;-6.3; 87;Noroeste  20;981.8 / 
+Azul;08-Abril-2021;15:00;Nublado con lluvia;3.0 km;16.1;No se calcula; 95;Este  20;994.2 / 
+Bahía Blanca;08-Abril-2021;15:00;Parcialmente nublado;15 km;22;No se calcula; 75;Este  13;1001.4 / 
+Benito Juárez;08-Abril-2021;15:00;Cubierto con lluvia;8 km;15.2;No se calcula; 99;Noreste  24;988 / 
+Bolívar;08-Abril-2021;15:00;Cubierto con llovizna;1.0 km;18.4;No se calcula; 100;Sudeste  11;1000.6 / 
+Campo de Mayo;08-Abril-2021;15:00;Nublado;10 km;25.6;No se calcula; 67;Norte  11;1007.2 / 
+Coronel Pringles;08-Abril-2021;09:00;Cubierto con lluvia;2.0 km;15.9;No se calcula; 86;Sudeste  14;984.6 / 
+Coronel Suarez;08-Abril-2021;15:00;Cubierto;15 km;17.7;No se calcula; 92;Este  9;984 / 
+Dolores;08-Abril-2021;15:00;Cubierto;10 km;26.4;26.7; 67;Norte  14;1009.6 / 
+El Palomar;08-Abril-2021;15:00;Nublado;10 km;25.6;No se calcula; 66;Norte  9;1008.4 / 
+Ezeiza;08-Abril-2021;15:00;Nublado;10 km;25.9;No se calcula; 64;Norte  7;1007.6 / 
+Junín;08-Abril-2021;15:00;Nublado con tormenta;3.0 km;20.4;No se calcula; 96;Noroeste  9;999.3 / 
+La Plata;08-Abril-2021;15:00;Cubierto;10 km;25.5;No se calcula; 68;Norte  7;1008.2 / 
+Las Flores;08-Abril-2021;15:00;Cubierto;15 km;25;No se calcula; 76;Sur  11;1005.4 / 
+Mar del Plata;08-Abril-2021;15:00;Nublado con lluvia;3.0 km;18.4;No se calcula; 92;Sur  18;1010.2 / 
+Mariano Moreno;08-Abril-2021;15:00;Nublado;10 km;25;No se calcula; 68;Norte  9;1006 / 
+Merlo;08-Abril-2021;15:00;Nublado;10 km;24.6;No se calcula; 75;Noreste  9;1007 / 
+Morón;08-Abril-2021;15:00;Nublado;10 km;25.4;No se calcula; 67;Norte  11;1007.3 / 
+Nueve de Julio;08-Abril-2021;15:00;Cubierto con lluvia;6 km;18.2;No se calcula; 96;Sudeste  11;1001.2 / 
+Olavarría;08-Abril-2021;15:00;Cubierto con lluvia;8 km;16.3;No se calcula; 95;Sudeste  33;992 / 
+Pehuajó;08-Abril-2021;15:00;Cubierto con lluvia en la hora anterior;15 km;20.3;No se calcula; 93;Este  27;999.2 / 
+Pigué;08-Abril-2021;15:00;Cubierto con neblina;10 km;16.7;No se calcula; 92;Este  24;975.8 / 
+Punta Indio B.A.;08-Abril-2021;15:00;Nublado;10 km;25.3;No se calcula; 73;Norte  16;1008.6 / 
+San Fernando;08-Abril-2021;15:00;Nublado;10 km;25.9;No se calcula; 69;Norte  11;1009.4 / 
+Tandil;08-Abril-2021;15:00;Nublado con tormenta en la hora anterior;2.5 km;15.2;No se calcula; 98;Sur  27;991.7 / 
+Trenque Lauquen;08-Abril-2021;15:00;Cubierto con lluvia;2.0 km;18.9;No se calcula; 98;Este  7;998.2 / 
+Tres Arroyos;08-Abril-2021;15:00;Cubierto con tormenta en la hora anterior;2.5 km;16.2;No se calcula; 93;Oeste  3;996.9 / 
+Villa Gesell;08-Abril-2021;15:00;Nublado;10 km;25;No se calcula; 68;Norte  11;1010.5 / 
+Aeroparque Buenos Aires;08-Abril-2021;15:00;Nublado;10 km;25.4;No se calcula; 68;Noreste  5;1009.4 / 
+Buenos Aires;08-Abril-2021;15:00;Nublado;10 km;26.2;27.3; 63;Norte  9;1006.8 / 
+Catamarca;08-Abril-2021;15:00;Cubierto;20 km;31.2;34.5; 57;Sudeste  9;951.2 / 
+Tinogasta;08-Abril-2021;15:00;Parcialmente nublado;20 km;30.8;No se calcula; 38;Sudoeste  14;868.9 / 
+Pcia. Roque Saenz Peña;08-Abril-2021;15:00;Parcialmente nublado;20 km;32.1;35.6; 56;Noreste  27;999 / 
+Resistencia;08-Abril-2021;15:00;Parcialmente nublado;15 km;32.3;35.3; 53;Norte  22;1003.6 / 
+Comodoro Rivadavia;08-Abril-2021;15:00;Algo nublado;30 km;18.5;No se calcula; 48;Sur  5;1003.4 / 
+Esquel;08-Abril-2021;14:00;Nublado con lluvia en la hora anterior;30 km;8.3;7.7; 85;Sur  5;919.3 / 
+Paso De Indios;08-Abril-2021;15:00;Nublado;45 km;16.3;No se calcula; 40;Sudoeste  11;954.8 / 
+Puerto Madryn;08-Abril-2021;15:00;Algo nublado;30 km;19.8;No se calcula; 36;Sudeste  7;995 / 
+Trelew;08-Abril-2021;15:00;Algo nublado;30 km;20.4;No se calcula; 39;Oeste  7;1006.4 / 
+Córdoba;08-Abril-2021;15:00;Parcialmente nublado;12 km;31.8;33.3; 49;Norte  25;949.6 / 
+Córdoba Observatorio;08-Abril-2021;15:00;Parcialmente nublado;10 km;31.2;33.9; 54;Norte  7;958.8 / 
+Esc. Aviación Militar;08-Abril-2021;15:00;Parcialmente nublado;10 km;30.6;31.6; 53;Noroeste  24;949.3 / 
+Laboulaye;08-Abril-2021;15:00;Parcialmente nublado;10 km;25.9;No se calcula; 77;Norte  3;990.5 / 
+Marcos Juárez;08-Abril-2021;15:00;Nublado;20 km;30.3;33.5; 60;Noroeste  11;992.9 / 
+Pilar Obs.;08-Abril-2021;14:00;Parcialmente nublado;10 km;30.4;32.7; 60;Norte  24;967.8 / 
+Río Cuarto;08-Abril-2021;15:00;Parcialmente nublado;15 km;27.6;29.2; 63;Sur  9;958 / 
+Villa Dolores;08-Abril-2021;15:00;Parcialmente nublado;30 km;26.4;28.0; 72;Calma;943.6 / 
+Villa María Del Río Seco;08-Abril-2021;15:00;Nublado;15 km;30.6;33.1; 56;Noroeste  14;968 / 
+Corrientes;08-Abril-2021;15:00;Algo nublado;10 km;31.3;33.1; 53;Norte  24;1003 / 
+Ituzaingó;08-Abril-2021;15:00;Algo nublado;15 km;31;33.4; 53;Norte  20;1002.1 / 
+Mercedes;08-Abril-2021;15:00;Parcialmente nublado;15 km;31.4;32.1; 51;Norte  44;- / 
+Monte Caseros;08-Abril-2021;15:00;Parcialmente nublado;20 km;30.2;32.0; 54;Norte  16;1005.2 / 
+Paso De Los Libres;08-Abril-2021;15:00;Parcialmente nublado;10 km;31;33.7; 55;Noreste  18;1003.8 / 
+Concordia;08-Abril-2021;15:00;Parcialmente nublado;15 km;29;30.8; 60;Norte  13;1006.6 / 
+Gualeguaychú;08-Abril-2021;15:00;Nublado;15 km;31.9;34.9; 55;Norte  33;1005.2 / 
+Paraná;08-Abril-2021;15:00;Parcialmente nublado;15 km;31.6;33.5; 52;Norte  33;999 / 
+Formosa;08-Abril-2021;15:00;Nublado;20 km;31.4;35.6; 59;Norte  18;1003.8 / 
+Las Lomitas;08-Abril-2021;15:00;Parcialmente nublado;20 km;32.6;37.0; 55;Noreste  13;993.6 / 
+Mount Pleasant Airport (Islas Malvinas);08-Abril-2021;15:00;Algo nublado;50 km;15;No se calcula; 57;Oeste  31;988.9 / 
+La Quiaca;08-Abril-2021;15:00;Parcialmente nublado;30 km;21.6;No se calcula; 22;Norte  3;668.6 / 
+Jujuy;08-Abril-2021;15:00;Parcialmente nublado;15 km;26.8;27.3; 65;Noreste  18;906.1 / 
+Jujuy Universidad Nacional;08-Abril-2021;15:00;Parcialmente nublado;15 km;27.2;28.6; 62;Noreste  3;864.2 / 
+General Pico;08-Abril-2021;15:00;Cubierto;20 km;20.1;No se calcula; 90;Este  25;991.3 / 
+Victorica;08-Abril-2021;15:00;Cubierto;40 km;22.9;No se calcula; 63;Sur  9;973.6 / 
+Santa Rosa;08-Abril-2021;15:00;Cubierto con llovizna;900 mts;18;No se calcula; 98;Sudeste  14;988.1 / 
+Chamical;08-Abril-2021;14:00;Cubierto;20 km;26.3;27.7; 69;Calma;953 / 
+Chepes;08-Abril-2021;15:00;Cubierto;20 km;29;No se calcula; 37;Calma;932.1 / 
+Chilecito;08-Abril-2021;15:00;Algo nublado;20 km;30;30.4; 45;Sudeste  9;902.6 / 
+La Rioja;08-Abril-2021;15:00;Parcialmente nublado;20 km;29.6;31.6; 57;Sur  3;955 / 
+Malargue;08-Abril-2021;15:00;Parcialmente nublado;20 km;18.5;No se calcula; 55;Este  9;854 / 
+Mendoza;08-Abril-2021;15:00;Parcialmente nublado;15 km;23.3;No se calcula; 49;Este  14;928.6 / 
+Mendoza Observatorio;08-Abril-2021;15:00;Parcialmente nublado;15 km;22.8;No se calcula; 61;Calma;914.9 / 
+San Carlos (Mza);08-Abril-2021;15:00;Nublado;25 km;20.4;No se calcula; 66;Sur  9;903.3 / 
+San Martín (Mza);08-Abril-2021;15:00;Parcialmente nublado;15 km;21.4;No se calcula; 76;Sudeste  24;934 / 
+San Rafael;08-Abril-2021;15:00;Parcialmente nublado;20 km;21.8;No se calcula; 44;Sudeste  9;925.6 / 
+Uspallata;08-Abril-2021;15:00;Despejado;15 km;21.8;No se calcula; 36;Sur  3;809 / 
+Bernardo De Irigoyen;08-Abril-2021;15:00;Parcialmente nublado;20 km;27.2;26.8; 49;Norte  14;925 / 
+Iguazú;08-Abril-2021;15:00;Algo nublado;20 km;32;33.4; 45;Noreste  11;982.9 / 
+Oberá;08-Abril-2021;09:00;Despejado;20 km;24.6;No se calcula; 78;Sudeste  3;974.2 / 
+Posadas;08-Abril-2021;15:00;Algo nublado;20 km;31.2;32.6; 48;Norte  13;998.2 / 
+Chapelco;08-Abril-2021;15:00;Cubierto con lluvia en la hora anterior;15 km;9.4;6.1; 80;Oeste  25;923.3 / 
+Neuquén;08-Abril-2021;15:00;Algo nublado;15 km;23.9;No se calcula; 35;Sudoeste  1;979.8 / 
+Bariloche;08-Abril-2021;15:00;Nublado con lluvia;9 km;9.2;6.3; 75;Oeste  20;917.2 / 
+Cipolletti;08-Abril-2021;15:00;Algo nublado;25 km;23;No se calcula; 32;Noroeste  9;980.6 / 
+El Bolsón;08-Abril-2021;15:00;Nublado;30 km;14.9;No se calcula; 63;Calma;973.3 / 
+Maquinchao;08-Abril-2021;15:00;Parcialmente nublado;40 km;16.3;No se calcula; 30;Noreste  9;910.8 / 
+Río Colorado;08-Abril-2021;15:00;Despejado;15 km;23.8;No se calcula; 56;Sudoeste  3;1000.5 / 
+San Antonio Oeste;08-Abril-2021;15:00;Parcialmente nublado;30 km;19.2;No se calcula; 49;Sur  25;1012.2 / 
+Viedma;08-Abril-2021;15:00;Algo nublado;30 km;23.9;No se calcula; 52;Oeste  11;1009.7 / 
+Metán;08-Abril-2021;15:00;Parcialmente nublado con bruma;13 km;29;32.1; 68;Noreste  14;911.3 / 
+Orán;08-Abril-2021;15:00;Parcialmente nublado;10 km;30.9;36.3; 66;Noreste  9;963.2 / 
+Rivadavia;08-Abril-2021;09:00;Despejado;Superior a 70 km;24;No se calcula; 69;Calma;989.6 / 
+Salta;08-Abril-2021;15:00;Nublado;15 km;23.6;No se calcula; 74;Noreste  16;874.4 / 
+Tartagal;08-Abril-2021;15:00;Parcialmente nublado;10 km;30.8;33.2; 58;Norte  24;954.9 / 
+Jachal;08-Abril-2021;15:00;Algo nublado;30 km;25;No se calcula; 53;Sudeste  3;877.4 / 
+San Juan;08-Abril-2021;15:00;Parcialmente nublado;15 km;24.3;No se calcula; 49;Sur  24;940.2 / 
+San Luis;08-Abril-2021;15:00;Parcialmente nublado;20 km;22.7;No se calcula; 71;Sur  13;927.7 / 
+Santa Rosa del Conlara;08-Abril-2021;15:00;Cubierto;20 km;25;No se calcula; 84;Oeste  11;937.6 / 
+Villa Reynolds;08-Abril-2021;15:00;Parcialmente nublado;15 km;26.8;25.7; 56;Sudeste  25;952.2 / 
+El Calafate;08-Abril-2021;15:00;Parcialmente nublado;30 km;15.8;No se calcula; 30;Noroeste  22;984.9 / 
+Gobernador Gregores;08-Abril-2021;15:00;Parcialmente nublado;45 km;14;No se calcula; 38;Calma;966.7 / 
+Perito Moreno;08-Abril-2021;15:00;Parcialmente nublado;50 km;14.8;No se calcula; 37;Oeste  11;958.8 / 
+Puerto Deseado;08-Abril-2021;15:00;Algo nublado;30 km;14.8;No se calcula; 50;Sur  24;998.9 / 
+Río Gallegos;08-Abril-2021;15:00;Parcialmente nublado;30 km;10.6;No se calcula; 36;Sudoeste  37;- / 
+San Julián;08-Abril-2021;15:00;Parcialmente nublado;30 km;14.8;No se calcula; 46;Sur  18;1002.2 / 
+Santa Cruz;08-Abril-2021;15:00;Parcialmente nublado;30 km;13.2;No se calcula; 52;Sur  37;995.2 / 
+Ceres;08-Abril-2021;15:00;Nublado;15 km;32.4;35.7; 54;Norte  24;996.4 / 
+El Trébol;08-Abril-2021;15:00;Nublado;15 km;32;33.7; 49;Norte  24;993.7 / 
+Rafaela;08-Abril-2021;12:00;Parcialmente nublado;10 km;29;31.0; 62;Norte  18;998.1 / 
+Reconquista;08-Abril-2021;15:00;Parcialmente nublado;15 km;32.3;35.8; 55;Norte  25;1002.6 / 
+Rosario;08-Abril-2021;15:00;Nublado;15 km;30.6;32.2; 55;Norte  24;1003.8 / 
+Santa Fe;08-Abril-2021;15:00;Parcialmente nublado;12 km;32.6;36.5; 53;Norte  20;1004.9 / 
+Sunchales;08-Abril-2021;15:00;Nublado;15 km;31.3;34.7; 59;Norte  33;997.1 / 
+Venado Tuerto;08-Abril-2021;15:00;Nublado con tormenta;5 km;20.3;No se calcula; 100;Sur  3;994 / 
+Termas de Rio Hondo;08-Abril-2021;15:00;Nublado;12 km;27.2;30.0; 77;Oeste  9;972.2 / 
+Santiago del Estero;08-Abril-2021;15:00;Parcialmente nublado;10 km;32.6;36.4; 53;Norte  13;981.4 / 
+Río Grande B.A.;08-Abril-2021;15:00;Nublado;30 km;11.2;No se calcula; 56;Oeste  31;1001.2 / 
+Ushuaia;08-Abril-2021;15:00;Parcialmente nublado con precipitación a la vista;20 km;6.8;1.2; 78;Sudoeste  48;995.4 / 
+Tucumán;08-Abril-2021;15:00;Parcialmente nublado;10 km;27.6;30.1; 72;Sudoeste  11;953.8 / 
+Base Belgrano II;08-Abril-2021;15:00;Cubierto con ventisca alta;500 mts;-14;-28.4; 67;Sudeste  63;946.6 / 
+Base Esperanza;08-Abril-2021;15:00;Nublado;10 km;1.6;-1.2; 75;Noreste  9;978.4 / 
+Base Carlini;08-Abril-2021;15:00;Parcialmente nublado;10 km;1.1;-5.2; 73;Oeste  31;983.3 / 
+Base Marambio;08-Abril-2021;15:00;Cubierto;15 km;-0.2;-4.2; 76;Sur  13;957 / 
+Base Orcadas;08-Abril-2021;15:00;Cubierto;3.5 km;1.3;-3.4; 97;Noroeste  18;977 / 
+Base San Martín;08-Abril-2021;15:00;Cubierto con nevada;3.0 km;-1.2;-5.8; 84;Noroeste  14;982.8 / 
+Azul;08-Abril-2021;16:00;Nublado con lluvia;7 km;16.2;No se calcula; 95;Este  37;992.5 / 
+Bahía Blanca;08-Abril-2021;16:00;Parcialmente nublado;15 km;22.3;No se calcula; 72;Este  11;1001.4 / 
+Benito Juárez;08-Abril-2021;15:00;Cubierto con lluvia;8 km;15.2;No se calcula; 99;Noreste  24;988 / 
+Bolívar;08-Abril-2021;16:00;Cubierto con llovizna;2.0 km;17.6;No se calcula; 98;Este  33;999.4 / 
+Campo de Mayo;08-Abril-2021;16:00;Nublado;10 km;25.9;No se calcula; 66;Este  5;1007.3 / 
+Coronel Pringles;08-Abril-2021;09:00;Cubierto con lluvia;2.0 km;15.9;No se calcula; 86;Sudeste  14;984.6 / 
+Coronel Suarez;08-Abril-2021;15:00;Cubierto;15 km;17.7;No se calcula; 92;Este  9;984 / 
+Dolores;08-Abril-2021;16:00;Cubierto;10 km;26.6;28.0; 67;Norte  11;1009 / 
+El Palomar;08-Abril-2021;16:00;Nublado;10 km;25.5;No se calcula; 71;Noreste  3;1008.5 / 
+Ezeiza;08-Abril-2021;16:00;Nublado;10 km;26;27.1; 65;Noreste  7;1007.4 / 
+Junín;08-Abril-2021;16:00;Nublado con tormenta en la hora anterior;3.0 km;20.4;No se calcula; 94;Norte  16;999.3 / 
+La Plata;08-Abril-2021;16:00;Nublado;10 km;25.5;No se calcula; 71;Calma;1008.6 / 
+Las Flores;08-Abril-2021;15:00;Cubierto;15 km;25;No se calcula; 76;Sur  11;1005.4 / 
+Mar del Plata;08-Abril-2021;16:00;Nublado con lluvia;3.0 km;17.5;No se calcula; 95;Sur  22;1010.8 / 
+Mariano Moreno;08-Abril-2021;16:00;Nublado;10 km;25.2;No se calcula; 71;Norte  9;1006.1 / 
+Merlo;08-Abril-2021;16:00;Nublado;10 km;24.6;No se calcula; 75;Noreste  9;1006.8 / 
+Morón;08-Abril-2021;16:00;Nublado;10 km;25.6;No se calcula; 69;Norte  7;1007.3 / 
+Nueve de Julio;08-Abril-2021;15:00;Cubierto con lluvia;6 km;18.2;No se calcula; 96;Sudeste  11;1001.2 / 
+Olavarría;08-Abril-2021;16:00;Cubierto con lluvia;12 km;16.8;No se calcula; 95;Este  29;990.4 / 
+Pehuajó;08-Abril-2021;16:00;Cubierto;15 km;20;No se calcula; 88;Este  25;999 / 
+Pigué;08-Abril-2021;16:00;Cubierto con neblina;10 km;17.1;No se calcula; 95;Este  14;975.6 / 
+Punta Indio B.A.;08-Abril-2021;16:00;Nublado;10 km;25.7;No se calcula; 72;Noreste  13;1008.5 / 
+San Fernando;08-Abril-2021;16:00;Nublado;10 km;25.4;No se calcula; 72;Este  7;1009.7 / 
+Tandil;08-Abril-2021;16:00;Nublado con lluvia;8 km;15.4;No se calcula; 95;Este  25;991.4 / 
+Trenque Lauquen;08-Abril-2021;15:00;Cubierto con lluvia;2.0 km;18.9;No se calcula; 98;Este  7;998.2 / 
+Tres Arroyos;08-Abril-2021;15:00;Cubierto con tormenta en la hora anterior;2.5 km;16.2;No se calcula; 93;Oeste  3;996.9 / 
+Villa Gesell;08-Abril-2021;16:00;Nublado con lluvia;10 km;23.2;No se calcula; 81;Sur  11;1010 / 
+Aeroparque Buenos Aires;08-Abril-2021;16:00;Nublado;10 km;24.4;No se calcula; 73;Este  5;1009.6 / 
+Buenos Aires;08-Abril-2021;16:00;Nublado;10 km;26.2;27.4; 65;Norte  5;1007 / 
+Catamarca;08-Abril-2021;16:00;Cubierto;20 km;31.2;34.0; 54;Calma;950.8 / 
+Tinogasta;08-Abril-2021;15:00;Parcialmente nublado;20 km;30.8;No se calcula; 38;Sudoeste  14;868.9 / 
+Pcia. Roque Saenz Peña;08-Abril-2021;16:00;Algo nublado;20 km;32.3;36.0; 56;Noreste  25;997.7 / 
+Resistencia;08-Abril-2021;16:00;Algo nublado;15 km;31.8;35.0; 54;Noreste  18;1003.2 / 
+Comodoro Rivadavia;08-Abril-2021;16:00;Algo nublado;30 km;17.5;No se calcula; 46;Este  14;1003.6 / 
+Esquel;08-Abril-2021;15:00;Nublado;30 km;9.8;8.5; 77;Noreste  9;919 / 
+Paso De Indios;08-Abril-2021;15:00;Nublado;45 km;16.3;No se calcula; 40;Sudoeste  11;954.8 / 
+Puerto Madryn;08-Abril-2021;16:00;Parcialmente nublado;30 km;19.2;No se calcula; 47;Este  11;994.6 / 
+Trelew;08-Abril-2021;15:00;Algo nublado;30 km;20.4;No se calcula; 39;Oeste  7;1006.4 / 
+Córdoba;08-Abril-2021;16:00;Parcialmente nublado;12 km;31.6;32.8; 49;Norte  27;949.3 / 
+Córdoba Observatorio;08-Abril-2021;16:00;Parcialmente nublado;10 km;31.2;33.6; 52;Norte  9;956.1 / 
+Esc. Aviación Militar;08-Abril-2021;16:00;Parcialmente nublado;10 km;31.8;33.3; 49;Norte  22;948.9 / 
+Laboulaye;08-Abril-2021;16:00;Algo nublado;10 km;26.1;27.6; 73;Calma;990.4 / 
+Marcos Juárez;08-Abril-2021;16:00;Nublado;20 km;30.5;34.1; 61;Noroeste  11;993 / 
+Pilar Obs.;08-Abril-2021;16:00;Parcialmente nublado;10 km;31.4;34.5; 55;Norte  18;966.4 / 
+Río Cuarto;08-Abril-2021;16:00;Cubierto;15 km;27.4;28.7; 60;Sudeste  9;957.6 / 
+Villa Dolores;08-Abril-2021;16:00;Parcialmente nublado;30 km;27;28.8; 68;Calma;943.4 / 
+Villa María Del Río Seco;08-Abril-2021;15:00;Nublado;15 km;30.6;33.1; 56;Noroeste  14;968 / 
+Corrientes;08-Abril-2021;16:00;Algo nublado;10 km;31.6;34.1; 55;Norte  24;1002.6 / 
+Ituzaingó;08-Abril-2021;15:00;Algo nublado;15 km;31;33.4; 53;Norte  20;1002.1 / 
+Mercedes;08-Abril-2021;15:00;Parcialmente nublado;15 km;31.4;32.1; 51;Norte  44;- / 
+Monte Caseros;08-Abril-2021;16:00;Parcialmente nublado;20 km;31.6;33.4; 48;Norte  16;1004.8 / 
+Paso De Los Libres;08-Abril-2021;16:00;Parcialmente nublado con humo;8 km;30.7;33.3; 56;Norte  18;1003.8 / 
+Concordia;08-Abril-2021;16:00;Nublado;15 km;28;29.8; 63;Norte  11;1006.2 / 
+Gualeguaychú;08-Abril-2021;16:00;Nublado;15 km;32.2;35.3; 54;Norte  27;1004.6 / 
+Paraná;08-Abril-2021;16:00;Parcialmente nublado;15 km;31.2;33.5; 56;Norte  27;998.9 / 
+Formosa;08-Abril-2021;16:00;Nublado;20 km;31.3;34.6; 59;Norte  22;1003.2 / 
+Las Lomitas;08-Abril-2021;16:00;Parcialmente nublado;20 km;33;36.1; 49;Noreste  11;992.9 / 
+Mount Pleasant Airport (Islas Malvinas);08-Abril-2021;16:00;Algo nublado;50 km;11.9;No se calcula; 69;Sudoeste  35;989.7 / 
+La Quiaca;08-Abril-2021;16:00;Parcialmente nublado;30 km;22;No se calcula; 17;Noreste  3;668.2 / 
+Jujuy;08-Abril-2021;16:00;Parcialmente nublado;15 km;25.5;No se calcula; 69;Noreste  18;905.4 / 
+Jujuy Universidad Nacional;08-Abril-2021;15:00;Parcialmente nublado;15 km;27.2;28.6; 62;Noreste  3;864.2 / 
+General Pico;08-Abril-2021;16:00;Cubierto con neblina;5 km;19.9;No se calcula; 93;Sudeste  24;991 / 
+Victorica;08-Abril-2021;15:00;Cubierto;40 km;22.9;No se calcula; 63;Sur  9;973.6 / 
+Santa Rosa;08-Abril-2021;16:00;Cubierto con llovizna;900 mts;17.9;No se calcula; 98;Sudeste  18;988.1 / 
+Chamical;08-Abril-2021;16:00;Parcialmente nublado;20 km;29;30.9; 59;Sudeste  11;951.6 / 
+Chepes;08-Abril-2021;15:00;Cubierto;20 km;29;No se calcula; 37;Calma;932.1 / 
+Chilecito;08-Abril-2021;16:00;Algo nublado;20 km;31;31.2; 41;Sudeste  3;901.8 / 
+La Rioja;08-Abril-2021;16:00;Parcialmente nublado;20 km;30.8;32.9; 53;Sur  9;954.2 / 
+Malargue;08-Abril-2021;16:00;Parcialmente nublado;20 km;19.7;No se calcula; 53;Noreste  9;854 / 
+Mendoza;08-Abril-2021;16:00;Parcialmente nublado;15 km;22.8;No se calcula; 54;Este  16;928.2 / 
+Mendoza Observatorio;08-Abril-2021;16:00;Nublado;15 km;22;No se calcula; 63;Calma;914.6 / 
+San Carlos (Mza);08-Abril-2021;15:00;Nublado;25 km;20.4;No se calcula; 66;Sur  9;903.3 / 
+San Martín (Mza);08-Abril-2021;16:00;Algo nublado;15 km;22;No se calcula; 74;Sudeste  14;933.6 / 
+San Rafael;08-Abril-2021;16:00;Parcialmente nublado;20 km;20.8;No se calcula; 48;Este  13;925.6 / 
+Uspallata;08-Abril-2021;15:00;Despejado;15 km;21.8;No se calcula; 36;Sur  3;809 / 
+Bernardo De Irigoyen;08-Abril-2021;16:00;Parcialmente nublado;20 km;26.9;26.5; 50;Norte  14;924.8 / 
+Iguazú;08-Abril-2021;16:00;Parcialmente nublado;20 km;32.1;33.5; 45;Norte  11;982.5 / 
+Oberá;08-Abril-2021;15:00;Algo nublado;20 km;30.8;33.3; 54;Norte  3;980.9 / 
+Posadas;08-Abril-2021;16:00;Algo nublado;20 km;31.6;32.4; 44;Noreste  13;997.7 / 
+Chapelco;08-Abril-2021;16:00;Nublado;15 km;10.4;No se calcula; 66;Oeste  13;923.1 / 
+Neuquén;08-Abril-2021;16:00;Parcialmente nublado;15 km;22.6;No se calcula; 33;Norte  11;979.4 / 
+Bariloche;08-Abril-2021;16:00;Parcialmente nublado con lluvia en la hora anterior;10 km;10.9;No se calcula; 61;Oeste  20;916.6 / 
+Cipolletti;08-Abril-2021;15:00;Algo nublado;25 km;23;No se calcula; 32;Noroeste  9;980.6 / 
+El Bolsón;08-Abril-2021;15:00;Nublado;30 km;14.9;No se calcula; 63;Calma;973.3 / 
+Maquinchao;08-Abril-2021;15:00;Parcialmente nublado;40 km;16.3;No se calcula; 30;Noreste  9;910.8 / 
+Río Colorado;08-Abril-2021;15:00;Despejado;15 km;23.8;No se calcula; 56;Sudoeste  3;1000.5 / 
+San Antonio Oeste;08-Abril-2021;16:00;Parcialmente nublado;30 km;19.4;No se calcula; 48;Sur  14;1012.5 / 
+Viedma;08-Abril-2021;16:00;Algo nublado;30 km;24.1;No se calcula; 49;Oeste  11;1009.4 / 
+Metán;08-Abril-2021;15:00;Parcialmente nublado con bruma;13 km;29;32.1; 68;Noreste  14;911.3 / 
+Orán;08-Abril-2021;16:00;Parcialmente nublado;10 km;31.5;37.2; 64;Noreste  9;962.2 / 
+Rivadavia;08-Abril-2021;09:00;Despejado;Superior a 70 km;24;No se calcula; 69;Calma;989.6 / 
+Salta;08-Abril-2021;16:00;Nublado con precipitación a la vista;12 km;23.6;No se calcula; 73;Noreste  18;873.8 / 
+Tartagal;08-Abril-2021;16:00;Parcialmente nublado;10 km;30.4;32.2; 57;Norte  24;954.2 / 
+Jachal;08-Abril-2021;15:00;Algo nublado;30 km;25;No se calcula; 53;Sudeste  3;877.4 / 
+San Juan;08-Abril-2021;16:00;Parcialmente nublado;15 km;25.5;No se calcula; 45;Sur  25;939.6 / 
+San Luis;08-Abril-2021;16:00;Parcialmente nublado;20 km;23.1;No se calcula; 66;Sur  13;927.4 / 
+Santa Rosa del Conlara;08-Abril-2021;16:00;Cubierto;20 km;25.5;No se calcula; 90;Oeste  14;937 / 
+Villa Reynolds;08-Abril-2021;16:00;Parcialmente nublado;15 km;25;No se calcula; 62;Sur  18;952.6 / 
+El Calafate;08-Abril-2021;16:00;Parcialmente nublado;30 km;15.2;No se calcula; 25;Oeste  27;985.4 / 
+Gobernador Gregores;08-Abril-2021;15:00;Parcialmente nublado;45 km;14;No se calcula; 38;Calma;966.7 / 
+Perito Moreno;08-Abril-2021;16:00;Parcialmente nublado;50 km;13.9;No se calcula; 39;Oeste  18;958.8 / 
+Puerto Deseado;08-Abril-2021;16:00;Algo nublado;30 km;14.4;No se calcula; 53;Sur  14;999 / 
+Río Gallegos;08-Abril-2021;16:00;Parcialmente nublado;30 km;11.4;No se calcula; 35;Sudoeste  38;- / 
+San Julián;08-Abril-2021;16:00;Parcialmente nublado con precipitación a la vista;30 km;13;No se calcula; 59;Sur  25;1002.8 / 
+Santa Cruz;08-Abril-2021;16:00;Parcialmente nublado;30 km;11.4;No se calcula; 42;Sur  37;995.8 / 
+Ceres;08-Abril-2021;16:00;Nublado;15 km;30.8;34.6; 60;Norte  9;995.6 / 
+El Trébol;08-Abril-2021;15:00;Nublado;15 km;32;33.7; 49;Norte  24;993.7 / 
+Rafaela;08-Abril-2021;15:00;Parcialmente nublado;10 km;30.8;33.4; 59;Norte  29;995.9 / 
+Reconquista;08-Abril-2021;16:00;Parcialmente nublado;15 km;32.6;35.3; 51;Norte  25;1002.5 / 
+Rosario;08-Abril-2021;16:00;Nublado con tormenta;5 km;26;26.6; 84;Noreste  13;1003.2 / 
+Santa Fe;08-Abril-2021;16:00;Nublado;12 km;32.7;35.9; 52;Norte  27;1004.8 / 
+Sunchales;08-Abril-2021;16:00;Nublado;15 km;31.5;35.3; 60;Norte  24;996.6 / 
+Venado Tuerto;08-Abril-2021;15:00;Nublado con tormenta;5 km;20.3;No se calcula; 100;Sur  3;994 / 
+Termas de Rio Hondo;08-Abril-2021;16:00;Nublado;12 km;27.5;30.4; 76;Oeste  11;971.8 / 
+Santiago del Estero;08-Abril-2021;16:00;Parcialmente nublado;10 km;32.6;35.9; 51;Noreste  13;980.5 / 
+Río Grande B.A.;08-Abril-2021;15:00;Nublado;30 km;11.2;No se calcula; 56;Oeste  31;1001.2 / 
+Ushuaia;08-Abril-2021;16:00;Parcialmente nublado con precipitación a la vista;20 km;7.1;1.5; 75;Sudoeste  51;996.1 / 
+Tucumán;08-Abril-2021;16:00;Nublado;10 km;27.7;30.3; 71;Sudoeste  11;953.4 / 
+Base Belgrano II;08-Abril-2021;15:00;Cubierto con ventisca alta;500 mts;-14;-28.4; 67;Sudeste  63;946.6 / 
+Base Esperanza;08-Abril-2021;15:00;Nublado;10 km;1.6;-1.2; 75;Noreste  9;978.4 / 
+Base Carlini;08-Abril-2021;15:00;Parcialmente nublado;10 km;1.1;-5.2; 73;Oeste  31;983.3 / 
+Base Marambio;08-Abril-2021;16:00;Cubierto;15 km;-1;-6.5; 79;Sur  20;957.6 / 
+Base Orcadas;08-Abril-2021;15:00;Cubierto;3.5 km;1.3;-3.4; 97;Noroeste  18;977 / 
+Base San Martín;08-Abril-2021;15:00;Cubierto con nevada;3.0 km;-1.2;-5.8; 84;Noroeste  14;982.8 / 
+Azul;08-Abril-2021;17:00;Nublado con lluvia;15 km;16.7;No se calcula; 95;Este  13;993.8 / 
+Bahía Blanca;08-Abril-2021;17:00;Parcialmente nublado;15 km;21.3;No se calcula; 72;Este  14;1001.4 / 
+Benito Juárez;08-Abril-2021;15:00;Cubierto con lluvia;8 km;15.2;No se calcula; 99;Noreste  24;988 / 
+Bolívar;08-Abril-2021;17:00;Cubierto con lluvia;1.0 km;18;No se calcula; 95;Este  29;998.6 / 
+Campo de Mayo;08-Abril-2021;17:00;Parcialmente nublado;10 km;24.5;No se calcula; 80;Este  7;1006.1 / 
+Coronel Pringles;08-Abril-2021;15:00;Cubierto;20 km;20;No se calcula; 77;Norte  7;982.9 / 
+Coronel Suarez;08-Abril-2021;15:00;Cubierto;15 km;17.7;No se calcula; 92;Este  9;984 / 
+Dolores;08-Abril-2021;17:00;Nublado;10 km;25.4;No se calcula; 69;Calma;1009.4 / 
+El Palomar;08-Abril-2021;17:00;Nublado;10 km;25.4;No se calcula; 71;Este  9;1007.7 / 
+Ezeiza;08-Abril-2021;17:00;Nublado con humo;7 km;25;No se calcula; 73;Este  9;1007 / 
+Junín;08-Abril-2021;17:00;Nublado con lluvia;6 km;20.2;No se calcula; 96;Noreste  13;998.8 / 
+La Plata;08-Abril-2021;17:00;Nublado;10 km;24.4;No se calcula; 78;Este  5;1008 / 
+Las Flores;08-Abril-2021;15:00;Cubierto;15 km;25;No se calcula; 76;Sur  11;1005.4 / 
+Mar del Plata;08-Abril-2021;17:00;Nublado con lluvia;3.5 km;17.8;No se calcula; 93;Sudeste  18;1009.8 / 
+Mariano Moreno;08-Abril-2021;17:00;Nublado;10 km;24.6;No se calcula; 74;Calma;1005.3 / 
+Merlo;08-Abril-2021;17:00;Nublado;10 km;24.8;No se calcula; 75;Este  9;1006.2 / 
+Morón;08-Abril-2021;17:00;Nublado;10 km;25.9;No se calcula; 68;Este  5;1006.4 / 
+Nueve de Julio;08-Abril-2021;15:00;Cubierto con lluvia;6 km;18.2;No se calcula; 96;Sudeste  11;1001.2 / 
+Olavarría;08-Abril-2021;17:00;Nublado con lluvia en la hora anterior;15 km;16.8;No se calcula; 95;Este  22;991.7 / 
+Pehuajó;08-Abril-2021;17:00;Cubierto con llovizna;3.0 km;19.3;No se calcula; 93;Este  25;999.6 / 
+Pigué;08-Abril-2021;17:00;Cubierto;15 km;17.6;No se calcula; 90;Este  14;975.4 / 
+Punta Indio B.A.;08-Abril-2021;17:00;Nublado;10 km;25;No se calcula; 75;Noreste  9;1008.4 / 
+San Fernando;08-Abril-2021;17:00;Nublado;10 km;25.6;No se calcula; 68;Este  13;1008.6 / 
+Tandil;08-Abril-2021;17:00;Nublado con lluvia;15 km;15.7;No se calcula; 98;Este  31;989.2 / 
+Trenque Lauquen;08-Abril-2021;15:00;Cubierto con lluvia;2.0 km;18.9;No se calcula; 98;Este  7;998.2 / 
+Tres Arroyos;08-Abril-2021;15:00;Cubierto con tormenta en la hora anterior;2.5 km;16.2;No se calcula; 93;Oeste  3;996.9 / 
+Villa Gesell;08-Abril-2021;17:00;Nublado con lluvia en la hora anterior;10 km;21.5;No se calcula; 89;Sur  13;1009.8 / 
+Aeroparque Buenos Aires;08-Abril-2021;17:00;Nublado;10 km;24.8;No se calcula; 78;Este  14;1009 / 
+Buenos Aires;08-Abril-2021;17:00;Nublado;10 km;25.8;No se calcula; 69;Noreste  5;1006.2 / 
+Catamarca;08-Abril-2021;17:00;Parcialmente nublado;20 km;31.4;34.4; 55;Norte  9;950.6 / 
+Tinogasta;08-Abril-2021;15:00;Parcialmente nublado;20 km;30.8;No se calcula; 38;Sudoeste  14;868.9 / 
+Pcia. Roque Saenz Peña;08-Abril-2021;17:00;Algo nublado;20 km;32;36.6; 58;Noreste  18;997.7 / 
+Resistencia;08-Abril-2021;17:00;Algo nublado;15 km;31.2;35.2; 59;Noreste  14;1002.9 / 
+Comodoro Rivadavia;08-Abril-2021;17:00;Algo nublado;30 km;17.4;No se calcula; 42;Este  18;1004.1 / 
+Esquel;08-Abril-2021;17:00;Parcialmente nublado;30 km;12.4;No se calcula; 66;Este  7;918.2 / 
+Paso De Indios;08-Abril-2021;17:00;Nublado con lluvia;18 km;11.4;No se calcula; 83;Oeste  18;955.6 / 
+Puerto Madryn;08-Abril-2021;17:00;Parcialmente nublado;30 km;19;No se calcula; 50;Este  7;994.6 / 
+Trelew;08-Abril-2021;17:00;Parcialmente nublado;30 km;19;No se calcula; 48;Este  18;1006.1 / 
+Córdoba;08-Abril-2021;17:00;Parcialmente nublado;12 km;31.2;33.2; 51;Norte  20;949.2 / 
+Córdoba Observatorio;08-Abril-2021;17:00;Parcialmente nublado;10 km;31.2;32.6; 48;Norte  13;956.2 / 
+Esc. Aviación Militar;08-Abril-2021;17:00;Parcialmente nublado;10 km;32;33.7; 49;Noroeste  22;948.9 / 
+Laboulaye;08-Abril-2021;17:00;Nublado;10 km;24.5;No se calcula; 86;Noreste  7;990.1 / 
+Marcos Juárez;08-Abril-2021;17:00;Nublado;20 km;27.2;27.5; 71;Este  22;992.2 / 
+Pilar Obs.;08-Abril-2021;17:00;Parcialmente nublado;10 km;30.9;33.7; 56;Norte  20;966.4 / 
+Río Cuarto;08-Abril-2021;17:00;Nublado con tormenta sin precipitación;15 km;23;No se calcula; 80;Sur  27;958.4 / 
+Villa Dolores;08-Abril-2021;17:00;Algo nublado;30 km;27.8;29.7; 64;Oeste  5;943.6 / 
+Villa María Del Río Seco;08-Abril-2021;15:00;Nublado;15 km;30.6;33.1; 56;Noroeste  14;968 / 
+Corrientes;08-Abril-2021;17:00;Algo nublado;10 km;30.8;34.3; 59;Noreste  14;1002.5 / 
+Ituzaingó;08-Abril-2021;15:00;Algo nublado;15 km;31;33.4; 53;Norte  20;1002.1 / 
+Mercedes;08-Abril-2021;15:00;Parcialmente nublado;15 km;31.4;32.1; 51;Norte  44;- / 
+Monte Caseros;08-Abril-2021;17:00;Algo nublado;20 km;31.4;33.2; 49;Norte  18;1004.5 / 
+Paso De Los Libres;08-Abril-2021;17:00;Algo nublado con humo;8 km;30;33.0; 60;Norte  11;1003.6 / 
+Concordia;08-Abril-2021;17:00;Cubierto;15 km;27.2;29.2; 70;Norte  7;1006.2 / 
+Gualeguaychú;08-Abril-2021;17:00;Nublado;15 km;31.8;34.7; 55;Noreste  22;1004.6 / 
+Paraná;08-Abril-2021;17:00;Parcialmente nublado;15 km;30.4;33.1; 61;Norte  25;998.9 / 
+Formosa;08-Abril-2021;17:00;Nublado;20 km;30.8;34.4; 60;Este  14;1002.9 / 
+Las Lomitas;08-Abril-2021;17:00;Parcialmente nublado;20 km;33.4;37.0; 49;Noreste  7;992.6 / 
+Mount Pleasant Airport (Islas Malvinas);08-Abril-2021;17:00;Parcialmente nublado;50 km;11.2;No se calcula; 72;Oeste  33;990.5 / 
+La Quiaca;08-Abril-2021;17:00;Nublado;30 km;22.2;No se calcula; 21;Noreste  9;667.8 / 
+Jujuy;08-Abril-2021;17:00;Parcialmente nublado;15 km;25.2;No se calcula; 69;Noreste  14;905.4 / 
+Jujuy Universidad Nacional;08-Abril-2021;15:00;Parcialmente nublado;15 km;27.2;28.6; 62;Noreste  3;864.2 / 
+General Pico;08-Abril-2021;17:00;Cubierto con llovizna;3.0 km;20;No se calcula; 92;Este  20;991.8 / 
+Victorica;08-Abril-2021;15:00;Cubierto;40 km;22.9;No se calcula; 63;Sur  9;973.6 / 
+Santa Rosa;08-Abril-2021;17:00;Cubierto con llovizna en la hora anterior;30 km;18;No se calcula; 96;Este  18;988.1 / 
+Chamical;08-Abril-2021;17:00;Parcialmente nublado;20 km;29;30.8; 58;Sudeste  11;951.3 / 
+Chepes;08-Abril-2021;15:00;Cubierto;20 km;29;No se calcula; 37;Calma;932.1 / 
+Chilecito;08-Abril-2021;17:00;Algo nublado;20 km;31.7;32.1; 41;Sudeste  9;901.6 / 
+La Rioja;08-Abril-2021;17:00;Parcialmente nublado;20 km;30.8;33.4; 55;Noreste  3;954 / 
+Malargue;08-Abril-2021;17:00;Parcialmente nublado;20 km;20;No se calcula; 53;Noreste  9;854 / 
+Mendoza;08-Abril-2021;17:00;Parcialmente nublado;15 km;22.9;No se calcula; 54;Este  14;928.5 / 
+Mendoza Observatorio;08-Abril-2021;17:00;Cubierto;15 km;21.4;No se calcula; 67;Calma;915.2 / 
+San Carlos (Mza);08-Abril-2021;15:00;Nublado;25 km;20.4;No se calcula; 66;Sur  9;903.3 / 
+San Martín (Mza);08-Abril-2021;17:00;Algo nublado;15 km;21.9;No se calcula; 74;Sudeste  24;934 / 
+San Rafael;08-Abril-2021;17:00;Parcialmente nublado;20 km;20.2;No se calcula; 48;Sur  3;925.8 / 
+Uspallata;08-Abril-2021;15:00;Despejado;15 km;21.8;No se calcula; 36;Sur  3;809 / 
+Bernardo De Irigoyen;08-Abril-2021;17:00;Parcialmente nublado;20 km;25.7;No se calcula; 54;Norte  9;924.5 / 
+Iguazú;08-Abril-2021;17:00;Algo nublado;20 km;32.3;33.9; 45;Noroeste  11;982.2 / 
+Oberá;08-Abril-2021;15:00;Algo nublado;20 km;30.8;33.3; 54;Norte  3;980.9 / 
+Posadas;08-Abril-2021;17:00;Algo nublado;20 km;31.4;31.9; 42;Noreste  13;997.7 / 
+Chapelco;08-Abril-2021;17:00;Parcialmente nublado;15 km;12.7;No se calcula; 53;Oeste  20;922.9 / 
+Neuquén;08-Abril-2021;17:00;Parcialmente nublado;15 km;23;No se calcula; 36;Noreste  11;979.4 / 
+Bariloche;08-Abril-2021;17:00;Parcialmente nublado;10 km;11.5;No se calcula; 53;Oeste  29;916.4 / 
+Cipolletti;08-Abril-2021;15:00;Algo nublado;25 km;23;No se calcula; 32;Noroeste  9;980.6 / 
+El Bolsón;08-Abril-2021;15:00;Nublado;30 km;14.9;No se calcula; 63;Calma;973.3 / 
+Maquinchao;08-Abril-2021;15:00;Parcialmente nublado;40 km;16.3;No se calcula; 30;Noreste  9;910.8 / 
+Río Colorado;08-Abril-2021;15:00;Despejado;15 km;23.8;No se calcula; 56;Sudoeste  3;1000.5 / 
+San Antonio Oeste;08-Abril-2021;17:00;Parcialmente nublado;30 km;19;No se calcula; 56;Sur  18;1011.3 / 
+Viedma;08-Abril-2021;17:00;Algo nublado;30 km;24.7;No se calcula; 47;Sudoeste  11;1009.4 / 
+Metán;08-Abril-2021;15:00;Parcialmente nublado con bruma;13 km;29;32.1; 68;Noreste  14;911.3 / 
+Orán;08-Abril-2021;17:00;Parcialmente nublado;10 km;31.6;37.2; 63;Noreste  9;962.2 / 
+Rivadavia;08-Abril-2021;15:00;Parcialmente nublado;25 km;33;34.0; 41;Norte  9;982.1 / 
+Salta;08-Abril-2021;17:00;Nublado con precipitación a la vista;10 km;21.8;No se calcula; 84;Norte  13;874 / 
+Tartagal;08-Abril-2021;17:00;Parcialmente nublado;10 km;30.8;34.0; 58;Norte  14;953.9 / 
+Jachal;08-Abril-2021;15:00;Algo nublado;30 km;25;No se calcula; 53;Sudeste  3;877.4 / 
+San Juan;08-Abril-2021;17:00;Parcialmente nublado;15 km;25.1;No se calcula; 48;Sudeste  25;939.6 / 
+San Luis;08-Abril-2021;16:00;Parcialmente nublado;20 km;23.1;No se calcula; 66;Sur  13;927.4 / 
+Santa Rosa del Conlara;08-Abril-2021;17:00;Parcialmente nublado;20 km;26;27.6; 78;Oeste  7;936.5 / 
+Villa Reynolds;08-Abril-2021;17:00;Cubierto;10 km;23;No se calcula; 73;Sur  18;953 / 
+El Calafate;08-Abril-2021;17:00;Parcialmente nublado con precipitación a la vista;30 km;14.4;No se calcula; 29;Oeste  27;985.8 / 
+Gobernador Gregores;08-Abril-2021;15:00;Parcialmente nublado;45 km;14;No se calcula; 38;Calma;966.7 / 
+Perito Moreno;08-Abril-2021;16:00;Parcialmente nublado;50 km;13.9;No se calcula; 39;Oeste  18;958.8 / 
+Puerto Deseado;08-Abril-2021;17:00;Algo nublado;30 km;13.8;No se calcula; 55;Sur  14;1000.1 / 
+Río Gallegos;08-Abril-2021;17:00;Parcialmente nublado;30 km;11.4;No se calcula; 33;Sur  37;- / 
+San Julián;08-Abril-2021;17:00;Parcialmente nublado;30 km;13;No se calcula; 55;Sur  24;1003.4 / 
+Santa Cruz;08-Abril-2021;17:00;Parcialmente nublado;30 km;11.6;No se calcula; 45;Sur  29;996.6 / 
+Ceres;08-Abril-2021;17:00;Nublado;15 km;31.2;35.0; 58;Norte  9;995.4 / 
+El Trébol;08-Abril-2021;15:00;Nublado;15 km;32;33.7; 49;Norte  24;993.7 / 
+Rafaela;08-Abril-2021;15:00;Parcialmente nublado;10 km;30.8;33.4; 59;Norte  29;995.9 / 
+Reconquista;08-Abril-2021;17:00;Algo nublado;15 km;32.2;34.9; 52;Norte  24;1002.5 / 
+Rosario;08-Abril-2021;17:00;Nublado con tormenta;7 km;22.5;No se calcula; 93;Sur  33;1004.2 / 
+Santa Fe;08-Abril-2021;17:00;Nublado;12 km;31.7;35.7; 57;Norte  16;1004.6 / 
+Sunchales;08-Abril-2021;17:00;Nublado;15 km;30.9;34.3; 62;Norte  24;996.5 / 
+Venado Tuerto;08-Abril-2021;17:00;Nublado con tormenta;8 km;20.6;No se calcula; 99;Calma;993 / 
+Termas de Rio Hondo;08-Abril-2021;17:00;Nublado;12 km;26.7;28.1; 79;Oeste  13;971.5 / 
+Santiago del Estero;08-Abril-2021;17:00;Parcialmente nublado;10 km;33;37.0; 52;Noreste  11;980.2 / 
+Río Grande B.A.;08-Abril-2021;17:00;Parcialmente nublado;30 km;10.3;No se calcula; 60;Oeste  31;1002.5 / 
+Ushuaia;08-Abril-2021;17:00;Parcialmente nublado con precipitación a la vista;25 km;6.6;1.4; 73;Sudoeste  40;997.4 / 
+Tucumán;08-Abril-2021;17:00;Nublado;10 km;27.1;29.0; 78;Sudoeste  13;953.3 / 
+Base Belgrano II;08-Abril-2021;15:00;Cubierto con ventisca alta;500 mts;-14;-28.4; 67;Sudeste  63;946.6 / 
+Base Esperanza;08-Abril-2021;15:00;Nublado;10 km;1.6;-1.2; 75;Noreste  9;978.4 / 
+Base Carlini;08-Abril-2021;15:00;Parcialmente nublado;10 km;1.1;-5.2; 73;Oeste  31;983.3 / 
+Base Marambio;08-Abril-2021;17:00;Cubierto;15 km;-1.8;-7.8; 85;Sur  22;958.1 / 
+Base Orcadas;08-Abril-2021;15:00;Cubierto;3.5 km;1.3;-3.4; 97;Noroeste  18;977 / 
+Base San Martín;08-Abril-2021;15:00;Cubierto con nevada;3.0 km;-1.2;-5.8; 84;Noroeste  14;982.8 / 
+Azul;08-Abril-2021;17:00;Nublado con lluvia;15 km;16.7;No se calcula; 95;Este  13;993.8 / 
+Bahía Blanca;08-Abril-2021;18:00;Algo nublado;15 km;20.6;No se calcula; 76;Este  11;1001.4 / 
+Benito Juárez;08-Abril-2021;18:00;Parcialmente nublado;12 km;16.4;No se calcula; 95;Noreste  9;985.6 / 
+Bolívar;08-Abril-2021;18:00;Cubierto con lluvia;1.0 km;17.4;No se calcula; 98;Sudeste  11;999.4 / 
+Campo de Mayo;08-Abril-2021;18:00;Nublado;10 km;24.2;No se calcula; 75;Sur  14;1006.4 / 
+Coronel Pringles;08-Abril-2021;15:00;Cubierto;20 km;20;No se calcula; 77;Norte  7;982.9 / 
+Coronel Suarez;08-Abril-2021;18:00;Cubierto;20 km;18.5;No se calcula; 87;Este  7;983.6 / 
+Dolores;08-Abril-2021;18:00;Nublado;10 km;20.6;No se calcula; 93;Sur  22;1010.2 / 
+El Palomar;08-Abril-2021;18:00;Nublado;10 km;25.2;No se calcula; 70;Sur  13;1007.6 / 
+Ezeiza;08-Abril-2021;18:00;Nublado con lluvia;5 km;22.8;No se calcula; 86;Sur  14;1007.6 / 
+Junín;08-Abril-2021;18:00;Nublado con lluvia;8 km;20;No se calcula; 96;Norte  14;998.9 / 
+La Plata;08-Abril-2021;18:00;Nublado;10 km;23.3;No se calcula; 84;Sudeste  3;1007.6 / 
+Las Flores;08-Abril-2021;18:00;Cubierto con lluvia;3.9 km;17.3;No se calcula; 63;Este  29;1007 / 
+Mar del Plata;08-Abril-2021;18:00;Nublado con lluvia;1.5 km;17.5;No se calcula; 95;Este  11;1010.2 / 
+Mariano Moreno;08-Abril-2021;18:00;Nublado;10 km;24.6;No se calcula; 72;Sudeste  9;1005.7 / 
+Merlo;08-Abril-2021;18:00;Nublado;10 km;22.4;No se calcula; 85;Sur  37;1007 / 
+Morón;08-Abril-2021;18:00;Nublado;10 km;24.1;No se calcula; 74;Sur  25;1006.5 / 
+Nueve de Julio;08-Abril-2021;18:00;Nublado;15 km;19.4;No se calcula; 92;Sudeste  11;1000.2 / 
+Olavarría;08-Abril-2021;18:00;Parcialmente nublado;15 km;16.6;No se calcula; 95;Este  22;991.2 / 
+Pehuajó;08-Abril-2021;18:00;Nublado con llovizna en la hora anterior;15 km;18.9;No se calcula; 95;Este  24;999.6 / 
+Pigué;08-Abril-2021;18:00;Cubierto;15 km;17.6;No se calcula; 89;Este  14;975.6 / 
+Punta Indio B.A.;08-Abril-2021;18:00;Nublado con lluvia;8 km;24;No se calcula; 81;Este  5;1008 / 
+San Fernando;08-Abril-2021;18:00;Nublado;10 km;25.1;No se calcula; 72;Este  11;1008.5 / 
+Tandil;08-Abril-2021;18:00;Nublado con lluvia en la hora anterior;20 km;16.2;No se calcula; 95;Este  14;990.4 / 
+Trenque Lauquen;08-Abril-2021;15:00;Cubierto con lluvia;2.0 km;18.9;No se calcula; 98;Este  7;998.2 / 
+Tres Arroyos;08-Abril-2021;18:00;Algo nublado;10 km;18.1;No se calcula; 86;Noreste  7;999 / 
+Villa Gesell;08-Abril-2021;18:00;Nublado con lluvia;7 km;19.9;No se calcula; 96;Sur  25;1010.2 / 
+Aeroparque Buenos Aires;08-Abril-2021;18:00;Nublado;10 km;24.4;No se calcula; 80;Este  18;1008.2 / 
+Buenos Aires;08-Abril-2021;18:00;Nublado;10 km;25.6;No se calcula; 71;Sudeste  5;1006.2 / 
+Catamarca;08-Abril-2021;18:00;Parcialmente nublado;20 km;30.4;33.1; 57;Norte  9;950.9 / 
+Tinogasta;08-Abril-2021;18:00;Parcialmente nublado;20 km;29;28.9; 45;Este  14;870.3 / 
+Pcia. Roque Saenz Peña;08-Abril-2021;18:00;Algo nublado;20 km;31.2;35.2; 59;Noreste  16;997.6 / 
+Resistencia;08-Abril-2021;18:00;Algo nublado;15 km;30;32.8; 60;Este  14;1002.9 / 
+Comodoro Rivadavia;08-Abril-2021;18:00;Parcialmente nublado;30 km;15.5;No se calcula; 55;Noreste  13;1004.6 / 
+Esquel;08-Abril-2021;18:00;Cubierto con precipitación a la vista;16 km;12;No se calcula; 63;Oeste  9;918.5 / 
+Paso De Indios;08-Abril-2021;18:00;Nublado;30 km;11.7;No se calcula; 84;Sudoeste  7;955.2 / 
+Puerto Madryn;08-Abril-2021;18:00;Parcialmente nublado;30 km;17.4;No se calcula; 58;Noreste  20;995 / 
+Trelew;08-Abril-2021;18:00;Parcialmente nublado;30 km;18.4;No se calcula; 50;Este  18;1006.2 / 
+Córdoba;08-Abril-2021;18:00;Parcialmente nublado;12 km;30.2;31.4; 56;Norte  24;949.3 / 
+Córdoba Observatorio;08-Abril-2021;18:00;Parcialmente nublado;10 km;30.8;32.8; 52;Noreste  13;956.2 / 
+Esc. Aviación Militar;08-Abril-2021;18:00;Parcialmente nublado;10 km;31;33.3; 53;Norte  18;949 / 
+Laboulaye;08-Abril-2021;18:00;Parcialmente nublado;10 km;24.5;No se calcula; 84;Noreste  7;990.4 / 
+Marcos Juárez;08-Abril-2021;18:00;Nublado;20 km;25.1;No se calcula; 80;Sudeste  22;992.8 / 
+Pilar Obs.;08-Abril-2021;18:00;Algo nublado;10 km;30.4;34.3; 63;Norte  11;966.5 / 
+Río Cuarto;08-Abril-2021;18:00;Parcialmente nublado con tormenta en la hora anterior;15 km;22.5;No se calcula; 80;Sur  16;958.8 / 
+Villa Dolores;08-Abril-2021;18:00;Algo nublado;30 km;27.8;29.8; 66;Oeste  3;943.4 / 
+Villa María Del Río Seco;08-Abril-2021;18:00;Nublado;15 km;30;32.2; 56;Noroeste  9;968.2 / 
+Corrientes;08-Abril-2021;18:00;Algo nublado;10 km;29.8;32.8; 62;Norte  14;1002.2 / 
+Ituzaingó;08-Abril-2021;18:00;Parcialmente nublado;15 km;28.8;32.9; 73;Norte  5;1001.8 / 
+Mercedes;08-Abril-2021;15:00;Parcialmente nublado;15 km;31.4;32.1; 51;Norte  44;- / 
+Monte Caseros;08-Abril-2021;18:00;Algo nublado;20 km;30.2;32.2; 55;Noreste  13;1004.4 / 
+Paso De Los Libres;08-Abril-2021;18:00;Algo nublado con humo;8 km;29.3;32.6; 66;Noreste  5;1003.6 / 
+Concordia;08-Abril-2021;18:00;Parcialmente nublado;15 km;27;29.1; 73;Noreste  9;1005.8 / 
+Gualeguaychú;08-Abril-2021;18:00;Nublado;15 km;30.3;32.0; 58;Noreste  25;1004 / 
+Paraná;08-Abril-2021;18:00;Parcialmente nublado;15 km;29.8;33.0; 63;Norte  18;998.6 / 
+Formosa;08-Abril-2021;18:00;Nublado;20 km;30.1;32.9; 64;Este  24;1002.6 / 
+Las Lomitas;08-Abril-2021;18:00;Algo nublado;20 km;32.2;35.5; 52;Noreste  7;992.6 / 
+Mount Pleasant Airport (Islas Malvinas);08-Abril-2021;18:00;Cubierto con llovizna;30 km;9.9;6.0; 80;Oeste  37;991.7 / 
+La Quiaca;08-Abril-2021;18:00;Nublado;30 km;22.2;No se calcula; 16;Norte  9;667 / 
+Jujuy;08-Abril-2021;18:00;Cubierto;15 km;25.2;No se calcula; 69;Norte  14;905.6 / 
+Jujuy Universidad Nacional;08-Abril-2021;15:00;Parcialmente nublado;15 km;27.2;28.6; 62;Noreste  3;864.2 / 
+General Pico;08-Abril-2021;18:00;Cubierto con llovizna;3.0 km;19.3;No se calcula; 96;Este  22;992.2 / 
+Victorica;08-Abril-2021;15:00;Cubierto;40 km;22.9;No se calcula; 63;Sur  9;973.6 / 
+Santa Rosa;08-Abril-2021;18:00;Cubierto con llovizna;4.0 km;17.8;No se calcula; 96;Este  16;988.4 / 
+Chamical;08-Abril-2021;18:00;Parcialmente nublado;20 km;28.8;30.5; 58;Calma;951.6 / 
+Chepes;08-Abril-2021;15:00;Cubierto;20 km;29;No se calcula; 37;Calma;932.1 / 
+Chilecito;08-Abril-2021;18:00;Algo nublado;20 km;30.8;30.8; 41;Sur  9;901.8 / 
+La Rioja;08-Abril-2021;18:00;Parcialmente nublado;20 km;31.5;34.2; 53;Oeste  3;954.1 / 
+Malargue;08-Abril-2021;18:00;Algo nublado;20 km;18.8;No se calcula; 52;Este  3;854.5 / 
+Mendoza;08-Abril-2021;18:00;Parcialmente nublado;15 km;21.9;No se calcula; 60;Este  13;929.2 / 
+Mendoza Observatorio;08-Abril-2021;18:00;Nublado;15 km;20.9;No se calcula; 69;Calma;915.8 / 
+San Carlos (Mza);08-Abril-2021;15:00;Nublado;25 km;20.4;No se calcula; 66;Sur  9;903.3 / 
+San Martín (Mza);08-Abril-2021;18:00;Parcialmente nublado;15 km;20.9;No se calcula; 65;Sudeste  24;934.5 / 
+San Rafael;08-Abril-2021;18:00;Parcialmente nublado;20 km;19.8;No se calcula; 48;Sudeste  9;925.8 / 
+Uspallata;08-Abril-2021;18:00;Despejado;15 km;23.9;No se calcula; 23;Sur  3;809.7 / 
+Bernardo De Irigoyen;08-Abril-2021;18:00;Parcialmente nublado;20 km;25.4;No se calcula; 57;Noreste  9;924.5 / 
+Iguazú;08-Abril-2021;18:00;Algo nublado;20 km;30.9;33.5; 55;Calma;982.2 / 
+Oberá;08-Abril-2021;15:00;Algo nublado;20 km;30.8;33.3; 54;Norte  3;980.9 / 
+Posadas;08-Abril-2021;18:00;Algo nublado;20 km;30.6;31.6; 47;Noreste  9;997.6 / 
+Chapelco;08-Abril-2021;18:00;Parcialmente nublado;15 km;12.5;No se calcula; 52;Oeste  22;923.2 / 
+Neuquén;08-Abril-2021;18:00;Parcialmente nublado;15 km;22.6;No se calcula; 36;Noreste  13;979.4 / 
+Bariloche;08-Abril-2021;18:00;Parcialmente nublado;10 km;11.3;No se calcula; 55;Oeste  24;916.4 / 
+Cipolletti;08-Abril-2021;15:00;Algo nublado;25 km;23;No se calcula; 32;Noroeste  9;980.6 / 
+El Bolsón;08-Abril-2021;15:00;Nublado;30 km;14.9;No se calcula; 63;Calma;973.3 / 
+Maquinchao;08-Abril-2021;18:00;Nublado;40 km;12.2;No se calcula; 44;Oeste  14;912.1 / 
+Río Colorado;08-Abril-2021;15:00;Despejado;15 km;23.8;No se calcula; 56;Sudoeste  3;1000.5 / 
+San Antonio Oeste;08-Abril-2021;18:00;Parcialmente nublado;30 km;18.5;No se calcula; 58;Sur  18;1011.3 / 
+Viedma;08-Abril-2021;18:00;Algo nublado;30 km;21.1;No se calcula; 67;Sur  16;1009.8 / 
+Metán;08-Abril-2021;15:00;Parcialmente nublado con bruma;13 km;29;32.1; 68;Noreste  14;911.3 / 
+Orán;08-Abril-2021;18:00;Parcialmente nublado;10 km;30.5;35.1; 65;Noreste  9;962.1 / 
+Rivadavia;08-Abril-2021;15:00;Parcialmente nublado;25 km;33;34.0; 41;Norte  9;982.1 / 
+Salta;08-Abril-2021;18:00;Nublado con llovizna;7 km;21.4;No se calcula; 91;Sudoeste  5;874.2 / 
+Tartagal;08-Abril-2021;18:00;Parcialmente nublado;10 km;29.4;31.9; 62;Norte  14;954.1 / 
+Jachal;08-Abril-2021;15:00;Algo nublado;30 km;25;No se calcula; 53;Sudeste  3;877.4 / 
+San Juan;08-Abril-2021;18:00;Parcialmente nublado;15 km;24.1;No se calcula; 53;Sur  27;940.1 / 
+San Luis;08-Abril-2021;18:00;Parcialmente nublado;20 km;21.1;No se calcula; 78;Sudeste  16;928.1 / 
+Santa Rosa del Conlara;08-Abril-2021;18:00;Algo nublado;20 km;26.8;28.9; 75;Oeste  7;936.5 / 
+Villa Reynolds;08-Abril-2021;18:00;Cubierto;10 km;21;No se calcula; 75;Sudeste  18;953.6 / 
+El Calafate;08-Abril-2021;18:00;Parcialmente nublado con precipitación a la vista;30 km;13.4;No se calcula; 32;Oeste  27;986.9 / 
+Gobernador Gregores;08-Abril-2021;15:00;Parcialmente nublado;45 km;14;No se calcula; 38;Calma;966.7 / 
+Perito Moreno;08-Abril-2021;16:00;Parcialmente nublado;50 km;13.9;No se calcula; 39;Oeste  18;958.8 / 
+Puerto Deseado;08-Abril-2021;18:00;Algo nublado;30 km;12.8;No se calcula; 57;Sur  24;1000.9 / 
+Río Gallegos;08-Abril-2021;18:00;Parcialmente nublado;30 km;11;No se calcula; 36;Sudoeste  31;- / 
+San Julián;08-Abril-2021;18:00;Parcialmente nublado;30 km;12.4;No se calcula; 42;Sur  24;1004.8 / 
+Santa Cruz;08-Abril-2021;18:00;Parcialmente nublado;30 km;10.7;No se calcula; 46;Sur  37;997.3 / 
+Ceres;08-Abril-2021;18:00;Nublado;15 km;29.8;32.4; 59;Norte  9;995.4 / 
+El Trébol;08-Abril-2021;18:00;Nublado;15 km;30.4;32.7; 55;Norte  9;993 / 
+Rafaela;08-Abril-2021;18:00;Parcialmente nublado;10 km;29.2;30.4; 62;Norte  22;995.7 / 
+Reconquista;08-Abril-2021;18:00;Parcialmente nublado con humo;10 km;31.4;33.9; 56;Norte  25;1002.2 / 
+Rosario;08-Abril-2021;18:00;Nublado con tormenta en la hora anterior;10 km;21.5;No se calcula; 91;Sur  24;1004.2 / 
+Santa Fe;08-Abril-2021;18:00;Nublado;12 km;30.7;34.6; 62;Norte  16;1004.6 / 
+Sunchales;08-Abril-2021;18:00;Nublado;15 km;29.8;34.5; 69;Norte  9;996.4 / 
+Venado Tuerto;08-Abril-2021;18:00;Nublado con tormenta;3.0 km;20.4;No se calcula; 99;Sur  3;993.2 / 
+Termas de Rio Hondo;08-Abril-2021;18:00;Nublado;12 km;26;26.6; 84;Oeste  13;971.6 / 
+Santiago del Estero;08-Abril-2021;18:00;Nublado;10 km;32.2;35.5; 52;Este  5;980.2 / 
+Río Grande B.A.;08-Abril-2021;18:00;Algo nublado;30 km;9.7;6.0; 62;Oeste  33;1003.4 / 
+Ushuaia;08-Abril-2021;18:00;Parcialmente nublado;25 km;6.3;0.4; 68;Sudoeste  51;998.5 / 
+Tucumán;08-Abril-2021;18:00;Nublado;10 km;26.7;27.9; 76;Sudoeste  13;953.4 / 
+Base Belgrano II;08-Abril-2021;18:00;Cubierto con nevada;200 mts;-11.9;-25.7; 85;Noreste  66;946.8 / 
+Base Esperanza;08-Abril-2021;18:00;Cubierto;10 km;1;-1.9; 66;Sur  9;979.6 / 
+Base Carlini;08-Abril-2021;18:00;Parcialmente nublado;10 km;0.7;-5.5; 84;Oeste  29;983.7 / 
+Base Marambio;08-Abril-2021;18:00;Cubierto;15 km;-3;-8.8; 88;Sur  18;958.6 / 
+Base Orcadas;08-Abril-2021;18:00;Cubierto con neblina;5 km;0.6;-5.0; 95;Noroeste  24;978 / 
+Base San Martín;08-Abril-2021;18:00;Cubierto con nevada;4.0 km;-2.2;-5.7; 85;Noroeste  9;984.2 / 
+Azul;08-Abril-2021;18:00;Cubierto con lluvia en la hora anterior;20 km;16.7;No se calcula; 95;Este  9;992.9 / 
+Bahía Blanca;08-Abril-2021;19:00;Algo nublado;15 km;18.9;No se calcula; 86;Sudeste  9;1001.7 / 
+Benito Juárez;08-Abril-2021;18:00;Parcialmente nublado;12 km;16.4;No se calcula; 95;Noreste  9;985.6 / 
+Bolívar;08-Abril-2021;19:00;Nublado con neblina;6 km;16.6;No se calcula; 95;Sudeste  11;999.4 / 
+Campo de Mayo;08-Abril-2021;19:00;Nublado con tormenta;4.0 km;21.2;No se calcula; 94;Sudoeste  18;1007.7 / 
+Coronel Pringles;08-Abril-2021;15:00;Cubierto;20 km;20;No se calcula; 77;Norte  7;982.9 / 
+Coronel Suarez;08-Abril-2021;18:00;Cubierto;20 km;18.5;No se calcula; 87;Este  7;983.6 / 
+Dolores;08-Abril-2021;19:00;Cubierto;10 km;20.2;No se calcula; 91;Sur  18;1010.9 / 
+El Palomar;08-Abril-2021;19:00;Nublado con tormenta;2.7 km;20.6;No se calcula; 98;Sur  18;1008.5 / 
+Ezeiza;08-Abril-2021;19:00;Nublado con lluvia;5 km;21.3;No se calcula; 91;Sur  13;1008 / 
+Junín;08-Abril-2021;19:00;Nublado con lluvia;8 km;19.8;No se calcula; 96;Norte  11;999.3 / 
+La Plata;08-Abril-2021;19:00;Nublado;10 km;24.4;No se calcula; 74;Sudoeste  13;1007.8 / 
+Las Flores;08-Abril-2021;18:00;Cubierto con lluvia;3.9 km;17.3;No se calcula; 63;Este  29;1007 / 
+Mar del Plata;08-Abril-2021;19:00;Nublado con lluvia en la hora anterior;10 km;17.9;No se calcula; 95;Este  22;1008.5 / 
+Mariano Moreno;08-Abril-2021;19:00;Nublado con tormenta;1.0 km;24.2;No se calcula; 75;Sudeste  18;1006.2 / 
+Merlo;08-Abril-2021;19:00;Cubierto con lluvia;8 km;20.8;No se calcula; 98;Sur  27;1007.7 / 
+Morón;08-Abril-2021;19:00;Nublado con lluvia;6 km;21.8;No se calcula; 92;Sur  22;1007.2 / 
+Nueve de Julio;08-Abril-2021;18:00;Nublado;15 km;19.4;No se calcula; 92;Sudeste  11;1000.2 / 
+Olavarría;08-Abril-2021;19:00;Parcialmente nublado;15 km;16.4;No se calcula; 95;Este  14;991.7 / 
+Pehuajó;08-Abril-2021;19:00;Nublado;15 km;19.3;No se calcula; 91;Este  24;999.2 / 
+Pigué;08-Abril-2021;19:00;Cubierto;15 km;17.2;No se calcula; 92;Este  9;975.8 / 
+Punta Indio B.A.;08-Abril-2021;19:00;Nublado con llovizna en la hora anterior;10 km;23.5;No se calcula; 86;Sudeste  11;1007.6 / 
+San Fernando;08-Abril-2021;19:00;Nublado con tormenta;4.0 km;22.3;No se calcula; 88;Sur  24;1009.3 / 
+Tandil;08-Abril-2021;19:00;Nublado;15 km;15;No se calcula; 93;Este  13;991 / 
+Trenque Lauquen;08-Abril-2021;15:00;Cubierto con lluvia;2.0 km;18.9;No se calcula; 98;Este  7;998.2 / 
+Tres Arroyos;08-Abril-2021;18:00;Algo nublado;10 km;18.1;No se calcula; 86;Noreste  7;999 / 
+Villa Gesell;08-Abril-2021;19:00;Nublado con tormenta en la hora anterior;10 km;17.7;No se calcula; 98;Sur  16;1011.6 / 
+Aeroparque Buenos Aires;08-Abril-2021;19:00;Nublado con tormenta;5 km;25.2;No se calcula; 70;Sur  14;1008.2 / 
+Buenos Aires;08-Abril-2021;19:00;Nublado con lluvia;5 km;23.1;No se calcula; 83;Sudeste  9;1006.8 / 
+Catamarca;08-Abril-2021;19:00;Parcialmente nublado;20 km;29.4;32.2; 62;Norte  9;951.4 / 
+Tinogasta;08-Abril-2021;18:00;Parcialmente nublado;20 km;29;28.9; 45;Este  14;870.3 / 
+Pcia. Roque Saenz Peña;08-Abril-2021;19:00;Algo nublado;20 km;29.2;32.6; 68;Este  13;997.8 / 
+Resistencia;08-Abril-2021;19:00;Algo nublado;15 km;27.8;30.5; 71;Este  9;1003.4 / 
+Comodoro Rivadavia;08-Abril-2021;19:00;Parcialmente nublado;30 km;14.5;No se calcula; 67;Noreste  11;1005.2 / 
+Esquel;08-Abril-2021;19:00;Cubierto con precipitación a la vista;16 km;9.5;7.1; 74;Oeste  16;918.8 / 
+Paso De Indios;08-Abril-2021;18:00;Nublado;30 km;11.7;No se calcula; 84;Sudoeste  7;955.2 / 
+Puerto Madryn;08-Abril-2021;19:00;Parcialmente nublado;30 km;16;No se calcula; 67;Este  13;995.5 / 
+Trelew;08-Abril-2021;19:00;Parcialmente nublado;30 km;16.2;No se calcula; 58;Este  11;1007 / 
+Córdoba;08-Abril-2021;19:00;Parcialmente nublado;12 km;27.8;29.0; 64;Norte  18;949.8 / 
+Córdoba Observatorio;08-Abril-2021;19:00;Algo nublado;10 km;29.4;31.2; 58;Noreste  14;957.4 / 
+Esc. Aviación Militar;08-Abril-2021;19:00;Algo nublado;10 km;29;30.5; 58;Norte  14;949.7 / 
+Laboulaye;08-Abril-2021;19:00;Parcialmente nublado;10 km;23.1;No se calcula; 90;Noreste  7;991.3 / 
+Marcos Juárez;08-Abril-2021;19:00;Nublado con relámpagos sin truenos;20 km;23.3;No se calcula; 82;Este  25;993.3 / 
+Pilar Obs.;08-Abril-2021;19:00;Algo nublado;10 km;27.5;30.2; 74;Norte  11;967.7 / 
+Río Cuarto;08-Abril-2021;19:00;Algo nublado;15 km;22;No se calcula; 86;Sur  13;959 / 
+Villa Dolores;08-Abril-2021;19:00;Algo nublado;30 km;26.2;27.8; 74;Oeste  3;943.3 / 
+Villa María Del Río Seco;08-Abril-2021;18:00;Nublado;15 km;30;32.2; 56;Noroeste  9;968.2 / 
+Corrientes;08-Abril-2021;19:00;Algo nublado;10 km;28.2;31.2; 70;Este  9;1002.6 / 
+Ituzaingó;08-Abril-2021;18:00;Parcialmente nublado;15 km;28.8;32.9; 73;Norte  5;1001.8 / 
+Mercedes;08-Abril-2021;15:00;Parcialmente nublado;15 km;31.4;32.1; 51;Norte  44;- / 
+Monte Caseros;08-Abril-2021;19:00;Algo nublado con humo;8 km;28.2;29.7; 63;Noreste  14;1004.2 / 
+Paso De Los Libres;08-Abril-2021;19:00;Algo nublado con humo;8 km;27.3;29.7; 72;Este  3;1003.6 / 
+Concordia;08-Abril-2021;19:00;Parcialmente nublado;15 km;26.8;27.8; 71;Noreste  18;1005 / 
+Gualeguaychú;08-Abril-2021;19:00;Nublado con relámpagos sin truenos;15 km;29.4;30.9; 62;Noreste  27;1004 / 
+Paraná;08-Abril-2021;19:00;Parcialmente nublado;15 km;28.4;30.9; 69;Norte  14;998.9 / 
+Formosa;08-Abril-2021;19:00;Parcialmente nublado;20 km;28.1;31.5; 74;Este  11;1002.8 / 
+Las Lomitas;08-Abril-2021;19:00;Algo nublado;20 km;30.6;33.9; 59;Noreste  1;992.8 / 
+Mount Pleasant Airport (Islas Malvinas);08-Abril-2021;19:00;Cubierto con llovizna en la hora anterior;20 km;7.7;3.2; 94;Sudoeste  35;993.1 / 
+La Quiaca;08-Abril-2021;19:00;Nublado;30 km;20.6;No se calcula; 25;Este  3;667.8 / 
+Jujuy;08-Abril-2021;19:00;Cubierto;15 km;24.8;No se calcula; 70;Noreste  11;906.1 / 
+Jujuy Universidad Nacional;08-Abril-2021;15:00;Parcialmente nublado;15 km;27.2;28.6; 62;Noreste  3;864.2 / 
+General Pico;08-Abril-2021;19:00;Cubierto con llovizna;5 km;19.1;No se calcula; 93;Sudeste  20;992.2 / 
+Victorica;08-Abril-2021;15:00;Cubierto;40 km;22.9;No se calcula; 63;Sur  9;973.6 / 
+Santa Rosa;08-Abril-2021;19:00;Cubierto con llovizna;5 km;17.8;No se calcula; 98;Este  11;988.6 / 
+Chamical;08-Abril-2021;18:00;Parcialmente nublado;20 km;28.8;30.5; 58;Calma;951.6 / 
+Chepes;08-Abril-2021;15:00;Cubierto;20 km;29;No se calcula; 37;Calma;932.1 / 
+Chilecito;08-Abril-2021;19:00;Parcialmente nublado;20 km;28.4;29.0; 50;Sur  9;902.6 / 
+La Rioja;08-Abril-2021;18:00;Parcialmente nublado;20 km;31.5;34.2; 53;Oeste  3;954.1 / 
+Malargue;08-Abril-2021;19:00;Algo nublado;20 km;17.3;No se calcula; 56;Calma;855 / 
+Mendoza;08-Abril-2021;19:00;Parcialmente nublado;15 km;20.6;No se calcula; 64;Este  11;929.7 / 
+Mendoza Observatorio;08-Abril-2021;19:00;Nublado;15 km;20.1;No se calcula; 74;Calma;917.7 / 
+San Carlos (Mza);08-Abril-2021;15:00;Nublado;25 km;20.4;No se calcula; 66;Sur  9;903.3 / 
+San Martín (Mza);08-Abril-2021;19:00;Parcialmente nublado;15 km;20.2;No se calcula; 70;Sudeste  14;934.8 / 
+San Rafael;08-Abril-2021;19:00;Algo nublado;20 km;18.8;No se calcula; 57;Sur  3;926.2 / 
+Uspallata;08-Abril-2021;18:00;Despejado;15 km;23.9;No se calcula; 23;Sur  3;809.7 / 
+Bernardo De Irigoyen;08-Abril-2021;19:00;Algo nublado;20 km;23.6;No se calcula; 63;Norte  3;925 / 
+Iguazú;08-Abril-2021;19:00;Parcialmente nublado;20 km;26.5;28.2; 72;Calma;982.5 / 
+Oberá;08-Abril-2021;15:00;Algo nublado;20 km;30.8;33.3; 54;Norte  3;980.9 / 
+Posadas;08-Abril-2021;19:00;Algo nublado;20 km;28.8;30.7; 60;Este  9;997.8 / 
+Chapelco;08-Abril-2021;19:00;Parcialmente nublado;15 km;10.7;No se calcula; 60;Oeste  22;923.7 / 
+Neuquén;08-Abril-2021;19:00;Parcialmente nublado;15 km;21.5;No se calcula; 40;Sudoeste  13;980.4 / 
+Bariloche;08-Abril-2021;19:00;Nublado con lluvia;8 km;8.9;5.0; 75;Oeste  31;916.6 / 
+Cipolletti;08-Abril-2021;15:00;Algo nublado;25 km;23;No se calcula; 32;Noroeste  9;980.6 / 
+El Bolsón;08-Abril-2021;15:00;Nublado;30 km;14.9;No se calcula; 63;Calma;973.3 / 
+Maquinchao;08-Abril-2021;18:00;Nublado;40 km;12.2;No se calcula; 44;Oeste  14;912.1 / 
+Río Colorado;08-Abril-2021;15:00;Despejado;15 km;23.8;No se calcula; 56;Sudoeste  3;1000.5 / 
+San Antonio Oeste;08-Abril-2021;18:00;Parcialmente nublado;30 km;18.5;No se calcula; 58;Sur  18;1011.3 / 
+Viedma;08-Abril-2021;19:00;Algo nublado;30 km;18.5;No se calcula; 75;Sur  13;1010.2 / 
+Metán;08-Abril-2021;15:00;Parcialmente nublado con bruma;13 km;29;32.1; 68;Noreste  14;911.3 / 
+Orán;08-Abril-2021;19:00;Parcialmente nublado;10 km;29.8;34.0; 67;Calma;962.4 / 
+Rivadavia;08-Abril-2021;15:00;Parcialmente nublado;25 km;33;34.0; 41;Norte  9;982.1 / 
+Salta;08-Abril-2021;19:00;Nublado con llovizna en la hora anterior;10 km;21.2;No se calcula; 91;Oeste  3;874.5 / 
+Tartagal;08-Abril-2021;18:00;Parcialmente nublado;10 km;29.4;31.9; 62;Norte  14;954.1 / 
+Jachal;08-Abril-2021;15:00;Algo nublado;30 km;25;No se calcula; 53;Sudeste  3;877.4 / 
+San Juan;08-Abril-2021;19:00;Nublado;15 km;23.6;No se calcula; 55;Sur  27;940.6 / 
+San Luis;08-Abril-2021;19:00;Cubierto;20 km;20.6;No se calcula; 78;Sudeste  20;928.5 / 
+Santa Rosa del Conlara;08-Abril-2021;19:00;Algo nublado;20 km;26;27.5; 76;Oeste  7;936.7 / 
+Villa Reynolds;08-Abril-2021;19:00;Cubierto;10 km;21;No se calcula; 80;Sur  11;953.8 / 
+El Calafate;08-Abril-2021;19:00;Nublado con precipitación a la vista;30 km;11.8;No se calcula; 43;Oeste  27;987.8 / 
+Gobernador Gregores;08-Abril-2021;15:00;Parcialmente nublado;45 km;14;No se calcula; 38;Calma;966.7 / 
+Perito Moreno;08-Abril-2021;16:00;Parcialmente nublado;50 km;13.9;No se calcula; 39;Oeste  18;958.8 / 
+Puerto Deseado;08-Abril-2021;19:00;Parcialmente nublado;30 km;9.8;7.7; 89;Sur  14;1002 / 
+Río Gallegos;08-Abril-2021;19:00;Parcialmente nublado;30 km;9.6;7.5; 42;Sudoeste  14;- / 
+San Julián;08-Abril-2021;19:00;Parcialmente nublado;30 km;11.2;No se calcula; 46;Sur  20;1006.1 / 
+Santa Cruz;08-Abril-2021;19:00;Parcialmente nublado;30 km;9.4;6.8; 54;Sur  18;998.5 / 
+Ceres;08-Abril-2021;19:00;Parcialmente nublado;15 km;28.6;32.5; 73;Norte  9;995.6 / 
+El Trébol;08-Abril-2021;18:00;Nublado;15 km;30.4;32.7; 55;Norte  9;993 / 
+Rafaela;08-Abril-2021;18:00;Parcialmente nublado;10 km;29.2;30.4; 62;Norte  22;995.7 / 
+Reconquista;08-Abril-2021;19:00;Algo nublado con humo;10 km;29.4;32.7; 66;Noreste  20;1002.1 / 
+Rosario;08-Abril-2021;19:00;Nublado con lluvia en la hora anterior;10 km;20.5;No se calcula; 95;Sur  20;1004.9 / 
+Santa Fe;08-Abril-2021;18:00;Nublado;12 km;30.7;34.6; 62;Norte  16;1004.6 / 
+Sunchales;08-Abril-2021;19:00;Nublado;15 km;28.3;32.2; 76;Norte  9;996.1 / 
+Venado Tuerto;08-Abril-2021;19:00;Nublado con tormenta;1.5 km;20.1;No se calcula; 99;Calma;993.7 / 
+Termas de Rio Hondo;08-Abril-2021;19:00;Parcialmente nublado;12 km;25.5;No se calcula; 85;Oeste  9;971.9 / 
+Santiago del Estero;08-Abril-2021;19:00;Nublado;10 km;31.2;35.2; 59;Este  5;980.4 / 
+Río Grande B.A.;08-Abril-2021;19:00;Despejado;30 km;7.7;4.4; 72;Oeste  20;1004.6 / 
+Ushuaia;08-Abril-2021;19:00;Algo nublado;30 km;6.1;0.8; 64;Sudoeste  38;999.8 / 
+Tucumán;08-Abril-2021;19:00;Cubierto;10 km;25.7;No se calcula; 82;Sudoeste  7;954 / 
+Base Belgrano II;08-Abril-2021;18:00;Cubierto con nevada;200 mts;-11.9;-25.7; 85;Noreste  66;946.8 / 
+Base Esperanza;08-Abril-2021;18:00;Cubierto;10 km;1;-1.9; 66;Sur  9;979.6 / 
+Base Carlini;08-Abril-2021;18:00;Parcialmente nublado;10 km;0.7;-5.5; 84;Oeste  29;983.7 / 
+Base Marambio;08-Abril-2021;19:00;Cubierto;15 km;-3.4;-9.9; 92;Sur  22;959.2 / 
+Base Orcadas;08-Abril-2021;18:00;Cubierto con neblina;5 km;0.6;-5.0; 95;Noroeste  24;978 / 
+Base San Martín;08-Abril-2021;18:00;Cubierto con nevada;4.0 km;-2.2;-5.7; 85;Noroeste  9;984.2 / 
+Azul;08-Abril-2021;20:00;Parcialmente nublado con lluvia;15 km;16.4;No se calcula; 93;Este  7;993.4 / 
+Bahía Blanca;08-Abril-2021;20:00;Despejado;15 km;17.8;No se calcula; 89;Sur  7;1002.4 / 
+Benito Juárez;08-Abril-2021;18:00;Parcialmente nublado;12 km;16.4;No se calcula; 95;Noreste  9;985.6 / 
+Bolívar;08-Abril-2021;20:00;Parcialmente nublado;15 km;16.6;No se calcula; 100;Sudeste  3;999.4 / 
+Campo de Mayo;08-Abril-2021;20:00;Nublado con lluvia;3.0 km;19.8;No se calcula; 96;Sur  22;1009.3 / 
+Coronel Pringles;08-Abril-2021;15:00;Cubierto;20 km;20;No se calcula; 77;Norte  7;982.9 / 
+Coronel Suarez;08-Abril-2021;18:00;Cubierto;20 km;18.5;No se calcula; 87;Este  7;983.6 / 
+Dolores;08-Abril-2021;20:00;Nublado con lluvia;7 km;18.2;No se calcula; 93;Noreste  7;1010.4 / 
+El Palomar;08-Abril-2021;20:00;Nublado con tormenta;2.0 km;20.4;No se calcula; 98;Sur  22;1010.2 / 
+Ezeiza;08-Abril-2021;20:00;Cubierto con lluvia;3.0 km;20.3;No se calcula; 96;Sur  13;1009.4 / 
+Junín;08-Abril-2021;20:00;Nublado con tormenta;8 km;19.8;No se calcula; 96;Este  14;999 / 
+La Plata;08-Abril-2021;20:00;Nublado con lluvia;2.0 km;21;No se calcula; 98;Sur  20;1008.6 / 
+Las Flores;08-Abril-2021;18:00;Cubierto con lluvia;3.9 km;17.3;No se calcula; 63;Este  29;1007 / 
+Mar del Plata;08-Abril-2021;20:00;Nublado;10 km;18.4;No se calcula; 89;Este  11;1009 / 
+Mariano Moreno;08-Abril-2021;20:00;Cubierto con lluvia;3.0 km;20;No se calcula; 100;Sudeste  18;1008.1 / 
+Merlo;08-Abril-2021;20:00;Cubierto con lluvia;8 km;20.6;No se calcula; 96;Oeste  18;1009 / 
+Morón;08-Abril-2021;20:00;Nublado con lluvia;4.0 km;21.2;No se calcula; 94;Sur  16;1008.1 / 
+Nueve de Julio;08-Abril-2021;18:00;Nublado;15 km;19.4;No se calcula; 92;Sudeste  11;1000.2 / 
+Olavarría;08-Abril-2021;20:00;Parcialmente nublado;15 km;16.4;No se calcula; 95;Este  14;991.8 / 
+Pehuajó;08-Abril-2021;20:00;Parcialmente nublado;15 km;18.7;No se calcula; 91;Este  20;1000 / 
+Pigué;08-Abril-2021;20:00;Cubierto;15 km;17.1;No se calcula; 90;Este  14;976.1 / 
+Punta Indio B.A.;08-Abril-2021;19:00;Nublado con llovizna en la hora anterior;10 km;23.5;No se calcula; 86;Sudeste  11;1007.6 / 
+San Fernando;08-Abril-2021;20:00;Cubierto con lluvia;8 km;20.8;No se calcula; 96;Sur  18;1012 / 
+Tandil;08-Abril-2021;20:00;Cubierto;15 km;15.6;No se calcula; 98;Sudeste  11;990.8 / 
+Trenque Lauquen;08-Abril-2021;15:00;Cubierto con lluvia;2.0 km;18.9;No se calcula; 98;Este  7;998.2 / 
+Tres Arroyos;08-Abril-2021;18:00;Algo nublado;10 km;18.1;No se calcula; 86;Noreste  7;999 / 
+Villa Gesell;08-Abril-2021;20:00;Nublado;10 km;17.7;No se calcula; 96;Este  18;1011.3 / 
+Aeroparque Buenos Aires;08-Abril-2021;20:00;Nublado con tormenta en la hora anterior;2.0 km;21.5;No se calcula; 95;Sur  18;1010.6 / 
+Buenos Aires;08-Abril-2021;20:00;Nublado con lluvia;6 km;21.4;No se calcula; 93;Sudeste  7;1008.6 / 
+Catamarca;08-Abril-2021;19:00;Parcialmente nublado;20 km;29.4;32.2; 62;Norte  9;951.4 / 
+Tinogasta;08-Abril-2021;18:00;Parcialmente nublado;20 km;29;28.9; 45;Este  14;870.3 / 
+Pcia. Roque Saenz Peña;08-Abril-2021;20:00;Despejado;20 km;27.2;30.0; 78;Este  9;998.5 / 
+Resistencia;08-Abril-2021;20:00;Despejado;15 km;26.6;28.6; 75;Este  7;1003.8 / 
+Comodoro Rivadavia;08-Abril-2021;20:00;Nublado;30 km;14.3;No se calcula; 76;Calma;1005.8 / 
+Esquel;08-Abril-2021;20:00;Cubierto con chaparrón de lluvia;10 km;8.5;5.7; 78;Oeste  18;919.7 / 
+Paso De Indios;08-Abril-2021;18:00;Nublado;30 km;11.7;No se calcula; 84;Sudoeste  7;955.2 / 
+Puerto Madryn;08-Abril-2021;20:00;Parcialmente nublado;30 km;14.8;No se calcula; 76;Este  11;995.8 / 
+Trelew;08-Abril-2021;20:00;Parcialmente nublado;30 km;15;No se calcula; 66;Este  18;1007.4 / 
+Córdoba;08-Abril-2021;20:00;Algo nublado con relámpagos sin truenos;10 km;25.1;No se calcula; 74;Norte  11;950.6 / 
+Córdoba Observatorio;08-Abril-2021;20:00;Despejado;10 km;28.6;30.4; 60;Noreste  7;957.7 / 
+Esc. Aviación Militar;08-Abril-2021;20:00;Algo nublado;10 km;25.6;No se calcula; 72;Norte  5;951 / 
+Laboulaye;08-Abril-2021;20:00;Parcialmente nublado;10 km;22.3;No se calcula; 91;Calma;991.8 / 
+Marcos Juárez;08-Abril-2021;20:00;Cubierto con tormenta;10 km;22;No se calcula; 85;Sur  44;992.8 / 
+Pilar Obs.;08-Abril-2021;20:00;Algo nublado con relámpagos sin truenos;10 km;27;29.5; 76;Norte  7;968.2 / 
+Río Cuarto;08-Abril-2021;20:00;Cubierto con neblina;8 km;21;No se calcula; 90;Sur  11;960.6 / 
+Villa Dolores;08-Abril-2021;20:00;Parcialmente nublado;30 km;24.1;No se calcula; 76;Noroeste  9;943.6 / 
+Villa María Del Río Seco;08-Abril-2021;18:00;Nublado;15 km;30;32.2; 56;Noroeste  9;968.2 / 
+Corrientes;08-Abril-2021;20:00;Despejado;10 km;26.8;29.2; 78;Este  9;1003.2 / 
+Ituzaingó;08-Abril-2021;18:00;Parcialmente nublado;15 km;28.8;32.9; 73;Norte  5;1001.8 / 
+Mercedes;08-Abril-2021;15:00;Parcialmente nublado;15 km;31.4;32.1; 51;Norte  44;- / 
+Monte Caseros;08-Abril-2021;20:00;Algo nublado con humo;8 km;26.8;27.7; 71;Noreste  14;1004.5 / 
+Paso De Los Libres;08-Abril-2021;20:00;Despejado con humo;8 km;25.5;No se calcula; 78;Noreste  5;1003.8 / 
+Concordia;08-Abril-2021;20:00;Algo nublado;15 km;27.4;27.7; 68;Norte  22;1005.4 / 
+Gualeguaychú;08-Abril-2021;20:00;Nublado con relámpagos sin truenos;15 km;28.2;29.1; 66;Noreste  29;1005.2 / 
+Paraná;08-Abril-2021;20:00;Parcialmente nublado;15 km;27;29.3; 75;Norte  11;999.4 / 
+Formosa;08-Abril-2021;20:00;Despejado;20 km;26.3;27.4; 84;Este  13;1003 / 
+Las Lomitas;08-Abril-2021;20:00;Algo nublado;20 km;29;31.8; 64;Noreste  1;993.3 / 
+Mount Pleasant Airport (Islas Malvinas);08-Abril-2021;20:00;Cubierto;25 km;6.8;1.8; 90;Sudoeste  38;994.8 / 
+La Quiaca;08-Abril-2021;20:00;Parcialmente nublado;30 km;19.4;No se calcula; 27;Noreste  3;668 / 
+Jujuy;08-Abril-2021;20:00;Nublado;10 km;24.8;No se calcula; 72;Norte  9;906.6 / 
+Jujuy Universidad Nacional;08-Abril-2021;15:00;Parcialmente nublado;15 km;27.2;28.6; 62;Noreste  3;864.2 / 
+General Pico;08-Abril-2021;20:00;Cubierto con llovizna;5 km;19.1;No se calcula; 96;Sur  14;993.2 / 
+Victorica;08-Abril-2021;15:00;Cubierto;40 km;22.9;No se calcula; 63;Sur  9;973.6 / 
+Santa Rosa;08-Abril-2021;20:00;Cubierto con llovizna;9 km;17.7;No se calcula; 98;Este  11;988.9 / 
+Chamical;08-Abril-2021;20:00;Algo nublado;20 km;26;27.3; 69;Calma;952.9 / 
+Chepes;08-Abril-2021;15:00;Cubierto;20 km;29;No se calcula; 37;Calma;932.1 / 
+Chilecito;08-Abril-2021;20:00;Algo nublado;20 km;26;25.7; 60;Sur  14;903.7 / 
+La Rioja;08-Abril-2021;20:00;Parcialmente nublado con humo;12 km;26.6;28.6; 75;Sur  9;955.2 / 
+Malargue;08-Abril-2021;20:00;Despejado;20 km;14.6;No se calcula; 66;Noreste  9;855.8 / 
+Mendoza;08-Abril-2021;20:00;Nublado;15 km;20.4;No se calcula; 63;Este  7;930.6 / 
+Mendoza Observatorio;08-Abril-2021;20:00;Cubierto;15 km;19.7;No se calcula; 72;Calma;917.3 / 
+San Carlos (Mza);08-Abril-2021;15:00;Nublado;25 km;20.4;No se calcula; 66;Sur  9;903.3 / 
+San Martín (Mza);08-Abril-2021;20:00;Parcialmente nublado;15 km;19.4;No se calcula; 74;Sudeste  3;935.8 / 
+San Rafael;08-Abril-2021;20:00;Algo nublado;20 km;17.2;No se calcula; 65;Este  3;927 / 
+Uspallata;08-Abril-2021;18:00;Despejado;15 km;23.9;No se calcula; 23;Sur  3;809.7 / 
+Bernardo De Irigoyen;08-Abril-2021;20:00;Algo nublado;20 km;22.9;No se calcula; 66;Este  3;924.2 / 
+Iguazú;08-Abril-2021;20:00;Despejado;20 km;25.2;No se calcula; 72;Calma;982.8 / 
+Oberá;08-Abril-2021;15:00;Algo nublado;20 km;30.8;33.3; 54;Norte  3;980.9 / 
+Posadas;08-Abril-2021;20:00;Algo nublado;20 km;27.6;29.4; 64;Este  9;997.8 / 
+Chapelco;08-Abril-2021;20:00;Parcialmente nublado;15 km;9.8;7.1; 64;Oeste  20;924.2 / 
+Neuquén;08-Abril-2021;20:00;Parcialmente nublado;15 km;18.7;No se calcula; 42;Sudoeste  13;982 / 
+Bariloche;08-Abril-2021;20:00;Parcialmente nublado con lluvia;8 km;9.3;5.4; 61;Noroeste  33;916.8 / 
+Cipolletti;08-Abril-2021;15:00;Algo nublado;25 km;23;No se calcula; 32;Noroeste  9;980.6 / 
+El Bolsón;08-Abril-2021;15:00;Nublado;30 km;14.9;No se calcula; 63;Calma;973.3 / 
+Maquinchao;08-Abril-2021;18:00;Nublado;40 km;12.2;No se calcula; 44;Oeste  14;912.1 / 
+Río Colorado;08-Abril-2021;15:00;Despejado;15 km;23.8;No se calcula; 56;Sudoeste  3;1000.5 / 
+San Antonio Oeste;08-Abril-2021;20:00;Parcialmente nublado;30 km;17;No se calcula; 63;Sudeste  22;1010.8 / 
+Viedma;08-Abril-2021;20:00;Parcialmente nublado;30 km;16.5;No se calcula; 85;Sur  9;1010.9 / 
+Metán;08-Abril-2021;15:00;Parcialmente nublado con bruma;13 km;29;32.1; 68;Noreste  14;911.3 / 
+Orán;08-Abril-2021;20:00;Parcialmente nublado;10 km;28.8;32.7; 72;Calma;963 / 
+Rivadavia;08-Abril-2021;15:00;Parcialmente nublado;25 km;33;34.0; 41;Norte  9;982.1 / 
+Salta;08-Abril-2021;20:00;Nublado con precipitación a la vista;12 km;20.6;No se calcula; 92;Sudoeste  7;875 / 
+Tartagal;08-Abril-2021;20:00;Parcialmente nublado;10 km;26.1;27.8; 77;Norte  3;954.7 / 
+Jachal;08-Abril-2021;15:00;Algo nublado;30 km;25;No se calcula; 53;Sudeste  3;877.4 / 
+San Juan;08-Abril-2021;20:00;Nublado;15 km;22.4;No se calcula; 59;Sur  22;941.3 / 
+San Luis;08-Abril-2021;20:00;Cubierto;20 km;19.8;No se calcula; 76;Sudeste  20;928.8 / 
+Santa Rosa del Conlara;08-Abril-2021;20:00;Parcialmente nublado;20 km;24;No se calcula; 88;Sur  7;937.3 / 
+Villa Reynolds;08-Abril-2021;20:00;Cubierto;10 km;20.4;No se calcula; 84;Sudeste  9;954.6 / 
+El Calafate;08-Abril-2021;20:00;Nublado;30 km;9.4;6.8; 47;Sudoeste  18;989 / 
+Gobernador Gregores;08-Abril-2021;15:00;Parcialmente nublado;45 km;14;No se calcula; 38;Calma;966.7 / 
+Perito Moreno;08-Abril-2021;16:00;Parcialmente nublado;50 km;13.9;No se calcula; 39;Oeste  18;958.8 / 
+Puerto Deseado;08-Abril-2021;20:00;Parcialmente nublado;30 km;9.4;6.3; 94;Sur  24;1002.8 / 
+Río Gallegos;08-Abril-2021;20:00;Parcialmente nublado;30 km;8.4;5.0; 50;Sudoeste  24;- / 
+San Julián;08-Abril-2021;20:00;Parcialmente nublado;30 km;10.2;No se calcula; 59;Sudeste  5;1007 / 
+Santa Cruz;08-Abril-2021;20:00;Parcialmente nublado;30 km;7.4;5.7; 60;Sur  9;999.6 / 
+Ceres;08-Abril-2021;20:00;Parcialmente nublado;15 km;28.6;31.8; 69;Norte  9;996 / 
+El Trébol;08-Abril-2021;18:00;Nublado;15 km;30.4;32.7; 55;Norte  9;993 / 
+Rafaela;08-Abril-2021;18:00;Parcialmente nublado;10 km;29.2;30.4; 62;Norte  22;995.7 / 
+Reconquista;08-Abril-2021;20:00;Algo nublado con humo;10 km;28.8;31.1; 70;Noreste  22;1002.4 / 
+Rosario;08-Abril-2021;20:00;Nublado con lluvia;10 km;20.5;No se calcula; 94;Sudeste  14;1006.1 / 
+Santa Fe;08-Abril-2021;20:00;Parcialmente nublado;12 km;28.2;31.6; 73;Noreste  11;1005.2 / 
+Sunchales;08-Abril-2021;20:00;Parcialmente nublado;15 km;26.9;29.8; 83;Calma;996.5 / 
+Venado Tuerto;08-Abril-2021;19:00;Nublado con tormenta;1.5 km;20.1;No se calcula; 99;Calma;993.7 / 
+Termas de Rio Hondo;08-Abril-2021;20:00;Nublado;12 km;25.5;No se calcula; 87;Sudoeste  5;972.5 / 
+Santiago del Estero;08-Abril-2021;19:00;Nublado;10 km;31.2;35.2; 59;Este  5;980.4 / 
+Río Grande B.A.;08-Abril-2021;20:00;Despejado;30 km;5.7;2.4; 81;Oeste  16;1006 / 
+Ushuaia;08-Abril-2021;20:00;Algo nublado;30 km;5.7;0.1; 62;Sudoeste  42;1000.8 / 
+Tucumán;08-Abril-2021;20:00;Cubierto;10 km;24.4;No se calcula; 88;Oeste  3;954.8 / 
+Base Belgrano II;08-Abril-2021;18:00;Cubierto con nevada;200 mts;-11.9;-25.7; 85;Noreste  66;946.8 / 
+Base Esperanza;08-Abril-2021;18:00;Cubierto;10 km;1;-1.9; 66;Sur  9;979.6 / 
+Base Carlini;08-Abril-2021;18:00;Parcialmente nublado;10 km;0.7;-5.5; 84;Oeste  29;983.7 / 
+Base Marambio;08-Abril-2021;20:00;Cubierto;15 km;-4;-10.6; 96;Sur  22;959.7 / 
+Base Orcadas;08-Abril-2021;18:00;Cubierto con neblina;5 km;0.6;-5.0; 95;Noroeste  24;978 / 
+Base San Martín;08-Abril-2021;18:00;Cubierto con nevada;4.0 km;-2.2;-5.7; 85;Noroeste  9;984.2 / 
+observaciones/tiepre20210408.txtEl archivo no existe.observaciones/tiepre20210408.txtEl archivo no existe.observaciones/tiepre20210408.txtEl archivo no existe.

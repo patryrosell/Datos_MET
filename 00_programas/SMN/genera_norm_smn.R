@@ -1,346 +1,266 @@
-genera_norm_smn<-function(){
-  # La finalidad de este script es leer tanto los datos de tiempo presente como los horarios, 
-  ## para la generación de un único archivo de datos con formato normalizado. El script toma la 
-  ## fecha más antigua de ambos listados y controla la existencia de ambos archivos. 
-  ## Si existe únicamente los datos de tiempo presente, se complentan los datos con la información
-  ## allí presente.
-  ## Si existe únicamente los datos horarios, se completa con la información allí presente. 
-  ## Si existen ambos archivos, se completa con la información de ambos listados.
+genera_norm_smn <- function(path_param,path_program) {
+  # Main script for reading and cleaning data from the Servicio Meteorol�gico Nacional of Argentina
+  ## It reads real-time data and hourly data, freely available at https://www.smn.gob.ar/descarga-de-datos
+  ## and transform it into a normalized format.
   
-  packages <- c("readr", "dplyr", "stringr","lubridate","readxl","data.table","padr","gdata")
-   check.and.install.Package<-function(package_name){
-     if(!package_name%in%installed.packages()){
-       install.packages(package_name)
-     }
-   }
-   
-   check.and.install.Package("readr")
-   check.and.install.Package("dplyr")
-   check.and.install.Package("stringr")
-   check.and.install.Package("lubridate")
-   check.and.install.Package("readxl")
-   check.and.install.Package("data.table")
-   check.and.install.Package("padr")
-   check.and.install.Package("gdata")
+  packages <-
+    c("readr",
+      "dplyr",
+      "stringr",
+      "lubridate",
+      "readxl",
+      "data.table",
+      "padr",
+      "gdata")
   
-   suppressPackageStartupMessages({
-     library(readr) # Para cargar las tablas 
-     library(dplyr) # Manipulación de datos
-     library(stringr)
-     library(lubridate)
-     library(readxl)
-     library(data.table)
-     library(padr)
-     library(gdata)
-   })
+  source(paste0(path_program, "/search_and_load.R"))
   
-  path_param="/nfs/gps2/sd0/proyectos/Datos_MET/parametros.txt"
+  search_and_load(packages)
   
-  # Leo parámetros
-  parametros=read_delim(path_param,
-                        skip=4,
-                        skip_empty_rows = TRUE,
-                        col_names = c("Par","valor"),
-                        col_types = cols(),
-                        delim="=",progress = FALSE)
+  # Read parameters file
+  parametros = read_delim(
+    path_param,
+    skip = 4,
+    skip_empty_rows = TRUE,
+    col_names = c("Par", "valor"),
+    col_types = cols(),
+    comment = "#",
+    delim = "=",
+    progress = FALSE
+  )
   
-  # Cargo funciones importantes para filtrado y guardado
-  smn_prog=as.character(parametros[which(parametros$Par == "smn_programas"),2])
+  # Loading useful functions
+  source(paste0(path_program, "/busca_TP_smn.R"))
+  source(paste0(path_program, "/busca_DH_smn.R"))
+  source(paste0(path_program, "/guarda_norm_smn.R"))
+  source(paste0(path_program, "/busca_stat.R"))
   
-  source(paste0(smn_prog,"/busca_TP_smn.R"))
-  source(paste0(smn_prog,"/busca_DH_smn.R"))
-  source(paste0(smn_prog,"/guarda_norm_smn.R"))
-  source(paste0(smn_prog,"/busca_stat.R"))
+  # Read specific parameters
+  smn_datohorario_raw = as.character(parametros[which(parametros$Par == "smn_datohorario_raw"), 2])
   
-  # Busco listado de datos crudos
-  smn_datohorario_row=as.character(parametros[which(parametros$Par == "smn_datohorario_row"),2])
+  smn_datoTP_raw = as.character(parametros[which(parametros$Par == "smn_datoTP_raw"), 2])
   
-  smn_datoTP_row=as.character(parametros[which(parametros$Par == "smn_datoTP_row"),2])
+  SMN_raw = as.character(parametros[which(parametros$Par == "SMN"), 2])
   
-  SMN_row=as.character(parametros[which(parametros$Par == "SMN"),2])
+  equal = as.character(parametros[which(parametros$Par == "smn_equivalencias"), 2])
   
-  equal=as.character(parametros[which(parametros$Par == "smn_equivalencias"),2])
+  smn_dato_norm = as.character(parametros[which(parametros$Par == "smn_dato_norm"), 2])
   
-  smn_dato_norm=as.character(parametros[which(parametros$Par == "smn_dato_norm"),2])
+  overwrite = as.character(parametros[which(parametros$Par == "overwrite"), 2])
   
-  overwrite=as.character(parametros[which(parametros$Par == "overwrite"),2])
+  grafico = as.character(parametros[which(parametros$Par == "graph_acum"), 2])
   
-  # Cargo lista de estaciones con sus equivalencias
+  # Load equivalences table
   
-  equivalencias=read_excel(equal,sheet="equivalencias")
+  equivalencias = read_excel(equal, sheet = "equivalencias")
   
-  # Listo los archivos de cada uno
+  # list of available data
   
-  TP=list.files(smn_datoTP_row,pattern = "tiepre",full.names = TRUE)
+  TP = list.files(smn_datoTP_raw, pattern = "tiepre", full.names = TRUE)
   
-  hor=list.files(smn_datohorario_row,pattern = "datohorario", recursive = TRUE, full.names = TRUE)
+  hor = list.files(
+    smn_datohorario_raw,
+    pattern = "datohorario",
+    recursive = TRUE,
+    full.names = TRUE
+  )
   
-  # Genero listado de fechas. Para eso, me quedo con los caracteres que contienen la fecha
-  ## elimino errores y los transformo a formato fecha.
+  # Listing dates and transforming it into a specific format.
   
-  TP_dates=as.Date(str_sub(TP,-12,-5),format="%Y%m%d")
-  TP_dates=TP_dates[!is.na(TP_dates)]
+  TP_dates = as.Date(str_sub(TP, -12, -5), format = "%Y%m%d")
+  TP_dates = TP_dates[!is.na(TP_dates)]
   
-  hor_dates=as.Date(str_sub(hor,-12,-5),format="%Y%m%d")
-  hor_dates=hor_dates[!is.na(hor_dates)]
+  hor_dates = as.Date(str_sub(hor, -12, -5), format = "%Y%m%d")
+  hor_dates = hor_dates[!is.na(hor_dates)]
   
-  # Generamos un log para que guarde la última fecha que se analizó
-  ## y siempre retome desde ahí
-  log_smn=paste0(smn_dato_norm,"/log_smn")
+  # Creation of a log file for recording the latest date processed
+  log_smn = paste0(smn_dato_norm, "/log_smn")
   
   if (file.exists(log_smn) == TRUE) {
-    log=read_csv(log_smn,col_names = FALSE,show_col_types = FALSE)
-    log=log[[1]]
-    old=as.Date(log,format="%Y-%m-%d")
-  } else {
+    log = read_csv(log_smn, col_names = FALSE, show_col_types = FALSE)
+    log = log[[1]]
+    old = as.Date(log, format = "%Y-%m-%d")
     
-    old=min(append(TP_dates,hor_dates))
+  } else {
+    old = min(append(TP_dates, hor_dates))
+    
   }
   
-  today=lubridate::ymd(format(Sys.Date(), "%Y%m%d"))
+  today = lubridate::ymd(format(Sys.Date(), "%Y%m%d"))
   
-  seq_days=seq(as.Date(old,format="%Y-%m-%d"), as.Date(today,format="%Y%m%d"), by="days")
+  seq_days = seq(as.Date(old, format = "%Y-%m-%d"),
+                 as.Date(today, format = "%Y%m%d"),
+                 by = "days")
   
-  seq_years=seq(as.Date(old,format="%Y-%m-%d"), as.Date(today,format="%Y%m%d"), by="years")
+  seq_years = seq(as.Date(old, format = "%Y-%m-%d"),
+                  as.Date(today, format = "%Y%m%d"),
+                  by = "years")
   
-  # inicio un for para tener los datos separados por año
+  # We want data saved by year.
   
-  for (ii in (year(old):year(today))){
+  for (ii in (year(old):year(today))) {
+    # Name of the folder for that year
+    file_YYYY = paste0(smn_dato_norm, "/", as.character(ii))
     
-    # Controlamos que exista la carpeta del año donde se guardaran los datos
-    file_YYYY=paste0(smn_dato_norm,"/",as.character(ii))
-    
-    # Ahora que nos aseguramos que la carpeta existe, seguimos leyendo datos
-    # Filtro la secuencia de dias para tener los datos sólo del año que interesa
-    YYYY=as.character(ii)
+    # Now we generate a sequence of days
+    YYYY = as.character(ii)
     print(YYYY)
     
-    seq_days_YYYY=str_subset(seq_days,pattern = YYYY)
-    dias=length(seq_days_YYYY)
+    # Sequence of dates for that year in particular
+    seq_days_YYYY = str_subset(seq_days, pattern = YYYY)
+    dias = length(seq_days_YYYY)
     
-    for (i in(1:dias)){
-      
-      FECHA=seq_days_YYYY[i]
+    # Loop for each day
+    for (i in(1:dias)) {
+      FECHA = seq_days_YYYY[i]
       
       print(FECHA)
       
-      # Genero los nombres de los archivos que debo leer
-      YYYY=lubridate::year(FECHA)
-      MM=sprintf("%02d", lubridate::month(FECHA))
-      DD=sprintf("%02d", lubridate::day(FECHA))
-      date=paste0(YYYY,MM,DD)
+      # Creation of filenames for searching
+      YYYY = lubridate::year(FECHA)
+      MM = sprintf("%02d", lubridate::month(FECHA))
+      DD = sprintf("%02d", lubridate::day(FECHA))
+      date = paste0(YYYY, MM, DD)
       
-      arc_TP=paste0(smn_datoTP_row,"/tiepre",date,".txt")
+      arc_TP = paste0(smn_datoTP_raw, "/tiepre", date, ".txt")
       
-      arc_hor=paste0(smn_datohorario_row,"/",YYYY,"/datohorario",date,".txt")
+      arc_hor = paste0(smn_datohorario_raw,
+                       "/",
+                       YYYY,
+                       "/datohorario",
+                       date,
+                       ".txt")
       
-      # si existen los archivos, los leo, sino lo informo
+      # Search real-time file
       
-      # BUSCO DATO TIEMPO PRESENTE
-
-      if(file.exists(arc_TP) == TRUE){
-        
-        flag_TP=1
-        datos_fin<-busca_TP_smn(arc_TP)
-        
-      } else {
-        flag_TP=0
-        #print(paste0("No existe dato de tiempo presente"))
-        datos_fin=NULL
-      } # Fin for dato tiempo presente
-      
-      # BUSCO DATO HORARIO
-      
-      if(file.exists(arc_hor) == TRUE){
-        
-        flag_DH=1
-        datos_ord<-busca_DH_smn(arc_hor)
+      if (file.exists(arc_TP) == TRUE) {
+        flag_TP = 1
+        datos_fin <- busca_TP_smn(arc_TP)
         
       } else {
-        flag_DH=0
-        #print(paste0("No existe archivo de dato horario"))
-        datos_ord=NULL
-      } # Fin for dato horario
+        flag_TP = 0
+        datos_fin = NULL
+        
+      } # end real-time
       
-      # Ahora que tengo todos los datos de ese día leídos, puedo hacer otro for
-      ## donde voy a filtrar por cada una de las estaciones del listado normalizado
-      if (flag_TP == 1 & flag_DH == 1) {
+      # Search hourly data
+      
+      if (file.exists(arc_hor) == TRUE) {
+        flag_DH = 1
+        datos_ord <- busca_DH_smn(arc_hor)
         
-        #print("1 1")
+      } else {
+        flag_DH = 0
+        datos_ord = NULL
         
-        # Si ambos archivos existen, filtramos los dos que ya se leyeron antes y los unimos  
-        for (j in (1:nrow(equivalencias))){
+      } # end hourly data
+      
+      for (j in (1:nrow(equivalencias))) {
+        # We deal with one station at the time
+        
+        equi = equivalencias[j, ] # one station
+        
+        if (flag_TP == 1 & flag_DH == 1) {
+          # If both files exists
           
-          # # Busco los datos de la estación
-          # OMM=as.character(equivalencias$OMM[j])
-          # OACI=as.character(equivalencias$OACI[j])
-          # 
-          # # Busco estación del listado "stat_TP" (porque estoy en Tiempo Presente)
-          # stat_TP=as.character(equivalencias$stats_TP[j])
-          # 
-          # # Busco nombres posibles para la estaciñon, en el del listado "stat_DH" 
-          # ## (porque estoy en Dato Horario)
-          # stat_DH=as.character(equivalencias$stats_DH[j])
-          # stat_DH2=as.character(equivalencias$stats_DH2[j])
-          # stat_DH3=as.character(equivalencias$stats_DH3[j])
-          # 
-          # # filtro dato tiempo presente
-          # datote=dplyr::filter(datos_fin,NAME == stat_TP)
-          # datote$PREC=NA # Para futuros valores de precipitaciones
-          # datote=datote[,-1]
-          # 
-          # # filtro dato horario
-          # datote2=dplyr::filter(datos_ord,NAME == stat_DH)
-          # 
-          # # Si no encuentra datos con un nombre, busca con el otro
-          # if (nrow(datote2) == 0){
-          #   datote2=dplyr::filter(datos_ord,NAME == stat_DH2)
-          # }
-          # 
-          # if (nrow(datote2) == 0){
-          #   datote2=dplyr::filter(datos_ord,NAME == stat_DH3)
-          # }
-          datote<-busca_stat(j,equivalencias,datos_fin) #Dato tiempo presente
-          datote2<-busca_stat(j,equivalencias,datos_ord) #Dato horario
+          datote <- busca_stat(equi, datos_fin) # read real-time data
+          datote2 <- busca_stat(equi, datos_ord) # read hourly data
           
           if (!nrow(datote2) == 0 & !nrow(datote) == 0) {
-            # datote2=datote2[,-1]
-            # datote2$PREC=NA # Para futuros valores de precipitaciones
+            # Merging data frames. We only care the columns with new data
+            TP_completo = full_join(datote2, datote[, c(1, 2)], by = "DATE")
             
-            # Unifico los dos dataframes. Acá sólo pego las columas de PRE_mar a los datos
-            ## de tiempo presente.
-            TP_comp=merge(x = datote, y = datote2[,c(1,2)], by = "DATE", all.x = TRUE)
+          } else if (nrow(datote2) == 0 &
+                     !nrow(datote) == 0) {
+            # Check for missing station
             
-            # Ahora agrego las columnas que faltan de acuerdo a las fechas faltantes
-            TP_completo=rows_upsert(TP_comp,datote2,by="DATE")
+            datote$PRE_mar = NA
+            TP_completo = datote
             
-            # Ordeno los datos para que queden como queremos
-            TP_completo=TP_completo[,c('DATE','PRE_stat','PRE_mar','TEMP','HUM','PREC')]
+          } else if (!nrow(datote2) == 0 &
+                     nrow(datote) == 0) {
+            # Check for missing station
             
-            # Ordeno por fecha ascendente
-            #TP_completo = TP_completo[order(as.POSIXct(TP_completo$DATE,format="%d %B %Y %H:%M:%S")),]
+            datote2$PRE_stat = NA
+            TP_completo = datote2
             
-            # Guardo llamando a la función guardar
-            guarda_norm(TP_completo,equivalencias,j,file_YYYY,overwrite)            
-          } else if (nrow(datote2) == 0 & !nrow(datote) == 0){
-            # Puede pasar que al filtrar por estación, aún tengamos una sin datos por alguna falla
-            datote$PRE_mar=NA
-            TP_completo=datote[,c('DATE','PRE_stat','PRE_mar','TEMP','HUM','PREC')]
-            guarda_norm(TP_completo,equivalencias,j,file_YYYY,overwrite)
-          } else if (!nrow(datote2) == 0 & nrow(datote) == 0){
-            # Puede pasar que al filtrar por estación, aún tengamos una sin datos por alguna falla
-            datote2$PRE_stat=NA
-            TP_completo=datote2[,c('DATE','PRE_stat','PRE_mar','TEMP','HUM','PREC')]
-            guarda_norm(TP_completo,equivalencias,j,file_YYYY,overwrite)
           } else {
-              TP_completo=NULL
+            TP_completo = NULL
+            
           }
           
-        } # Fin if por el control de la existencia de los dos archivos
-        
-      } else if (flag_TP == 1 & flag_DH == 0) {
-        
-        #print("1 0")
-        # Ahroa lidiamos con la existencia unica de los datos de TP
-        for (j in (1:nrow(equivalencias))){
+        } else if (flag_TP == 1 &
+                   flag_DH == 0) {
+          # real-time file exists, but hourly doesnt
           
-          # # Busco los datos de la estación
-          # OMM=as.character(equivalencias[j,1][[1]])
-          # OACI=equivalencias[j,2][[1]]
-          # 
-          # # Busco primera estación del listado "stat_TP" (porque estoy en Tiempo Presente)
-          # stat_TP=equivalencias[j,4][[1]]
+          TP_completo <- busca_stat(equi, datos_fin)
           
-          # filtro dato tiempo presente
-          # datote=dplyr::filter(datos_fin,NAME == stat_TP)
-          
-          datote<-busca_stat(j,equivalencias,datos_fin)
-          
-          if (!nrow(datote) == 0){
-            # datote$PREC=NA # Para futuros valores de precipitaciones
-            datote$PRE_mar=NA
-            #datote=datote[,-1]
+          if (!nrow(TP_completo) == 0) {
+            # Check for missing station
             
-            # Ordeno los datos para que queden como queremos
-            TP_completo=datote[,c('DATE','PRE_stat','PRE_mar','TEMP','HUM','PREC')]
+            TP_completo$PRE_mar = NA
             
-            # Ordeno por fecha ascendente
-            #TP_completo = TP_completo[order(as.POSIXct(TP_completo$DATE,format="%d %B %Y %H:%M:%S")),]
-            
-            # Guardo llamando a la función guardar
-            guarda_norm(TP_completo,equivalencias,j,file_YYYY,overwrite)  
           } else {
-            TP_completo=NULL
-          }
-
-        } # Fin if por el control de la existencia de dato TP
-        
-      } else if (flag_TP == 0 & flag_DH == 1) {
-        
-        #print("0 1")
-        # Ahroa lidiamos con la existencia unica de los datos horarios
-        for (j in (1:nrow(equivalencias))){
-          #print(j)
-          
-          # Busco los datos de la estación
-          # OMM=as.character(equivalencias[j,1][[1]])
-          # OACI=equivalencias[j,2][[1]]
-          # 
-          # # Busco nombres posibles para la estaciñon, en el del listado "stat_DH" 
-          # ## (porque estoy en Dato Horario)
-          # stat_DH=equivalencias[j,5][[1]]
-          # stat_DH2=equivalencias[j,6][[1]]
-          # stat_DH3=equivalencias[j,7][[1]]
-          # 
-          # # filtro dato horario
-          # datote2=dplyr::filter(datos_ord,NAME == stat_DH)
-          # 
-          # # Si no encuentra datos con un nombre, busca con el otro
-          # if (nrow(datote2) == 0){
-          #   datote2=dplyr::filter(datos_ord,NAME == stat_DH2)
-          # }
-          # 
-          # if (nrow(datote2) == 0){
-          #   datote2=dplyr::filter(datos_ord,NAME == stat_DH3)
-          # }
-          
-          datote2<-busca_stat(j,equivalencias,datos_ord)
-          
-          # Controlo que después del fitro, me haya quedado con datos
-          if (!nrow(datote2) == 0 ){
-            #datote2=datote2[,-1]
-            # datote2$PREC=NA # Para futuros valores de precipitaciones
-            datote2$PRE_stat=NA
+            TP_completo = NULL
             
-            # Ordeno los datos para que queden como queremos
-            TP_completo=datote2[,c('DATE','PRE_stat','PRE_mar','TEMP','HUM','PREC')]
+          } # Fin if por el control de la existencia de dato TP
+          
+        } else if (flag_TP == 0 &
+                   flag_DH == 1) {
+          # Hourly data exists, but real-time doesnt
+          
+          TP_completo <- busca_stat(equi, datos_ord)
+          
+          if (!nrow(TP_completo) == 0) {
+            # Check for missing station
             
-            # Ordeno por fecha ascendente
-            #TP_completo = TP_completo[order(as.POSIXct(TP_completo$DATE,format="%d %B %Y %H:%M:%S")),]
+            TP_completo$PRE_stat = NA
             
-            # Guardo llamando a la función guardar
-            guarda_norm(TP_completo,equivalencias,j,file_YYYY,overwrite)
           } else {
-            TP_completo=NULL
+            TP_completo = NULL
+            
           }
-
-        } # Fin if por el control de la existencia de datos horarios
+          
+        } else {
+          TP_completo = NULL
+          
+        } # end if "else if"
         
-      } else {
-        print("No existe ningún archivo de datos para la fecha indicada")
-        TP_completo=NULL
-      }
+        if (is.null(TP_completo) == FALSE) {
+          # Save data
+          
+          guarda_norm(TP_completo, equi, file_YYYY, overwrite)
+          
+        }
+        
+      } # end if "equivalencias"
       
-      # Generamos un log para que guarde la última fecha que se analizó
-      ## y siempre retome desde ahí
-      write.table(FECHA,log_smn,quote = FALSE, na="NA",row.names = FALSE,col.names = FALSE)
+      # Log file update
+      write.table(
+        FECHA,
+        log_smn,
+        quote = FALSE,
+        na = "NA",
+        row.names = FALSE,
+        col.names = FALSE
+      )
       
-    } # Fin for por día de ese año
+    } # end loop for day
     
-  } # fin for por año
+  } #  end loop for year
   
-  print("La normalización de datos del SMN (horarios y tiempo presente), ha finalizado")
-
+  print("Data processing has finished")
+  
+  # Plotting accumulated data if settled in the parameters file
+  if (graph_acum == Y) {
+    print("Plotting accumulated data")
+    smn_graph = as.character(parametros[which(parametros$Par == "smn_graph"), 2])
+    
+    genera_grafico(path_param, dato_norm, save_graph, path_program)
+    
+  }
+  
 }
 
-genera_norm_smn()
+genera_norm_smn(path_param)
+

@@ -1,0 +1,862 @@
+Azul;27-Mayo-2021;14:00;Parcialmente nublado;20 km;18.2;No se calcula; 50;Oeste  18;987.8 / 
+Bahía Blanca;27-Mayo-2021;14:00;Nublado;15 km;20.1;No se calcula; 50;Norte  37;991 / 
+Benito Juárez;27-Mayo-2021;12:00;Parcialmente nublado;15 km;17.1;No se calcula; 54;Noroeste  33;981.3 / 
+Bolívar;27-Mayo-2021;14:00;Parcialmente nublado;15 km;21;No se calcula; 46;Norte  22;994.2 / 
+Campo de Mayo;27-Mayo-2021;14:00;Algo nublado;10 km;21.8;No se calcula; 51;Noroeste  14;1006.6 / 
+Coronel Pringles;27-Mayo-2021;09:00;Parcialmente nublado;25 km;9.7;7.6; 81;Noroeste  14;978.8 / 
+Coronel Suarez;27-Mayo-2021;12:00;Parcialmente nublado;50 km;16;No se calcula; 58;Norte  25;978.8 / 
+Dolores;27-Mayo-2021;14:00;Nublado;10 km;20.6;No se calcula; 51;Oeste  25;1005.2 / 
+El Palomar;27-Mayo-2021;14:00;Algo nublado;10 km;21.5;No se calcula; 54;Noroeste  18;1007.6 / 
+Ezeiza;27-Mayo-2021;14:00;Algo nublado;10 km;22.2;No se calcula; 46;Noroeste  25;1006 / 
+Junín;27-Mayo-2021;14:00;Despejado;10 km;23.3;No se calcula; 43;Noroeste  29;997.4 / 
+La Plata;27-Mayo-2021;14:00;Algo nublado con bruma;8 km;20.7;No se calcula; 54;Norte  13;1006.4 / 
+Las Flores;27-Mayo-2021;12:00;Parcialmente nublado;15 km;16.6;No se calcula; 67;Oeste  7;1005 / 
+Mar del Plata;27-Mayo-2021;14:00;Parcialmente nublado;10 km;21.5;No se calcula; 45;Noroeste  35;1000.2 / 
+Mariano Moreno;27-Mayo-2021;14:00;Algo nublado;10 km;20.2;No se calcula; 56;Oeste  22;1006.9 / 
+Merlo;27-Mayo-2021;14:00;Algo nublado;10 km;21.4;No se calcula; 57;Noroeste  11;1009 / 
+Morón;27-Mayo-2021;14:00;Despejado;10 km;21.6;No se calcula; 43;Noroeste  20;1007 / 
+Nueve de Julio;27-Mayo-2021;12:00;Algo nublado;15 km;19.9;No se calcula; 53;Noroeste  22;1000.6 / 
+Olavarría;27-Mayo-2021;14:00;Parcialmente nublado;15 km;18.6;No se calcula; 51;Oeste  13;986 / 
+Pehuajó;27-Mayo-2021;14:00;Parcialmente nublado;15 km;21.8;No se calcula; 49;Noroeste  20;995.4 / 
+Pigué;27-Mayo-2021;14:00;Parcialmente nublado;20 km;19.4;No se calcula; 41;Oeste  33;967.7 / 
+Punta Indio B.A.;27-Mayo-2021;14:00;Algo nublado;10 km;21.2;No se calcula; 53;Norte  25;1005.4 / 
+San Fernando;27-Mayo-2021;14:00;Despejado;10 km;22.1;No se calcula; 49;Noroeste  16;1009.2 / 
+Tandil;27-Mayo-2021;14:00;Nublado;20 km;18.6;No se calcula; 47;Noroeste  16;984.1 / 
+Trenque Lauquen;27-Mayo-2021;09:00;Parcialmente nublado;15 km;9.4;8.9; 80;Norte  5;999.2 / 
+Tres Arroyos;27-Mayo-2021;12:00;Nublado;15 km;19.2;No se calcula; 49;Noroeste  14;990.6 / 
+Villa Gesell;27-Mayo-2021;14:00;Parcialmente nublado;10 km;19;No se calcula; 58;Oeste  20;1003.3 / 
+Aeroparque Buenos Aires;27-Mayo-2021;14:00;Algo nublado;10 km;20.7;No se calcula; 54;Noroeste  20;1008.6 / 
+Buenos Aires;27-Mayo-2021;14:00;Despejado;10 km;22.8;No se calcula; 47;Noroeste  13;1006.2 / 
+Catamarca;27-Mayo-2021;14:00;Parcialmente nublado;20 km;22.4;No se calcula; 46;Sur  9;953.7 / 
+Tinogasta;27-Mayo-2021;12:00;Parcialmente nublado;20 km;18.4;No se calcula; 32;Norte  9;874.2 / 
+Pcia. Roque Saenz Peña;27-Mayo-2021;14:00;Parcialmente nublado;20 km;25;No se calcula; 47;Este  11;1001.3 / 
+Resistencia;27-Mayo-2021;14:00;Algo nublado con humo;12 km;25.5;No se calcula; 40;Noreste  11;1005.4 / 
+Comodoro Rivadavia;27-Mayo-2021;14:00;Parcialmente nublado;30 km;13.9;No se calcula; 47;Oeste  38;983.3 / 
+Esquel;27-Mayo-2021;14:00;Parcialmente nublado con lluvia en la hora anterior;30 km;7.7;3.6; 55;Oeste  29;904.8 / 
+Paso De Indios;27-Mayo-2021;14:00;Parcialmente nublado;45 km;11.4;No se calcula; 44;Oeste  29;939.4 / 
+Puerto Madryn;27-Mayo-2021;14:00;Algo nublado;30 km;16.8;No se calcula; 43;Sudoeste  44;977.8 / 
+Trelew;27-Mayo-2021;14:00;Algo nublado;30 km;16.3;No se calcula; 61;Oeste  33;988.9 / 
+Córdoba;27-Mayo-2021;14:00;Algo nublado;12 km;26.2;No se calcula; 29;Norte  25;950.2 / 
+Córdoba Observatorio;27-Mayo-2021;14:00;Despejado;10 km;25.3;No se calcula; 35;Noreste  13;958.8 / 
+Esc. Aviación Militar;27-Mayo-2021;14:00;Algo nublado;10 km;24.6;No se calcula; 35;Noreste  16;950.2 / 
+Laboulaye;27-Mayo-2021;14:00;Despejado;10 km;22.2;No se calcula; 41;Norte  11;989.8 / 
+Marcos Juárez;27-Mayo-2021;14:00;Despejado;20 km;23.5;No se calcula; 45;Norte  14;995.2 / 
+Pilar Obs.;27-Mayo-2021;14:00;Despejado;10 km;24.5;No se calcula; 37;Norte  25;968.6 / 
+Río Cuarto;27-Mayo-2021;14:00;Despejado;15 km;24.4;No se calcula; 29;Norte  27;957.6 / 
+Villa Dolores;27-Mayo-2021;14:00;Despejado;30 km;21.8;No se calcula; 42;Sudeste  14;944.6 / 
+Villa María Del Río Seco;27-Mayo-2021;12:00;Despejado;15 km;23.8;No se calcula; 39;Norte  9;972.4 / 
+Corrientes;27-Mayo-2021;14:00;Algo nublado;10 km;24.5;No se calcula; 35;Noreste  14;1004.5 / 
+Ituzaingó;27-Mayo-2021;12:00;Despejado;15 km;24;No se calcula; 60;Noreste  11;1005.4 / 
+Mercedes;27-Mayo-2021;14:00;Algo nublado;15 km;23.2;No se calcula; 38;Norte  9;- / 
+Monte Caseros;27-Mayo-2021;14:00;Algo nublado;20 km;21.4;No se calcula; 48;Noreste  11;1006.9 / 
+Paso De Los Libres;27-Mayo-2021;14:00;Algo nublado con humo;8 km;23.5;No se calcula; 49;Noreste  9;1003.8 / 
+Concordia;27-Mayo-2021;14:00;Despejado;15 km;20.7;No se calcula; 62;Noreste  9;1007.2 / 
+Gualeguaychú;27-Mayo-2021;14:00;Despejado;15 km;22;No se calcula; 53;Norte  13;1008.5 / 
+Paraná;27-Mayo-2021;14:00;Despejado;15 km;22.3;No se calcula; 49;Norte  14;1001.7 / 
+Formosa;27-Mayo-2021;14:00;Parcialmente nublado;20 km;27.6;27.9; 48;Norte  7;1003.8 / 
+Las Lomitas;27-Mayo-2021;14:00;Parcialmente nublado;20 km;25.4;No se calcula; 52;Este  3;995 / 
+Mount Pleasant Airport (Islas Malvinas);27-Mayo-2021;14:00;Nublado con precipitación a la vista;30 km;-2;-8.8; 82;Oeste  27;981.1 / 
+La Quiaca;27-Mayo-2021;14:00;Nublado;30 km;15;No se calcula; 27;Noreste  3;669.7 / 
+Jujuy;27-Mayo-2021;14:00;Parcialmente nublado;15 km;20.7;No se calcula; 60;Noreste  5;908.1 / 
+Jujuy Universidad Nacional;27-Mayo-2021;09:00;Parcialmente nublado;15 km;8.1;No se calcula; 88;Noroeste  3;869.6 / 
+General Pico;27-Mayo-2021;14:00;Algo nublado;20 km;22.7;No se calcula; 35;Noroeste  29;987.8 / 
+Victorica;27-Mayo-2021;09:00;Parcialmente nublado;40 km;9.3;No se calcula; 71;Norte  3;973 / 
+Santa Rosa;27-Mayo-2021;14:00;Parcialmente nublado;30 km;22.5;No se calcula; 35;Noroeste  20;981 / 
+Chamical;27-Mayo-2021;14:00;Parcialmente nublado;20 km;22.4;No se calcula; 37;Calma;954.6 / 
+Chepes;27-Mayo-2021;09:00;Despejado;20 km;7.6;No se calcula; 66;Calma;936.3 / 
+Chilecito;27-Mayo-2021;09:00;Algo nublado;20 km;8;6.4; 71;Noroeste  9;906.6 / 
+La Rioja;27-Mayo-2021;14:00;Parcialmente nublado con humo;12 km;20.4;No se calcula; 48;Calma;957.8 / 
+Malargue;27-Mayo-2021;14:00;Parcialmente nublado;20 km;20.2;No se calcula; 4;Oeste  24;850.9 / 
+Mendoza;27-Mayo-2021;14:00;Algo nublado;15 km;19;No se calcula; 32;Calma;925.6 / 
+Mendoza Observatorio;27-Mayo-2021;14:00;Algo nublado;15 km;18.8;No se calcula; 51;Norte  3;912.2 / 
+San Carlos (Mza);27-Mayo-2021;09:00;Despejado;15 km;1.2;-1.7; 87;Sur  9;905.1 / 
+San Martín (Mza);27-Mayo-2021;14:00;Despejado;15 km;19.6;No se calcula; 44;Norte  9;931.4 / 
+San Rafael;27-Mayo-2021;14:00;Algo nublado;20 km;21.4;No se calcula; 31;Sudeste  3;920.1 / 
+Bernardo De Irigoyen;27-Mayo-2021;14:00;Parcialmente nublado;20 km;24;No se calcula; 49;Norte  14;922 / 
+Iguazú;27-Mayo-2021;14:00;Parcialmente nublado;20 km;26.2;27.1; 58;Norte  9;981.7 / 
+Oberá;27-Mayo-2021;09:00;Despejado;20 km;11.8;No se calcula; 90;Noreste  3;981.2 / 
+Posadas;27-Mayo-2021;14:00;Algo nublado;20 km;25.6;No se calcula; 46;Noreste  5;997.6 / 
+Chapelco;27-Mayo-2021;14:00;Algo nublado con precipitación a la vista;15 km;9.8;6.3; 66;Oeste  29;913.6 / 
+Neuquén;27-Mayo-2021;14:00;Nublado con polvo levantado por viento;7 km;22.3;No se calcula; 27;Oeste  31;968.5 / 
+Bariloche;27-Mayo-2021;14:00;Nublado con lluvia;8 km;6.7;1.3; 76;Noroeste  44;907 / 
+Cipolletti;27-Mayo-2021;09:00;Parcialmente nublado;25 km;19.1;No se calcula; 45;Oeste  14;972.6 / 
+El Bolsón;27-Mayo-2021;14:00;Nublado con llovizna;20 km;8.3;No se calcula; 74;Calma;964.1 / 
+Maquinchao;27-Mayo-2021;12:00;Parcialmente nublado;40 km;12;No se calcula; 36;Oeste  68;899.8 / 
+Río Colorado;27-Mayo-2021;09:00;Cubierto;15 km;14;No se calcula; 76;Norte  14;994.9 / 
+San Antonio Oeste;27-Mayo-2021;14:00;Parcialmente nublado;30 km;21.4;No se calcula; 34;Oeste  40;996.5 / 
+Viedma;27-Mayo-2021;14:00;Cubierto;30 km;20;No se calcula; 48;Oeste  35;994.9 / 
+Metán;27-Mayo-2021;09:00;Parcialmente nublado con neblina;17 km;10.6;No se calcula; 85;Oeste  3;917.3 / 
+Orán;27-Mayo-2021;14:00;Parcialmente nublado;10 km;21.7;No se calcula; 70;Oeste  9;966.9 / 
+Rivadavia;27-Mayo-2021;09:00;Cubierto;25 km;13.4;No se calcula; 86;Noreste  3;989.1 / 
+Salta;27-Mayo-2021;14:00;Parcialmente nublado;15 km;20.4;No se calcula; 49;Noreste  7;875.4 / 
+Tartagal;27-Mayo-2021;14:00;Nublado;10 km;24.6;No se calcula; 51;Sudoeste  3;958 / 
+Jachal;27-Mayo-2021;09:00;Algo nublado;30 km;0.6;No se calcula; 47;Calma;881.3 / 
+San Juan;27-Mayo-2021;14:00;Parcialmente nublado;15 km;22;No se calcula; 24;Noroeste  18;937.8 / 
+San Luis;27-Mayo-2021;14:00;Algo nublado;20 km;23.1;No se calcula; 36;Norte  27;924.8 / 
+Santa Rosa del Conlara;27-Mayo-2021;14:00;Despejado;20 km;21.8;No se calcula; 44;Calma;937.4 / 
+Villa Reynolds;27-Mayo-2021;14:00;Algo nublado;15 km;25;No se calcula; 31;Calma;949.4 / 
+El Calafate;27-Mayo-2021;14:00;Nublado con nevada;25 km;1.8;No se calcula; 71;Calma;967.4 / 
+Gobernador Gregores;27-Mayo-2021;09:00;Nublado;45 km;0.8;-5.2; 96;Este  27;946.9 / 
+Perito Moreno;27-Mayo-2021;14:00;Nublado;50 km;8.8;No se calcula; 71;Sudoeste  3;940.2 / 
+Puerto Deseado;27-Mayo-2021;14:00;Nublado con llovizna;15 km;5.4;0.3; 94;Sudeste  33;978.8 / 
+Río Gallegos;27-Mayo-2021;14:00;Nublado con nevada;9 km;-1;-4.3; 87;Oeste  9;991 / 
+San Julián;27-Mayo-2021;14:00;Nublado con llovizna;8 km;2.4;-1.1; 94;Norte  13;983.8 / 
+Santa Cruz;27-Mayo-2021;14:00;Nublado con lluvia y nevada;20 km;1.3;-1.6; 77;Este  9;976.9 / 
+Ceres;27-Mayo-2021;14:00;Algo nublado;15 km;24.4;No se calcula; 41;Norte  14;999.2 / 
+El Trébol;27-Mayo-2021;12:00;Despejado;15 km;20.7;No se calcula; 46;Noroeste  9;998.8 / 
+Rafaela;27-Mayo-2021;12:00;Despejado;10 km;20.1;No se calcula; 59;Norte  5;1000.9 / 
+Reconquista;27-Mayo-2021;14:00;Algo nublado con humo;10 km;23.3;No se calcula; 47;Norte  14;1005.4 / 
+Rosario;27-Mayo-2021;14:00;Despejado;15 km;22.8;No se calcula; 45;Noroeste  16;1006.2 / 
+Santa Fe;27-Mayo-2021;14:00;Despejado;12 km;23.2;No se calcula; 50;Noreste  16;1007.8 / 
+Sunchales;27-Mayo-2021;14:00;Despejado;15 km;24.4;No se calcula; 43;Norte  14;999.6 / 
+Venado Tuerto;27-Mayo-2021;14:00;Despejado;10 km;21.9;No se calcula; 47;Norte  24;996.9 / 
+Termas de Rio Hondo;27-Mayo-2021;14:00;Parcialmente nublado;10 km;18.5;No se calcula; 62;Sudoeste  7;976.3 / 
+Santiago del Estero;27-Mayo-2021;14:00;Nublado;12 km;23.9;No se calcula; 42;Norte  14;986 / 
+Río Grande B.A.;27-Mayo-2021;14:00;Despejado;30 km;-1;-4.8; 95;Sudoeste  11;988.8 / 
+Ushuaia;27-Mayo-2021;14:00;Parcialmente nublado con precipitación a la vista;15 km;-0.1;-7.7; 84;Sudoeste  42;983.3 / 
+Tucumán;27-Mayo-2021;14:00;Nublado con humo;9 km;21.6;No se calcula; 58;Este  5;956.9 / 
+Base Belgrano II;27-Mayo-2021;12:00;Algo nublado;20 km;-16.8;-26.9; 75;Sudeste  22;966.5 / 
+Base Esperanza;27-Mayo-2021;12:00;Cielo invisible con nevada;Menor a 100 mts;-14.9;-31.8; 82;Sur  92;977.7 / 
+Base Carlini;27-Mayo-2021;12:00;Cubierto con nevada;1.0 km;-8.5;-15.3; 89;Sur  16;984.2 / 
+Base Marambio;27-Mayo-2021;14:00;Cubierto con niebla;Menor a 100 mts;-18.9;-39.1; 83;Sur  118;956.6 / 
+Base Orcadas;27-Mayo-2021;09:00;Cubierto;14 km;-4;-13.6; 78;Noroeste  50;979.6 / 
+Base San Martín;27-Mayo-2021;12:00;Parcialmente nublado;10 km;-8.9;-17.7; 77;Este  27;994.5 / 
+Azul;27-Mayo-2021;15:00;Cubierto;15 km;18.6;No se calcula; 56;Noroeste  16;986.5 / 
+Bahía Blanca;27-Mayo-2021;15:00;Parcialmente nublado;15 km;20.2;No se calcula; 51;Noroeste  33;999 / 
+Benito Juárez;27-Mayo-2021;15:00;Parcialmente nublado;15 km;17.3;No se calcula; 57;Noroeste  24;977.7 / 
+Bolívar;27-Mayo-2021;15:00;Parcialmente nublado;15 km;23;No se calcula; 41;Norte  25;993 / 
+Campo de Mayo;27-Mayo-2021;15:00;Algo nublado;10 km;21.9;No se calcula; 50;Noroeste  18;1004.9 / 
+Coronel Pringles;27-Mayo-2021;09:00;Parcialmente nublado;25 km;9.7;7.6; 81;Noroeste  14;978.8 / 
+Coronel Suarez;27-Mayo-2021;15:00;Nublado;50 km;19.1;No se calcula; 48;Norte  22;975.8 / 
+Dolores;27-Mayo-2021;15:00;Nublado;10 km;20.2;No se calcula; 51;Oeste  22;1004.4 / 
+El Palomar;27-Mayo-2021;15:00;Algo nublado;10 km;21.9;No se calcula; 51;Noroeste  22;1005.8 / 
+Ezeiza;27-Mayo-2021;15:00;Algo nublado;10 km;22.2;No se calcula; 45;Noroeste  24;1004.6 / 
+Junín;27-Mayo-2021;15:00;Despejado;10 km;23.5;No se calcula; 44;Noroeste  37;996.1 / 
+La Plata;27-Mayo-2021;15:00;Algo nublado con bruma;9 km;19.3;No se calcula; 58;Norte  16;1005.3 / 
+Las Flores;27-Mayo-2021;15:00;Parcialmente nublado;15 km;21;No se calcula; 49;Oeste  11;1000 / 
+Mar del Plata;27-Mayo-2021;15:00;Parcialmente nublado;10 km;21.8;No se calcula; 43;Oeste  33;999.3 / 
+Mariano Moreno;27-Mayo-2021;14:00;Algo nublado;10 km;20.2;No se calcula; 56;Oeste  22;1006.9 / 
+Merlo;27-Mayo-2021;15:00;Algo nublado;10 km;22;No se calcula; 59;Noroeste  14;1008 / 
+Morón;27-Mayo-2021;15:00;Algo nublado;10 km;22.1;No se calcula; 57;Noroeste  20;1005.6 / 
+Nueve de Julio;27-Mayo-2021;15:00;Parcialmente nublado;15 km;22.6;No se calcula; 40;Noroeste  24;995.8 / 
+Olavarría;27-Mayo-2021;15:00;Cubierto;15 km;19.2;No se calcula; 52;Oeste  7;984.6 / 
+Pehuajó;27-Mayo-2021;15:00;Parcialmente nublado;15 km;21.8;No se calcula; 50;Noroeste  18;993.8 / 
+Pigué;27-Mayo-2021;15:00;Nublado;20 km;18.6;No se calcula; 46;Noroeste  14;966.6 / 
+Punta Indio B.A.;27-Mayo-2021;15:00;Algo nublado con bruma;8 km;21.6;No se calcula; 53;Norte  25;1004.4 / 
+San Fernando;27-Mayo-2021;15:00;Despejado;10 km;22.4;No se calcula; 48;Noroeste  16;1007.6 / 
+Tandil;27-Mayo-2021;15:00;Nublado;20 km;18.2;No se calcula; 47;Noroeste  18;983 / 
+Trenque Lauquen;27-Mayo-2021;15:00;Parcialmente nublado;15 km;23.1;No se calcula; 38;Norte  11;992.9 / 
+Tres Arroyos;27-Mayo-2021;15:00;Nublado;15 km;22.5;No se calcula; 32;Noroeste  29;986.9 / 
+Villa Gesell;27-Mayo-2021;15:00;Parcialmente nublado;10 km;20;No se calcula; 46;Oeste  31;1002.5 / 
+Aeroparque Buenos Aires;27-Mayo-2021;15:00;Despejado;10 km;20.7;No se calcula; 53;Noroeste  20;1007 / 
+Buenos Aires;27-Mayo-2021;15:00;Despejado;10 km;22.9;No se calcula; 45;Noroeste  13;1004.6 / 
+Catamarca;27-Mayo-2021;15:00;Parcialmente nublado;20 km;23.2;No se calcula; 45;Sur  9;952.3 / 
+Tinogasta;27-Mayo-2021;15:00;Parcialmente nublado;20 km;23.4;No se calcula; 28;Este  9;870.3 / 
+Pcia. Roque Saenz Peña;27-Mayo-2021;15:00;Parcialmente nublado;20 km;25.2;No se calcula; 46;Este  11;999.6 / 
+Resistencia;27-Mayo-2021;14:00;Algo nublado con humo;12 km;25.5;No se calcula; 40;Noreste  11;1005.4 / 
+Comodoro Rivadavia;27-Mayo-2021;15:00;Parcialmente nublado;30 km;12.5;No se calcula; 53;Oeste  33;983.7 / 
+Esquel;27-Mayo-2021;15:00;Parcialmente nublado;30 km;8.8;5.3; 49;Noroeste  25;903.7 / 
+Paso De Indios;27-Mayo-2021;15:00;Nublado;45 km;11;No se calcula; 47;Oeste  50;938.6 / 
+Puerto Madryn;27-Mayo-2021;15:00;Algo nublado;30 km;16.2;No se calcula; 47;Sudoeste  27;977.1 / 
+Trelew;27-Mayo-2021;15:00;Algo nublado;30 km;16.6;No se calcula; 38;Oeste  92;988.1 / 
+Córdoba;27-Mayo-2021;15:00;Algo nublado;12 km;26.2;No se calcula; 29;Norte  22;949 / 
+Córdoba Observatorio;27-Mayo-2021;15:00;Despejado;10 km;26.4;No se calcula; 29;Noreste  13;956.8 / 
+Esc. Aviación Militar;27-Mayo-2021;15:00;Algo nublado;10 km;25.8;No se calcula; 33;Norte  14;948.9 / 
+Laboulaye;27-Mayo-2021;15:00;Despejado;10 km;23;No se calcula; 39;Norte  14;988.4 / 
+Marcos Juárez;27-Mayo-2021;15:00;Despejado;20 km;24.4;No se calcula; 41;Norte  18;993.2 / 
+Pilar Obs.;27-Mayo-2021;15:00;Despejado;10 km;25.6;No se calcula; 35;Norte  22;966.6 / 
+Río Cuarto;27-Mayo-2021;15:00;Despejado;15 km;25.1;No se calcula; 28;Norte  29;955.6 / 
+Villa Dolores;27-Mayo-2021;15:00;Algo nublado;30 km;22;No se calcula; 45;Sudeste  3;942.6 / 
+Villa María Del Río Seco;27-Mayo-2021;15:00;Parcialmente nublado;15 km;24.6;No se calcula; 31;Noroeste  14;968.4 / 
+Corrientes;27-Mayo-2021;15:00;Parcialmente nublado;10 km;24.7;No se calcula; 38;Norte  24;1003 / 
+Ituzaingó;27-Mayo-2021;15:00;Algo nublado;15 km;26.6;27.1; 50;Noreste  9;1001.2 / 
+Mercedes;27-Mayo-2021;15:00;Algo nublado;15 km;23.4;No se calcula; 37;Noreste  14;- / 
+Monte Caseros;27-Mayo-2021;15:00;Algo nublado;20 km;22.4;No se calcula; 47;Noreste  9;1005.7 / 
+Paso De Los Libres;27-Mayo-2021;15:00;Algo nublado con humo;8 km;24.2;No se calcula; 45;Noreste  7;1002.9 / 
+Concordia;27-Mayo-2021;15:00;Algo nublado;15 km;21.3;No se calcula; 56;Norte  11;1006.4 / 
+Gualeguaychú;27-Mayo-2021;15:00;Despejado;15 km;22.6;No se calcula; 43;Noreste  16;1005.2 / 
+Paraná;27-Mayo-2021;14:00;Despejado;15 km;22.3;No se calcula; 49;Norte  14;1001.7 / 
+Formosa;27-Mayo-2021;15:00;Parcialmente nublado;20 km;26.7;27.5; 55;Sudeste  7;1002.6 / 
+Las Lomitas;27-Mayo-2021;15:00;Parcialmente nublado;20 km;27;27.4; 50;Este  5;993.7 / 
+Mount Pleasant Airport (Islas Malvinas);27-Mayo-2021;15:00;Nublado;30 km;-2.4;-8.0; 81;Oeste  18;980.6 / 
+La Quiaca;27-Mayo-2021;15:00;Nublado;30 km;15.8;No se calcula; 27;Noroeste  3;669 / 
+Jujuy;27-Mayo-2021;15:00;Parcialmente nublado;15 km;22.1;No se calcula; 55;Este  9;907 / 
+Jujuy Universidad Nacional;27-Mayo-2021;15:00;Parcialmente nublado;15 km;22;No se calcula; 52;Este  3;865.3 / 
+General Pico;27-Mayo-2021;15:00;Algo nublado;20 km;22.5;No se calcula; 36;Noroeste  20;986.4 / 
+Victorica;27-Mayo-2021;15:00;Parcialmente nublado;40 km;22.7;No se calcula; 56;Norte  14;966.2 / 
+Santa Rosa;27-Mayo-2021;15:00;Nublado;30 km;21.8;No se calcula; 42;Noroeste  14;979.8 / 
+Chamical;27-Mayo-2021;15:00;Parcialmente nublado;20 km;22.2;No se calcula; 38;Calma;953.3 / 
+Chepes;27-Mayo-2021;09:00;Despejado;20 km;7.6;No se calcula; 66;Calma;936.3 / 
+Chilecito;27-Mayo-2021;15:00;Parcialmente nublado;20 km;18.6;No se calcula; 45;Sudeste  3;902.1 / 
+La Rioja;27-Mayo-2021;15:00;Nublado con humo;15 km;18.8;No se calcula; 65;Sudeste  3;956.6 / 
+Malargue;27-Mayo-2021;15:00;Parcialmente nublado;15 km;21;No se calcula; 8;Oeste  24;849.8 / 
+Mendoza;27-Mayo-2021;14:00;Algo nublado;15 km;19;No se calcula; 32;Calma;925.6 / 
+Mendoza Observatorio;27-Mayo-2021;15:00;Algo nublado;15 km;18.9;No se calcula; 52;Calma;910.6 / 
+San Carlos (Mza);27-Mayo-2021;15:00;Algo nublado;15 km;20.6;No se calcula; 34;Norte  9;898.2 / 
+San Martín (Mza);27-Mayo-2021;15:00;Algo nublado;15 km;21.2;No se calcula; 42;Norte  3;929.7 / 
+San Rafael;27-Mayo-2021;15:00;Algo nublado;20 km;22.8;No se calcula; 23;Noreste  11;919 / 
+Bernardo De Irigoyen;27-Mayo-2021;15:00;Parcialmente nublado;20 km;23.1;No se calcula; 53;Norte  9;920.9 / 
+Iguazú;27-Mayo-2021;15:00;Parcialmente nublado;20 km;27.4;28.2; 55;Noreste  7;980.9 / 
+Oberá;27-Mayo-2021;14:00;Despejado;20 km;26.8;27.0; 46;Norte  3;977.2 / 
+Posadas;27-Mayo-2021;15:00;Algo nublado;20 km;26.3;26.7; 47;Norte  7;996.2 / 
+Chapelco;27-Mayo-2021;15:00;Algo nublado con precipitación a la vista;15 km;10;6.1; 59;Oeste  37;913.2 / 
+Neuquén;27-Mayo-2021;15:00;Nublado con polvo levantado por viento;10 km;19;No se calcula; 44;Sudoeste  25;969.2 / 
+Bariloche;27-Mayo-2021;15:00;Nublado con lluvia;5 km;6;1.7; 83;Oeste  25;905.8 / 
+Cipolletti;27-Mayo-2021;15:00;Nublado;25 km;21.8;No se calcula; 43;Oeste  33;969.8 / 
+El Bolsón;27-Mayo-2021;15:00;Nublado con llovizna;20 km;9.3;5.7; 77;Norte  29;962.2 / 
+Maquinchao;27-Mayo-2021;15:00;Algo nublado;40 km;12.3;No se calcula; 34;Oeste  55;897.3 / 
+Río Colorado;27-Mayo-2021;15:00;Cubierto;15 km;19;No se calcula; 55;Oeste  3;989.3 / 
+San Antonio Oeste;27-Mayo-2021;15:00;Parcialmente nublado;30 km;20.1;No se calcula; 38;Oeste  29;995.7 / 
+Viedma;27-Mayo-2021;15:00;Cubierto;30 km;19.9;No se calcula; 51;Oeste  27;994.6 / 
+Metán;27-Mayo-2021;15:00;Nublado con bruma;15 km;21.4;No se calcula; 60;Noreste  9;912.2 / 
+Orán;27-Mayo-2021;15:00;Parcialmente nublado;10 km;23.5;No se calcula; 57;Calma;965.8 / 
+Rivadavia;27-Mayo-2021;15:00;Parcialmente nublado;25 km;26.6;27.1; 50;Este  3;982.7 / 
+Salta;27-Mayo-2021;15:00;Cubierto;18 km;20.4;No se calcula; 50;Noroeste  7;873.8 / 
+Tartagal;27-Mayo-2021;15:00;Nublado;10 km;24;No se calcula; 54;Sudoeste  3;956.7 / 
+Jachal;27-Mayo-2021;15:00;Algo nublado;30 km;28.6;No se calcula; 6;Norte  9;876 / 
+San Juan;27-Mayo-2021;15:00;Parcialmente nublado;15 km;22;No se calcula; 23;Norte  3;935.8 / 
+San Luis;27-Mayo-2021;15:00;Algo nublado;20 km;23.6;No se calcula; 36;Norte  27;923.2 / 
+Santa Rosa del Conlara;27-Mayo-2021;15:00;Despejado;20 km;22.4;No se calcula; 42;Calma;936.1 / 
+Villa Reynolds;27-Mayo-2021;15:00;Algo nublado;15 km;26;No se calcula; 27;Noroeste  9;948.2 / 
+El Calafate;27-Mayo-2021;15:00;Nublado con nevada;10 km;1.8;-1.0; 75;Este  9;967.8 / 
+Gobernador Gregores;27-Mayo-2021;15:00;Cubierto con neblina;20 km;2.2;-2.2; 79;Este  18;947 / 
+Perito Moreno;27-Mayo-2021;15:00;Nublado;50 km;9.6;8.0; 60;Oeste  11;939.8 / 
+Puerto Deseado;27-Mayo-2021;15:00;Nublado con llovizna;20 km;4.8;-0.5; 93;Sudeste  33;978.9 / 
+Río Gallegos;27-Mayo-2021;15:00;Nublado con nevada;20 km;-0.2;-3.8; 92;Sudoeste  11;990.8 / 
+San Julián;27-Mayo-2021;15:00;Nublado con llovizna;7 km;3.2;-0.1; 98;Norte  13;983.7 / 
+Santa Cruz;27-Mayo-2021;15:00;Cubierto con nevada;2.0 km;0.2;-2.9; 100;Este  9;977 / 
+Ceres;27-Mayo-2021;15:00;Algo nublado;15 km;24.6;No se calcula; 40;Norte  14;997.8 / 
+El Trébol;27-Mayo-2021;15:00;Despejado;15 km;24.2;No se calcula; 38;Norte  14;995.6 / 
+Rafaela;27-Mayo-2021;15:00;Despejado;10 km;24.1;No se calcula; 45;Norte  11;998 / 
+Reconquista;27-Mayo-2021;15:00;Algo nublado con humo;6 km;23.7;No se calcula; 46;Noreste  13;1004 / 
+Rosario;27-Mayo-2021;15:00;Despejado;15 km;23.4;No se calcula; 43;Noroeste  20;1004.9 / 
+Santa Fe;27-Mayo-2021;15:00;Despejado;12 km;24.1;No se calcula; 46;Noreste  18;1006.6 / 
+Sunchales;27-Mayo-2021;15:00;Despejado;15 km;24.7;No se calcula; 44;Norte  24;998.2 / 
+Venado Tuerto;27-Mayo-2021;14:00;Despejado;10 km;21.9;No se calcula; 47;Norte  24;996.9 / 
+Termas de Rio Hondo;27-Mayo-2021;15:00;Algo nublado;10 km;21;No se calcula; 57;Sur  9;974.4 / 
+Santiago del Estero;27-Mayo-2021;15:00;Nublado;12 km;25;No se calcula; 39;Norte  18;983.8 / 
+Río Grande B.A.;27-Mayo-2021;15:00;Despejado;30 km;0.2;-3.3; 94;Oeste  11;988.5 / 
+Ushuaia;27-Mayo-2021;15:00;Parcialmente nublado con nevada;7 km;-0.5;-8.5; 89;Sudoeste  46;983.3 / 
+Tucumán;27-Mayo-2021;15:00;Nublado con humo;9 km;22.2;No se calcula; 59;Sur  3;955.3 / 
+Base Belgrano II;27-Mayo-2021;15:00;Nublado;20 km;-14.8;No se calcula; 87;Calma;966.2 / 
+Base Esperanza;27-Mayo-2021;15:00;Cielo invisible con nevada;100 mts;-14.4;-31.4; 82;Sur  98;977.8 / 
+Base Carlini;27-Mayo-2021;15:00;Nublado con nevada;8 km;-7.9;-16.2; 78;Sur  25;985.4 / 
+Base Marambio;27-Mayo-2021;15:00;Cubierto con niebla;Menor a 100 mts;-18.8;-38.7; 83;Sur  114;957.4 / 
+Base Orcadas;27-Mayo-2021;15:00;Parcialmente nublado;15 km;-3.7;-11.0; 85;Noroeste  27;986.6 / 
+Base San Martín;27-Mayo-2021;15:00;Parcialmente nublado;10 km;-9.4;-14.9; 76;Noreste  11;993.3 / 
+Azul;27-Mayo-2021;16:00;Cubierto;15 km;18.2;No se calcula; 59;Noroeste  14;985.8 / 
+Bahía Blanca;27-Mayo-2021;16:00;Parcialmente nublado;15 km;19.9;No se calcula; 53;Noroeste  33;989.7 / 
+Benito Juárez;27-Mayo-2021;15:00;Parcialmente nublado;15 km;17.3;No se calcula; 57;Noroeste  24;977.7 / 
+Bolívar;27-Mayo-2021;16:00;Cubierto;15 km;21;No se calcula; 49;Norte  22;992.5 / 
+Campo de Mayo;27-Mayo-2021;16:00;Algo nublado;10 km;22;No se calcula; 48;Norte  16;1003.7 / 
+Coronel Pringles;27-Mayo-2021;15:00;Parcialmente nublado;25 km;20.6;No se calcula; 50;Noroeste  25;972.5 / 
+Coronel Suarez;27-Mayo-2021;15:00;Nublado;50 km;19.1;No se calcula; 48;Norte  22;975.8 / 
+Dolores;27-Mayo-2021;16:00;Nublado;10 km;17.8;No se calcula; 74;Noroeste  22;1004 / 
+El Palomar;27-Mayo-2021;16:00;Algo nublado;10 km;22.3;No se calcula; 47;Norte  24;1004.6 / 
+Ezeiza;27-Mayo-2021;16:00;Algo nublado;10 km;22.5;No se calcula; 43;Norte  22;1003.4 / 
+Junín;27-Mayo-2021;16:00;Algo nublado;10 km;23.1;No se calcula; 43;Noroeste  31;994.8 / 
+La Plata;27-Mayo-2021;16:00;Algo nublado con bruma;9 km;19.1;No se calcula; 64;Norte  16;1004.1 / 
+Las Flores;27-Mayo-2021;15:00;Parcialmente nublado;15 km;21;No se calcula; 49;Oeste  11;1000 / 
+Mar del Plata;27-Mayo-2021;16:00;Parcialmente nublado;10 km;21.5;No se calcula; 44;Noroeste  27;998.8 / 
+Mariano Moreno;27-Mayo-2021;16:00;Algo nublado;10 km;22;No se calcula; 51;Noroeste  27;1002.5 / 
+Merlo;27-Mayo-2021;16:00;Algo nublado;10 km;22;No se calcula; 62;Noroeste  13;1006.9 / 
+Morón;27-Mayo-2021;16:00;Algo nublado;10 km;22.2;No se calcula; 58;Noroeste  20;1004.2 / 
+Nueve de Julio;27-Mayo-2021;15:00;Parcialmente nublado;15 km;22.6;No se calcula; 40;Noroeste  24;995.8 / 
+Olavarría;27-Mayo-2021;16:00;Cubierto;15 km;18.6;No se calcula; 59;Oeste  5;984.1 / 
+Pehuajó;27-Mayo-2021;16:00;Cubierto;15 km;22.5;No se calcula; 48;Noroeste  16;993.2 / 
+Pigué;27-Mayo-2021;16:00;Nublado;20 km;17.7;No se calcula; 50;Noroeste  14;965.8 / 
+Punta Indio B.A.;27-Mayo-2021;16:00;Algo nublado con bruma;6 km;19.4;No se calcula; 62;Norte  27;1003.6 / 
+San Fernando;27-Mayo-2021;16:00;Despejado;10 km;22.5;No se calcula; 48;Noroeste  16;1006.1 / 
+Tandil;27-Mayo-2021;16:00;Nublado;20 km;18;No se calcula; 51;Noroeste  20;982.4 / 
+Trenque Lauquen;27-Mayo-2021;15:00;Parcialmente nublado;15 km;23.1;No se calcula; 38;Norte  11;992.9 / 
+Tres Arroyos;27-Mayo-2021;15:00;Nublado;15 km;22.5;No se calcula; 32;Noroeste  29;986.9 / 
+Villa Gesell;27-Mayo-2021;16:00;Parcialmente nublado;10 km;17.7;No se calcula; 59;Noroeste  11;1002.2 / 
+Aeroparque Buenos Aires;27-Mayo-2021;16:00;Algo nublado;10 km;19.6;No se calcula; 59;Noroeste  14;1005.8 / 
+Buenos Aires;27-Mayo-2021;16:00;Despejado;10 km;23;No se calcula; 45;Noroeste  18;1003.2 / 
+Catamarca;27-Mayo-2021;16:00;Algo nublado;20 km;23.4;No se calcula; 42;Sur  9;951.3 / 
+Tinogasta;27-Mayo-2021;15:00;Parcialmente nublado;20 km;23.4;No se calcula; 28;Este  9;870.3 / 
+Pcia. Roque Saenz Peña;27-Mayo-2021;16:00;Parcialmente nublado;20 km;24.9;No se calcula; 47;Este  9;998.2 / 
+Resistencia;27-Mayo-2021;16:00;Parcialmente nublado;15 km;25.5;No se calcula; 35;Noreste  11;1002.8 / 
+Comodoro Rivadavia;27-Mayo-2021;16:00;Nublado;30 km;12.1;No se calcula; 54;Oeste  35;983.4 / 
+Esquel;27-Mayo-2021;16:00;Parcialmente nublado con lluvia;25 km;7.6;6.3; 61;Direcciones Variables  7;902.9 / 
+Paso De Indios;27-Mayo-2021;16:00;Nublado;45 km;11;No se calcula; 41;Sudoeste  40;937.9 / 
+Puerto Madryn;27-Mayo-2021;16:00;Algo nublado;30 km;16.2;No se calcula; 45;Sudoeste  29;976.8 / 
+Trelew;27-Mayo-2021;16:00;Algo nublado;30 km;16.4;No se calcula; 36;Oeste  33;987.7 / 
+Córdoba;27-Mayo-2021;16:00;Algo nublado;12 km;25.9;No se calcula; 30;Norte  25;948 / 
+Córdoba Observatorio;27-Mayo-2021;16:00;Algo nublado;10 km;26.4;No se calcula; 29;Noreste  11;956.1 / 
+Esc. Aviación Militar;27-Mayo-2021;16:00;Algo nublado;10 km;26;No se calcula; 34;Norte  18;947.6 / 
+Laboulaye;27-Mayo-2021;16:00;Algo nublado;10 km;23.3;No se calcula; 37;Norte  22;987.3 / 
+Marcos Juárez;27-Mayo-2021;16:00;Despejado;20 km;24.3;No se calcula; 42;Norte  18;992.5 / 
+Pilar Obs.;27-Mayo-2021;16:00;Despejado;10 km;25.4;No se calcula; 36;Norte  22;965.8 / 
+Río Cuarto;27-Mayo-2021;16:00;Algo nublado;15 km;24.1;No se calcula; 37;Norte  42;954.1 / 
+Villa Dolores;27-Mayo-2021;16:00;Despejado;30 km;22.3;No se calcula; 45;Sudeste  3;942.4 / 
+Villa María Del Río Seco;27-Mayo-2021;15:00;Parcialmente nublado;15 km;24.6;No se calcula; 31;Noroeste  14;968.4 / 
+Corrientes;27-Mayo-2021;16:00;Parcialmente nublado con humo;8 km;24.7;No se calcula; 43;Norte  14;1002.1 / 
+Ituzaingó;27-Mayo-2021;15:00;Algo nublado;15 km;26.6;27.1; 50;Noreste  9;1001.2 / 
+Mercedes;27-Mayo-2021;15:00;Algo nublado;15 km;23.4;No se calcula; 37;Noreste  14;- / 
+Monte Caseros;27-Mayo-2021;16:00;Algo nublado;20 km;22.8;No se calcula; 44;Noreste  9;1004.4 / 
+Paso De Los Libres;27-Mayo-2021;16:00;Algo nublado con humo;8 km;23.8;No se calcula; 43;Noreste  7;1002 / 
+Concordia;27-Mayo-2021;16:00;Algo nublado;15 km;20.8;No se calcula; 58;Norte  14;1005.8 / 
+Gualeguaychú;27-Mayo-2021;16:00;Despejado;15 km;22;No se calcula; 48;Noreste  22;1005.2 / 
+Paraná;27-Mayo-2021;16:00;Despejado;15 km;22.3;No se calcula; 47;Norte  16;999.7 / 
+Formosa;27-Mayo-2021;16:00;Parcialmente nublado;20 km;26.8;27.4; 52;Sudeste  11;1001.4 / 
+Las Lomitas;27-Mayo-2021;16:00;Cubierto;20 km;26.4;27.1; 55;Este  3;992.6 / 
+Mount Pleasant Airport (Islas Malvinas);27-Mayo-2021;16:00;Nublado;30 km;-3.3;-9.7; 87;Oeste  22;980.1 / 
+La Quiaca;27-Mayo-2021;16:00;Nublado;30 km;15.4;No se calcula; 26;Noroeste  3;668.2 / 
+Jujuy;27-Mayo-2021;16:00;Nublado;15 km;21.4;No se calcula; 58;Este  5;906.2 / 
+Jujuy Universidad Nacional;27-Mayo-2021;15:00;Parcialmente nublado;15 km;22;No se calcula; 52;Este  3;865.3 / 
+General Pico;27-Mayo-2021;16:00;Parcialmente nublado;20 km;23.9;No se calcula; 31;Norte  24;985.2 / 
+Victorica;27-Mayo-2021;15:00;Parcialmente nublado;40 km;22.7;No se calcula; 56;Norte  14;966.2 / 
+Santa Rosa;27-Mayo-2021;16:00;Nublado;30 km;21.5;No se calcula; 48;Noroeste  14;979.4 / 
+Chamical;27-Mayo-2021;16:00;Parcialmente nublado;20 km;21.6;No se calcula; 37;Calma;952.4 / 
+Chepes;27-Mayo-2021;15:00;Parcialmente nublado;20 km;23.2;No se calcula; 28;Calma;931.1 / 
+Chilecito;27-Mayo-2021;15:00;Parcialmente nublado;20 km;18.6;No se calcula; 45;Sudeste  3;902.1 / 
+La Rioja;27-Mayo-2021;16:00;Parcialmente nublado con humo;15 km;19;No se calcula; 65;Sudeste  3;955.3 / 
+Malargue;27-Mayo-2021;16:00;Parcialmente nublado;20 km;21.4;No se calcula; 9;Oeste  24;849.2 / 
+Mendoza;27-Mayo-2021;16:00;Algo nublado;15 km;19.6;No se calcula; 29;Noreste  9;923.2 / 
+Mendoza Observatorio;27-Mayo-2021;16:00;Parcialmente nublado;15 km;20.2;No se calcula; 52;Calma;909.3 / 
+San Carlos (Mza);27-Mayo-2021;15:00;Algo nublado;15 km;20.6;No se calcula; 34;Norte  9;898.2 / 
+San Martín (Mza);27-Mayo-2021;15:00;Algo nublado;15 km;21.2;No se calcula; 42;Norte  3;929.7 / 
+San Rafael;27-Mayo-2021;16:00;Parcialmente nublado;20 km;23.3;No se calcula; 23;Norte  11;918.2 / 
+Bernardo De Irigoyen;27-Mayo-2021;16:00;Parcialmente nublado;20 km;23.4;No se calcula; 52;Norte  9;919.4 / 
+Iguazú;27-Mayo-2021;16:00;Parcialmente nublado;20 km;27.6;28.3; 53;Noreste  7;980.1 / 
+Oberá;27-Mayo-2021;15:00;Despejado;20 km;26.8;27.0; 46;Norte  3;977.2 / 
+Posadas;27-Mayo-2021;16:00;Algo nublado;20 km;26.8;27.2; 48;Este  7;995.6 / 
+Chapelco;27-Mayo-2021;16:00;Algo nublado con precipitación a la vista;15 km;10;5.5; 42;Oeste  50;912.9 / 
+Neuquén;27-Mayo-2021;16:00;Nublado;10 km;19.1;No se calcula; 36;Sudoeste  37;969 / 
+Bariloche;27-Mayo-2021;16:00;Nublado con lluvia;10 km;7.2;2.6; 77;Noroeste  35;904.4 / 
+Cipolletti;27-Mayo-2021;15:00;Nublado;25 km;21.8;No se calcula; 43;Oeste  33;969.8 / 
+El Bolsón;27-Mayo-2021;15:00;Nublado con llovizna;20 km;9.3;5.7; 77;Norte  29;962.2 / 
+Maquinchao;27-Mayo-2021;15:00;Algo nublado;40 km;12.3;No se calcula; 34;Oeste  55;897.3 / 
+Río Colorado;27-Mayo-2021;15:00;Cubierto;15 km;19;No se calcula; 55;Oeste  3;989.3 / 
+San Antonio Oeste;27-Mayo-2021;16:00;Parcialmente nublado;30 km;21;No se calcula; 25;Oeste  42;995.2 / 
+Viedma;27-Mayo-2021;16:00;Nublado;30 km;20.4;No se calcula; 44;Oeste  33;994.1 / 
+Metán;27-Mayo-2021;15:00;Nublado con bruma;15 km;21.4;No se calcula; 60;Noreste  9;912.2 / 
+Orán;27-Mayo-2021;16:00;Parcialmente nublado;10 km;23.3;No se calcula; 59;Noroeste  9;965 / 
+Rivadavia;27-Mayo-2021;15:00;Parcialmente nublado;25 km;26.6;27.1; 50;Este  3;982.7 / 
+Salta;27-Mayo-2021;16:00;Cubierto;18 km;20.3;No se calcula; 52;Norte  11;873.5 / 
+Tartagal;27-Mayo-2021;16:00;Nublado;10 km;23.6;No se calcula; 55;Sudeste  9;955.8 / 
+Jachal;27-Mayo-2021;15:00;Algo nublado;30 km;28.6;No se calcula; 6;Norte  9;876 / 
+San Juan;27-Mayo-2021;16:00;Parcialmente nublado;15 km;23.8;No se calcula; 20;Norte  13;934.6 / 
+San Luis;27-Mayo-2021;16:00;Algo nublado;20 km;23.7;No se calcula; 36;Norte  29;922.1 / 
+Santa Rosa del Conlara;27-Mayo-2021;16:00;Despejado;20 km;22.4;No se calcula; 42;Calma;935.1 / 
+Villa Reynolds;27-Mayo-2021;16:00;Algo nublado;15 km;26.2;No se calcula; 30;Noreste  9;947 / 
+El Calafate;27-Mayo-2021;16:00;Nublado con nevada;15 km;0.8;-2.1; 92;Este  9;968.4 / 
+Gobernador Gregores;27-Mayo-2021;15:00;Cubierto con neblina;20 km;2.2;-2.2; 79;Este  18;947 / 
+Perito Moreno;27-Mayo-2021;16:00;Nublado;50 km;9;6.5; 65;Oeste  16;939.7 / 
+Puerto Deseado;27-Mayo-2021;15:00;Nublado con llovizna;20 km;4.8;-0.5; 93;Sudeste  33;978.9 / 
+Río Gallegos;27-Mayo-2021;16:00;Nublado con nevada en la hora anterior;30 km;0;-4.0; 92;Oeste  13;990.9 / 
+San Julián;27-Mayo-2021;16:00;Nublado con llovizna y lluvia;5 km;3.2;1.8; 94;Norte  5;983.7 / 
+Santa Cruz;27-Mayo-2021;16:00;Nublado con nevada;500 mts;0;-3.1; 100;Sur  9;977 / 
+Ceres;27-Mayo-2021;16:00;Algo nublado;15 km;24.6;No se calcula; 41;Norte  14;996.5 / 
+El Trébol;27-Mayo-2021;15:00;Despejado;15 km;24.2;No se calcula; 38;Norte  14;995.6 / 
+Rafaela;27-Mayo-2021;15:00;Despejado;10 km;24.1;No se calcula; 45;Norte  11;998 / 
+Reconquista;27-Mayo-2021;16:00;Algo nublado con humo;8 km;23.6;No se calcula; 43;Noreste  13;1003 / 
+Rosario;27-Mayo-2021;16:00;Despejado;15 km;22.9;No se calcula; 50;Noroeste  18;1003.8 / 
+Santa Fe;27-Mayo-2021;16:00;Despejado;12 km;24.5;No se calcula; 47;Norte  22;1005.6 / 
+Sunchales;27-Mayo-2021;16:00;Algo nublado con humo;9 km;24.2;No se calcula; 42;Norte  24;997.3 / 
+Venado Tuerto;27-Mayo-2021;16:00;Despejado;15 km;23.2;No se calcula; 41;Norte  14;996.2 / 
+Termas de Rio Hondo;27-Mayo-2021;16:00;Parcialmente nublado;10 km;20.5;No se calcula; 61;Sur  9;973.9 / 
+Santiago del Estero;27-Mayo-2021;16:00;Nublado;12 km;25.8;No se calcula; 39;Norte  11;982.6 / 
+Río Grande B.A.;27-Mayo-2021;16:00;Despejado;30 km;0.1;-3.5; 94;Oeste  11;988.4 / 
+Ushuaia;27-Mayo-2021;16:00;Parcialmente nublado con nevada;7 km;-0.5;-7.6; 91;Sudoeste  35;983.4 / 
+Tucumán;27-Mayo-2021;16:00;Nublado con humo;9 km;22.8;No se calcula; 56;Sur  9;954.4 / 
+Base Belgrano II;27-Mayo-2021;15:00;Nublado;20 km;-14.8;No se calcula; 87;Calma;966.2 / 
+Base Esperanza;27-Mayo-2021;15:00;Cielo invisible con nevada;100 mts;-14.4;-31.4; 82;Sur  98;977.8 / 
+Base Carlini;27-Mayo-2021;15:00;Nublado con nevada;8 km;-7.9;-16.2; 78;Sur  25;985.4 / 
+Base Marambio;27-Mayo-2021;16:00;Cubierto con niebla;Menor a 100 mts;-18.7;-38.2; 83;Sur  107;957.8 / 
+Base Orcadas;27-Mayo-2021;15:00;Parcialmente nublado;15 km;-3.7;-11.0; 85;Noroeste  27;986.6 / 
+Base San Martín;27-Mayo-2021;15:00;Parcialmente nublado;10 km;-9.4;-14.9; 76;Noreste  11;993.3 / 
+Azul;27-Mayo-2021;17:00;Cubierto;15 km;17.7;No se calcula; 66;Noroeste  11;985.2 / 
+Bahía Blanca;27-Mayo-2021;17:00;Cubierto;15 km;18.9;No se calcula; 59;Noroeste  20;989.8 / 
+Benito Juárez;27-Mayo-2021;15:00;Parcialmente nublado;15 km;17.3;No se calcula; 57;Noroeste  24;977.7 / 
+Bolívar;27-Mayo-2021;17:00;Cubierto;15 km;20.8;No se calcula; 50;Norte  14;991.8 / 
+Campo de Mayo;27-Mayo-2021;17:00;Algo nublado;10 km;21.2;No se calcula; 50;Norte  18;1002.9 / 
+Coronel Pringles;27-Mayo-2021;15:00;Parcialmente nublado;25 km;20.6;No se calcula; 50;Noroeste  25;972.5 / 
+Coronel Suarez;27-Mayo-2021;15:00;Nublado;50 km;19.1;No se calcula; 48;Norte  22;975.8 / 
+Dolores;27-Mayo-2021;17:00;Nublado;10 km;18;No se calcula; 70;Noroeste  22;1002.9 / 
+El Palomar;27-Mayo-2021;17:00;Algo nublado;10 km;21.8;No se calcula; 51;Norte  22;1003.8 / 
+Ezeiza;27-Mayo-2021;17:00;Algo nublado;10 km;22.2;No se calcula; 43;Norte  18;1002.6 / 
+Junín;27-Mayo-2021;17:00;Algo nublado;12 km;21.5;No se calcula; 48;Noroeste  33;994.1 / 
+La Plata;27-Mayo-2021;17:00;Algo nublado;10 km;18.2;No se calcula; 67;Norte  14;1003 / 
+Las Flores;27-Mayo-2021;15:00;Parcialmente nublado;15 km;21;No se calcula; 49;Oeste  11;1000 / 
+Mar del Plata;27-Mayo-2021;17:00;Nublado;10 km;17.2;No se calcula; 63;Noroeste  25;998.8 / 
+Mariano Moreno;27-Mayo-2021;17:00;Algo nublado;10 km;21.8;No se calcula; 49;Noroeste  27;1001.7 / 
+Merlo;27-Mayo-2021;17:00;Algo nublado;10 km;21.3;No se calcula; 67;Norte  11;1006.1 / 
+Morón;27-Mayo-2021;17:00;Algo nublado;10 km;21.6;No se calcula; 62;Noroeste  20;1003.3 / 
+Nueve de Julio;27-Mayo-2021;15:00;Parcialmente nublado;15 km;22.6;No se calcula; 40;Noroeste  24;995.8 / 
+Olavarría;27-Mayo-2021;17:00;Parcialmente nublado con bruma;12 km;18.6;No se calcula; 63;Oeste  7;983.6 / 
+Pehuajó;27-Mayo-2021;17:00;Cubierto;15 km;21.3;No se calcula; 52;Noroeste  16;992.4 / 
+Pigué;27-Mayo-2021;17:00;Nublado;20 km;16.5;No se calcula; 58;Noroeste  9;965 / 
+Punta Indio B.A.;27-Mayo-2021;17:00;Algo nublado con bruma;6 km;17.8;No se calcula; 71;Norte  24;1002.8 / 
+San Fernando;27-Mayo-2021;17:00;Despejado;10 km;21.4;No se calcula; 54;Noroeste  14;1005.4 / 
+Tandil;27-Mayo-2021;17:00;Cubierto;20 km;16.8;No se calcula; 65;Noroeste  16;981.8 / 
+Trenque Lauquen;27-Mayo-2021;15:00;Parcialmente nublado;15 km;23.1;No se calcula; 38;Norte  11;992.9 / 
+Tres Arroyos;27-Mayo-2021;15:00;Nublado;15 km;22.5;No se calcula; 32;Noroeste  29;986.9 / 
+Villa Gesell;27-Mayo-2021;17:00;Parcialmente nublado;10 km;16.5;No se calcula; 68;Noroeste  7;1001.7 / 
+Aeroparque Buenos Aires;27-Mayo-2021;17:00;Algo nublado;10 km;19.3;No se calcula; 62;Noroeste  16;1004.9 / 
+Buenos Aires;27-Mayo-2021;17:00;Algo nublado;10 km;21.7;No se calcula; 49;Noroeste  16;1002.4 / 
+Catamarca;27-Mayo-2021;17:00;Algo nublado;20 km;23.6;No se calcula; 45;Calma;951 / 
+Tinogasta;27-Mayo-2021;15:00;Parcialmente nublado;20 km;23.4;No se calcula; 28;Este  9;870.3 / 
+Pcia. Roque Saenz Peña;27-Mayo-2021;17:00;Nublado;20 km;24.8;No se calcula; 47;Este  9;997.6 / 
+Resistencia;27-Mayo-2021;17:00;Parcialmente nublado;15 km;24.4;No se calcula; 43;Noreste  7;1002.1 / 
+Comodoro Rivadavia;27-Mayo-2021;17:00;Nublado;30 km;11.9;No se calcula; 54;Oeste  25;983.5 / 
+Esquel;27-Mayo-2021;17:00;Nublado con lluvia;5 km;6.4;4.1; 69;Direcciones Variables  11;902.5 / 
+Paso De Indios;27-Mayo-2021;17:00;Nublado;45 km;12.2;No se calcula; 32;Oeste  27;938.3 / 
+Puerto Madryn;27-Mayo-2021;17:00;Parcialmente nublado;30 km;15.8;No se calcula; 43;Oeste  25;977.3 / 
+Trelew;27-Mayo-2021;17:00;Parcialmente nublado;30 km;15;No se calcula; 42;Oeste  22;988.2 / 
+Córdoba;27-Mayo-2021;17:00;Parcialmente nublado;12 km;24.2;No se calcula; 33;Norte  22;947.8 / 
+Córdoba Observatorio;27-Mayo-2021;17:00;Parcialmente nublado;10 km;24.6;No se calcula; 36;Norte  14;955.7 / 
+Esc. Aviación Militar;27-Mayo-2021;17:00;Parcialmente nublado;10 km;24.6;No se calcula; 35;Norte  22;947.4 / 
+Laboulaye;27-Mayo-2021;17:00;Algo nublado;10 km;22.6;No se calcula; 41;Norte  11;987 / 
+Marcos Juárez;27-Mayo-2021;17:00;Algo nublado;20 km;22.8;No se calcula; 44;Norte  22;991.4 / 
+Pilar Obs.;27-Mayo-2021;17:00;Algo nublado;10 km;24.5;No se calcula; 40;Norte  16;965.4 / 
+Río Cuarto;27-Mayo-2021;17:00;Algo nublado;15 km;23.6;No se calcula; 33;Norte  33;953.6 / 
+Villa Dolores;27-Mayo-2021;17:00;Parcialmente nublado;30 km;21.9;No se calcula; 43;Sudeste  3;942.1 / 
+Villa María Del Río Seco;27-Mayo-2021;15:00;Parcialmente nublado;15 km;24.6;No se calcula; 31;Noroeste  14;968.4 / 
+Corrientes;27-Mayo-2021;17:00;Parcialmente nublado con humo;7 km;23.9;No se calcula; 47;Este  9;1001.3 / 
+Ituzaingó;27-Mayo-2021;15:00;Algo nublado;15 km;26.6;27.1; 50;Noreste  9;1001.2 / 
+Mercedes;27-Mayo-2021;15:00;Algo nublado;15 km;23.4;No se calcula; 37;Noreste  14;- / 
+Monte Caseros;27-Mayo-2021;17:00;Algo nublado;20 km;22.4;No se calcula; 45;Este  11;1003.8 / 
+Paso De Los Libres;27-Mayo-2021;17:00;Algo nublado con humo;8 km;22.3;No se calcula; 47;Noreste  3;1001.4 / 
+Concordia;27-Mayo-2021;17:00;Despejado;15 km;19.5;No se calcula; 59;Noreste  7;1004.6 / 
+Gualeguaychú;27-Mayo-2021;17:00;Despejado;15 km;20.6;No se calcula; 56;Norte  16;1004.1 / 
+Paraná;27-Mayo-2021;17:00;Despejado;15 km;21;No se calcula; 55;Norte  16;998.8 / 
+Formosa;27-Mayo-2021;17:00;Parcialmente nublado;20 km;26.3;27.1; 56;Este  5;1001.4 / 
+Las Lomitas;27-Mayo-2021;17:00;Cubierto;20 km;25.8;No se calcula; 62;Este  5;992.5 / 
+Mount Pleasant Airport (Islas Malvinas);27-Mayo-2021;17:00;Nublado;30 km;-3.7;-10.0; 84;Oeste  20;980.4 / 
+La Quiaca;27-Mayo-2021;17:00;Nublado;30 km;16.6;No se calcula; 44;Noroeste  14;667.8 / 
+Jujuy;27-Mayo-2021;17:00;Nublado;15 km;20.4;No se calcula; 63;Este  7;905.8 / 
+Jujuy Universidad Nacional;27-Mayo-2021;15:00;Parcialmente nublado;15 km;22;No se calcula; 52;Este  3;865.3 / 
+General Pico;27-Mayo-2021;17:00;Parcialmente nublado;20 km;22.1;No se calcula; 35;Norte  20;984.5 / 
+Victorica;27-Mayo-2021;15:00;Parcialmente nublado;40 km;22.7;No se calcula; 56;Norte  14;966.2 / 
+Santa Rosa;27-Mayo-2021;17:00;Nublado;30 km;20.2;No se calcula; 59;Noroeste  9;978.8 / 
+Chamical;27-Mayo-2021;17:00;Parcialmente nublado;20 km;21.2;No se calcula; 39;Noreste  3;952 / 
+Chepes;27-Mayo-2021;15:00;Parcialmente nublado;20 km;23.2;No se calcula; 28;Calma;931.1 / 
+Chilecito;27-Mayo-2021;15:00;Parcialmente nublado;20 km;18.6;No se calcula; 45;Sudeste  3;902.1 / 
+La Rioja;27-Mayo-2021;17:00;Algo nublado con humo;15 km;21.8;No se calcula; 54;Calma;954.5 / 
+Malargue;27-Mayo-2021;17:00;Parcialmente nublado;20 km;20.3;No se calcula; 11;Noroeste  14;849.2 / 
+Mendoza;27-Mayo-2021;17:00;Parcialmente nublado;15 km;19.3;No se calcula; 27;Noreste  11;923 / 
+Mendoza Observatorio;27-Mayo-2021;17:00;Parcialmente nublado;15 km;18.7;No se calcula; 55;Calma;909.3 / 
+San Carlos (Mza);27-Mayo-2021;15:00;Algo nublado;15 km;20.6;No se calcula; 34;Norte  9;898.2 / 
+San Martín (Mza);27-Mayo-2021;15:00;Algo nublado;15 km;21.2;No se calcula; 42;Norte  3;929.7 / 
+San Rafael;27-Mayo-2021;17:00;Parcialmente nublado;20 km;21.8;No se calcula; 34;Noreste  3;917.8 / 
+Bernardo De Irigoyen;27-Mayo-2021;17:00;Nublado;20 km;21.7;No se calcula; 61;Norte  3;919 / 
+Iguazú;27-Mayo-2021;17:00;Algo nublado;20 km;26.4;27.2; 57;Noreste  5;979.7 / 
+Oberá;27-Mayo-2021;15:00;Despejado;20 km;26.8;27.0; 46;Norte  3;977.2 / 
+Posadas;27-Mayo-2021;17:00;Algo nublado;20 km;25.8;No se calcula; 56;Este  7;995 / 
+Chapelco;27-Mayo-2021;17:00;Algo nublado con precipitación a la vista;15 km;8.8;4.8; 55;Oeste  33;912.6 / 
+Neuquén;27-Mayo-2021;17:00;Nublado;15 km;17.8;No se calcula; 43;Sudoeste  13;969.3 / 
+Bariloche;27-Mayo-2021;17:00;Cubierto con lluvia en la hora anterior;9 km;6.5;0.6; 75;Noroeste  51;902.8 / 
+Cipolletti;27-Mayo-2021;15:00;Nublado;25 km;21.8;No se calcula; 43;Oeste  33;969.8 / 
+El Bolsón;27-Mayo-2021;15:00;Nublado con llovizna;20 km;9.3;5.7; 77;Norte  29;962.2 / 
+Maquinchao;27-Mayo-2021;15:00;Algo nublado;40 km;12.3;No se calcula; 34;Oeste  55;897.3 / 
+Río Colorado;27-Mayo-2021;15:00;Cubierto;15 km;19;No se calcula; 55;Oeste  3;989.3 / 
+San Antonio Oeste;27-Mayo-2021;17:00;Algo nublado;30 km;20.7;No se calcula; 31;Oeste  37;995 / 
+Viedma;27-Mayo-2021;17:00;Nublado;30 km;19.5;No se calcula; 45;Oeste  31;994.1 / 
+Metán;27-Mayo-2021;15:00;Nublado con bruma;15 km;21.4;No se calcula; 60;Noreste  9;912.2 / 
+Orán;27-Mayo-2021;17:00;Parcialmente nublado;10 km;23.8;No se calcula; 57;Norte  14;964.8 / 
+Rivadavia;27-Mayo-2021;15:00;Parcialmente nublado;25 km;26.6;27.1; 50;Este  3;982.7 / 
+Salta;27-Mayo-2021;17:00;Cubierto;18 km;19;No se calcula; 59;Noreste  11;873.3 / 
+Tartagal;27-Mayo-2021;17:00;Nublado;10 km;22.6;No se calcula; 59;Sudeste  3;956 / 
+Jachal;27-Mayo-2021;15:00;Algo nublado;30 km;28.6;No se calcula; 6;Norte  9;876 / 
+San Juan;27-Mayo-2021;17:00;Parcialmente nublado;15 km;23.8;No se calcula; 24;Calma;934 / 
+San Luis;27-Mayo-2021;17:00;Algo nublado;20 km;22.6;No se calcula; 39;Noroeste  24;922 / 
+Santa Rosa del Conlara;27-Mayo-2021;17:00;Despejado;20 km;22.5;No se calcula; 44;Calma;934.2 / 
+Villa Reynolds;27-Mayo-2021;17:00;Algo nublado;15 km;25;No se calcula; 31;Sur  5;947 / 
+El Calafate;27-Mayo-2021;17:00;Nublado con nevada en la hora anterior;20 km;0.6;-2.4; 95;Este  9;969.4 / 
+Gobernador Gregores;27-Mayo-2021;15:00;Cubierto con neblina;20 km;2.2;-2.2; 79;Este  18;947 / 
+Perito Moreno;27-Mayo-2021;16:00;Nublado;50 km;9;6.5; 65;Oeste  16;939.7 / 
+Puerto Deseado;27-Mayo-2021;15:00;Nublado con llovizna;20 km;4.8;-0.5; 93;Sudeste  33;978.9 / 
+Río Gallegos;27-Mayo-2021;17:00;Nublado con precipitación a la vista;25 km;0.2;-3.8; 90;Oeste  13;991.4 / 
+San Julián;27-Mayo-2021;17:00;Nublado con lluvia;5 km;2.8;0.7; 97;Oeste  7;984.1 / 
+Santa Cruz;27-Mayo-2021;17:00;Nublado con nevada;1.0 km;0.2;-4.1; 100;Sur  14;977.4 / 
+Ceres;27-Mayo-2021;17:00;Parcialmente nublado;15 km;23.2;No se calcula; 49;Norte  14;996 / 
+El Trébol;27-Mayo-2021;15:00;Despejado;15 km;24.2;No se calcula; 38;Norte  14;995.6 / 
+Rafaela;27-Mayo-2021;15:00;Despejado;10 km;24.1;No se calcula; 45;Norte  11;998 / 
+Reconquista;27-Mayo-2021;17:00;Algo nublado con humo;10 km;22.9;No se calcula; 46;Noreste  16;1002 / 
+Rosario;27-Mayo-2021;17:00;Despejado;15 km;21.6;No se calcula; 53;Norte  18;1003 / 
+Santa Fe;27-Mayo-2021;17:00;Despejado;12 km;22.8;No se calcula; 52;Noreste  16;1004.6 / 
+Sunchales;27-Mayo-2021;17:00;Algo nublado con humo;9 km;23.3;No se calcula; 48;Norte  14;996.5 / 
+Venado Tuerto;27-Mayo-2021;17:00;Despejado;15 km;22;No se calcula; 46;Norte  14;996.4 / 
+Termas de Rio Hondo;27-Mayo-2021;17:00;Parcialmente nublado;10 km;20;No se calcula; 73;Sur  7;973.1 / 
+Santiago del Estero;27-Mayo-2021;17:00;Nublado;12 km;24;No se calcula; 46;Noreste  9;982.2 / 
+Río Grande B.A.;27-Mayo-2021;17:00;Despejado;30 km;-0.6;-4.3; 93;Sudoeste  11;988.5 / 
+Ushuaia;27-Mayo-2021;17:00;Parcialmente nublado con nevada;7 km;-0.6;-7.6; 89;Sudoeste  33;983.4 / 
+Tucumán;27-Mayo-2021;17:00;Nublado con humo;9 km;22;No se calcula; 63;Oeste  9;954.1 / 
+Base Belgrano II;27-Mayo-2021;15:00;Nublado;20 km;-14.8;No se calcula; 87;Calma;966.2 / 
+Base Esperanza;27-Mayo-2021;15:00;Cielo invisible con nevada;100 mts;-14.4;-31.4; 82;Sur  98;977.8 / 
+Base Carlini;27-Mayo-2021;15:00;Nublado con nevada;8 km;-7.9;-16.2; 78;Sur  25;985.4 / 
+Base Marambio;27-Mayo-2021;17:00;Cubierto con niebla;Menor a 100 mts;-18.9;-38.6; 83;Sur  109;957.7 / 
+Base Orcadas;27-Mayo-2021;15:00;Parcialmente nublado;15 km;-3.7;-11.0; 85;Noroeste  27;986.6 / 
+Base San Martín;27-Mayo-2021;15:00;Parcialmente nublado;10 km;-9.4;-14.9; 76;Noreste  11;993.3 / 
+Azul;27-Mayo-2021;18:00;Nublado;15 km;16.8;No se calcula; 70;Noroeste  13;985 / 
+Bahía Blanca;27-Mayo-2021;18:00;Cubierto;15 km;17.7;No se calcula; 64;Noroeste  20;989.8 / 
+Benito Juárez;27-Mayo-2021;18:00;Cubierto;15 km;16.4;No se calcula; 66;Noroeste  24;976.1 / 
+Bolívar;27-Mayo-2021;18:00;Cubierto;15 km;18.8;No se calcula; 63;Norte  5;991.4 / 
+Campo de Mayo;27-Mayo-2021;18:00;Algo nublado;10 km;20;No se calcula; 53;Norte  13;1002.5 / 
+Coronel Pringles;27-Mayo-2021;15:00;Parcialmente nublado;25 km;20.6;No se calcula; 50;Noroeste  25;972.5 / 
+Coronel Suarez;27-Mayo-2021;18:00;Nublado;30 km;17.2;No se calcula; 52;Noroeste  18;973.3 / 
+Dolores;27-Mayo-2021;18:00;Nublado;10 km;17;No se calcula; 71;Noroeste  14;1003 / 
+El Palomar;27-Mayo-2021;18:00;Algo nublado;10 km;20.5;No se calcula; 56;Norte  14;1003.7 / 
+Ezeiza;27-Mayo-2021;18:00;Algo nublado;10 km;20.8;No se calcula; 52;Norte  14;1002.2 / 
+Junín;27-Mayo-2021;18:00;Algo nublado;10 km;17.8;No se calcula; 65;Noroeste  18;994.2 / 
+La Plata;27-Mayo-2021;18:00;Algo nublado;10 km;18.1;No se calcula; 64;Norte  18;1003 / 
+Las Flores;27-Mayo-2021;18:00;Parcialmente nublado;15 km;18.9;No se calcula; 58;Oeste  7;998.1 / 
+Mar del Plata;27-Mayo-2021;18:00;Cubierto;10 km;15.7;No se calcula; 68;Norte  24;998.5 / 
+Mariano Moreno;27-Mayo-2021;18:00;Algo nublado;10 km;20;No se calcula; 56;Noroeste  27;1001.4 / 
+Merlo;27-Mayo-2021;18:00;Algo nublado;10 km;20;No se calcula; 73;Norte  14;1005.2 / 
+Morón;27-Mayo-2021;18:00;Algo nublado;10 km;20.2;No se calcula; 64;Norte  16;1003 / 
+Nueve de Julio;27-Mayo-2021;18:00;Parcialmente nublado;15 km;20;No se calcula; 50;Noroeste  11;994.1 / 
+Olavarría;27-Mayo-2021;18:00;Parcialmente nublado con neblina;12 km;16.1;No se calcula; 73;Noroeste  7;982.9 / 
+Pehuajó;27-Mayo-2021;18:00;Cubierto;15 km;19.9;No se calcula; 55;Noroeste  13;992.4 / 
+Pigué;27-Mayo-2021;18:00;Nublado;20 km;16;No se calcula; 60;Noroeste  9;966 / 
+Punta Indio B.A.;27-Mayo-2021;18:00;Algo nublado con neblina;9 km;16.4;No se calcula; 75;Norte  18;1002.2 / 
+San Fernando;27-Mayo-2021;18:00;Despejado;10 km;19.5;No se calcula; 61;Norte  14;1005 / 
+Tandil;27-Mayo-2021;18:00;Cubierto;20 km;16.1;No se calcula; 69;Noroeste  16;981.3 / 
+Trenque Lauquen;27-Mayo-2021;15:00;Parcialmente nublado;15 km;23.1;No se calcula; 38;Norte  11;992.9 / 
+Tres Arroyos;27-Mayo-2021;18:00;Cubierto;12 km;18.2;No se calcula; 48;Noroeste  20;986.9 / 
+Villa Gesell;27-Mayo-2021;18:00;Nublado;10 km;15.2;No se calcula; 76;Oeste  5;1001.6 / 
+Aeroparque Buenos Aires;27-Mayo-2021;18:00;Algo nublado;10 km;18;No se calcula; 72;Noroeste  16;1004.8 / 
+Buenos Aires;27-Mayo-2021;18:00;Despejado;10 km;20.8;No se calcula; 53;Noroeste  11;1002.2 / 
+Catamarca;27-Mayo-2021;18:00;Algo nublado;20 km;23.2;No se calcula; 51;Calma;950.6 / 
+Tinogasta;27-Mayo-2021;15:00;Parcialmente nublado;20 km;23.4;No se calcula; 28;Este  9;870.3 / 
+Pcia. Roque Saenz Peña;27-Mayo-2021;18:00;Nublado;20 km;23.2;No se calcula; 57;Este  5;997.7 / 
+Resistencia;27-Mayo-2021;18:00;Parcialmente nublado;15 km;21.5;No se calcula; 59;Este  5;1002 / 
+Comodoro Rivadavia;27-Mayo-2021;18:00;Nublado;30 km;11.8;No se calcula; 55;Oeste  22;983.6 / 
+Esquel;27-Mayo-2021;18:00;Nublado con lluvia;4.0 km;4;2.1; 87;Direcciones Variables  7;902.9 / 
+Paso De Indios;27-Mayo-2021;18:00;Algo nublado;45 km;10.6;No se calcula; 45;Oeste  18;935.7 / 
+Puerto Madryn;27-Mayo-2021;18:00;Parcialmente nublado;30 km;13.6;No se calcula; 48;Oeste  18;977.8 / 
+Trelew;27-Mayo-2021;18:00;Parcialmente nublado;30 km;14;No se calcula; 47;Oeste  9;988.5 / 
+Córdoba;27-Mayo-2021;18:00;Parcialmente nublado;12 km;21;No se calcula; 44;Noroeste  9;948 / 
+Córdoba Observatorio;27-Mayo-2021;18:00;Parcialmente nublado;10 km;23.2;No se calcula; 41;Norte  9;955.7 / 
+Esc. Aviación Militar;27-Mayo-2021;18:00;Parcialmente nublado;10 km;21.3;No se calcula; 45;Norte  13;947.8 / 
+Laboulaye;27-Mayo-2021;18:00;Algo nublado;10 km;17.8;No se calcula; 59;Norte  3;986.6 / 
+Marcos Juárez;27-Mayo-2021;18:00;Algo nublado;20 km;20.9;No se calcula; 49;Norte  24;991 / 
+Pilar Obs.;27-Mayo-2021;18:00;Parcialmente nublado;10 km;22.4;No se calcula; 42;Norte  14;965.4 / 
+Río Cuarto;27-Mayo-2021;18:00;Parcialmente nublado;15 km;21.6;No se calcula; 41;Noroeste  18;953.3 / 
+Villa Dolores;27-Mayo-2021;18:00;Parcialmente nublado;30 km;20;No se calcula; 57;Calma;942.1 / 
+Villa María Del Río Seco;27-Mayo-2021;18:00;Nublado;15 km;21.6;No se calcula; 43;Noreste  3;966.5 / 
+Corrientes;27-Mayo-2021;18:00;Nublado con humo;6 km;22.3;No se calcula; 54;Este  9;1001 / 
+Ituzaingó;27-Mayo-2021;18:00;Parcialmente nublado;15 km;21;No se calcula; 80;Noreste  5;1000.1 / 
+Mercedes;27-Mayo-2021;15:00;Algo nublado;15 km;23.4;No se calcula; 37;Noreste  14;- / 
+Monte Caseros;27-Mayo-2021;18:00;Algo nublado;20 km;19.8;No se calcula; 57;Este  5;1003.2 / 
+Paso De Los Libres;27-Mayo-2021;18:00;Algo nublado con humo;8 km;19.3;No se calcula; 67;Noreste  3;1001 / 
+Concordia;27-Mayo-2021;18:00;Despejado;15 km;17.8;No se calcula; 72;Noreste  3;1004.2 / 
+Gualeguaychú;27-Mayo-2021;18:00;Despejado;15 km;17.2;No se calcula; 70;Noreste  16;1004.1 / 
+Paraná;27-Mayo-2021;18:00;Algo nublado;15 km;19;No se calcula; 65;Norte  9;998.6 / 
+Formosa;27-Mayo-2021;18:00;Parcialmente nublado;20 km;23.7;No se calcula; 72;Este  7;1001 / 
+Las Lomitas;27-Mayo-2021;18:00;Cubierto;20 km;25.6;No se calcula; 59;Este  3;992.2 / 
+Mount Pleasant Airport (Islas Malvinas);27-Mayo-2021;18:00;Nublado;30 km;-3.3;-9.7; 85;Oeste  22;980.3 / 
+La Quiaca;27-Mayo-2021;18:00;Parcialmente nublado;30 km;16.1;No se calcula; 54;Noroeste  14;668.4 / 
+Jujuy;27-Mayo-2021;18:00;Nublado;15 km;18.6;No se calcula; 68;Noreste  7;906 / 
+Jujuy Universidad Nacional;27-Mayo-2021;15:00;Parcialmente nublado;15 km;22;No se calcula; 52;Este  3;865.3 / 
+General Pico;27-Mayo-2021;18:00;Parcialmente nublado;20 km;20.3;No se calcula; 43;Norte  16;984.6 / 
+Victorica;27-Mayo-2021;15:00;Parcialmente nublado;40 km;22.7;No se calcula; 56;Norte  14;966.2 / 
+Santa Rosa;27-Mayo-2021;18:00;Nublado;30 km;18.6;No se calcula; 64;Noroeste  5;977.8 / 
+Chamical;27-Mayo-2021;18:00;Parcialmente nublado;20 km;19.4;No se calcula; 45;Calma;952 / 
+Chepes;27-Mayo-2021;15:00;Parcialmente nublado;20 km;23.2;No se calcula; 28;Calma;931.1 / 
+Chilecito;27-Mayo-2021;15:00;Parcialmente nublado;20 km;18.6;No se calcula; 45;Sudeste  3;902.1 / 
+La Rioja;27-Mayo-2021;18:00;Algo nublado con humo;15 km;21.6;No se calcula; 53;Calma;954.5 / 
+Malargue;27-Mayo-2021;18:00;Algo nublado;20 km;18;No se calcula; 14;Noroeste  14;849.2 / 
+Mendoza;27-Mayo-2021;18:00;Parcialmente nublado;15 km;18.3;No se calcula; 37;Este  5;923.7 / 
+Mendoza Observatorio;27-Mayo-2021;18:00;Parcialmente nublado;15 km;16.4;No se calcula; 62;Este  3;910.5 / 
+San Carlos (Mza);27-Mayo-2021;15:00;Algo nublado;15 km;20.6;No se calcula; 34;Norte  9;898.2 / 
+San Martín (Mza);27-Mayo-2021;18:00;Algo nublado;15 km;18.8;No se calcula; 59;Noroeste  3;929.4 / 
+San Rafael;27-Mayo-2021;18:00;Parcialmente nublado;20 km;19.8;No se calcula; 41;Noreste  7;918.2 / 
+Bernardo De Irigoyen;27-Mayo-2021;18:00;Parcialmente nublado;20 km;20.2;No se calcula; 65;Norte  3;918.9 / 
+Iguazú;27-Mayo-2021;18:00;Algo nublado;20 km;22.2;No se calcula; 75;Calma;979.8 / 
+Oberá;27-Mayo-2021;15:00;Despejado;20 km;26.8;27.0; 46;Norte  3;977.2 / 
+Posadas;27-Mayo-2021;18:00;Parcialmente nublado;20 km;23.8;No se calcula; 64;Este  7;994.6 / 
+Chapelco;27-Mayo-2021;18:00;Algo nublado con precipitación a la vista;15 km;8;3.3; 56;Oeste  40;912.2 / 
+Neuquén;27-Mayo-2021;18:00;Parcialmente nublado;10 km;16.9;No se calcula; 40;Sudoeste  20;969 / 
+Bariloche;27-Mayo-2021;17:00;Cubierto con lluvia en la hora anterior;9 km;6.5;0.6; 75;Noroeste  51;902.8 / 
+Cipolletti;27-Mayo-2021;15:00;Nublado;25 km;21.8;No se calcula; 43;Oeste  33;969.8 / 
+El Bolsón;27-Mayo-2021;18:00;Nublado con lluvia;3.0 km;8.3;4.4; 77;Norte  29;959.5 / 
+Maquinchao;27-Mayo-2021;18:00;Algo nublado;40 km;9.8;5.5; 33;Noroeste  44;895.8 / 
+Río Colorado;27-Mayo-2021;15:00;Cubierto;15 km;19;No se calcula; 55;Oeste  3;989.3 / 
+San Antonio Oeste;27-Mayo-2021;18:00;Algo nublado;30 km;18.5;No se calcula; 37;Oeste  16;995.6 / 
+Viedma;27-Mayo-2021;18:00;Parcialmente nublado con precipitación a la vista;30 km;17.8;No se calcula; 51;Oeste  22;994.4 / 
+Metán;27-Mayo-2021;15:00;Nublado con bruma;15 km;21.4;No se calcula; 60;Noreste  9;912.2 / 
+Orán;27-Mayo-2021;18:00;Parcialmente nublado;10 km;22.6;No se calcula; 65;Norte  9;965 / 
+Rivadavia;27-Mayo-2021;15:00;Parcialmente nublado;25 km;26.6;27.1; 50;Este  3;982.7 / 
+Salta;27-Mayo-2021;18:00;Cubierto;18 km;17.5;No se calcula; 70;Norte  9;873.1 / 
+Tartagal;27-Mayo-2021;18:00;Nublado;10 km;21.2;No se calcula; 75;Este  3;956 / 
+Jachal;27-Mayo-2021;15:00;Algo nublado;30 km;28.6;No se calcula; 6;Norte  9;876 / 
+San Juan;27-Mayo-2021;18:00;Parcialmente nublado;15 km;21.4;No se calcula; 22;Sudeste  14;934.5 / 
+San Luis;27-Mayo-2021;18:00;Algo nublado;20 km;19.8;No se calcula; 41;Noroeste  20;923 / 
+Santa Rosa del Conlara;27-Mayo-2021;18:00;Despejado;20 km;19.9;No se calcula; 49;Calma;934.4 / 
+Villa Reynolds;27-Mayo-2021;18:00;Algo nublado;15 km;23.2;No se calcula; 38;Calma;947.4 / 
+El Calafate;27-Mayo-2021;18:00;Parcialmente nublado;30 km;-0.2;-3.3; 95;Sur  9;970.2 / 
+Gobernador Gregores;27-Mayo-2021;15:00;Cubierto con neblina;20 km;2.2;-2.2; 79;Este  18;947 / 
+Perito Moreno;27-Mayo-2021;16:00;Nublado;50 km;9;6.5; 65;Oeste  16;939.7 / 
+Puerto Deseado;27-Mayo-2021;18:00;Nublado con llovizna;10 km;4.2;0.8; 93;Este  14;980.7 / 
+Río Gallegos;27-Mayo-2021;18:00;Parcialmente nublado;30 km;0.3;-4.3; 81;Sudoeste  16;991.8 / 
+San Julián;27-Mayo-2021;18:00;Nublado con lluvia;4.0 km;1.8;-2.1; 97;Sur  14;984.9 / 
+Santa Cruz;27-Mayo-2021;18:00;Nublado con lluvia y nevada;5 km;0.4;-4.5; 100;Sur  18;978.2 / 
+Ceres;27-Mayo-2021;18:00;Parcialmente nublado;15 km;21.8;No se calcula; 50;Norte  9;995.7 / 
+El Trébol;27-Mayo-2021;18:00;Algo nublado;15 km;21.1;No se calcula; 48;Norte  9;994 / 
+Rafaela;27-Mayo-2021;15:00;Despejado;10 km;24.1;No se calcula; 45;Norte  11;998 / 
+Reconquista;27-Mayo-2021;18:00;Algo nublado con humo;10 km;20.3;No se calcula; 57;Noreste  9;1002.2 / 
+Rosario;27-Mayo-2021;18:00;Despejado;15 km;18.8;No se calcula; 65;Norte  16;1002.5 / 
+Santa Fe;27-Mayo-2021;18:00;Algo nublado;12 km;19.7;No se calcula; 62;Noreste  9;1004.6 / 
+Sunchales;27-Mayo-2021;18:00;Parcialmente nublado con humo;9 km;20.2;No se calcula; 61;Norte  9;996 / 
+Venado Tuerto;27-Mayo-2021;18:00;Despejado;15 km;20;No se calcula; 58;Norte  9;996.5 / 
+Termas de Rio Hondo;27-Mayo-2021;18:00;Parcialmente nublado;10 km;19.8;No se calcula; 66;Sur  3;972.7 / 
+Santiago del Estero;27-Mayo-2021;18:00;Nublado;12 km;22.8;No se calcula; 49;Noreste  7;982.6 / 
+Río Grande B.A.;27-Mayo-2021;18:00;Despejado;30 km;-2.9;-7.1; 92;Oeste  11;988.8 / 
+Ushuaia;27-Mayo-2021;18:00;Parcialmente nublado con nevada;7 km;-0.7;-8.2; 91;Sudoeste  38;983.6 / 
+Tucumán;27-Mayo-2021;18:00;Cubierto con humo;6 km;19.8;No se calcula; 69;Sur  5;953.6 / 
+Base Belgrano II;27-Mayo-2021;18:00;Cubierto;20 km;-14.2;No se calcula; 87;Calma;966.5 / 
+Base Esperanza;27-Mayo-2021;18:00;Parcialmente nublado con nevada en la hora anterior;500 mts;-13.9;-30.2; 79;Sur  90;978.6 / 
+Base Carlini;27-Mayo-2021;18:00;Nublado con nevada;8 km;-7.5;No se calcula; 73;Sudeste  3;986.1 / 
+Base Marambio;27-Mayo-2021;18:00;Cubierto con niebla;Menor a 100 mts;-18.9;-38.0; 83;Sur  100;958.9 / 
+Base Orcadas;27-Mayo-2021;18:00;Parcialmente nublado;15 km;-2.8;-9.8; 95;Norte  27;988.4 / 
+Base San Martín;27-Mayo-2021;18:00;Cubierto;10 km;-10.1;-22.5; 61;Este  57;992.9 / 
+Azul;27-Mayo-2021;19:00;Cubierto;15 km;16;No se calcula; 73;Noroeste  11;984.4 / 
+Bahía Blanca;27-Mayo-2021;19:00;Cubierto;15 km;16;No se calcula; 71;Norte  18;990.1 / 
+Benito Juárez;27-Mayo-2021;18:00;Cubierto;15 km;16.4;No se calcula; 66;Noroeste  24;976.1 / 
+Bolívar;27-Mayo-2021;19:00;Cubierto;15 km;17.7;No se calcula; 64;Norte  11;991 / 
+Campo de Mayo;27-Mayo-2021;19:00;Algo nublado;10 km;18.5;No se calcula; 63;Norte  16;1002.2 / 
+Coronel Pringles;27-Mayo-2021;15:00;Parcialmente nublado;25 km;20.6;No se calcula; 50;Noroeste  25;972.5 / 
+Coronel Suarez;27-Mayo-2021;18:00;Nublado;30 km;17.2;No se calcula; 52;Noroeste  18;973.3 / 
+Dolores;27-Mayo-2021;19:00;Nublado;10 km;15.2;No se calcula; 79;Norte  14;1002.4 / 
+El Palomar;27-Mayo-2021;19:00;Algo nublado;10 km;18.6;No se calcula; 66;Noroeste  7;1003.4 / 
+Ezeiza;27-Mayo-2021;19:00;Algo nublado;10 km;19.9;No se calcula; 55;Norte  14;1002 / 
+Junín;27-Mayo-2021;19:00;Algo nublado;10 km;14.3;No se calcula; 77;Noroeste  20;993.6 / 
+La Plata;27-Mayo-2021;19:00;Algo nublado;10 km;17.7;No se calcula; 65;Norte  14;1002.6 / 
+Las Flores;27-Mayo-2021;18:00;Parcialmente nublado;15 km;18.9;No se calcula; 58;Oeste  7;998.1 / 
+Mar del Plata;27-Mayo-2021;19:00;Cubierto;10 km;15;No se calcula; 73;Norte  25;997.8 / 
+Mariano Moreno;27-Mayo-2021;19:00;Algo nublado;10 km;18.6;No se calcula; 61;Noroeste  27;1001 / 
+Merlo;27-Mayo-2021;19:00;Algo nublado;10 km;19;No se calcula; 73;Norte  18;1004.1 / 
+Morón;27-Mayo-2021;19:00;Algo nublado;10 km;18.5;No se calcula; 72;Norte  14;1002.4 / 
+Nueve de Julio;27-Mayo-2021;18:00;Parcialmente nublado;15 km;20;No se calcula; 50;Noroeste  11;994.1 / 
+Olavarría;27-Mayo-2021;19:00;Parcialmente nublado con neblina;12 km;13.6;No se calcula; 81;Norte  3;982.6 / 
+Pehuajó;27-Mayo-2021;19:00;Cubierto;15 km;18.1;No se calcula; 65;Noroeste  14;992.8 / 
+Pigué;27-Mayo-2021;19:00;Nublado;20 km;13.3;No se calcula; 75;Sudoeste  9;965.4 / 
+Punta Indio B.A.;27-Mayo-2021;19:00;Algo nublado;10 km;15.2;No se calcula; 80;Norte  18;1002.2 / 
+San Fernando;27-Mayo-2021;19:00;Despejado;10 km;17.9;No se calcula; 65;Noroeste  14;1005 / 
+Tandil;27-Mayo-2021;19:00;Cubierto;15 km;15.2;No se calcula; 74;Norte  18;980.6 / 
+Trenque Lauquen;27-Mayo-2021;15:00;Parcialmente nublado;15 km;23.1;No se calcula; 38;Norte  11;992.9 / 
+Tres Arroyos;27-Mayo-2021;18:00;Cubierto;12 km;18.2;No se calcula; 48;Noroeste  20;986.9 / 
+Villa Gesell;27-Mayo-2021;19:00;Nublado;10 km;14.6;No se calcula; 82;Noroeste  9;1000.9 / 
+Aeroparque Buenos Aires;27-Mayo-2021;19:00;Algo nublado;10 km;17.1;No se calcula; 71;Noroeste  16;1004.5 / 
+Buenos Aires;27-Mayo-2021;19:00;Despejado;10 km;19.7;No se calcula; 59;Oeste  18;1002.1 / 
+Catamarca;27-Mayo-2021;19:00;Algo nublado;20 km;18.6;No se calcula; 70;Calma;950.8 / 
+Tinogasta;27-Mayo-2021;18:00;Parcialmente nublado;20 km;21.8;No se calcula; 33;Este  9;869 / 
+Pcia. Roque Saenz Peña;27-Mayo-2021;19:00;Nublado;20 km;20.9;No se calcula; 66;Este  5;997.4 / 
+Resistencia;27-Mayo-2021;19:00;Nublado;15 km;18.6;No se calcula; 68;Este  5;1002.1 / 
+Comodoro Rivadavia;27-Mayo-2021;19:00;Nublado;30 km;11.4;No se calcula; 55;Oeste  16;983.8 / 
+Esquel;27-Mayo-2021;19:00;Nublado con lluvia;4.0 km;3.4;0.9; 96;Direcciones Variables  9;902.2 / 
+Paso De Indios;27-Mayo-2021;18:00;Algo nublado;45 km;10.6;No se calcula; 45;Oeste  18;935.7 / 
+Puerto Madryn;27-Mayo-2021;19:00;Nublado;30 km;11.2;No se calcula; 61;Oeste  11;977.8 / 
+Trelew;27-Mayo-2021;19:00;Nublado;30 km;11.9;No se calcula; 58;Oeste  11;988.9 / 
+Córdoba;27-Mayo-2021;19:00;Parcialmente nublado;12 km;16.2;No se calcula; 60;Norte  5;947.7 / 
+Córdoba Observatorio;27-Mayo-2021;19:00;Parcialmente nublado;10 km;22.8;No se calcula; 41;Noroeste  3;955.7 / 
+Esc. Aviación Militar;27-Mayo-2021;18:00;Parcialmente nublado;10 km;21.3;No se calcula; 45;Norte  13;947.8 / 
+Laboulaye;27-Mayo-2021;19:00;Algo nublado;10 km;16.3;No se calcula; 63;Norte  3;986.5 / 
+Marcos Juárez;27-Mayo-2021;19:00;Algo nublado;20 km;18.3;No se calcula; 58;Norte  18;990.2 / 
+Pilar Obs.;27-Mayo-2021;19:00;Parcialmente nublado;10 km;19;No se calcula; 52;Norte  11;965 / 
+Río Cuarto;27-Mayo-2021;18:00;Parcialmente nublado;15 km;21.6;No se calcula; 41;Noroeste  18;953.3 / 
+Villa Dolores;27-Mayo-2021;19:00;Parcialmente nublado;30 km;15.6;No se calcula; 68;Calma;941.3 / 
+Villa María Del Río Seco;27-Mayo-2021;18:00;Nublado;15 km;21.6;No se calcula; 43;Noreste  3;966.5 / 
+Corrientes;27-Mayo-2021;19:00;Nublado con humo;6 km;20.5;No se calcula; 60;Este  9;1001.2 / 
+Ituzaingó;27-Mayo-2021;18:00;Parcialmente nublado;15 km;21;No se calcula; 80;Noreste  5;1000.1 / 
+Mercedes;27-Mayo-2021;15:00;Algo nublado;15 km;23.4;No se calcula; 37;Noreste  14;- / 
+Monte Caseros;27-Mayo-2021;19:00;Algo nublado;20 km;18.2;No se calcula; 64;Noreste  5;1002.8 / 
+Paso De Los Libres;27-Mayo-2021;19:00;Algo nublado con humo;8 km;17.2;No se calcula; 73;Noreste  3;1000.6 / 
+Concordia;27-Mayo-2021;19:00;Despejado;15 km;14.9;No se calcula; 86;Calma;1004 / 
+Gualeguaychú;27-Mayo-2021;19:00;Despejado;15 km;15;No se calcula; 76;Noreste  16;1002.8 / 
+Paraná;27-Mayo-2021;18:00;Algo nublado;15 km;19;No se calcula; 65;Norte  9;998.6 / 
+Formosa;27-Mayo-2021;19:00;Parcialmente nublado;20 km;21.1;No se calcula; 83;Este  9;1000.8 / 
+Las Lomitas;27-Mayo-2021;19:00;Cubierto;20 km;23.6;No se calcula; 69;Este  3;992 / 
+Mount Pleasant Airport (Islas Malvinas);27-Mayo-2021;19:00;Algo nublado;30 km;-3.7;-9.6; 79;Noroeste  18;980.2 / 
+La Quiaca;27-Mayo-2021;19:00;Nublado con polvo levantado por viento;5 km;8.6;4.5; 50;Sur  33;669.4 / 
+Jujuy;27-Mayo-2021;19:00;Nublado;15 km;17.2;No se calcula; 70;Norte  5;906.2 / 
+Jujuy Universidad Nacional;27-Mayo-2021;15:00;Parcialmente nublado;15 km;22;No se calcula; 52;Este  3;865.3 / 
+General Pico;27-Mayo-2021;19:00;Parcialmente nublado;20 km;18.7;No se calcula; 52;Norte  14;984.6 / 
+Victorica;27-Mayo-2021;15:00;Parcialmente nublado;40 km;22.7;No se calcula; 56;Norte  14;966.2 / 
+Santa Rosa;27-Mayo-2021;19:00;Nublado;30 km;18.5;No se calcula; 61;Noroeste  5;978.2 / 
+Chamical;27-Mayo-2021;19:00;Parcialmente nublado;20 km;16.4;No se calcula; 57;Calma;951.6 / 
+Chepes;27-Mayo-2021;15:00;Parcialmente nublado;20 km;23.2;No se calcula; 28;Calma;931.1 / 
+Chilecito;27-Mayo-2021;15:00;Parcialmente nublado;20 km;18.6;No se calcula; 45;Sudeste  3;902.1 / 
+La Rioja;27-Mayo-2021;19:00;Algo nublado;20 km;19.2;No se calcula; 62;Oeste  1;954.1 / 
+Malargue;27-Mayo-2021;19:00;Algo nublado;20 km;17.2;No se calcula; 16;Noroeste  33;848.6 / 
+Mendoza;27-Mayo-2021;19:00;Algo nublado;15 km;14.7;No se calcula; 46;Sur  5;923.8 / 
+Mendoza Observatorio;27-Mayo-2021;19:00;Parcialmente nublado;15 km;12.6;No se calcula; 71;Calma;910.6 / 
+San Carlos (Mza);27-Mayo-2021;15:00;Algo nublado;15 km;20.6;No se calcula; 34;Norte  9;898.2 / 
+San Martín (Mza);27-Mayo-2021;19:00;Algo nublado;15 km;15.2;No se calcula; 65;Calma;928.8 / 
+San Rafael;27-Mayo-2021;19:00;Parcialmente nublado;20 km;16.3;No se calcula; 55;Este  7;918.6 / 
+Bernardo De Irigoyen;27-Mayo-2021;19:00;Parcialmente nublado;20 km;19.6;No se calcula; 68;Norte  3;918.9 / 
+Iguazú;27-Mayo-2021;19:00;Despejado;20 km;20.2;No se calcula; 85;Calma;979.6 / 
+Oberá;27-Mayo-2021;15:00;Despejado;20 km;26.8;27.0; 46;Norte  3;977.2 / 
+Posadas;27-Mayo-2021;19:00;Parcialmente nublado;20 km;21.7;No se calcula; 73;Este  3;994.6 / 
+Chapelco;27-Mayo-2021;19:00;Algo nublado con lluvia;8 km;7;2.2; 65;Oeste  37;910.8 / 
+Neuquén;27-Mayo-2021;19:00;Parcialmente nublado;10 km;15.3;No se calcula; 44;Oeste  14;969.2 / 
+Bariloche;27-Mayo-2021;19:00;Cubierto con lluvia;5 km;6.2;-0.4; 80;Oeste  64;901.8 / 
+Cipolletti;27-Mayo-2021;15:00;Nublado;25 km;21.8;No se calcula; 43;Oeste  33;969.8 / 
+El Bolsón;27-Mayo-2021;18:00;Nublado con lluvia;3.0 km;8.3;4.4; 77;Norte  29;959.5 / 
+Maquinchao;27-Mayo-2021;18:00;Algo nublado;40 km;9.8;5.5; 33;Noroeste  44;895.8 / 
+Río Colorado;27-Mayo-2021;15:00;Cubierto;15 km;19;No se calcula; 55;Oeste  3;989.3 / 
+San Antonio Oeste;27-Mayo-2021;19:00;Algo nublado;30 km;15.3;No se calcula; 29;Oeste  22;996.1 / 
+Viedma;27-Mayo-2021;19:00;Algo nublado;30 km;16.7;No se calcula; 55;Oeste  22;994.6 / 
+Metán;27-Mayo-2021;15:00;Nublado con bruma;15 km;21.4;No se calcula; 60;Noreste  9;912.2 / 
+Orán;27-Mayo-2021;19:00;Parcialmente nublado;10 km;19.6;No se calcula; 82;Calma;965.2 / 
+Rivadavia;27-Mayo-2021;15:00;Parcialmente nublado;25 km;26.6;27.1; 50;Este  3;982.7 / 
+Salta;27-Mayo-2021;19:00;Cubierto;18 km;16;No se calcula; 74;Noroeste  5;873.9 / 
+Tartagal;27-Mayo-2021;18:00;Nublado;10 km;21.2;No se calcula; 75;Este  3;956 / 
+Jachal;27-Mayo-2021;15:00;Algo nublado;30 km;28.6;No se calcula; 6;Norte  9;876 / 
+San Juan;27-Mayo-2021;19:00;Parcialmente nublado;15 km;18.2;No se calcula; 27;Sur  11;934.6 / 
+San Luis;27-Mayo-2021;19:00;Parcialmente nublado;20 km;16.2;No se calcula; 53;Noroeste  9;923.4 / 
+Santa Rosa del Conlara;27-Mayo-2021;19:00;Despejado;20 km;16.3;No se calcula; 58;Calma;934.1 / 
+Villa Reynolds;27-Mayo-2021;19:00;Algo nublado;10 km;19.9;No se calcula; 38;Oeste  9;947.3 / 
+El Calafate;27-Mayo-2021;19:00;Parcialmente nublado con precipitación a la vista;25 km;-0.6;-3.8; 95;Este  9;971.4 / 
+Gobernador Gregores;27-Mayo-2021;15:00;Cubierto con neblina;20 km;2.2;-2.2; 79;Este  18;947 / 
+Perito Moreno;27-Mayo-2021;16:00;Nublado;50 km;9;6.5; 65;Oeste  16;939.7 / 
+Puerto Deseado;27-Mayo-2021;18:00;Nublado con llovizna;10 km;4.2;0.8; 93;Este  14;980.7 / 
+Río Gallegos;27-Mayo-2021;19:00;Parcialmente nublado con lluvia en la hora anterior;30 km;-0.6;-5.8; 79;Sudoeste  18;992.6 / 
+San Julián;27-Mayo-2021;19:00;Nublado con lluvia;5 km;0.8;-2.6; 100;Sudoeste  11;985.4 / 
+Santa Cruz;27-Mayo-2021;19:00;Nublado con lluvia y nevada;5 km;0.4;-4.5; 100;Sur  18;979 / 
+Ceres;27-Mayo-2021;19:00;Parcialmente nublado;15 km;19.2;No se calcula; 62;Norte  3;995.2 / 
+El Trébol;27-Mayo-2021;18:00;Algo nublado;15 km;21.1;No se calcula; 48;Norte  9;994 / 
+Rafaela;27-Mayo-2021;15:00;Despejado;10 km;24.1;No se calcula; 45;Norte  11;998 / 
+Reconquista;27-Mayo-2021;19:00;Parcialmente nublado con humo;10 km;17.9;No se calcula; 66;Noreste  11;1001.7 / 
+Rosario;27-Mayo-2021;19:00;Despejado;15 km;17.4;No se calcula; 68;Norte  13;1002.2 / 
+Santa Fe;27-Mayo-2021;19:00;Algo nublado;12 km;17.4;No se calcula; 69;Noreste  11;1004.4 / 
+Sunchales;27-Mayo-2021;19:00;Parcialmente nublado;15 km;16.9;No se calcula; 73;Norte  3;995.9 / 
+Venado Tuerto;27-Mayo-2021;19:00;Despejado;15 km;16.5;No se calcula; 66;Noreste  9;997 / 
+Termas de Rio Hondo;27-Mayo-2021;19:00;Parcialmente nublado;10 km;18;No se calcula; 80;Sur  5;972.5 / 
+Santiago del Estero;27-Mayo-2021;19:00;Parcialmente nublado;10 km;20.8;No se calcula; 61;Calma;981.6 / 
+Río Grande B.A.;27-Mayo-2021;19:00;Despejado;30 km;-3.7;-8.0; 88;Oeste  11;989 / 
+Ushuaia;27-Mayo-2021;19:00;Cubierto con nevada;3.0 km;-0.8;-8.2; 91;Sudoeste  37;983.6 / 
+Tucumán;27-Mayo-2021;19:00;Nublado con humo;5 km;18.4;No se calcula; 73;Oeste  7;953.8 / 
+Base Belgrano II;27-Mayo-2021;18:00;Cubierto;20 km;-14.2;No se calcula; 87;Calma;966.5 / 
+Base Esperanza;27-Mayo-2021;18:00;Parcialmente nublado con nevada en la hora anterior;500 mts;-13.9;-30.2; 79;Sur  90;978.6 / 
+Base Carlini;27-Mayo-2021;18:00;Nublado con nevada;8 km;-7.5;No se calcula; 73;Sudeste  3;986.1 / 
+Base Marambio;27-Mayo-2021;19:00;Cubierto con niebla;Menor a 100 mts;-19;-38.3; 83;Sur  101;959.4 / 
+Base Orcadas;27-Mayo-2021;18:00;Parcialmente nublado;15 km;-2.8;-9.8; 95;Norte  27;988.4 / 
+Base San Martín;27-Mayo-2021;18:00;Cubierto;10 km;-10.1;-22.5; 61;Este  57;992.9 / 
+Azul;27-Mayo-2021;20:00;Cubierto;15 km;16.3;No se calcula; 68;Noroeste  18;983.8 / 
+Bahía Blanca;27-Mayo-2021;20:00;Cubierto;15 km;15.6;No se calcula; 68;Noroeste  18;989.8 / 
+Benito Juárez;27-Mayo-2021;18:00;Cubierto;15 km;16.4;No se calcula; 66;Noroeste  24;976.1 / 
+Bolívar;27-Mayo-2021;20:00;Cubierto;15 km;16;No se calcula; 69;Norte  11;991.3 / 
+Campo de Mayo;27-Mayo-2021;20:00;Algo nublado;10 km;18.2;No se calcula; 63;Norte  18;1001.8 / 
+Coronel Pringles;27-Mayo-2021;15:00;Parcialmente nublado;25 km;20.6;No se calcula; 50;Noroeste  25;972.5 / 
+Coronel Suarez;27-Mayo-2021;18:00;Nublado;30 km;17.2;No se calcula; 52;Noroeste  18;973.3 / 
+Dolores;27-Mayo-2021;20:00;Parcialmente nublado;10 km;15.1;No se calcula; 79;Noroeste  18;1002.2 / 
+El Palomar;27-Mayo-2021;20:00;Algo nublado;10 km;18;No se calcula; 65;Norte  16;1003 / 
+Ezeiza;27-Mayo-2021;20:00;Algo nublado;10 km;19.2;No se calcula; 59;Norte  14;1002.1 / 
+Junín;27-Mayo-2021;20:00;Algo nublado;10 km;15.7;No se calcula; 70;Noroeste  24;993.6 / 
+La Plata;27-Mayo-2021;20:00;Algo nublado;10 km;17.9;No se calcula; 65;Norte  16;1002.6 / 
+Las Flores;27-Mayo-2021;18:00;Parcialmente nublado;15 km;18.9;No se calcula; 58;Oeste  7;998.1 / 
+Mar del Plata;27-Mayo-2021;20:00;Cubierto;10 km;14.8;No se calcula; 78;Norte  27;997.4 / 
+Mariano Moreno;27-Mayo-2021;20:00;Algo nublado;10 km;18;No se calcula; 65;Noroeste  27;1000.8 / 
+Merlo;27-Mayo-2021;20:00;Algo nublado;10 km;18;No se calcula; 77;Noroeste  13;1003.2 / 
+Morón;27-Mayo-2021;20:00;Algo nublado;10 km;16.8;No se calcula; 75;Norte  16;1002.2 / 
+Nueve de Julio;27-Mayo-2021;18:00;Parcialmente nublado;15 km;20;No se calcula; 50;Noroeste  11;994.1 / 
+Olavarría;27-Mayo-2021;20:00;Parcialmente nublado con neblina;12 km;13.6;No se calcula; 79;Norte  3;982.2 / 
+Pehuajó;27-Mayo-2021;20:00;Cubierto;15 km;17.8;No se calcula; 67;Noroeste  11;992.2 / 
+Pigué;27-Mayo-2021;20:00;Nublado;20 km;13.2;No se calcula; 71;Norte  9;965.4 / 
+Punta Indio B.A.;27-Mayo-2021;20:00;Algo nublado;10 km;15;No se calcula; 80;Norte  22;1002 / 
+San Fernando;27-Mayo-2021;19:00;Despejado;10 km;17.9;No se calcula; 65;Noroeste  14;1005 / 
+Tandil;27-Mayo-2021;20:00;Nublado;15 km;15.4;No se calcula; 72;Noroeste  7;980.4 / 
+Trenque Lauquen;27-Mayo-2021;15:00;Parcialmente nublado;15 km;23.1;No se calcula; 38;Norte  11;992.9 / 
+Tres Arroyos;27-Mayo-2021;18:00;Cubierto;12 km;18.2;No se calcula; 48;Noroeste  20;986.9 / 
+Villa Gesell;27-Mayo-2021;20:00;Nublado;10 km;16;No se calcula; 73;Norte  13;1000.5 / 
+Aeroparque Buenos Aires;27-Mayo-2021;20:00;Algo nublado;10 km;15.5;No se calcula; 81;Noroeste  9;1004.2 / 
+Buenos Aires;27-Mayo-2021;20:00;Despejado;10 km;19.1;No se calcula; 60;Oeste  13;1001.7 / 
+Catamarca;27-Mayo-2021;20:00;Despejado;20 km;15.2;No se calcula; 75;Calma;950.6 / 
+Tinogasta;27-Mayo-2021;18:00;Parcialmente nublado;20 km;21.8;No se calcula; 33;Este  9;869 / 
+Pcia. Roque Saenz Peña;27-Mayo-2021;20:00;Nublado;20 km;20.1;No se calcula; 72;Este  3;997.4 / 
+Resistencia;27-Mayo-2021;20:00;Nublado;15 km;20;No se calcula; 64;Este  5;1002 / 
+Comodoro Rivadavia;27-Mayo-2021;20:00;Nublado con lluvia;10 km;12.1;No se calcula; 53;Oeste  20;984.6 / 
+Esquel;27-Mayo-2021;20:00;Nublado con lluvia en la hora anterior;12 km;3.1;0.2; 93;Este  11;902 / 
+Paso De Indios;27-Mayo-2021;19:00;Nublado;45 km;10;7.9; 48;Oeste  14;936.9 / 
+Puerto Madryn;27-Mayo-2021;20:00;Nublado;30 km;10.4;No se calcula; 65;Oeste  11;977.8 / 
+Trelew;27-Mayo-2021;20:00;Parcialmente nublado;30 km;9.4;7.7; 69;Oeste  11;988.5 / 
+Córdoba;27-Mayo-2021;20:00;Parcialmente nublado;12 km;12.2;No se calcula; 75;Norte  11;947 / 
+Córdoba Observatorio;27-Mayo-2021;20:00;Algo nublado;10 km;19.2;No se calcula; 58;Noroeste  3;954.8 / 
+Esc. Aviación Militar;27-Mayo-2021;19:00;Parcialmente nublado;10 km;19.8;No se calcula; 46;Norte  22;947.8 / 
+Laboulaye;27-Mayo-2021;20:00;Algo nublado;10 km;15.5;No se calcula; 64;Noreste  11;986 / 
+Marcos Juárez;27-Mayo-2021;20:00;Algo nublado;20 km;16.7;No se calcula; 66;Norte  22;990.1 / 
+Pilar Obs.;27-Mayo-2021;20:00;Parcialmente nublado;10 km;17.7;No se calcula; 53;Norte  18;965 / 
+Río Cuarto;27-Mayo-2021;20:00;Parcialmente nublado;15 km;14.6;No se calcula; 67;Sur  5;954.5 / 
+Villa Dolores;27-Mayo-2021;20:00;Parcialmente nublado;30 km;17.8;No se calcula; 51;Norte  11;940.6 / 
+Villa María Del Río Seco;27-Mayo-2021;18:00;Nublado;15 km;21.6;No se calcula; 43;Noreste  3;966.5 / 
+Corrientes;27-Mayo-2021;20:00;Nublado con humo;8 km;19.9;No se calcula; 64;Este  3;1000.9 / 
+Ituzaingó;27-Mayo-2021;18:00;Parcialmente nublado;15 km;21;No se calcula; 80;Noreste  5;1000.1 / 
+Mercedes;27-Mayo-2021;15:00;Algo nublado;15 km;23.4;No se calcula; 37;Noreste  14;- / 
+Monte Caseros;27-Mayo-2021;20:00;Algo nublado;20 km;16.6;No se calcula; 70;Noreste  7;1002.8 / 
+Paso De Los Libres;27-Mayo-2021;20:00;Despejado con humo;8 km;14.4;No se calcula; 84;Calma;1000.8 / 
+Concordia;27-Mayo-2021;20:00;Despejado;15 km;13.4;No se calcula; 91;Noreste  9;1003.6 / 
+Gualeguaychú;27-Mayo-2021;20:00;Despejado;15 km;14.4;No se calcula; 80;Noreste  13;1002.8 / 
+Paraná;27-Mayo-2021;20:00;Parcialmente nublado;15 km;17.4;No se calcula; 68;Norte  13;998 / 
+Formosa;27-Mayo-2021;20:00;Parcialmente nublado;20 km;20.9;No se calcula; 82;Este  5;1001 / 
+Las Lomitas;27-Mayo-2021;20:00;Cubierto;20 km;23.2;No se calcula; 70;Sudeste  7;991.8 / 
+Mount Pleasant Airport (Islas Malvinas);27-Mayo-2021;20:00;Parcialmente nublado;30 km;-2.3;-8.2; 79;Oeste  20;980.1 / 
+La Quiaca;27-Mayo-2021;20:00;Parcialmente nublado;30 km;7.7;5.1; 52;Sur  14;670.2 / 
+Jujuy;27-Mayo-2021;20:00;Cubierto;12 km;16.5;No se calcula; 78;Noreste  3;906.5 / 
+Jujuy Universidad Nacional;27-Mayo-2021;15:00;Parcialmente nublado;15 km;22;No se calcula; 52;Este  3;865.3 / 
+General Pico;27-Mayo-2021;20:00;Cubierto;20 km;18.7;No se calcula; 54;Norte  16;984.2 / 
+Victorica;27-Mayo-2021;15:00;Parcialmente nublado;40 km;22.7;No se calcula; 56;Norte  14;966.2 / 
+Santa Rosa;27-Mayo-2021;20:00;Nublado;30 km;18.4;No se calcula; 54;Norte  18;977.3 / 
+Chamical;27-Mayo-2021;20:00;Algo nublado;20 km;14.8;No se calcula; 58;Calma;951.4 / 
+Chepes;27-Mayo-2021;15:00;Parcialmente nublado;20 km;23.2;No se calcula; 28;Calma;931.1 / 
+Chilecito;27-Mayo-2021;15:00;Parcialmente nublado;20 km;18.6;No se calcula; 45;Sudeste  3;902.1 / 
+La Rioja;27-Mayo-2021;20:00;Despejado;15 km;14.5;No se calcula; 73;Oeste  1;954 / 
+Malargue;27-Mayo-2021;20:00;Algo nublado;20 km;16.4;No se calcula; 20;Oeste  24;847.8 / 
+Mendoza;27-Mayo-2021;20:00;Algo nublado;15 km;13;No se calcula; 50;Oeste  5;923.8 / 
+Mendoza Observatorio;27-Mayo-2021;20:00;Algo nublado;15 km;11.1;No se calcula; 70;Sudoeste  9;910.8 / 
+San Carlos (Mza);27-Mayo-2021;15:00;Algo nublado;15 km;20.6;No se calcula; 34;Norte  9;898.2 / 
+San Martín (Mza);27-Mayo-2021;20:00;Despejado;15 km;12;No se calcula; 74;Calma;928.8 / 
+San Rafael;27-Mayo-2021;20:00;Parcialmente nublado;20 km;13.8;No se calcula; 62;Norte  7;918.2 / 
+Bernardo De Irigoyen;27-Mayo-2021;20:00;Algo nublado;20 km;18.9;No se calcula; 69;Norte  3;918.8 / 
+Iguazú;27-Mayo-2021;20:00;Despejado;20 km;19;No se calcula; 88;Calma;979.8 / 
+Oberá;27-Mayo-2021;15:00;Despejado;20 km;26.8;27.0; 46;Norte  3;977.2 / 
+Posadas;27-Mayo-2021;20:00;Algo nublado;20 km;21;No se calcula; 75;Este  1;994.6 / 
+Chapelco;27-Mayo-2021;20:00;Algo nublado con lluvia en la hora anterior;10 km;6.8;0.7; 64;Oeste  59;909.8 / 
+Neuquén;27-Mayo-2021;20:00;Algo nublado;10 km;16.6;No se calcula; 28;Oeste  33;969.4 / 
+Bariloche;27-Mayo-2021;20:00;Cubierto con lluvia;8 km;5.2;-1.3; 88;Oeste  55;901.3 / 
+Cipolletti;27-Mayo-2021;15:00;Nublado;25 km;21.8;No se calcula; 43;Oeste  33;969.8 / 
+El Bolsón;27-Mayo-2021;18:00;Nublado con lluvia;3.0 km;8.3;4.4; 77;Norte  29;959.5 / 
+Maquinchao;27-Mayo-2021;18:00;Algo nublado;40 km;9.8;5.5; 33;Noroeste  44;895.8 / 
+Río Colorado;27-Mayo-2021;15:00;Cubierto;15 km;19;No se calcula; 55;Oeste  3;989.3 / 
+San Antonio Oeste;27-Mayo-2021;20:00;Algo nublado;30 km;10.4;No se calcula; 50;Oeste  18;996.5 / 
+Viedma;27-Mayo-2021;20:00;Algo nublado;30 km;15.4;No se calcula; 61;Oeste  22;994.6 / 
+Metán;27-Mayo-2021;15:00;Nublado con bruma;15 km;21.4;No se calcula; 60;Noreste  9;912.2 / 
+Orán;27-Mayo-2021;20:00;Algo nublado;10 km;18.6;No se calcula; 82;Norte  14;964.8 / 
+Rivadavia;27-Mayo-2021;15:00;Parcialmente nublado;25 km;26.6;27.1; 50;Este  3;982.7 / 
+Salta;27-Mayo-2021;20:00;Parcialmente nublado;15 km;15;No se calcula; 79;Oeste  3;874.1 / 
+Tartagal;27-Mayo-2021;20:00;Parcialmente nublado;10 km;17.2;No se calcula; 92;Calma;956.4 / 
+Jachal;27-Mayo-2021;15:00;Algo nublado;30 km;28.6;No se calcula; 6;Norte  9;876 / 
+San Juan;27-Mayo-2021;20:00;Algo nublado;15 km;14.6;No se calcula; 36;Sur  7;935.6 / 
+San Luis;27-Mayo-2021;20:00;Parcialmente nublado;20 km;15;No se calcula; 61;Norte  5;923.6 / 
+Santa Rosa del Conlara;27-Mayo-2021;20:00;Despejado;20 km;13.1;No se calcula; 77;Calma;934.2 / 
+Villa Reynolds;27-Mayo-2021;20:00;Algo nublado;10 km;16.8;No se calcula; 54;Noroeste  14;947.8 / 
+El Calafate;27-Mayo-2021;20:00;Parcialmente nublado con precipitación a la vista;25 km;-0.4;-3.6; 95;Este  9;972.6 / 
+Gobernador Gregores;27-Mayo-2021;15:00;Cubierto con neblina;20 km;2.2;-2.2; 79;Este  18;947 / 
+Perito Moreno;27-Mayo-2021;16:00;Nublado;50 km;9;6.5; 65;Oeste  16;939.7 / 
+Puerto Deseado;27-Mayo-2021;18:00;Nublado con llovizna;10 km;4.2;0.8; 93;Este  14;980.7 / 
+Río Gallegos;27-Mayo-2021;20:00;Parcialmente nublado;30 km;-0.9;-6.7; 75;Sudoeste  22;993 / 
+San Julián;27-Mayo-2021;20:00;Nublado con lluvia;5 km;1.2;-4.0; 100;Sur  22;986.1 / 
+Santa Cruz;27-Mayo-2021;20:00;Nublado con nevada;3.0 km;0.2;-5.3; 100;Sur  22;980 / 
+Ceres;27-Mayo-2021;20:00;Parcialmente nublado;15 km;19.2;No se calcula; 62;Norte  3;994.9 / 
+El Trébol;27-Mayo-2021;18:00;Algo nublado;15 km;21.1;No se calcula; 48;Norte  9;994 / 
+Rafaela;27-Mayo-2021;15:00;Despejado;10 km;24.1;No se calcula; 45;Norte  11;998 / 
+Reconquista;27-Mayo-2021;20:00;Parcialmente nublado con humo;10 km;18.1;No se calcula; 65;Noreste  5;1001.6 / 
+Rosario;27-Mayo-2021;20:00;Despejado;15 km;16.7;No se calcula; 70;Norte  14;1001.8 / 
+Santa Fe;27-Mayo-2021;20:00;Despejado;12 km;16.2;No se calcula; 73;Noreste  13;1004.2 / 
+Sunchales;27-Mayo-2021;19:00;Parcialmente nublado;15 km;16.9;No se calcula; 73;Norte  3;995.9 / 
+Venado Tuerto;27-Mayo-2021;20:00;Algo nublado;15 km;15.1;No se calcula; 73;Norte  3;997.3 / 
+Termas de Rio Hondo;27-Mayo-2021;20:00;Parcialmente nublado;10 km;17.5;No se calcula; 83;Sudoeste  5;972.5 / 
+Santiago del Estero;27-Mayo-2021;20:00;Parcialmente nublado;10 km;18;No se calcula; 65;Calma;981.7 / 
+Río Grande B.A.;27-Mayo-2021;20:00;Despejado;30 km;-4;-10.0; 85;Oeste  18;989.2 / 
+Ushuaia;27-Mayo-2021;20:00;Cubierto con nevada;7 km;-0.8;-7.7; 89;Sudoeste  31;983.3 / 
+Tucumán;27-Mayo-2021;20:00;Despejado con humo;5 km;17;No se calcula; 76;Norte  3;953.4 / 
+Base Belgrano II;27-Mayo-2021;18:00;Cubierto;20 km;-14.2;No se calcula; 87;Calma;966.5 / 
+Base Esperanza;27-Mayo-2021;18:00;Parcialmente nublado con nevada en la hora anterior;500 mts;-13.9;-30.2; 79;Sur  90;978.6 / 
+Base Carlini;27-Mayo-2021;18:00;Nublado con nevada;8 km;-7.5;No se calcula; 73;Sudeste  3;986.1 / 
+Base Marambio;27-Mayo-2021;20:00;Cubierto con niebla;Menor a 100 mts;-19.3;-38.2; 82;Sur  94;960.4 / 
+Base Orcadas;27-Mayo-2021;18:00;Parcialmente nublado;15 km;-2.8;-9.8; 95;Norte  27;988.4 / 
+Base San Martín;27-Mayo-2021;18:00;Cubierto;10 km;-10.1;-22.5; 61;Este  57;992.9 / 
+observaciones/tiepre20210527.txtEl archivo no existe.observaciones/tiepre20210527.txtEl archivo no existe.observaciones/tiepre20210527.txtEl archivo no existe.

@@ -6,54 +6,54 @@
 ## General parameters ##
 ########################
 
-overwrite="Y"
+overwrite=#VALUE
 
-graph_acum="Y"
+graph_acum=#VALUE
 
-sd_outliers=3
+sd_outliers=#VALUE
 
-smooth="N"
+smooth=#VALUE
 
-size=0.9
+size=#VALUE
 
-alpha=0.3
+alpha=#VALUE
 
 #################
 ## Directories ##
 #################
 
-path_base=E:/Nube_FI_UNCuyo/01_Estudios/Scripts_ordenados/Datos_MET
+path_base=#VALUE
 
-path_scripts=E:/Nube_FI_UNCuyo/01_Estudios/Scripts_ordenados/Datos_MET/00_programas
+path_scripts=#VALUE
 
 ## ARG - SMN paths ##
 
 	# Programms
 
-smn_programas=E:/Nube_FI_UNCuyo/01_Estudios/Scripts_ordenados/Datos_MET/00_programas/SMN
+smn_programas=#VALUE
 	
 	# Folders
 	
-SMN=E:/Nube_FI_UNCuyo/01_Estudios/Scripts_ordenados/Datos_MET/ARG/SMN
+SMN=#VALUE
 
-smn_dato_norm=E:/Nube_FI_UNCuyo/01_Estudios/Scripts_ordenados/Datos_MET/ARG/SMN/NORM
+smn_dato_norm=#VALUE
 
-smn_graph=E:/Nube_FI_UNCuyo/01_Estudios/Scripts_ordenados/Datos_MET/ARG/SMN/GRAPH
+smn_graph=#VALUE
 	
 	# Data
 	
-smn_datohorario_raw=E:/Nube_FI_UNCuyo/01_Estudios/Scripts_ordenados/Datos_MET/ARG/SMN/RAW/dato_horario
+smn_datohorario_raw=#VALUE
 
-smn_datoTP_raw=E:/Nube_FI_UNCuyo/01_Estudios/Scripts_ordenados/Datos_MET/ARG/SMN/RAW/dato_tiempopresente
+smn_datoTP_raw=#VALUE
 
-smn_historico=E:/Nube_FI_UNCuyo/01_Estudios/Scripts_ordenados/Datos_MET/ARG/SMN/RAW//historico/datos estaciones meteorologicas 2015-2016.xlsx
+smn_historico=#VALUE
 
 	# Auxiliary data	
 		
-smn_stats_norm=E:/Nube_FI_UNCuyo/01_Estudios/Scripts_ordenados/Datos_MET/ARG/SMN/STATS.txt
+smn_stats_norm=#VALUE
 
-smn_stats_raw=E:/Nube_FI_UNCuyo/01_Estudios/Scripts_ordenados/Datos_MET/ARG/SMN/_aux/estaciones_smn.txt
+smn_stats_raw=#VALUE
 
-smn_equivalencias=E:/Nube_FI_UNCuyo/01_Estudios/Scripts_ordenados/Datos_MET/ARG/SMN/_aux/equivalencias_stats.xlsx
+smn_equivalencias=#VALUE
 	
 ## URY - INUMET paths ## Coming soon....

@@ -276,6 +276,3 @@ genera_norm_smn <- function(path_param,path_program) {
   }
   
 }
-
-genera_norm_smn(path_param,path_program)
-

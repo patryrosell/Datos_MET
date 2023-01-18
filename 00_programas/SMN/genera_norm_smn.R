@@ -17,6 +17,8 @@ genera_norm_smn <- function(path_param,path_program) {
   
   search_and_load(packages)
   
+  T1=Sys.time()
+  
   # Read parameters file
   parametros = read_delim(
     path_param,
@@ -29,18 +31,18 @@ genera_norm_smn <- function(path_param,path_program) {
     progress = FALSE
   )
   
+  smn_programas = as.character(parametros[which(parametros$Par == "smn_programas"), 2])
+  
   # Loading useful functions
-  source(paste0(path_program, "/busca_TP_smn.R"))
-  source(paste0(path_program, "/busca_DH_smn.R"))
-  source(paste0(path_program, "/guarda_norm_smn.R"))
-  source(paste0(path_program, "/busca_stat.R"))
+  source(paste0(smn_programas, "/busca_TP_smn.R"))
+  source(paste0(smn_programas, "/busca_DH_smn.R"))
+  source(paste0(smn_programas, "/guarda_norm_smn.R"))
+  source(paste0(smn_programas, "/busca_stat.R"))
   
   # Read specific parameters
   smn_datohorario_raw = as.character(parametros[which(parametros$Par == "smn_datohorario_raw"), 2])
   
   smn_datoTP_raw = as.character(parametros[which(parametros$Par == "smn_datoTP_raw"), 2])
-  
-  SMN_raw = as.character(parametros[which(parametros$Par == "SMN"), 2])
   
   equal = as.character(parametros[which(parametros$Par == "smn_equivalencias"), 2])
   
@@ -48,7 +50,7 @@ genera_norm_smn <- function(path_param,path_program) {
   
   overwrite = as.character(parametros[which(parametros$Par == "overwrite"), 2])
   
-  grafico = as.character(parametros[which(parametros$Par == "graph_acum"), 2])
+  graph_acum = as.character(parametros[which(parametros$Par == "graph_acum"), 2])
   
   # Load equivalences table
   
@@ -133,7 +135,7 @@ genera_norm_smn <- function(path_param,path_program) {
       
       # Search real-time file
       
-      if (file.exists(arc_TP) == TRUE) {
+      if (file.exists(arc_TP) == TRUE && file.info(arc_TP)$size > 50) {
         flag_TP = 1
         datos_fin <- busca_TP_smn(arc_TP)
         
@@ -145,7 +147,7 @@ genera_norm_smn <- function(path_param,path_program) {
       
       # Search hourly data
       
-      if (file.exists(arc_hor) == TRUE) {
+      if (file.exists(arc_hor) == TRUE && file.info(arc_TP)$size > 50) {
         flag_DH = 1
         datos_ord <- busca_DH_smn(arc_hor)
         
@@ -159,6 +161,7 @@ genera_norm_smn <- function(path_param,path_program) {
         # We deal with one station at the time
         
         equi = equivalencias[j, ] # one station
+        #print(paste0(equi$OMM," ",equi$OACI))
         
         if (flag_TP == 1 & flag_DH == 1) {
           # If both files exists
@@ -215,7 +218,7 @@ genera_norm_smn <- function(path_param,path_program) {
             # Check for missing station
             
             TP_completo$PRE_stat = NA
-            
+           
           } else {
             TP_completo = NULL
             
@@ -249,18 +252,30 @@ genera_norm_smn <- function(path_param,path_program) {
     
   } #  end loop for year
   
+  T2 = Sys.time()
+  
+  print("----------")
+  print(paste0("Elapsed time: ",difftime(T2, T1, units='mins')[[1]], " min")) # I want my own message
+  print("----------")
+  print(" ")
   print("Data processing has finished")
+  print(" ")
+  print(" ")
   
   # Plotting accumulated data if settled in the parameters file
-  if (graph_acum == Y) {
+  if (graph_acum == "Y") {
+    
     print("Plotting accumulated data")
+    
+    source(paste0(path_program, "/genera_graficos.R"))
+    
     smn_graph = as.character(parametros[which(parametros$Par == "smn_graph"), 2])
     
-    genera_grafico(path_param, dato_norm, save_graph, path_program)
+    genera_graficos(path_param, dato_norm, save_graph, path_program)
     
   }
   
 }
 
-genera_norm_smn(path_param)
+genera_norm_smn(path_param,path_program)
 

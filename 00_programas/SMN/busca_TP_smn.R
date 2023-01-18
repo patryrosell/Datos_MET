@@ -10,11 +10,10 @@ busca_TP_smn <- function (arc_TP) {
   )
   #me quedo con lo importante
   datos_filt = datos0[, c(1:3, 6, 8, 10)]
-  colnames(datos_filt) <-
-    c("NAME", "FECHA", "HORA", "TEMP", "HUM", "PRE_stat")
+  colnames(datos_filt) = c("NAME", "FECHA", "HORA", "TEMP", "HUM", "PRE_stat")
   datos_filt$PRE_stat = substr(datos_filt$PRE_stat, 1, nchar(datos_filt$PRE_stat) - 2)
   
-  datos_filt[4:6] <- lapply(datos_filt[4:6], as.numeric)
+  datos_filt[4:6] = lapply(datos_filt[4:6], as.numeric)
   
   datos_filt$DATE = paste0(datos_filt$FECHA, " ", datos_filt$HORA)
   
@@ -33,8 +32,7 @@ busca_TP_smn <- function (arc_TP) {
   }
   
   # Paso hora local a UTC
-  datos_filt$DATE = with_tz(ymd_hms(datos_filt$DATE, tz = "America/Argentina/Buenos_Aires"),
-                            "GMT")
+  datos_filt$DATE = with_tz(ymd_hms(datos_filt$DATE, tz = "America/Argentina/Buenos_Aires"), "GMT")
   
   # vuelvo a ordenar y me quedo con lo que interesa:
   datos_fin = datos_filt[, c(1, 7, 6, 4, 5)]

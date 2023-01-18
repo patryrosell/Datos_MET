@@ -1,7 +1,7 @@
 # Script for plotting the accumulated values of each station.
 # This script runs independently of the other programs that call it
 
-genera_grafico <- function (path_param, dato_norm, save_graph, path_program) {
+genera_graficos <- function (path_param, dato_norm, save_graph, path_program) {
   
   packages <-
     c(
@@ -17,6 +17,8 @@ genera_grafico <- function (path_param, dato_norm, save_graph, path_program) {
   
   source(paste0(path_program, "/search_and_load.R"))
   source(paste0(path_program, "/acumulado.R"))
+  source(paste0(path_program, "/find_name.R"))
+  source(paste0(path_program, "/outliers.R"))
   
   search_and_load(packages)
   
@@ -34,7 +36,13 @@ genera_grafico <- function (path_param, dato_norm, save_graph, path_program) {
   
   sd_outliers = as.numeric(parametros[which(parametros$Par == "sd_outliers"), 2])
   
-  source(paste0(path_program, "/outliers.R"))
+  smn_stats_norm = as.character(parametros[which(parametros$Par == "smn_stats_norm"), 2])
+  
+  smooth = as.character(parametros[which(parametros$Par == "smooth"), 2])
+  
+  size = as.numeric(parametros[which(parametros$Par == "size"), 2])
+  
+  alpha = as.numeric(parametros[which(parametros$Par == "alpha"), 2])
   
   # List of stations
   full_names_data = list.files(dato_norm, recursive = TRUE)
@@ -58,7 +66,9 @@ genera_grafico <- function (path_param, dato_norm, save_graph, path_program) {
   
   for (i in 1:length(names)) {
     
-    name = names[i]
+    codes = strsplit(names[i],split = "_")
+    
+    find_name(codes[[1]][1],codes[[1]][2],smn_stats_norm) -> name
     
     print("***")
     print(paste0(name, " - ", i, " de ", length(names)))
@@ -94,28 +104,35 @@ genera_grafico <- function (path_param, dato_norm, save_graph, path_program) {
       datos = melt(OUT2, na.rm = FALSE, id = "DATE")
       
       (
-      ps = ggplot(data = datos, aes( x = DATE, y = value)) + 
-        geom_point(aes(colour = variable), 
-                   alpha = 0.2,
-                   position = position_jitter(width = NULL, height = 0.05)
-                   ) +
-        theme_calc() +
-        labs(x = "Date", y = "Variable") +
-        ggtitle(paste0("Meteorological data for: ", name)) +
-        facet_wrap(~ variable,
-                   ncol = 3,
-                   scales = "free_y",
-                   labeller = as_labeller(c(PRE_stat = "Pressure at station level [hPa]", 
-                                             PRE_mar = "Pressure at sea level [hPa]", 
-                                             TEMP = "Temperature [ºC]",
-                                             HUM = "Humidity [%]",
-                                             PREC = "Precipitation [mm]")) 
-                   ) + 
-        guides(colour = FALSE) +
-        geom_smooth(colour = "black")
-      )
+        ps = ggplot(data = datos, aes( x = DATE, y = value)) + 
+          geom_point(aes(colour = variable), 
+                     size = size,
+                     alpha = alpha,
+                     position = position_jitter(width = NULL, height = 0.05)
+          ) +
+          theme_calc() +
+          labs(x = "Date", y = "Variable") +
+          ggtitle(paste0("Meteorological data for: ", name)) +
+          facet_wrap(~ variable,
+                     ncol = 3,
+                     scales = "free",
+                     labeller = as_labeller(c(PRE_stat = "Pressure at station level [hPa]", 
+                                              PRE_mar = "Pressure at sea level [hPa]", 
+                                              TEMP = "Temperature [C]",
+                                              HUM = "Humidity [%]",
+                                              PREC = "Precipitation [mm]"))  ) + 
+          guides(colour = FALSE)
+      )  
       
-      ps_name = paste0(save_graph, "/", name, ".jpeg")
+      if (smooth == "Y") {
+        
+        (
+        ps = ps + geom_smooth(colour = "black")
+        )
+       
+      } 
+
+      ps_name = paste0(save_graph, "/", names[i], ".jpeg")
       
       ggsave(ps_name,
              plot = ps,
@@ -137,4 +154,4 @@ genera_grafico <- function (path_param, dato_norm, save_graph, path_program) {
   
 }
 
-genera_grafico(path_param, dato_norm, save_graph, path_program)
+

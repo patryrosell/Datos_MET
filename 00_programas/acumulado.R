@@ -3,7 +3,7 @@ acumulado<- function (min_y,max_y,dato_norm,name){
   OUT = NULL
   
   for (j in min_y:max_y) {
-    file = (paste0(dato_norm, "/", j, "/", names_data[i]))
+    file = (paste0(dato_norm, "/", j, "/", name))
     
     if (file.exists(file) == TRUE) {
       dati = read_csv(

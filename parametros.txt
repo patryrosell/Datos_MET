@@ -8,46 +8,52 @@
 
 overwrite="Y"
 
-graph_acum="N"
+graph_acum="Y"
 
 sd_outliers=3
+
+smooth="N"
+
+size=0.9
+
+alpha=0.3
 
 #################
 ## Directories ##
 #################
 
-path_base=E:/Scripts/Datos_MET
+path_base=E:/Nube_FI_UNCuyo/01_Estudios/Scripts_ordenados/Datos_MET
 
-path_scripts=E:/Scripts/Datos_MET/00_programas
+path_scripts=E:/Nube_FI_UNCuyo/01_Estudios/Scripts_ordenados/Datos_MET/00_programas
 
 ## ARG - SMN paths ##
 
 	# Programms
 
-smn_programas=E:/Scripts/Datos_MET/00_programas/SMN
+smn_programas=E:/Nube_FI_UNCuyo/01_Estudios/Scripts_ordenados/Datos_MET/00_programas/SMN
 	
 	# Folders
 	
-SMN=E:/Scripts/Datos_MET/ARG/SMN
+SMN=E:/Nube_FI_UNCuyo/01_Estudios/Scripts_ordenados/Datos_MET/ARG/SMN
 
-smn_dato_norm=E:/Scripts/Datos_MET/ARG/SMN/NORM
+smn_dato_norm=E:/Nube_FI_UNCuyo/01_Estudios/Scripts_ordenados/Datos_MET/ARG/SMN/NORM
 
-smn_graph=E:/Scripts/Datos_MET/ARG/SMN/GRAPH
+smn_graph=E:/Nube_FI_UNCuyo/01_Estudios/Scripts_ordenados/Datos_MET/ARG/SMN/GRAPH
 	
 	# Data
 	
-smn_datohorario_raw=E:/Scripts/Datos_MET/ARG/SMN/RAW/dato_horario
+smn_datohorario_raw=E:/Nube_FI_UNCuyo/01_Estudios/Scripts_ordenados/Datos_MET/ARG/SMN/RAW/dato_horario
 
-smn_datoTP_raw=E:/Scripts/Datos_MET/ARG/SMN/RAW/dato_tiempopresente
+smn_datoTP_raw=E:/Nube_FI_UNCuyo/01_Estudios/Scripts_ordenados/Datos_MET/ARG/SMN/RAW/dato_tiempopresente
 
-smn_historico=E:/Scripts/Datos_MET/ARG/SMN/RAW/historico/datos estaciones meteorologicas 2015-2016.xlsx
+smn_historico=E:/Nube_FI_UNCuyo/01_Estudios/Scripts_ordenados/Datos_MET/ARG/SMN/RAW//historico/datos estaciones meteorologicas 2015-2016.xlsx
 
 	# Auxiliary data	
 		
-smn_stats_norm=E:/Scripts/Datos_MET/ARG/SMN/STATS.txt
+smn_stats_norm=E:/Nube_FI_UNCuyo/01_Estudios/Scripts_ordenados/Datos_MET/ARG/SMN/STATS.txt
 
-smn_stats_raw=E:/Scripts/Datos_MET/ARG/SMN/_aux/estaciones_smn.txt
+smn_stats_raw=E:/Nube_FI_UNCuyo/01_Estudios/Scripts_ordenados/Datos_MET/ARG/SMN/_aux/estaciones_smn.txt
 
-smn_equivalencias=E:/Scripts/Datos_MET/ARG/SMN/_aux/equivalencias_stats.xlsx
+smn_equivalencias=E:/Nube_FI_UNCuyo/01_Estudios/Scripts_ordenados/Datos_MET/ARG/SMN/_aux/equivalencias_stats.xlsx
 	
 ## URY - INUMET paths ## Coming soon....

@@ -2,7 +2,7 @@ main <- function(prov, path_param, path_program) {
   
   if (prov == "SMN") {
     
-    source(paste0("SMN/genera_norm_smn.R"))
+    source(paste0(path_program,"SMN/genera_norm_smn.R"))
     genera_norm_smn(path_param, path_program)
     
   } else if (prov == "INUMET") {

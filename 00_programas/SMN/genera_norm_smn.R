@@ -135,9 +135,12 @@ genera_norm_smn <- function(path_param,path_program) {
       
       # Search real-time file
       
-      if (file.exists(arc_TP) == TRUE && file.info(arc_TP)$size > 50) {
-        flag_TP = 1
-        datos_fin <- busca_TP_smn(arc_TP)
+      if (file.exists(arc_TP) == TRUE) {
+        
+        if (file.info(arc_TP)$size > 50){
+          flag_TP = 1
+          datos_fin <- busca_TP_smn(arc_TP)
+        }
         
       } else {
         flag_TP = 0
@@ -147,10 +150,13 @@ genera_norm_smn <- function(path_param,path_program) {
       
       # Search hourly data
       
-      if (file.exists(arc_hor) == TRUE && file.info(arc_TP)$size > 50) {
-        flag_DH = 1
-        datos_ord <- busca_DH_smn(arc_hor)
+      if (file.exists(arc_hor) == TRUE) {
         
+        if (file.info(arc_hor)$size > 50){
+          flag_DH = 1
+          datos_ord <- busca_DH_smn(arc_hor)
+        }
+
       } else {
         flag_DH = 0
         datos_ord = NULL

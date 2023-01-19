@@ -24,6 +24,7 @@ This project aims to import, tidy and transform meteorological data into a uniqu
 	- Name of data provider (Currently, only available for "[SMN](https://www.smn.gob.ar/descarga-de-datos)")
 	- Absolute path to parameters file (parametros.txt -> Don't forget to fill it!)
 	- Absolute path to programs folder (00_programas)
+4. A sample of raw & formatted data within output graphics are provided in the RAW and GRAPH folders of ARG/SMN.
 
 ## Last update: 
 

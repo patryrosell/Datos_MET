@@ -36,4 +36,7 @@ Patricia A. Rosell, Ph.D.
 
 ## Contact info
 
-patryrosell[at]gmail.com
+For any doubts or more information, please contact me at:\
+**patricia.rosell[at]ingenieria.uncuyo.edu.ar**\
+**prosell[at]profesores.umaza.edu.ar**\
+(to both emails to ensure you an answer)
